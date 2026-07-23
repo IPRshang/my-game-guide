@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/my-game-guide/',
   title: '🔥 热门游戏攻略站',
   description: 'GTA6、上古卷轴6 最新攻略大全',
   themeConfig: {
