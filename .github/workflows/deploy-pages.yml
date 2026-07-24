@@ -24,33 +24,26 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 18
 
       - name: Install dependencies
         run: npm install
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
       - name: Debug info
         run: |
-          echo "=== Node ===" && node -v
-          echo "=== NPM ===" && npm -v
-          echo "=== VuePress version ===" && npx vuepress --version || true
-          echo "=== @vuepress packages ===" && ls node_modules/@vuepress/ 2>/dev/null || echo "NONE"
-          echo "=== vuepress deps ===" && ls node_modules/vuepress/node_modules/@vuepress/ 2>/dev/null || echo "NONE"
-          echo "=== Total packages ===" && ls node_modules/ | wc -l
-          echo "=== .bin ===" && ls node_modules/.bin/vuepress* 2>/dev/null || echo "NOT FOUND"
-          echo "=== Docs tree ===" && find docs -type f | sort
+          echo "Node:" && node -v
+          echo "NPM:" && npm -v
+          echo "VuePress:" && npx vuepress --version 2>&1 || true
+          echo "=== @vuepress ===" && ls node_modules/@vuepress/ 2>/dev/null || echo "NONE"
+          echo "=== File tree ===" && find docs -type f | sort
 
-      - name: Build VuePress site (verbose)
-        run: |
-          set -x
-          npx vuepress build docs --debug 2>&1 | tee /tmp/build.log
-          EXIT=${PIPESTATUS[0]}
-          echo "EXIT CODE: $EXIT"
-          if [ $EXIT -ne 0 ]; then
-            echo "=== Last 200 lines of build output ==="
-            tail -200 /tmp/build.log
-            exit $EXIT
-          fi
+      - name: Build VuePress site
+        run: npx vuepress build docs 2>&1
+        env:
+          NODE_OPTIONS: --openssl-legacy-provider
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
