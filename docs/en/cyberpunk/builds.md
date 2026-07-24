@@ -14,7 +14,7 @@ date: 2026-07-24
 
 **Core Gear**:
 - Cyberdeck: NetWatch Netdriver Mk.5 (endgame) / Biotech Σ Mk.4 (early)
-- Quickhacks: System Reset, Cyberware Malfunction, Short Circuit, Contagion
+- Quickhacks: System Collapse, Cyberware Malfunction, Short Circuit, Contagion
 
 **Playstyle**: Breach camera → Tag all enemies → Contagion + Overheat → Squad wipe. Never step inside.
 

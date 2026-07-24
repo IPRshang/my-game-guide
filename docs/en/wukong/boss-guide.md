@@ -10,22 +10,19 @@ date: 2026-07-24
 
 ## Chapter 1: Black Wind Mountain
 
-### Wolf Scout (Tutorial Boss)
+### Bullguard (牯护院)
 - **Difficulty**: ★☆☆☆☆
-- **HP**: Low
-- **Moves**: Triple claw swipe, lunging bite
-- **Strategy**: Dodge → 3 light attacks → dodge loop. Watch for the lunge windup (head lowered, charging)
-- **Reward**: Wolfskin Bracers
+- **Type**: Yaoguai King
+- **Notes**: The **first mandatory boss** in the game — a gatekeeper you cannot skip. Mid-fight you unlock Immobilize (定身术).
+- **Strategy**: Learn the basic dodge + light attack + Immobilize combo. A training boss.
+- **Reward**: Unlocks Immobilize spell
 
-### Lingxuzi (Chapter Boss)
-- **Difficulty**: ★★★☆☆
-- **HP**: Medium
-- **Moves**: Claw combos, roar shockwave, wolf pack summon
-- **Strategy**:
-  1. Use Immobilize to interrupt the roar
-  2. Clear wolves with staff spin
-  3. Enrages at 50% HP — moves faster, keep distance
-- **Reward**: Claw of Lingxuzi (weapon material)
+### Guangzhi (广智) ※ First Optional Yaoguai Chief
+- **Difficulty**: ★★☆☆☆
+- **Location**: Forest of Wolves / Outside the Forest
+- **Notes**: The first optional Yaoguai Chief. Defeating him grants your first Transformation ability.
+- **Strategy**: His dual-blade attacks have wide reach. Observe his patterns before closing in.
+- **Reward**: Red Tides (赤潮) Transformation spell
 
 ## Chapter 2: Yellow Wind Ridge
 

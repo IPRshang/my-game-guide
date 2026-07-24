@@ -29,30 +29,72 @@ date: 2026-07-24
 
 ## Mid Game
 
+### Red Wolf of Radagon
+- **Location**: Academy of Raya Lucaria (before Rennala)
+- **Difficulty**: ★★★☆☆
+- Highly mobile, casts magic swords and AoE fire. Keep mid-range.
+- **Weakness**: Low poise — heavy weapons stagger it quickly.
+
 ### Rennala, Queen of the Full Moon
 - **Location**: Academy of Raya Lucaria
 - **Difficulty**: ★★★☆☆
 - **P1**: Attack glowing students (physical immune — use spells or break shields)
 - **P2**: Rennala fights directly. Magic-heavy — keep distance or use spell barrier.
 
-### Starscourge Radahn
+### Starscourge Radahn ※ Optional
 - **Difficulty**: ★★★★★
 - **Location**: Redmane Castle
 - **Epic raid boss** — summon up to 6 NPCs
+- Weak to Scarlet Rot. Stay on Torrent for mobility.
 - **Critical**: P2 meteor dive — MOUNT TORRENT AND RUN!
 
-### Mohg, Lord of Blood
+### Mohg, Lord of Blood ※ Optional
 - **Difficulty**: ★★★★☆
 - **Location**: Mohgwyn Palace
 - **Must-have**: Purifying Crystal Tear (negates three Blood Curses)
 - **Strategy**: When cursed, don't panic — just heal through it.
 
-## Late Game
+## Late Game (Mandatory Path)
+
+### Draconic Tree Sentinel
+- **Location**: Leyndell Capital entrance
+- **Difficulty**: ★★★★☆
+- Must defeat to enter Leyndell. Stay on Torrent and circle-strafe for safety.
+
+### Godfrey, First Elden Lord (Golden Shade)
+- **Location**: Leyndell, Royal Capital
+- **Difficulty**: ★★★★☆
+- Phantom version of Godfrey. Wide sweeping attacks — dodge then counter.
+
+### Morgott, the Omen King
+- **Location**: Leyndell throne room
+- **Difficulty**: ★★★★☆
+- Margit's true form. Adds holy projectiles and AoE attacks. Use Margit's Shackle.
+
+### Fire Giant
+- **Location**: Mountaintops of the Giants
+- **Difficulty**: ★★★★☆
+- Use Torrent to circle behind and attack ankles. P2: target wrists and eye.
+
+### Godskin Duo
+- **Location**: Crumbling Farum Azula
+- **Difficulty**: ★★★★★
+- Mandatory duo fight, shared health bar. Sleep pots and Spirit Ashes are key.
 
 ### Maliketh, the Black Blade
 - **Difficulty**: ★★★★★
 - P1: Beast Clergyman. P2: pulls out destined death — insanely aggressive
 - **Tip**: Blasphemous Claw can parry specific Maliketh attacks.
+
+### Sir Gideon Ofnir, the All-Knowing
+- **Location**: Leyndell, Ashen Capital
+- **Difficulty**: ★★★☆☆
+- Spell spammer. Rush him down with melee while he monologues.
+
+### Godfrey, First Elden Lord / Hoarah Loux
+- **Location**: Leyndell, Ashen Capital
+- **Difficulty**: ★★★★★
+- P1: axe sweeps and stomps. P2: becomes a bare-handed wrestler. Non-stop aggression.
 
 ### Radagon of the Golden Order + Elden Beast
 - **Difficulty**: ★★★★★
