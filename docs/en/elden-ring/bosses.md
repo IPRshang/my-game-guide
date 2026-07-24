@@ -6,6 +6,8 @@ date: 2026-07-24
 
 # Elden Ring — Boss Strategy Guide
 
+![Boss Flow Chart](./boss-flow.svg)
+
 > From the tutorial boss to the final showdown — every fight broken down
 
 ## Early Game
