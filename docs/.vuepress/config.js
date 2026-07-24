@@ -3,6 +3,15 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  plugins: [
+    ['sitemap', {
+      hostname: 'https://iprshang.github.io/my-game-guide/',
+      exclude: ['/404.html'],
+      dateFormatter: (time) => {
+        return new Date(time).toISOString();
+      }
+    }]
+  ],
   locales: {
     '/': {
       lang: 'zh-CN',
@@ -16,6 +25,7 @@ module.exports = {
     }
   },
   head: [
+    // 百度统计
     ['script', {}, `
       var _hmt = _hmt || [];
       (function() {
@@ -24,7 +34,26 @@ module.exports = {
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
       })();
-    `]
+    `],
+    // SEO meta tags
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['meta', { name: 'author', content: 'Game Strategy Hub' }],
+    ['meta', { name: 'keywords', content: '游戏攻略,game guide,黑神话悟空,艾尔登法环,赛博朋克2077,塞尔达传说,GTA6,Black Myth Wukong,Elden Ring,Cyberpunk 2077,Zelda Tears of the Kingdom' }],
+    // Open Graph / Facebook
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
+    ['meta', { property: 'og:locale', content: 'zh_CN' }],
+    ['meta', { property: 'og:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
+    ['meta', { name: 'twitter:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    // Canonical URL
+    ['link', { rel: 'canonical', href: 'https://iprshang.github.io/my-game-guide/' }],
+    // Google Search Console (需替换为实际验证码)
+    // ['meta', { name: 'google-site-verification', content: 'YOUR_GOOGLE_VERIFICATION_CODE' }],
+    // Baidu Site Verification (需替换为实际验证码)
+    // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
   ],
   themeConfig: {
     smoothScroll: true,
