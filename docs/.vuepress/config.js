@@ -13,8 +13,10 @@ module.exports = {
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: '热门游戏攻略站' }],
     ['meta', { name: 'twitter:description', content: '最全中文游戏攻略大全' }],
-    // 百度站长验证 (申请后填入 content)
+    // 百度站长验证 (在 https://ziyuan.baidu.com 获取)
     // ['meta', { name: 'baidu-site-verification', content: 'code-xxxxxxxxxx' }],
+    // 百度统计 (在 https://tongji.baidu.com 获取代码)
+    // ['script', {}, `var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();`],
     // Google AdSense (替换为你的发布商 ID)
     ['script', { async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx', crossorigin: 'anonymous' }],
     // Google Analytics (替换为你的 GA ID)
@@ -97,6 +99,7 @@ module.exports = {
     // 搜索配置
     search: true,
     searchMaxSuggestions: 10,
+    searchPlaceholder: '搜索攻略、任务、Boss...',
     // 页面导航
     nav: [
       { text: '首页', link: '/' },
@@ -164,7 +167,7 @@ module.exports = {
     },
 
     // 页脚
-    footer: 'Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动 | 部署于 GitHub Pages'
+    footer: 'Copyright © 2026 热门游戏攻略站 | <a href="https://iprshang.github.io/mahjong/" target="_blank">🎲 累了搓两把麻将？</a> | 由 VuePress 驱动'
   },
 
   markdown: {

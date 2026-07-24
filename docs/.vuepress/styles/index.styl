@@ -254,6 +254,18 @@ h3 {
   font-size: 1.1rem;
   font-weight: 800;
   color: #fff;
+  transition: all 0.3s ease;
+}
+
+a.score-badge-link {
+  text-decoration: none !important;
+  display: inline-block;
+}
+
+a.score-badge-link:hover .score-badge {
+  transform: scale(1.15);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  filter: brightness(1.1);
 }
 .score-green { background: linear-gradient(135deg, #27ae60, #2ecc71); }
 .score-blue  { background: linear-gradient(135deg, #2980b9, #3498db); }
@@ -339,7 +351,50 @@ div[class*="language-"]:before {
 @media (max-width: 719px) {
   h1 { font-size: 1.7rem; }
   h2 { font-size: 1.3rem; }
+  h3 { font-size: 1.1rem; }
   .home .hero { padding: 2.5rem 1rem 2rem; }
+
+  /* 移动端卡片内边距收紧 */
+  .game-card {
+    padding: 1rem;
+    margin: 0.6rem 0;
+  }
+
+  /* 移动端 blockquote 不截断 */
+  blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0.7rem 1rem;
+    font-size: 0.9rem;
+    word-break: break-word;
+  }
+
+  /* 移动端表格横向滚动 */
+  .theme-default-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+
+  /* 移动端搜索框适配 */
+  .search-box input {
+    width: 8rem;
+    font-size: 0.85rem;
+  }
+
+  /* 移动端评分徽章缩小 */
+  .score-badge {
+    width: 36px;
+    height: 36px;
+    font-size: 0.85rem;
+  }
+}
+
+/* ===== 进度条（保证不被遮挡） ===== */
+#nprogress {
+  z-index: 99999;
+  pointer-events: none;
 }
 
 /* ===== 进度条 ===== */

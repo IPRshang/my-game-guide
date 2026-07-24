@@ -34,7 +34,7 @@ footer: Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动
   <h3>🐵 黑神话：悟空</h3>
   <p>中国首款 3A 大作，踏上西游之路，直面天命</p>
   <table style="margin: 0.5rem 0; box-shadow: none;">
-    <tr><td>MC评分</td><td><span class="score-badge score-gold" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">81</span></td></tr>
+    <tr><td>MC评分</td><td><a href="/wukong/" class="score-badge-link" title="查看黑神话悟空完整评测"><span class="score-badge score-gold" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">81</span></a></td></tr>
     <tr><td>发售</td><td>2024 年 8 月 20 日</td></tr>
     <tr><td>平台</td><td>PS5 / PC / Xbox Series X|S</td></tr>
   </table>
@@ -45,7 +45,7 @@ footer: Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动
   <h3>⚔️ 艾尔登法环</h3>
   <p>宫崎英高 × 乔治·RR·马丁，交界地的史诗冒险</p>
   <table style="margin: 0.5rem 0; box-shadow: none;">
-    <tr><td>MC评分</td><td><span class="score-badge score-green" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">96</span></td></tr>
+    <tr><td>MC评分</td><td><a href="/elden-ring/" class="score-badge-link" title="查看艾尔登法环完整攻略"><span class="score-badge score-green" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">96</span></a></td></tr>
     <tr><td>发售</td><td>2022 年 2 月 25 日</td></tr>
     <tr><td>平台</td><td>全平台</td></tr>
   </table>
@@ -56,7 +56,7 @@ footer: Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动
   <h3>🤖 赛博朋克 2077</h3>
   <p>夜之城的传奇，你的选择定义一切</p>
   <table style="margin: 0.5rem 0; box-shadow: none;">
-    <tr><td>MC评分</td><td><span class="score-badge score-blue" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">86</span></td></tr>
+    <tr><td>MC评分</td><td><a href="/cyberpunk/" class="score-badge-link" title="查看赛博朋克2077完整攻略"><span class="score-badge score-blue" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">86</span></a></td></tr>
     <tr><td>发售</td><td>2020 年 12 月 10 日</td></tr>
     <tr><td>平台</td><td>全平台</td></tr>
   </table>
@@ -67,7 +67,7 @@ footer: Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动
   <h3>🏹 塞尔达传说：王国之泪</h3>
   <p>海拉鲁大陆新篇章，创造你的冒险</p>
   <table style="margin: 0.5rem 0; box-shadow: none;">
-    <tr><td>MC评分</td><td><span class="score-badge score-green" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">96</span></td></tr>
+    <tr><td>MC评分</td><td><a href="/zelda/" class="score-badge-link" title="查看塞尔达传说完整攻略"><span class="score-badge score-green" style="display: inline-flex; width: 36px; height: 36px; font-size: 0.85rem;">96</span></a></td></tr>
     <tr><td>发售</td><td>2023 年 5 月 12 日</td></tr>
     <tr><td>平台</td><td>Nintendo Switch</td></tr>
   </table>
@@ -82,10 +82,10 @@ footer: Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动
 
 | 游戏 | MC 评分 | Steam 好评率 | 难度 | 通关时长 |
 |------|---------|-------------|------|----------|
-| 艾尔登法环 | <span class="score-badge score-green" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">96</span> | 93% | ⭐⭐⭐⭐⭐ | 100h+ |
-| 塞尔达：王国之泪 | <span class="score-badge score-green" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">96</span> | — | ⭐⭐⭐ | 80h+ |
-| 赛博朋克 2077 | <span class="score-badge score-blue" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">86</span> | 84% | ⭐⭐⭐ | 60h+ |
-| 黑神话：悟空 | <span class="score-badge score-gold" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">81</span> | 96% | ⭐⭐⭐⭐ | 40h+ |
+| 艾尔登法环 | <a href="/elden-ring/" class="score-badge-link"><span class="score-badge score-green" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">96</span></a> | 93% | ⭐⭐⭐⭐⭐ | 100h+ |
+| 塞尔达：王国之泪 | <a href="/zelda/" class="score-badge-link"><span class="score-badge score-green" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">96</span></a> | — | ⭐⭐⭐ | 80h+ |
+| 赛博朋克 2077 | <a href="/cyberpunk/" class="score-badge-link"><span class="score-badge score-blue" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">86</span></a> | 84% | ⭐⭐⭐ | 60h+ |
+| 黑神话：悟空 | <a href="/wukong/" class="score-badge-link"><span class="score-badge score-gold" style="display:inline-flex;width:36px;height:36px;font-size:0.85rem;">81</span></a> | 96% | ⭐⭐⭐⭐ | 40h+ |
 | GTA6 | 待定 | — | ⭐⭐ | 待定 |
 
 ---
