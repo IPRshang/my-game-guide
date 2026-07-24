@@ -51,7 +51,3 @@ date: 2026-07-23
 - 建议在任务前把所有资产变现，某些结局会清零
 
 > 详细结局攻略请持续关注本站更新。
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-xxxxxxxxxxxxxxxx" data-ad-slot="1234567890"></ins>
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>

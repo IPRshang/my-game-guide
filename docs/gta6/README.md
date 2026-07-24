@@ -1,57 +1,40 @@
 # Grand Theft Auto VI — 攻略中心
 
-> 🏙️ **罪恶都市归来** · Rockstar Games · 2025年秋 · PS5 / Xbox Series X|S
-
-<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+> 罪恶都市归来 · Rockstar Games · 2025年秋 · PS5 / Xbox Series X|S
 
 ### 游戏速览
 
 | 属性 | 详情 |
 |------|------|
-| 🎮 开发商 | Rockstar Games |
-| 📅 发售日期 | 2025 年秋季 |
-| 🖥️ 平台 | PlayStation 5 / Xbox Series X\|S |
-| 🎭 类型 | 开放世界 / 动作冒险 |
-| 🌍 背景 | 列奥尼达州（迈阿密 Vice City） |
-| 👥 主角 | 露西亚 (Lucia) & 杰森 (Jason) |
-
-</div>
+| 开发商 | Rockstar Games |
+| 发售日期 | 2025 年秋季 |
+| 平台 | PlayStation 5 / Xbox Series X|S |
+| 类型 | 开放世界 / 动作冒险 |
+| 背景 | 列奥尼达州（迈阿密 Vice City） |
+| 主角 | 露西亚 (Lucia) & 杰森 (Jason) |
 
 ---
 
-## 📚 攻略导航
+## 攻略导航
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+### 新手入门
 
-<div class="game-card" style="border-left: 4px solid #27ae60;">
-
-### 🌱 新手入门
 - **[快速赚钱指南](./money-guide)** — 8种合法与灰色赚钱手段
 - **[主线剧情攻略](./story-guide)** — 全章节分支与选择影响
 
-</div>
+### 装备 & 载具
 
-<div class="game-card" style="border-left: 4px solid #e74c3c;">
-
-### ⚔️ 装备 & 载具
 - **[最强载具推荐](./best-vehicles)** — S/A/B/C 四级全评测
 - **[武器大全](./weapons)** — 全武器属性对比 + 隐藏获取
 
-</div>
+### 深度探索
 
-<div class="game-card" style="border-left: 4px solid #f39c12;">
-
-### 🗺️ 深度探索
 - **[作弊码大全](./cheats)** — 手机 / 键盘双模式
 - **[隐藏地点 & 彩蛋](./hidden-locations)** — UFO、幽灵列车、沉船宝藏
 
-</div>
-
-</div>
-
 ---
 
-## 🚀 新手指南
+## 新手指南
 
 如果你是第一次玩 GTA6，建议按以下顺序推进：
 
@@ -65,7 +48,7 @@
 
 ---
 
-## 📰 攻略更新日志
+## 攻略更新日志
 
 | 日期 | 更新内容 |
 |------|----------|
