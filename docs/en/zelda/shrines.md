@@ -8,6 +8,8 @@ date: 2026-07-24
 
 > 152 shrines total: **120 on the Surface + 32 in the Sky**
 
+![Shrine Distribution](./shrine-distribution.svg)
+
 ---
 
 ## Great Sky Island (4 — Mandatory Tutorial)
