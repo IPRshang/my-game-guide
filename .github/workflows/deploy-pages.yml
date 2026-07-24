@@ -31,13 +31,26 @@ jobs:
 
       - name: Debug info
         run: |
-          node -v
-          npm -v
-          npx vuepress --version || true
-          ls docs/ -la
+          echo "=== Node ===" && node -v
+          echo "=== NPM ===" && npm -v
+          echo "=== VuePress version ===" && npx vuepress --version || true
+          echo "=== @vuepress packages ===" && ls node_modules/@vuepress/ 2>/dev/null || echo "NONE"
+          echo "=== vuepress deps ===" && ls node_modules/vuepress/node_modules/@vuepress/ 2>/dev/null || echo "NONE"
+          echo "=== Total packages ===" && ls node_modules/ | wc -l
+          echo "=== .bin ===" && ls node_modules/.bin/vuepress* 2>/dev/null || echo "NOT FOUND"
+          echo "=== Docs tree ===" && find docs -type f | sort
 
-      - name: Build VuePress site
-        run: npm run docs:build
+      - name: Build VuePress site (verbose)
+        run: |
+          set -x
+          npx vuepress build docs --debug 2>&1 | tee /tmp/build.log
+          EXIT=${PIPESTATUS[0]}
+          echo "EXIT CODE: $EXIT"
+          if [ $EXIT -ne 0 ]; then
+            echo "=== Last 200 lines of build output ==="
+            tail -200 /tmp/build.log
+            exit $EXIT
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
