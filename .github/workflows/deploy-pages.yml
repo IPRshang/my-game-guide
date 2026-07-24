@@ -35,9 +35,10 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Build VuePress site
-        run: npm run docs:build --verbose
+        run: node build.js
         env:
           NODE_OPTIONS: --openssl-legacy-provider
+          DEBUG: vuepress:*
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
