@@ -8,6 +8,8 @@ date: 2026-07-24
 
 > In Night City, there's more than just combat. There's love too.
 
+![Romance Critical Choices](./romance-flow.svg)
+
 ## Panam Palmer (Male V Only)
 
 **Gender**: Male V (male body type, any voice)
