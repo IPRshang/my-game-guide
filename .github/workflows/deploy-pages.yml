@@ -24,36 +24,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 16
 
       - name: Install dependencies
-        run: |
-          rm -f package-lock.json
-          npm install
+        run: npm install
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Debug — List files and check env
+      - name: Debug info
         run: |
-          echo "=== Node version ==="
           node -v
-          echo "=== NPM version ==="
           npm -v
-          echo "=== VuePress version ==="
           npx vuepress --version || true
-          echo "=== Installed @vuepress packages ==="
-          ls node_modules/@vuepress/ || true
-          echo "=== Docs directory structure ==="
-          find docs -type f | head -50
-          echo "=== Check .vuepress ==="
-          ls -la docs/.vuepress/ || true
+          ls docs/ -la
 
-      - name: Build VuePress site (with verbose output)
-        run: |
-          npx vuepress build docs 2>&1 | tee build.log || { echo "BUILD FAILED"; cat build.log; exit 1; }
-        env:
-          NODE_OPTIONS: --openssl-legacy-provider
+      - name: Build VuePress site
+        run: npm run docs:build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

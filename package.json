@@ -1,20 +1,12 @@
 {
   "name": "my-game-guide",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Game Guide Website powered by VuePress",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "deploy": "vuepress build docs && gh-pages -d docs/.vuepress/dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:build": "vuepress build docs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "devDependencies": {
-    "gh-pages": "^6.3.0",
     "vuepress": "^1.9.10"
   }
 }
