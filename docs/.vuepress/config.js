@@ -18,15 +18,15 @@ module.exports = {
     // 百度统计 (在 https://tongji.baidu.com 获取代码)
     // ['script', {}, `var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();`],
     // Google AdSense (替换为你的发布商 ID)
-    ['script', { async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx', crossorigin: 'anonymous' }],
+    // ['script', { async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx', crossorigin: 'anonymous' }],
     // Google Analytics (替换为你的 GA ID)
-    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX' }],
-    ['script', {}, `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-    `]
+    // ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX' }],
+    // ['script', {}, `
+    //   window.dataLayer = window.dataLayer || [];
+    //   function gtag(){dataLayer.push(arguments);}
+    //   gtag('js', new Date());
+    //   gtag('config', 'G-XXXXXXXXXX');
+    // `]
   ],
 
   // ===== 插件 =====
@@ -54,39 +54,40 @@ module.exports = {
       // 搜索热键
       hotKeys: ['s', '/']
     }],
+    // TODO: 排查 seo/sitemap 插件兼容性问题，暂时禁用
     // Sitemap
-    [
-      'sitemap',
-      {
-        hostname: 'https://iprshang.github.io/my-game-guide/',
-        exclude: ['/404.html'],
-        dateFormatter: (time) => {
-          const d = new Date(time);
-          return d.toISOString().split('T')[0];
-        }
-      }
-    ],
+    // [
+    //   'sitemap',
+    //   {
+    //     hostname: 'https://iprshang.github.io/my-game-guide/',
+    //     exclude: ['/404.html'],
+    //     dateFormatter: (time) => {
+    //       const d = new Date(time);
+    //       return d.toISOString().split('T')[0];
+    //     }
+    //   }
+    // ],
     // SEO 增强
-    [
-      'seo',
-      {
-        siteTitle: (_, $site) => $site.title,
-        title: $page => $page.title,
-        description: $page => $page.frontmatter.description || $page.description || '游戏攻略',
-        author: (_, $site) => $site.themeConfig.author || '热门游戏攻略站',
-        tags: $page => $page.frontmatter.tags || [],
-        twitterCard: _ => 'summary_large_image',
-        type: $page => ['articles'].some(folder => $page.path.startsWith(folder)) ? 'article' : 'website',
-        url: (_, $site, path) => ($site.themeConfig.domain || 'https://iprshang.github.io/my-game-guide') + path,
-        image: ($page, $site) =>
-          $page.frontmatter.image &&
-          (($site.themeConfig.domain || 'https://iprshang.github.io/my-game-guide') + $page.frontmatter.image),
-        publishedAt: $page =>
-          $page.frontmatter.date && new Date($page.frontmatter.date),
-        modifiedAt: $page =>
-          $page.lastUpdated && new Date($page.lastUpdated)
-      }
-    ]
+    // [
+    //   'seo',
+    //   {
+    //     siteTitle: (_, $site) => $site.title,
+    //     title: $page => $page.title,
+    //     description: $page => $page.frontmatter.description || $page.description || '游戏攻略',
+    //     author: (_, $site) => $site.themeConfig.author || '热门游戏攻略站',
+    //     tags: $page => $page.frontmatter.tags || [],
+    //     twitterCard: _ => 'summary_large_image',
+    //     type: $page => ['articles'].some(folder => $page.path.startsWith(folder)) ? 'article' : 'website',
+    //     url: (_, $site, path) => ($site.themeConfig.domain || 'https://iprshang.github.io/my-game-guide') + path,
+    //     image: ($page, $site) =>
+    //       $page.frontmatter.image &&
+    //       (($site.themeConfig.domain || 'https://iprshang.github.io/my-game-guide') + $page.frontmatter.image),
+    //     publishedAt: $page =>
+    //       $page.frontmatter.date && new Date($page.frontmatter.date),
+    //     modifiedAt: $page =>
+    //       $page.lastUpdated && new Date($page.lastUpdated)
+    //   }
+    // ]
   ],
 
   themeConfig: {
