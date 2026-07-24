@@ -1,32 +1,73 @@
-# GTA6 攻略中心
+# Grand Theft Auto VI — 攻略中心
 
-欢迎来到《侠盗猎车手 6》攻略聚集地！这里收录了最全面的 GTA6 攻略。
+> 🏙️ **罪恶都市归来** · Rockstar Games · 2025年秋 · PS5 / Xbox Series X|S
 
-## 攻略导航
+<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
 
-### 新手入门
-- [前期快速赚钱指南](./money-guide.md) — 从零开始，第一天赚到第一桶金
-- [主线剧情攻略](./story-guide.md) — 全章节流程 + 关键分支选择
+### 游戏速览
 
-### 装备 & 载具
-- [最强载具推荐](./best-vehicles.md) — S/A/B 级载具全评测
-- [武器大全](./weapons.md) — 全武器数据对比 + 隐藏武器获取
-
-### 深度探索
-- [作弊码大全](./cheats.md) — 全部可用作弊码，随时调用
-- [隐藏地点 & 彩蛋](./hidden-locations.md) — UFO、幽灵列车、沉船宝藏
-
-## 快速开始
-
-第一次玩？建议按以下顺序：
-1. 先看 [赚钱指南](./money-guide.md)，攒够启动资金
-2. 参考 [剧情攻略](./story-guide.md) 推进主线，注意分支选择
-3. 攒钱买 [推荐的载具](./best-vehicles.md)
-4. 通关后探索 [隐藏内容](./hidden-locations.md)
-
-## 更新日志
-
-| 日期 | 内容 |
+| 属性 | 详情 |
 |------|------|
-| 2026-07-23 | 新增主线攻略、载具推荐、武器大全、作弊码、隐藏地点 |
-| 2026-07-22 | 初始发布，含赚钱指南 |
+| 🎮 开发商 | Rockstar Games |
+| 📅 发售日期 | 2025 年秋季 |
+| 🖥️ 平台 | PlayStation 5 / Xbox Series X\|S |
+| 🎭 类型 | 开放世界 / 动作冒险 |
+| 🌍 背景 | 列奥尼达州（迈阿密 Vice City） |
+| 👥 主角 | 露西亚 (Lucia) & 杰森 (Jason) |
+
+</div>
+
+---
+
+## 📚 攻略导航
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+
+<div class="game-card" style="border-left: 4px solid #27ae60;">
+
+### 🌱 新手入门
+- **[快速赚钱指南](./money-guide)** — 8种合法与灰色赚钱手段
+- **[主线剧情攻略](./story-guide)** — 全章节分支与选择影响
+
+</div>
+
+<div class="game-card" style="border-left: 4px solid #e74c3c;">
+
+### ⚔️ 装备 & 载具
+- **[最强载具推荐](./best-vehicles)** — S/A/B/C 四级全评测
+- **[武器大全](./weapons)** — 全武器属性对比 + 隐藏获取
+
+</div>
+
+<div class="game-card" style="border-left: 4px solid #f39c12;">
+
+### 🗺️ 深度探索
+- **[作弊码大全](./cheats)** — 手机 / 键盘双模式
+- **[隐藏地点 & 彩蛋](./hidden-locations)** — UFO、幽灵列车、沉船宝藏
+
+</div>
+
+</div>
+
+---
+
+## 🚀 新手指南
+
+如果你是第一次玩 GTA6，建议按以下顺序推进：
+
+| 步骤 | 内容 | 说明 |
+|:----:|------|------|
+| 1 | [赚钱指南](./money-guide) | 先攒够启动资金，起步不愁 |
+| 2 | [剧情攻略](./story-guide) | 推进主线，注意关键分支选择 |
+| 3 | [载具推荐](./best-vehicles) | 攒够钱就买最强载具 |
+| 4 | [武器大全](./weapons) | 根据任务选配最优武器 |
+| 5 | [隐藏内容](./hidden-locations) | 通关后探索全部彩蛋 |
+
+---
+
+## 📰 攻略更新日志
+
+| 日期 | 更新内容 |
+|------|----------|
+| 2026-07-23 | 新增剧情攻略、载具推荐、武器大全、作弊码、隐藏地点 |
+| 2026-07-22 | 站点上线，首发赚钱指南 |

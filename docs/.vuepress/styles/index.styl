@@ -1,0 +1,265 @@
+/* ========================================
+   热门游戏攻略站 — 自定义样式
+   ======================================== */
+
+/* ----- 导航栏增强 ----- */
+.navbar {
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  border-bottom: 3px solid $accentColor;
+}
+
+.navbar .site-name {
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  background: linear-gradient(135deg, $accentColor, #e67e22);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ----- 首页优化 ----- */
+.home .hero {
+  padding: 4rem 1.5rem 3rem;
+}
+
+.home .hero .action-button {
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  padding: 0.8rem 2rem;
+  transition: all 0.3s ease;
+}
+
+.home .hero .action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba($accentColor, 0.35);
+}
+
+/* ----- 侧边栏 ----- */
+.sidebar {
+  box-shadow: 2px 0 12px rgba(0,0,0,0.04);
+}
+
+.sidebar-heading {
+  font-weight: 700 !important;
+  font-size: 0.95rem !important;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  color: $accentColor !important;
+}
+
+.sidebar .sidebar-sub-headers .sidebar-sub-header {
+  padding-left: 1.5rem;
+  border-left: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.sidebar .sidebar-sub-headers .sidebar-sub-header:hover,
+.sidebar .sidebar-sub-headers .sidebar-sub-header.active {
+  border-left-color: $accentColor;
+  background: rgba($accentColor, 0.05);
+}
+
+/* ----- 标题增强 ----- */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.2rem;
+  background: linear-gradient(135deg, $textColor, lighten($textColor, 25%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  border-bottom: 2px solid #f0f0f0;
+  position: relative;
+}
+
+h2:after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: $accentColor;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+/* ----- 自定义提示框组件 ----- */
+.custom-block {
+  border-radius: 8px;
+  border-left-width: 4px;
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+}
+
+.custom-block.tip {
+  background: #f0faf6;
+  border-color: $successColor;
+}
+
+.custom-block.warning {
+  background: #fef9e7;
+  border-color: $warningColor;
+}
+
+.custom-block.danger {
+  background: #fdedec;
+  border-color: $dangerColor;
+}
+
+/* ----- 游戏信息卡片（首页用） ----- */
+.game-card {
+  border: 1px solid $borderColor;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  transition: all 0.3s ease;
+  background: #fff;
+}
+
+.game-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  border-color: $accentColor;
+}
+
+.game-card h3 {
+  margin-top: 0;
+  color: $accentColor;
+}
+
+/* ----- 评分徽章 ----- */
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.score-green { background: linear-gradient(135deg, #27ae60, #2ecc71); }
+.score-blue  { background: linear-gradient(135deg, #2980b9, #3498db); }
+.score-gold  { background: linear-gradient(135deg, #f39c12, #f1c40f); color: #333; }
+.score-red   { background: linear-gradient(135deg, #e74c3c, #c0392b); }
+
+/* ----- 表格美化 ----- */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  margin: 1.5rem 0;
+}
+
+thead {
+  background: linear-gradient(135deg, $accentColor, darken($accentColor, 10%));
+}
+
+thead th {
+  color: #fff !important;
+  border: none !important;
+  padding: 0.8rem 1rem;
+}
+
+tbody tr:nth-child(even) {
+  background: #fafbfc;
+}
+
+tbody tr:hover {
+  background: rgba($accentColor, 0.04);
+}
+
+td, th {
+  padding: 0.7rem 1rem;
+  border: 1px solid $borderColor;
+}
+
+/* ----- 代码块 ----- */
+div[class*="language-"] {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+div[class*="language-"]:before {
+  color: rgba(255,255,255,0.5);
+  font-weight: 600;
+}
+
+/* ----- 页脚 ----- */
+.footer-content {
+  text-align: center;
+  padding: 2rem 0;
+  color: #999;
+  font-size: 0.9rem;
+  border-top: 1px solid $borderColor;
+  margin-top: 4rem;
+}
+
+.footer-content a {
+  color: $accentColor;
+  text-decoration: none;
+}
+
+/* ----- Back to Top 按钮 ----- */
+.back-to-top {
+  border-radius: 50% !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+/* ----- 响应式 ----- */
+@media (max-width: 719px) {
+  h1 { font-size: 1.7rem; }
+  h2 { font-size: 1.3rem; }
+  .home .hero { padding: 2.5rem 1rem 2rem; }
+}
+
+/* ----- 页面加载进度条 ----- */
+#nprogress .bar {
+  background: linear-gradient(90deg, $accentColor, #e67e22) !important;
+  height: 3px;
+}
+
+/* ----- 搜索框增强 ----- */
+.search-box input {
+  border-radius: 6px;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.search-box input:focus {
+  border-color: $accentColor;
+  box-shadow: 0 0 0 3px rgba($accentColor, 0.1);
+}
+
+/* ----- Smooth scroll ----- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ----- 图片优化 ----- */
+.content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 1rem auto;
+  display: block;
+}

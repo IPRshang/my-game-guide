@@ -4,17 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "docs:dev": "vuepress dev docs",
-  "docs:build": "vuepress build docs",
-  "deploy": "vuepress build docs && gh-pages -d docs/.vuepress/dist",
-  "test": "echo \"Error: no test specified\" && exit 1"
-},
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "vuepress build docs && gh-pages -d docs/.vuepress/dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "vuepress": "^1.9.10"
+    "vuepress": "^1.9.10",
+    "vuepress-plugin-seo": "^0.2.0",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
