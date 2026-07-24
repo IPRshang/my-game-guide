@@ -123,6 +123,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'map',
             'money-guide',
             'story-guide',
             'best-vehicles',
