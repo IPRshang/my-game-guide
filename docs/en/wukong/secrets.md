@@ -8,6 +8,8 @@ date: 2026-07-24
 
 > The game has 5 secret areas (one per chapter). Complete all of them to unlock the true ending.
 
+![Hidden Areas Route Map](./hidden-areas.svg)
+
 ## True Ending — Unlock Conditions
 
 **Prerequisites: Complete all 5 secret areas + Chapter 3 Treasure Hunter quest**
