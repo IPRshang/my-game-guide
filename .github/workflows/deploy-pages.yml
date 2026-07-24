@@ -26,14 +26,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm install
+      - name: Clean install (no lockfile)
+        run: |
+          rm -f package-lock.json
+          npm install --legacy-peer-deps
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Build VuePress site
-        run: npm run docs:build
+        run: npm run docs:build --verbose
         env:
           NODE_OPTIONS: --openssl-legacy-provider
 
