@@ -34,8 +34,24 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Build VuePress site
-        run: npm run docs:build
+      - name: Debug — List files and check env
+        run: |
+          echo "=== Node version ==="
+          node -v
+          echo "=== NPM version ==="
+          npm -v
+          echo "=== VuePress version ==="
+          npx vuepress --version || true
+          echo "=== Installed @vuepress packages ==="
+          ls node_modules/@vuepress/ || true
+          echo "=== Docs directory structure ==="
+          find docs -type f | head -50
+          echo "=== Check .vuepress ==="
+          ls -la docs/.vuepress/ || true
+
+      - name: Build VuePress site (with verbose output)
+        run: |
+          npx vuepress build docs 2>&1 | tee build.log || { echo "BUILD FAILED"; cat build.log; exit 1; }
         env:
           NODE_OPTIONS: --openssl-legacy-provider
 
