@@ -71,7 +71,8 @@ module.exports = {
               { text: '赚钱攻略', link: '/gta6/money-guide' },
               { text: '剧情攻略', link: '/gta6/story-guide' },
               { text: '最强载具', link: '/gta6/best-vehicles' },
-              { text: '角色技能', link: '/gta6/character-guide' }
+              { text: '角色技能', link: '/gta6/character-guide' },
+              { text: '资料库', link: '/gta6/database' }
             ]
           },
           {
@@ -91,7 +92,8 @@ module.exports = {
               { text: '新手攻略', link: '/elden-ring/beginner-guide' },
               { text: 'Boss攻略', link: '/elden-ring/bosses' },
               { text: '流派配装', link: '/elden-ring/builds' },
-              { text: 'NPC支线', link: '/elden-ring/quests' }
+              { text: 'NPC支线', link: '/elden-ring/quests' },
+              { text: '🗺️ Boss地图', link: '/map.html' }
             ]
           },
           {
@@ -131,6 +133,11 @@ module.exports = {
               title: '秘籍彩蛋',
               collapsable: false,
               children: ['cheats', 'hidden-locations']
+            },
+            {
+              title: '资料库',
+              collapsable: false,
+              children: ['database']
             }
           ],
           '/wukong/': [
@@ -197,7 +204,8 @@ module.exports = {
               { text: 'Money Guide', link: '/en/gta6/money-guide' },
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
-              { text: 'Character Skills', link: '/en/gta6/character-guide' }
+              { text: 'Character Skills', link: '/en/gta6/character-guide' },
+              { text: 'Database', link: '/en/gta6/database' }
             ]
           },
           {
@@ -217,7 +225,8 @@ module.exports = {
               { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
               { text: 'Boss Guide', link: '/en/elden-ring/bosses' },
               { text: 'Builds', link: '/en/elden-ring/builds' },
-              { text: 'NPC Quests', link: '/en/elden-ring/quests' }
+              { text: 'NPC Quests', link: '/en/elden-ring/quests' },
+              { text: '🗺️ Boss Map', link: '/map.html' }
             ]
           },
           {
@@ -257,6 +266,11 @@ module.exports = {
               title: 'Secrets & Cheats',
               collapsable: false,
               children: ['cheats', 'hidden-locations']
+            },
+            {
+              title: 'Database',
+              collapsable: false,
+              children: ['database']
             }
           ],
           '/en/wukong/': [
