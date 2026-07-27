@@ -73,10 +73,42 @@ module.exports = {
               { text: '最强载具', link: '/gta6/best-vehicles' }
             ]
           },
-          { text: '黑神话悟空', link: '/wukong/' },
-          { text: '艾尔登法环', link: '/elden-ring/' },
-          { text: '赛博朋克2077', link: '/cyberpunk/' },
-          { text: '塞尔达传说', link: '/zelda/' }
+          {
+            text: '黑神话悟空',
+            items: [
+              { text: '专区首页', link: '/wukong/' },
+              { text: 'Boss攻略', link: '/wukong/boss-guide' },
+              { text: '流派配装', link: '/wukong/builds' },
+              { text: '隐藏要素', link: '/wukong/secrets' }
+            ]
+          },
+          {
+            text: '艾尔登法环',
+            items: [
+              { text: '专区首页', link: '/elden-ring/' },
+              { text: '新手攻略', link: '/elden-ring/beginner-guide' },
+              { text: 'Boss攻略', link: '/elden-ring/bosses' },
+              { text: '流派配装', link: '/elden-ring/builds' }
+            ]
+          },
+          {
+            text: '赛博朋克2077',
+            items: [
+              { text: '专区首页', link: '/cyberpunk/' },
+              { text: '流派配装', link: '/cyberpunk/builds' },
+              { text: '浪漫攻略', link: '/cyberpunk/romance' },
+              { text: '结局攻略', link: '/cyberpunk/endings' }
+            ]
+          },
+          {
+            text: '塞尔达传说',
+            items: [
+              { text: '专区首页', link: '/zelda/' },
+              { text: '神庙攻略', link: '/zelda/shrines' },
+              { text: '武器图鉴', link: '/zelda/weapons' },
+              { text: '烹饪食谱', link: '/zelda/cooking' }
+            ]
+          }
         ],
         sidebar: {
           '/gta6/': [
@@ -132,10 +164,42 @@ module.exports = {
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' }
             ]
           },
-          { text: 'Wukong', link: '/en/wukong/' },
-          { text: 'Elden Ring', link: '/en/elden-ring/' },
-          { text: 'Cyberpunk 2077', link: '/en/cyberpunk/' },
-          { text: 'Zelda: TotK', link: '/en/zelda/' }
+          {
+            text: 'Wukong',
+            items: [
+              { text: 'Hub', link: '/en/wukong/' },
+              { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
+              { text: 'Builds', link: '/en/wukong/builds' },
+              { text: 'Secrets', link: '/en/wukong/secrets' }
+            ]
+          },
+          {
+            text: 'Elden Ring',
+            items: [
+              { text: 'Hub', link: '/en/elden-ring/' },
+              { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
+              { text: 'Boss Guide', link: '/en/elden-ring/bosses' },
+              { text: 'Builds', link: '/en/elden-ring/builds' }
+            ]
+          },
+          {
+            text: 'Cyberpunk 2077',
+            items: [
+              { text: 'Hub', link: '/en/cyberpunk/' },
+              { text: 'Builds', link: '/en/cyberpunk/builds' },
+              { text: 'Romance', link: '/en/cyberpunk/romance' },
+              { text: 'Endings', link: '/en/cyberpunk/endings' }
+            ]
+          },
+          {
+            text: 'Zelda: TotK',
+            items: [
+              { text: 'Hub', link: '/en/zelda/' },
+              { text: 'Shrines', link: '/en/zelda/shrines' },
+              { text: 'Weapons', link: '/en/zelda/weapons' },
+              { text: 'Cooking', link: '/en/zelda/cooking' }
+            ]
+          }
         ],
         sidebar: {
           '/en/gta6/': [
