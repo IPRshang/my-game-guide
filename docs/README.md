@@ -2,8 +2,6 @@
 home: true
 heroText: 热门游戏攻略站
 tagline: GTA6 · 黑神话悟空 · 艾尔登法环 · 赛博朋克2077 · 塞尔达传说
-actionText: 开始探索 →
-actionLink: /gta6/
 features:
 - title: 专业攻略
   details: 由资深玩家团队精心编撰，涵盖剧情流程、隐藏要素、角色养成等全方位内容。

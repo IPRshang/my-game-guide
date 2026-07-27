@@ -2,8 +2,6 @@
 home: true
 heroText: Top Game Strategy Guides
 tagline: GTA6 · Black Myth Wukong · Elden Ring · Cyberpunk 2077 · Zelda
-actionText: Start Exploring →
-actionLink: /en/gta6/
 features:
 - title: Pro Strategies
   details: Carefully curated by veteran players, covering story walkthroughs, hidden secrets, character builds, and everything in between.
