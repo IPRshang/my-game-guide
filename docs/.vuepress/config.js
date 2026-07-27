@@ -113,37 +113,67 @@ module.exports = {
         sidebar: {
           '/gta6/': [
             {
-              title: 'Grand Theft Auto VI',
+              title: '新手上路',
               collapsable: false,
-              children: ['', 'money-guide', 'story-guide', 'best-vehicles', 'weapons', 'cheats', 'hidden-locations']
+              children: ['', 'money-guide']
+            },
+            {
+              title: '进阶攻略',
+              collapsable: false,
+              children: ['story-guide', 'best-vehicles', 'weapons']
+            },
+            {
+              title: '秘籍彩蛋',
+              collapsable: false,
+              children: ['cheats', 'hidden-locations']
             }
           ],
           '/wukong/': [
             {
-              title: '黑神话悟空',
+              title: '战斗攻略',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'secrets']
+              children: ['', 'boss-guide', 'builds']
+            },
+            {
+              title: '隐藏内容',
+              collapsable: false,
+              children: ['secrets']
             }
           ],
           '/elden-ring/': [
             {
-              title: '艾尔登法环',
+              title: '新手上路',
               collapsable: false,
-              children: ['', 'beginner-guide', 'bosses', 'builds']
+              children: ['', 'beginner-guide']
+            },
+            {
+              title: 'Boss攻略',
+              collapsable: false,
+              children: ['bosses', 'builds']
             }
           ],
           '/cyberpunk/': [
             {
-              title: '赛博朋克 2077',
+              title: '构筑攻略',
               collapsable: false,
-              children: ['', 'builds', 'romance', 'endings']
+              children: ['', 'builds']
+            },
+            {
+              title: '剧情指南',
+              collapsable: false,
+              children: ['romance', 'endings']
             }
           ],
           '/zelda/': [
             {
-              title: '塞尔达传说：王国之泪',
+              title: '探索攻略',
               collapsable: false,
-              children: ['', 'shrines', 'weapons', 'cooking']
+              children: ['', 'shrines', 'weapons']
+            },
+            {
+              title: '生存技巧',
+              collapsable: false,
+              children: ['cooking']
             }
           ]
         },
@@ -204,37 +234,67 @@ module.exports = {
         sidebar: {
           '/en/gta6/': [
             {
-              title: 'Grand Theft Auto VI',
+              title: 'Getting Started',
               collapsable: false,
-              children: ['', 'money-guide', 'story-guide', 'best-vehicles', 'weapons', 'cheats', 'hidden-locations']
+              children: ['', 'money-guide']
+            },
+            {
+              title: 'Advanced',
+              collapsable: false,
+              children: ['story-guide', 'best-vehicles', 'weapons']
+            },
+            {
+              title: 'Secrets & Cheats',
+              collapsable: false,
+              children: ['cheats', 'hidden-locations']
             }
           ],
           '/en/wukong/': [
             {
-              title: 'Black Myth: Wukong',
+              title: 'Combat',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'secrets']
+              children: ['', 'boss-guide', 'builds']
+            },
+            {
+              title: 'Secrets',
+              collapsable: false,
+              children: ['secrets']
             }
           ],
           '/en/elden-ring/': [
             {
-              title: 'Elden Ring',
+              title: 'Getting Started',
               collapsable: false,
-              children: ['', 'beginner-guide', 'bosses', 'builds']
+              children: ['', 'beginner-guide']
+            },
+            {
+              title: 'Boss Guide',
+              collapsable: false,
+              children: ['bosses', 'builds']
             }
           ],
           '/en/cyberpunk/': [
             {
-              title: 'Cyberpunk 2077',
+              title: 'Builds',
               collapsable: false,
-              children: ['', 'builds', 'romance', 'endings']
+              children: ['', 'builds']
+            },
+            {
+              title: 'Story',
+              collapsable: false,
+              children: ['romance', 'endings']
             }
           ],
           '/en/zelda/': [
             {
-              title: 'Zelda: Tears of the Kingdom',
+              title: 'Exploration',
               collapsable: false,
-              children: ['', 'shrines', 'weapons', 'cooking']
+              children: ['', 'shrines', 'weapons']
+            },
+            {
+              title: 'Survival',
+              collapsable: false,
+              children: ['cooking']
             }
           ]
         },
