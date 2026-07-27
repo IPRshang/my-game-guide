@@ -70,7 +70,8 @@ module.exports = {
               { text: '专区首页', link: '/gta6/' },
               { text: '赚钱攻略', link: '/gta6/money-guide' },
               { text: '剧情攻略', link: '/gta6/story-guide' },
-              { text: '最强载具', link: '/gta6/best-vehicles' }
+              { text: '最强载具', link: '/gta6/best-vehicles' },
+              { text: '角色技能', link: '/gta6/character-guide' }
             ]
           },
           {
@@ -79,6 +80,7 @@ module.exports = {
               { text: '专区首页', link: '/wukong/' },
               { text: 'Boss攻略', link: '/wukong/boss-guide' },
               { text: '流派配装', link: '/wukong/builds' },
+              { text: '法术变化', link: '/wukong/spells' },
               { text: '隐藏要素', link: '/wukong/secrets' }
             ]
           },
@@ -88,7 +90,8 @@ module.exports = {
               { text: '专区首页', link: '/elden-ring/' },
               { text: '新手攻略', link: '/elden-ring/beginner-guide' },
               { text: 'Boss攻略', link: '/elden-ring/bosses' },
-              { text: '流派配装', link: '/elden-ring/builds' }
+              { text: '流派配装', link: '/elden-ring/builds' },
+              { text: 'NPC支线', link: '/elden-ring/quests' }
             ]
           },
           {
@@ -96,6 +99,7 @@ module.exports = {
             items: [
               { text: '专区首页', link: '/cyberpunk/' },
               { text: '流派配装', link: '/cyberpunk/builds' },
+              { text: '义体改造', link: '/cyberpunk/cyberware' },
               { text: '浪漫攻略', link: '/cyberpunk/romance' },
               { text: '结局攻略', link: '/cyberpunk/endings' }
             ]
@@ -106,7 +110,8 @@ module.exports = {
               { text: '专区首页', link: '/zelda/' },
               { text: '神庙攻略', link: '/zelda/shrines' },
               { text: '武器图鉴', link: '/zelda/weapons' },
-              { text: '烹饪食谱', link: '/zelda/cooking' }
+              { text: '烹饪食谱', link: '/zelda/cooking' },
+              { text: '左纳乌装置', link: '/zelda/zonai-devices' }
             ]
           }
         ],
@@ -120,7 +125,7 @@ module.exports = {
             {
               title: '进阶攻略',
               collapsable: false,
-              children: ['story-guide', 'best-vehicles', 'weapons']
+              children: ['story-guide', 'best-vehicles', 'weapons', 'character-guide']
             },
             {
               title: '秘籍彩蛋',
@@ -132,7 +137,7 @@ module.exports = {
             {
               title: '战斗攻略',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds']
+              children: ['', 'boss-guide', 'builds', 'spells']
             },
             {
               title: '隐藏内容',
@@ -149,14 +154,14 @@ module.exports = {
             {
               title: 'Boss攻略',
               collapsable: false,
-              children: ['bosses', 'builds']
+              children: ['bosses', 'builds', 'quests']
             }
           ],
           '/cyberpunk/': [
             {
               title: '构筑攻略',
               collapsable: false,
-              children: ['', 'builds']
+              children: ['', 'builds', 'cyberware']
             },
             {
               title: '剧情指南',
@@ -168,7 +173,7 @@ module.exports = {
             {
               title: '探索攻略',
               collapsable: false,
-              children: ['', 'shrines', 'weapons']
+              children: ['', 'shrines', 'weapons', 'zonai-devices']
             },
             {
               title: '生存技巧',
@@ -191,7 +196,8 @@ module.exports = {
               { text: 'Hub', link: '/en/gta6/' },
               { text: 'Money Guide', link: '/en/gta6/money-guide' },
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
-              { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' }
+              { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
+              { text: 'Character Skills', link: '/en/gta6/character-guide' }
             ]
           },
           {
@@ -200,6 +206,7 @@ module.exports = {
               { text: 'Hub', link: '/en/wukong/' },
               { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
               { text: 'Builds', link: '/en/wukong/builds' },
+              { text: 'Spells', link: '/en/wukong/spells' },
               { text: 'Secrets', link: '/en/wukong/secrets' }
             ]
           },
@@ -209,7 +216,8 @@ module.exports = {
               { text: 'Hub', link: '/en/elden-ring/' },
               { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
               { text: 'Boss Guide', link: '/en/elden-ring/bosses' },
-              { text: 'Builds', link: '/en/elden-ring/builds' }
+              { text: 'Builds', link: '/en/elden-ring/builds' },
+              { text: 'NPC Quests', link: '/en/elden-ring/quests' }
             ]
           },
           {
@@ -217,6 +225,7 @@ module.exports = {
             items: [
               { text: 'Hub', link: '/en/cyberpunk/' },
               { text: 'Builds', link: '/en/cyberpunk/builds' },
+              { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
               { text: 'Romance', link: '/en/cyberpunk/romance' },
               { text: 'Endings', link: '/en/cyberpunk/endings' }
             ]
@@ -227,7 +236,8 @@ module.exports = {
               { text: 'Hub', link: '/en/zelda/' },
               { text: 'Shrines', link: '/en/zelda/shrines' },
               { text: 'Weapons', link: '/en/zelda/weapons' },
-              { text: 'Cooking', link: '/en/zelda/cooking' }
+              { text: 'Cooking', link: '/en/zelda/cooking' },
+              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' }
             ]
           }
         ],
@@ -241,7 +251,7 @@ module.exports = {
             {
               title: 'Advanced',
               collapsable: false,
-              children: ['story-guide', 'best-vehicles', 'weapons']
+              children: ['story-guide', 'best-vehicles', 'weapons', 'character-guide']
             },
             {
               title: 'Secrets & Cheats',
@@ -253,7 +263,7 @@ module.exports = {
             {
               title: 'Combat',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds']
+              children: ['', 'boss-guide', 'builds', 'spells']
             },
             {
               title: 'Secrets',
@@ -270,14 +280,14 @@ module.exports = {
             {
               title: 'Boss Guide',
               collapsable: false,
-              children: ['bosses', 'builds']
+              children: ['bosses', 'builds', 'quests']
             }
           ],
           '/en/cyberpunk/': [
             {
               title: 'Builds',
               collapsable: false,
-              children: ['', 'builds']
+              children: ['', 'builds', 'cyberware']
             },
             {
               title: 'Story',
@@ -289,7 +299,7 @@ module.exports = {
             {
               title: 'Exploration',
               collapsable: false,
-              children: ['', 'shrines', 'weapons']
+              children: ['', 'shrines', 'weapons', 'zonai-devices']
             },
             {
               title: 'Survival',
