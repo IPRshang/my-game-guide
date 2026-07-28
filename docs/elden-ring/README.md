@@ -1,11 +1,9 @@
 # ⚔️ 艾尔登法环 — 攻略中心
-
 > 🔥 **交界地的史诗** · FromSoftware × George R.R. Martin · 2022年2月25日 · 全平台
 
 <div style="background: linear-gradient(135deg, #1a1a0f, #2d2d1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
 
 ### 游戏速览
-
 | 属性 | 详情 |
 |------|------|
 | 🎮 开发商 | FromSoftware |
@@ -29,21 +27,24 @@
 
 ### 🌱 新手入门
 - **[30分钟从入门到精通](./beginner-guide)** — 出身选择、开局路线、核心机制
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #e74c3c;">
 
 ### 👹 全Boss攻略
 - **[Boss 图鉴 & 打法](./bosses)** — 半神、追忆Boss、地牢Boss
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #8e44ad;">
 
 ### ⚔️ 最强流派
 - **[Build 构筑指南](./builds)** — 法师、出血、信仰、力量流
+</div>
 
+<div class="game-card" style="border-left: 4px solid #f39c12;">
+
+### 🏆 传说武器
+- **[传说武器全收集 & 评测](./legendary-weapons)** — 9把传说武器 + 强度排行
 </div>
 
 </div>
@@ -65,7 +66,7 @@
 > 🛡️ **新玩家建议**: 选**流浪骑士**或**武士**，生存能力强，不容易暴毙。出身只影响前期，后期一切都可自由Build。
 
 ## 📰 攻略更新日志
-
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-07-28 | 新增传说武器全收集与评测攻略 |
 | 2026-07-23 | 新增新手入门、Boss攻略、流派配装 |

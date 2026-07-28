@@ -1,11 +1,9 @@
 # 🤖 赛博朋克 2077 — 攻略中心
-
 > 🌃 **夜之城的传奇** · CD Projekt RED · 2020年12月10日 · 全平台
 
 <div style="background: linear-gradient(135deg, #0a0a1a, #1a0a2e); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
 
 ### 游戏速览
-
 | 属性 | 详情 |
 |------|------|
 | 🎮 开发商 | CD Projekt RED |
@@ -29,21 +27,24 @@
 
 ### ⚡ 流派构筑
 - **[黑客/独狼/忍者](./builds)** — 最强Build + 义体搭配
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #e91e63;">
 
 ### 💕 浪漫攻略
 - **[全角色浪漫线](./romance)** — 朱迪/帕南/瑞弗/克里
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #ff9800;">
 
 ### 🎭 全结局
 - **[5种结局解析](./endings)** — 触发条件 + 隐藏结局
+</div>
 
+<div class="game-card" style="border-left: 4px solid #9c27b0;">
+
+### 🏆 成就奖杯
+- **[全成就奖杯攻略](./achievements)** — 66个成就 + 白金路线
 </div>
 
 </div>
@@ -63,7 +64,7 @@
 > 💻 **2.0版本改动**: 技能树全面重做，义体系统大幅修改（限制义体容量），警察系统重写，载具战斗加入。如果之前玩过建议重开新档。
 
 ## 📰 攻略更新日志
-
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-07-28 | 新增全成就奖杯攻略（含往日之影DLC） |
 | 2026-07-23 | 新增流派构筑、浪漫攻略、全结局解析 |

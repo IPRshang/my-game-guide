@@ -72,6 +72,7 @@ module.exports = {
               { text: '剧情攻略', link: '/gta6/story-guide' },
               { text: '最强载具', link: '/gta6/best-vehicles' },
               { text: '角色技能', link: '/gta6/character-guide' },
+              { text: '成就奖杯', link: '/gta6/achievements' },
               { text: '资料库', link: '/gta6/database' }
             ]
           },
@@ -82,6 +83,7 @@ module.exports = {
               { text: 'Boss攻略', link: '/wukong/boss-guide' },
               { text: '流派配装', link: '/wukong/builds' },
               { text: '法术变化', link: '/wukong/spells' },
+              { text: '珍玩收集', link: '/wukong/collectibles' },
               { text: '隐藏要素', link: '/wukong/secrets' }
             ]
           },
@@ -92,6 +94,7 @@ module.exports = {
               { text: '新手攻略', link: '/elden-ring/beginner-guide' },
               { text: 'Boss攻略', link: '/elden-ring/bosses' },
               { text: '流派配装', link: '/elden-ring/builds' },
+              { text: '传说武器', link: '/elden-ring/legendary-weapons' },
               { text: 'NPC支线', link: '/elden-ring/quests' },
               { text: '🗺️ Boss地图', link: '/map.html' }
             ]
@@ -103,7 +106,8 @@ module.exports = {
               { text: '流派配装', link: '/cyberpunk/builds' },
               { text: '义体改造', link: '/cyberpunk/cyberware' },
               { text: '浪漫攻略', link: '/cyberpunk/romance' },
-              { text: '结局攻略', link: '/cyberpunk/endings' }
+              { text: '结局攻略', link: '/cyberpunk/endings' },
+              { text: '成就奖杯', link: '/cyberpunk/achievements' }
             ]
           },
           {
@@ -113,7 +117,8 @@ module.exports = {
               { text: '神庙攻略', link: '/zelda/shrines' },
               { text: '武器图鉴', link: '/zelda/weapons' },
               { text: '烹饪食谱', link: '/zelda/cooking' },
-              { text: '左纳乌装置', link: '/zelda/zonai-devices' }
+              { text: '左纳乌装置', link: '/zelda/zonai-devices' },
+              { text: '克洛格种子', link: '/zelda/korok-seeds' }
             ]
           }
         ],
@@ -135,6 +140,11 @@ module.exports = {
               children: ['cheats', 'hidden-locations']
             },
             {
+              title: '收集与成就',
+              collapsable: false,
+              children: ['achievements']
+            },
+            {
               title: '资料库',
               collapsable: false,
               children: ['database']
@@ -145,6 +155,11 @@ module.exports = {
               title: '战斗攻略',
               collapsable: false,
               children: ['', 'boss-guide', 'builds', 'spells']
+            },
+            {
+              title: '收集系统',
+              collapsable: false,
+              children: ['collectibles']
             },
             {
               title: '隐藏内容',
@@ -159,9 +174,9 @@ module.exports = {
               children: ['', 'beginner-guide']
             },
             {
-              title: 'Boss攻略',
+              title: 'Boss与Build',
               collapsable: false,
-              children: ['bosses', 'builds', 'quests']
+              children: ['bosses', 'builds', 'legendary-weapons', 'quests']
             }
           ],
           '/cyberpunk/': [
@@ -174,6 +189,11 @@ module.exports = {
               title: '剧情指南',
               collapsable: false,
               children: ['romance', 'endings']
+            },
+            {
+              title: '成就收集',
+              collapsable: false,
+              children: ['achievements']
             }
           ],
           '/zelda/': [
@@ -186,6 +206,11 @@ module.exports = {
               title: '生存技巧',
               collapsable: false,
               children: ['cooking']
+            },
+            {
+              title: '收集指南',
+              collapsable: false,
+              children: ['korok-seeds']
             }
           ]
         },
@@ -205,6 +230,7 @@ module.exports = {
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
               { text: 'Character Skills', link: '/en/gta6/character-guide' },
+              { text: 'Achievements', link: '/en/gta6/achievements' },
               { text: 'Database', link: '/en/gta6/database' }
             ]
           },
@@ -215,6 +241,7 @@ module.exports = {
               { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
               { text: 'Builds', link: '/en/wukong/builds' },
               { text: 'Spells', link: '/en/wukong/spells' },
+              { text: 'Collectibles', link: '/en/wukong/collectibles' },
               { text: 'Secrets', link: '/en/wukong/secrets' }
             ]
           },
@@ -225,6 +252,7 @@ module.exports = {
               { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
               { text: 'Boss Guide', link: '/en/elden-ring/bosses' },
               { text: 'Builds', link: '/en/elden-ring/builds' },
+              { text: 'Legendary Weapons', link: '/en/elden-ring/legendary-weapons' },
               { text: 'NPC Quests', link: '/en/elden-ring/quests' },
               { text: '🗺️ Boss Map', link: '/map.html' }
             ]
@@ -236,7 +264,8 @@ module.exports = {
               { text: 'Builds', link: '/en/cyberpunk/builds' },
               { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
               { text: 'Romance', link: '/en/cyberpunk/romance' },
-              { text: 'Endings', link: '/en/cyberpunk/endings' }
+              { text: 'Endings', link: '/en/cyberpunk/endings' },
+              { text: 'Achievements', link: '/en/cyberpunk/achievements' }
             ]
           },
           {
@@ -246,7 +275,8 @@ module.exports = {
               { text: 'Shrines', link: '/en/zelda/shrines' },
               { text: 'Weapons', link: '/en/zelda/weapons' },
               { text: 'Cooking', link: '/en/zelda/cooking' },
-              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' }
+              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
+              { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' }
             ]
           }
         ],
@@ -268,6 +298,11 @@ module.exports = {
               children: ['cheats', 'hidden-locations']
             },
             {
+              title: 'Collectibles & Achievements',
+              collapsable: false,
+              children: ['achievements']
+            },
+            {
               title: 'Database',
               collapsable: false,
               children: ['database']
@@ -278,6 +313,11 @@ module.exports = {
               title: 'Combat',
               collapsable: false,
               children: ['', 'boss-guide', 'builds', 'spells']
+            },
+            {
+              title: 'Collectibles',
+              collapsable: false,
+              children: ['collectibles']
             },
             {
               title: 'Secrets',
@@ -292,9 +332,9 @@ module.exports = {
               children: ['', 'beginner-guide']
             },
             {
-              title: 'Boss Guide',
+              title: 'Boss & Builds',
               collapsable: false,
-              children: ['bosses', 'builds', 'quests']
+              children: ['bosses', 'builds', 'legendary-weapons', 'quests']
             }
           ],
           '/en/cyberpunk/': [
@@ -307,6 +347,11 @@ module.exports = {
               title: 'Story',
               collapsable: false,
               children: ['romance', 'endings']
+            },
+            {
+              title: 'Achievements',
+              collapsable: false,
+              children: ['achievements']
             }
           ],
           '/en/zelda/': [
@@ -319,6 +364,11 @@ module.exports = {
               title: 'Survival',
               collapsable: false,
               children: ['cooking']
+            },
+            {
+              title: 'Collectibles',
+              collapsable: false,
+              children: ['korok-seeds']
             }
           ]
         },

@@ -1,11 +1,9 @@
 # 🏹 塞尔达传说：王国之泪 — 攻略中心
-
 > 🗡️ **海拉鲁新篇章** · 任天堂 · 2023年5月12日 · Nintendo Switch
 
 <div style="background: linear-gradient(135deg, #0a2a0a, #1a4a1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
 
 ### 游戏速览
-
 | 属性 | 详情 |
 |------|------|
 | 🎮 开发商 | 任天堂企划制作本部 |
@@ -28,21 +26,24 @@
 
 ### ⛩️ 神庙探索
 - **[152座神庙全攻略](./shrines)** — 按区域分类，含解谜方法
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #e74c3c;">
 
 ### ⚔️ 武器装备
 - **[武器 & 盾牌推荐](./weapons)** — 最强余料建造组合
-
 </div>
 
 <div class="game-card" style="border-left: 4px solid #f39c12;">
 
 ### 🍳 料理体系
 - **[全料理配方](./cooking)** — 回复/攻防/耐寒耐热/特殊效果
+</div>
 
+<div class="game-card" style="border-left: 4px solid #9b59b6;">
+
+### 🌱 克洛格种子
+- **[900个克洛格种子全收集](./korok-seeds)** — 地面/天空/地下三区域
 </div>
 
 </div>
@@ -66,7 +67,7 @@
 > 🏗️ **最强提示**: 不要只依赖战斗——活用「究极手」和「蓝图」建造载具、桥梁、飞行器，很多解谜可以完全绕过。
 
 ## 📰 攻略更新日志
-
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-07-28 | 新增克洛格种子全收集指南 |
 | 2026-07-23 | 新增神庙攻略、武器推荐、料理配方 |
