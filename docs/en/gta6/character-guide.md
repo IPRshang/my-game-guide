@@ -1,7 +1,7 @@
 ---
 title: GTA6 Dual Protagonist Skills & Character Progression Guide
 date: 2026-07-27
-description: Complete guide to GTA6's Jason & Lucia dual protagonist system: special skills, character switching, ability growth, and co-op combat strategies
+description: "Complete guide to GTA6's Jason & Lucia dual protagonist system: special skills, character switching, ability growth, and co-op combat strategies"
 ---
 
 # GTA6 Dual Protagonist Skills & Character Progression

@@ -1,7 +1,7 @@
 ---
 title: Elden Ring NPC Questlines Complete Guide
 date: 2026-07-27
-description: Complete Elden Ring NPC questline walkthrough: Ranni, Fia, Alexander, Millicent, Blaidd, Varre, Sellen — all triggers, critical steps, and fail conditions
+description: "Complete Elden Ring NPC questline walkthrough: Ranni, Fia, Alexander, Millicent, Blaidd, Varre, Sellen — all triggers, critical steps, and fail conditions"
 ---
 
 # Elden Ring: Complete NPC Questlines Guide

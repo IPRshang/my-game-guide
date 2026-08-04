@@ -1,7 +1,7 @@
 ---
 title: Zelda TotK Zonai Devices & Engineering Guide
 date: 2026-07-27
-description: Complete Tears of the Kingdom Zonai device guide: all 27 devices explained, best builds and blueprints, farming locations, battery upgrades, and advanced Ultrahand techniques
+description: "Complete Tears of the Kingdom Zonai device guide: all 27 devices explained, best builds and blueprints, farming locations, battery upgrades, and advanced Ultrahand techniques"
 ---
 
 # Tears of the Kingdom: Zonai Devices & Engineering Guide

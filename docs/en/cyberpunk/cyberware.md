@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Cyberware Complete Guide
 date: 2026-07-27
-description: Complete Cyberpunk 2077 cyberware breakdown: Operating System, Frontal Cortex, Skeleton, Nervous System, Circulatory System — best implants for every build with slot-by-slot recommendations
+description: "Complete Cyberpunk 2077 cyberware breakdown: Operating System, Frontal Cortex, Skeleton, Nervous System, Circulatory System — best implants for every build with slot-by-slot recommendations"
 ---
 
 # Cyberpunk 2077: Complete Cyberware Guide

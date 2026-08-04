@@ -1,7 +1,7 @@
 ---
 title: Black Myth Wukong Spells & Transformations Guide
 date: 2026-07-27
-description: Complete guide to all spells in Black Myth Wukong: Immobilize, Cloud Step, Ring of Fire, Rock Solid, Pluck of Many, and all transformations with upgrade effects and build recommendations
+description: "Complete guide to all spells in Black Myth Wukong: Immobilize, Cloud Step, Ring of Fire, Rock Solid, Pluck of Many, and all transformations with upgrade effects and build recommendations"
 ---
 
 # Black Myth Wukong: Complete Spells & Transformations
