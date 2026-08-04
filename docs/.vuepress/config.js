@@ -73,6 +73,7 @@ module.exports = {
               { text: '最强载具', link: '/gta6/best-vehicles' },
               { text: '角色技能', link: '/gta6/character-guide' },
               { text: '成就奖杯', link: '/gta6/achievements' },
+              { text: '新手开局', link: '/gta6/early-guide' },
               { text: '资料库', link: '/gta6/database' }
             ]
           },
@@ -84,6 +85,7 @@ module.exports = {
               { text: '流派配装', link: '/wukong/builds' },
               { text: '法术变化', link: '/wukong/spells' },
               { text: '珍玩收集', link: '/wukong/collectibles' },
+              { text: '战斗精通', link: '/wukong/combat-guide' },
               { text: '隐藏要素', link: '/wukong/secrets' }
             ]
           },
@@ -96,6 +98,7 @@ module.exports = {
               { text: '流派配装', link: '/elden-ring/builds' },
               { text: '传说武器', link: '/elden-ring/legendary-weapons' },
               { text: 'NPC支线', link: '/elden-ring/quests' },
+              { text: 'DLC开荒', link: '/elden-ring/dlc-guide' },
               { text: '🗺️ Boss地图', link: '/map.html' }
             ]
           },
@@ -107,6 +110,7 @@ module.exports = {
               { text: '义体改造', link: '/cyberpunk/cyberware' },
               { text: '浪漫攻略', link: '/cyberpunk/romance' },
               { text: '结局攻略', link: '/cyberpunk/endings' },
+              { text: '往日之影', link: '/cyberpunk/phantom-liberty' },
               { text: '成就奖杯', link: '/cyberpunk/achievements' }
             ]
           },
@@ -118,6 +122,7 @@ module.exports = {
               { text: '武器图鉴', link: '/zelda/weapons' },
               { text: '烹饪食谱', link: '/zelda/cooking' },
               { text: '左纳乌装置', link: '/zelda/zonai-devices' },
+              { text: '地底世界', link: '/zelda/depths-guide' },
               { text: '克洛格种子', link: '/zelda/korok-seeds' }
             ]
           }
@@ -127,7 +132,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'money-guide']
+              children: ['', 'money-guide', 'early-guide']
             },
             {
               title: '进阶攻略',
@@ -154,7 +159,7 @@ module.exports = {
             {
               title: '战斗攻略',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'spells']
+              children: ['', 'boss-guide', 'builds', 'spells', 'combat-guide']
             },
             {
               title: '收集系统',
@@ -176,7 +181,7 @@ module.exports = {
             {
               title: 'Boss与Build',
               collapsable: false,
-              children: ['bosses', 'builds', 'legendary-weapons', 'quests']
+              children: ['bosses', 'builds', 'legendary-weapons', 'quests', 'dlc-guide']
             }
           ],
           '/cyberpunk/': [
@@ -188,7 +193,7 @@ module.exports = {
             {
               title: '剧情指南',
               collapsable: false,
-              children: ['romance', 'endings']
+              children: ['romance', 'endings', 'phantom-liberty']
             },
             {
               title: '成就收集',
@@ -200,7 +205,7 @@ module.exports = {
             {
               title: '探索攻略',
               collapsable: false,
-              children: ['', 'shrines', 'weapons', 'zonai-devices']
+              children: ['', 'shrines', 'weapons', 'zonai-devices', 'depths-guide']
             },
             {
               title: '生存技巧',
