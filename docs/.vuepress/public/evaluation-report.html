@@ -86,6 +86,29 @@
 <h1>📊 游戏攻略站中英文双语评估报告</h1>
 <p class="subtitle">评估日期：2026年7月31日 ｜ 上线日期：2026年7月24日 ｜ 观察周期：7天</p>
 
+<!-- ============ 本次裁决 ============ -->
+<div class="highlight green">
+  <strong>🏁 本次裁决（2026-07-31）：维持双语并行 · 中文优先 · 暂不二选一</strong>
+  <p style="margin-top:8px;">当前数据<strong>不足以</strong>判定"中文 vs 英文"孰优——两边自然搜索流量都接近 0，英文站更是在评估当日才刚通过 CI 部署上线（run 31070768442 成功）。真正的瓶颈<strong>不是选哪种语言，而是"没人找得到站 + 没人能衡量站"</strong>。下一步三件事优先级最高：① 填 GSC 验证码让 Google 收录；② 接入 Clarity/GA4 真正看到访客；③ 按 PROMOTION.md 落地首轮推广（这是当前唯一能带来真实流量的动作）。<strong>8月14日带真实数据再正式决策。</strong></p>
+</div>
+
+<!-- ============ 真实数据（GitHub API） ============ -->
+<h2>零、可获取的真实数据（GitHub API，2026-07-31 拉取）</h2>
+<div class="card">
+  <div class="card-title">📡 仓库流量（注意：这是 <strong>GitHub 仓库</strong> 数据，<strong>不是</strong> 已发布站点流量）</div>
+  <div class="stat-grid">
+    <div class="stat-box"><div class="stat-value">55</div><div class="stat-label">14天仓库浏览量 (views)</div></div>
+    <div class="stat-box"><div class="stat-value">22</div><div class="stat-label">独立访客 (uniques)</div></div>
+    <div class="stat-box"><div class="stat-value">227</div><div class="stat-label">仓库克隆 (clones)</div></div>
+    <div class="stat-box"><div class="stat-value red">仅 github.com</div><div class="stat-label">外部来源（无搜索/无外链）</div></div>
+  </div>
+  <ul class="checklist">
+    <li>流量几乎全部集中在<strong>上线日 7月24日</strong>（36 浏览 / 137 克隆），之后日均 &lt;1，呈"上线即巅峰、随后归零"曲线</li>
+    <li><strong>Referrers 只有 github.com 自身</strong>：没有任何搜索引擎（google/baidu）或社区（NGA/Reddit）带来流量 → 印证"未收录 + 未推广"</li>
+    <li class="done">⚠️ <strong>重要更正</strong>：GitHub Traffic API 统计的是<strong>仓库页面</strong>（/actions、/pulse 等），<strong>不统计 GitHub Pages 站点访问</strong>。想看真实访客，只能靠百度统计（已装，覆盖 /en/）、或补装 Clarity/GA4</li>
+  </ul>
+</div>
+
 <!-- ============ 第一部分：网站状态检查 ============ -->
 <h2>一、网站运行状态（自动检测）</h2>
 
@@ -122,17 +145,23 @@
     <tr><td>Sitemap.xml</td><td><span class="badge badge-ok">正常</span></td><td>48个URL（中英文各24页）</td></tr>
     <tr><td>百度统计代码</td><td><span class="badge badge-ok">已安装</span></td><td>HM ID: 896ed0566f9fdd9364a533ce8cec952a</td></tr>
     <tr><td>Google Analytics</td><td><span class="badge badge-bad">未安装</span></td><td>英文站数据追踪受限</td></tr>
-    <tr><td>Google Search Console</td><td><span class="badge badge-bad">未验证</span></td><td>无法获取 Google 搜索展示数据</td></tr>
+    <tr><td>Google Search Console</td><td><span class="badge badge-bad">未验证</span></td><td>config.js 占位码仍是 <code>GSC_VERIFICATION_CODE_HERE</code>，待填真实码后重新部署</td></tr>
+    <tr><td>Microsoft Clarity</td><td><span class="badge badge-bad">未安装</span></td><td>无真实访客行为数据，无法衡量英文站效果</td></tr>
     <tr><td>百度站长平台</td><td><span class="badge badge-warn">未验证</span></td><td>GitHub Pages 域名百度收录困难</td></tr>
     <tr><td>SEO Meta标签</td><td><span class="badge badge-ok">已配置</span></td><td>OG/Twitter Card/Canonical 完整</td></tr>
-    <tr><td>GitHub 仓库</td><td><span class="badge badge-info">41 commits</span></td><td>最后提交：7月28日（新增5篇双语攻略）</td></tr>
+    <tr><td>GitHub 仓库</td><td><span class="badge badge-info">deploy 成功</span></td><td>英文站 CI 部署成功 (run 31070768442, 2026-08-06)</td></tr>
+    <tr><td>英文站部署</td><td><span class="badge badge-ok">已上线</span></td><td>5款游戏英文攻略 hub 全部上线，sitemap 含中英文各 24 页</td></tr>
   </tbody>
 </table>
 
 <!-- ============ 第二部分：数据收集指南 ============ -->
 <h2>二、数据收集指南（需手动操作）</h2>
 
-<p>由于百度统计和 GitHub Traffic 需要登录账号访问，以下是你需要手动查看的步骤。请收集数据后告诉我，我来做深度分析。</p>
+<div class="highlight red">
+  <strong>⚠️ 重要更正：</strong> GitHub Traffic API <strong>只统计仓库页面（/actions、/pulse、仓库首页），不统计 GitHub Pages 站点访问</strong>。因此<strong>无法</strong>用它衡量真实站点访客，更无法用它对比中英文。衡量真实访客的唯一途径是：① <strong>百度统计</strong>（已装，可筛选 <code>/en/</code> 路径看英文流量）；② 补装 <strong>Clarity / GA4</strong>（当前未装）。
+</div>
+
+<p>由于百度统计需要登录账号访问，以下是你需要手动查看的步骤。请收集数据后告诉我，我来做深度分析。</p>
 
 <h3>📋 步骤 A：百度统计 — 中文站数据</h3>
 <div class="card">
@@ -147,9 +176,10 @@
   </ul>
 </div>
 
-<h3>📋 步骤 B：GitHub Pages — 英文站流量</h3>
+<h3>📋 步骤 B：GitHub 仓库流量（仅仓库页面，非站点访客）</h3>
 <div class="card">
   <div class="card-title">🔗 <a href="https://github.com/iprshang/my-game-guide" target="_blank">github.com/iprshang/my-game-guide</a></div>
+  <div class="highlight red" style="margin-bottom:12px;">注意：此处看到的是<strong>仓库</strong>浏览/克隆量，<strong>不是</strong>已发布站点的访客量。本自动化已用 API 拉取：14天 55 浏览 / 22 独立访客 / 227 克隆，来源仅 github.com。真实站点访客请用百度统计或补装 Clarity。</div>
   <ul class="checklist">
     <li>进入仓库 → <strong>Settings</strong> → <strong>Pages</strong> → 查看 Traffic 图表</li>
     <li>或进入 <strong>Insights</strong> → <strong>Traffic</strong> → 查看总 views / unique visitors / popular content</li>
@@ -311,8 +341,8 @@
 <div class="step">
   <div class="step-num">5</div>
   <div class="step-content">
-    <div class="step-title">一周后复查数据</div>
-    <div class="step-desc">下周此时（8月7日）再查看百度统计和 GitHub Traffic，对比本周数据。如果 GSC 已验证，查看 Google 索引状态。届时可以做正式的中英文流量对比和内容优先级决策。</div>
+    <div class="step-title">8月14日带真实数据做正式决策</div>
+    <div class="step-desc">两周后（8月14日）再查看百度统计（含 <code>/en/</code> 筛选）与 GSC 索引报告，用<strong>真实访客数据</strong>做正式的中英文流量对比与内容优先级决策。届时可套用下方决策树场景 A/B/C/D 给出明确结论。</div>
   </div>
 </div>
 
