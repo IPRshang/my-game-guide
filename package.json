@@ -7,6 +7,10 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.0",
+    "lru-cache": "^5.1.1",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.0",
     "vuepress": "^1.9.10",
     "vuepress-plugin-sitemap": "^2.3.1"
   }
