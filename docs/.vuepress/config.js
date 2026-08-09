@@ -51,7 +51,7 @@ module.exports = {
     // Canonical URL
     ['link', { rel: 'canonical', href: 'https://iprshang.github.io/my-game-guide/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
-    ['meta', { name: 'google-site-verification', content: 'GSC_VERIFICATION_CODE_HERE' }],
+    ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
     // Baidu Site Verification (需替换为实际验证码)
     // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
   ],
