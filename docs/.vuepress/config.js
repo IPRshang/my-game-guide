@@ -52,6 +52,8 @@ module.exports = {
     ['link', { rel: 'canonical', href: 'https://iprshang.github.io/my-game-guide/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
     ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
+    // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
+    // ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX', async: true, crossorigin: 'anonymous' }],
     // Baidu Site Verification (需替换为实际验证码)
     // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
   ],
@@ -125,7 +127,9 @@ module.exports = {
               { text: '地底世界', link: '/zelda/depths-guide' },
               { text: '克洛格种子', link: '/zelda/korok-seeds' }
             ]
-          }
+          },
+          { text: '关于', link: '/about/' },
+          { text: '隐私政策', link: '/privacy/' }
         ],
         sidebar: {
           '/gta6/': [
@@ -283,7 +287,9 @@ module.exports = {
               { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
               { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' }
             ]
-          }
+          },
+          { text: 'About', link: '/en/about/' },
+          { text: 'Privacy', link: '/en/privacy/' }
         ],
         sidebar: {
           '/en/gta6/': [
