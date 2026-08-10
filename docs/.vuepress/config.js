@@ -1,11 +1,11 @@
 module.exports = {
-  base: '/my-game-guide/',
+  base: '/',
   markdown: {
     lineNumbers: true
   },
   plugins: [
     ['sitemap', {
-      hostname: 'https://iprshang.github.io/my-game-guide/',
+      hostname: 'https://ggexplore.com/',
       exclude: ['/404.html'],
       dateFormatter: (time) => {
         return new Date(time).toISOString();
@@ -43,13 +43,13 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.svg' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.svg' }],
     // Canonical URL
-    ['link', { rel: 'canonical', href: 'https://iprshang.github.io/my-game-guide/' }],
+    ['link', { rel: 'canonical', href: 'https://ggexplore.com/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
     ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
     // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
