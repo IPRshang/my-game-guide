@@ -43,11 +43,11 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.svg' }],
+    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.png' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.svg' }],
+    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.png' }],
     // Canonical URL
     ['link', { rel: 'canonical', href: 'https://ggexplore.com/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证

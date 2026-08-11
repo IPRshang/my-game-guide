@@ -2,7 +2,7 @@
 
 > 🌃 **夜之城的传奇** · CD Projekt RED · 2020 年 12 月 10 日 · PC / PS5 / Xbox / **Switch 2 / Mac（2026）**
 
-<div style="background: linear-gradient(135deg, #0a0a1a, #1a0a2e); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div class="game-hero cyberpunk">
 
 ### 游戏速览
 
@@ -99,23 +99,23 @@ A：开车/摩托时可切第三人称；设置里可调视野(FOV)与动态模�
 
 ## 攻略导航
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+<div class="game-grid">
 
-<div class="game-card" style="border-left: 4px solid #3498db;">
+<div class="game-card cyberpunk">
 
 ### ⚡ 流派构筑
 - **[黑客/独狼/忍者](./builds)** — 最强 Build + 义体搭配
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #e91e63;">
+<div class="game-card cyberpunk">
 
 ### 💕 浪漫攻略
 - **[全角色浪漫线](./romance)** — 朱迪/帕南/瑞弗/克里
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #ff9800;">
+<div class="game-card cyberpunk">
 
 ### 🎭 全结局
 - **[5 种结局解析](./endings)** — 触发条件 + 隐藏结局

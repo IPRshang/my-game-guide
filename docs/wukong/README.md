@@ -2,7 +2,7 @@
 
 > 🏔️ **中国首款 3A 大作** · 游戏科学 (Game Science) · 2024 年 8 月 20 日 · PS5 / PC (Steam/Epic/WeGame) / Xbox Series X|S
 
-<div style="background: linear-gradient(135deg, #2c1810, #4a2c17); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div class="game-hero wukong">
 
 ### 游戏速览
 
@@ -91,23 +91,23 @@ A：推荐「劈棍 + 定身术 + 高血量」的稳健组合，详见 [流派�
 
 ## 攻略导航
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+<div class="game-grid">
 
-<div class="game-card" style="border-left: 4px solid #e74c3c;">
+<div class="game-card wukong">
 
 ### 👹 Boss 攻略
 - **[Boss 战全攻略](./boss-guide)** — 妖王/头目打法、弱点、掉落
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #3498db;">
+<div class="game-card wukong">
 
 ### ⚡ 流派配装
 - **[最强流派 & 装备组合](./builds)** — 劈棍/立棍/戳棍/法术流
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #9b59b6;">
+<div class="game-card wukong">
 
 ### 🔍 隐藏要素
 - **[隐藏结局 & 秘密](./secrets)** — 真结局解锁、隐藏 Boss、支线触发
