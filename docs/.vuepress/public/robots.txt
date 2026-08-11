@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iprshang.github.io/my-game-guide/sitemap.xml
+Sitemap: https://ggexplore.com/sitemap.xml
