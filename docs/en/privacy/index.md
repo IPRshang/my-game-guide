@@ -27,9 +27,11 @@ These cookies may be set by Google and third-party advertisers (e.g., `NID`, `ID
 - Clearing or disabling cookies in your browser settings;
 - EU users may opt out via YourOnlineChoices (http://www.youronlinechoices.com/).
 
-## 3. Third-Party Services
+## 3. Third-Party Services and Affiliate Marketing
 
 This Site may link to third-party websites (game official sites, stores, video platforms). They have their own privacy policies, and we are not responsible for their content or data practices.
+
+Some content on this Site (such as gear recommendations and purchase links) may contain **affiliate marketing links** (e.g., partner retailers). If you purchase through these links, this Site may earn a small commission, but **the product price is not increased for you**. Affiliate partners may use cookies to track conversions; please refer to their privacy policies for details.
 
 ## 4. Children's Privacy
 
