@@ -53,7 +53,7 @@ module.exports = {
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
     ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
     // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
-    // ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX', async: true, crossorigin: 'anonymous' }],
+    ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163601143398403', async: true, crossorigin: 'anonymous' }],
     // Baidu Site Verification (需替换为实际验证码)
     // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
   ],

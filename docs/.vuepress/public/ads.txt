@@ -1,4 +1,4 @@
 # Ads.txt for Google AdSense
 # 将下面一行的 pub-XXXXXXXXXX 替换为你的 AdSense 发布商 ID（ca-pub- 后面的数字部分）
 # 例如：google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
-google.com, pub-XXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-8163601143398403, DIRECT, f08c47fec0942fa0
