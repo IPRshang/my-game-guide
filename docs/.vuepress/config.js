@@ -70,6 +70,8 @@ module.exports = {
             text: 'GTA6',
             items: [
               { text: '专区首页', link: '/gta6/' },
+              { text: '发售配置', link: '/gta6/release-guide' },
+              { text: '预购指南', link: '/gta6/preorder-guide' },
               { text: '赚钱攻略', link: '/gta6/money-guide' },
               { text: '剧情攻略', link: '/gta6/story-guide' },
               { text: '最强载具', link: '/gta6/best-vehicles' },
@@ -136,7 +138,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'money-guide', 'early-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'early-guide']
             },
             {
               title: '进阶攻略',
@@ -235,6 +237,8 @@ module.exports = {
             text: 'GTA6',
             items: [
               { text: 'Hub', link: '/en/gta6/' },
+              { text: 'Release & Specs', link: '/en/gta6/release-guide' },
+              { text: 'Pre-Order Guide', link: '/en/gta6/preorder-guide' },
               { text: 'Money Guide', link: '/en/gta6/money-guide' },
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
@@ -296,7 +300,7 @@ module.exports = {
             {
               title: 'Getting Started',
               collapsable: false,
-              children: ['', 'money-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide']
             },
             {
               title: 'Advanced',
