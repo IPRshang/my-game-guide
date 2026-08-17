@@ -10,7 +10,7 @@ tags: ['GTA6预购','GTA6版本区别','GTA6怎么买','GTA6退款','GTA6主机�
 
 # GTA6 预购全攻略：版本、渠道、退款与主机选购
 
-> 📌 **一句话结论**：只想玩剧情买标准版；想首发冲 Online 选豪华版；收藏党盯紧典藏版。主机玩家优先 PS5 / Xbox Series X，PC 玩家建议等 PC 版，别贪小便宜买黑卡/代充。
+- 🎮 [微软 Xbox Series X 日版 1TB 数字版（京东）](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUgJK1olWAUHVlpaCE4fBF8IGloVXgQHXVdaDksnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAG0NElISWwYdDRsBVXtKRzlrRQcRXmNENgQCCShLd2xzZA5TUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtHM9-EzYrOuhlWQV8KG1oTVQYAXVlUOEsRCmgAEl0WWwQKVlxtD0seM28MH1MTXQ4EUVZVZgonM18LK1wVVBIEJh8PHE1lM18IK1glXQcCVVddCUgRBmwUG1wUXgQDSF5bAUwfCmkLH10RXQYyVl9cDEInM7GFqz8cO0VhJxhUVDxVCiwJZSzL0LYTKClUCkkTEl9YaDIUHk9VCi4dbzIWWWoJewVDNn8DDlsETAkUWwZmGRpFNW9EDQsuDy4WWzpzRFtSbQMyU1hcOEon) <!-- 京东联盟真实推广链接，佣金比例 6.00% -->
 
 ---
 
