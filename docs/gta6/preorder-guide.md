@@ -235,9 +235,21 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 
 ---
 
-> 🛒 **装备推荐（affiliate）**
-> - 主机：PS5 光驱版 / PS5 Pro / Xbox Series X
-> - SSD：1TB NVMe PCIe 4.0 SSD（PC 玩家提前准备）
-> - 显示器：27" 2K 144Hz 适合主机高刷模式
-> - 手柄：DualSense Edge / Xbox Elite 2
-> *本站部分链接可能包含联盟营销代码，购买价格不会因此增加，详情请阅读[隐私政策](../privacy/)。*
+---
+
+## 十、装备推荐（联盟链接）
+
+> 💡 以下商品链接指向各电商平台官方搜索页，方便你一键比价。**本站是联盟会员，若你通过链接购买，本站可能获得佣金，而你无需支付额外费用。** 详见[隐私政策](../privacy/)。
+
+### 主机 / 游戏机
+- 🎮 [PS5 光驱版（京东）](https://search.jd.com/Search?keyword=PS5%20%E5%85%89%E9%A9%B1%E7%89%88) <!-- AFFILIATE: 替换为你京东联盟/淘宝联盟 PID 短链 -->
+- 🎮 [PS5 Pro（京东）](https://search.jd.com/Search?keyword=PS5%20Pro)
+- 🎮 [Xbox Series X（京东）](https://search.jd.com/Search?keyword=Xbox%20Series%20X)
+
+### 存储 / 显示器 / 外设（PC 玩家）
+- 💾 [1TB NVMe PCIe 4.0 SSD（京东）](https://search.jd.com/Search?keyword=1TB%20NVMe%20SSD)
+- 🖥️ [27 英寸 2K 144Hz 显示器（京东）](https://search.jd.com/Search?keyword=27%E8%8B%B1%E5%AF%B8%202K%20144Hz%20%E6%98%BE%E7%A4%BA%E5%99%A8)
+- 🕹️ [DualSense Edge 手柄（京东）](https://search.jd.com/Search?keyword=DualSense%20Edge)
+- 🕹️ [Xbox Elite 二代手柄（京东）](https://search.jd.com/Search?keyword=Xbox%20Elite%20%E6%89%8B%E6%9F%84)
+
+> ⚠️ **联盟链接说明**：上方为平台搜索页占位链接。在你开通联盟计划（京东联盟 / 淘宝联盟 / Amazon Associates）后，将每个链接替换为带你自己 PID 的专属短链，即可开始赚取佣金。
