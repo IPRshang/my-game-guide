@@ -248,7 +248,7 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 
 ### 存储 / 显示器 / 外设（PC 玩家）
 - 💾 [1TB NVMe PCIe 4.0 SSD（淘宝）](https://s.taobao.com/search?q=1TB%20NVMe%20SSD&pid=mm_10543114634_3434450039_116305100447)
-- 🖥️ [27 英寸 2K 144Hz 显示器（淘宝）](https://s.taobao.com/search?q=27%E8%8B%B1%E5%AF%B8%202K%20144Hz%20%E6%98%BE%E7%A4%BA%E5%99%A8&pid=mm_10543114634_3434450039_116305100447)
+- 🖥️ [27 英寸 2K 144Hz 显示器（京东）](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV4JK1olWAUCU1hYCUkTBV8IGloXXAAKUltUDEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkAHV4cWQcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlDBkMKMxsgajZLBwsBYiBNCHZjFghRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZBwzXx9IVSlYRA0TWQcyVl5cDkMXAWYPE2sVWw8FXFdaD0seC20KK1wVVDYCUFpVDksfBWoAEzVUbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA24PH1gQXAQGSF5YDU0WAHMIHVISVQ8FUFlZAUMXM20JGl8cbTbc2e40fzFTYm5MYSlHFm11ESAY1sanEh14G1kXXRcyLQo9bwlTWmYIYCJiOkZrEz0bfglgZC9hcCVRPl5iOlwud0pzdzwKWAwcOn5VIQdacnsSM2gOGmsUbQ) <!-- 京东联盟真实推广链接，佣金比例 3.00% -->
 - 🕹️ [DualSense Edge 手柄（淘宝）](https://s.taobao.com/search?q=DualSense%20Edge&pid=mm_10543114634_3434450039_116305100447)
 - 🕹️ [Xbox Elite 二代手柄（淘宝）](https://s.taobao.com/search?q=Xbox%20Elite%20%E6%89%8B%E6%9F%84&pid=mm_10543114634_3434450039_116305100447)
 - 🖱️ [英菲克 PW1 有线静音鼠标（到手价 ¥19.80）](https://m.tb.cn/h.87E8dcF) <!-- 淘宝联盟真实链接，佣金率 3.00%（约 ¥0.59）；手机淘宝可粘口令：t800swhswt :7輹👋Zhi3$EBI4TYDo4Rx$:// MF3106,打開/ -->
