@@ -253,4 +253,4 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 - 🕹️ [雷神 猎刃50 游戏手柄（京东）](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtGM96o0ojJp5-CpLaXlFgWbQQCVVhVCEkeBW44G10cWg4LU1hYDUMSAl8PG1IlXQIGXFhdAE0SC2dmWmslbQUyU15UHE1lQj0cHSklbQYyV25dCUsWCm4OG10VWhoCVFddCEoLA2kBHFMcWgEKVFlbDHsVAm4MEmslg4uyPVopDzhkQhlMYR1CKVh-EoDQuFprZ2sIGl4EbVJGXV4Gdx1NYRROZFtTK31yUjUnd0tRdRgLTF8XVGgAXVo6Uw0Way4AaFt3PnFHKDhtDXsQBW44Gms) <!-- 京东联盟真实推广链接，佣金比例 8.00% -->
 - 🖱️ [英菲克 PW1 有线静音鼠标（到手价 ¥19.80）](https://m.tb.cn/h.87E8dcF) <!-- 淘宝联盟真实链接，佣金率 3.00%（约 ¥0.59）；手机淘宝可粘口令：t800swhswt :7輹👋Zhi3$EBI4TYDo4Rx$:// MF3106,打開/ -->
 
-> 💡 **联盟链接说明**：上方主机 / SSD / 显示器 / 手柄均为带本人淘宝客 PID（`mm_10543114634_3434450039_116305100447`）的淘宝搜索推广链接，访客通过链接下单你即获佣金；英菲克 PW1 为真实商品短链。如需更精准的单品转化，可在阿里妈妈「我要推广」为每件商品生成 `s.click.taobao.com` 专属链接后替换。
+> 💡 **联盟链接说明**：上方商品主要为京东联盟推广链接（`union-click.jd.com`），访客通过链接下单即可获得对应佣金；英菲克 PW1 鼠标为淘宝联盟真实商品短链。部分主机/配件因京东佣金较低或选品原因采用淘宝/京东混合推广。
