@@ -235,21 +235,9 @@ A: No. PS5 is the current-gen standard console and will remain relevant for 3–
 
 ---
 
----
-
-## 10. Gear Recommendations (Affiliate Links)
-
-> 💡 The product links below point to official store search pages for easy price comparison. **This site is an affiliate partner; if you buy through a link, we may earn a commission at no extra cost to you.** See our [Privacy Policy](../privacy/) for details.
-
-### Consoles
-- 🎮 [PS5 Disc Edition (Amazon)](https://www.amazon.com/s?k=PS5+console+disc) <!-- AFFILIATE: replace with your Amazon Associates tracking ID -->
-- 🎮 [PS5 Pro (Amazon)](https://www.amazon.com/s?k=PS5+Pro)
-- 🎮 [Xbox Series X (Amazon)](https://www.amazon.com/s?k=Xbox+Series+X)
-
-### Storage / Display / Accessories (PC players)
-- 💾 [1TB NVMe PCIe 4.0 SSD (Amazon)](https://www.amazon.com/s?k=1TB+NVMe+SSD)
-- 🖥️ [27" 2K 144Hz Monitor (Amazon)](https://www.amazon.com/s?k=27+inch+2K+144Hz+monitor)
-- 🕹️ [DualSense Edge Controller (Amazon)](https://www.amazon.com/s?k=DualSense+Edge)
-- 🕹️ [Xbox Elite Series 2 Controller (Amazon)](https://www.amazon.com/s?k=Xbox+Elite+Series+2+controller)
-
-> ⚠️ **Affiliate note**: The links above are placeholder store-search links. Once you join an affiliate program (Amazon Associates / JD Alliance / Taobao Alliance), replace each link with your own PID-tagged short link to start earning commissions.
+> 🛒 **Gear recommendations (affiliate)**
+> - Console: [PS5 Disc Edition](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUsJK1olXwQAVVxUCEwXBl8IGloQXwQFXVdVDUkeBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoKGVwcVA4HVldYFxJSXzI4elt8H19-M109ADFsASRgSAViC11QJFJROE4XAmkNHFsUWgYyV19dDUgfAm8BHWslXQAyFTBdCUkRBWoAH2sXXQcEXF5fAUweM28OElwdVAEBUF9YAU0nBG8BK1sRWQ4EVFZbDUMfbS44K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8SBmgIH1kJXQMKXV5eFEsRCmgAEl8dXgAHXFZtCkoWB2Y4K4WY7XULJD8oCR51A259YBpVB3Dc2e5MYzIfA28LCmsXAwMADBwtfTNIdhgKSRNUX2NrNClfWgMRWxNVY157X1RFNT0pdBF2Zi1gUiFmAHNwZFttD00WM244) / [PS5 Pro](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV0JK1olXwQAVV5UAE4QAV8IGlsWWAYHV1laDk4QB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wNG14WWgEEUVlZFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTYAKTYNXjVcBApLYT9IIVZeUz5YQSNnD2M4HlsUWwMFVF9aCHsUAm8NGFMUXQ8EZG5dDntWbWgAH1sSXDYAVF9bAEsVCmgBK1sTVAEKXVhUDk8VBmY4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYIGlgSVQYeVF9ZDEsXH28OElwdVAAGVlxcDk0nAW4JH1IlbdiP5CZccRhEBGh1SAdcL2FAUyCDhfsGcR8IH1wRTDZfEFtbbCBEfmdzaCsTWnZgLzgvADsRBB9cRgdiGANsVj8tSE9lUShbWTBWWnpwASQKOE4nBGkJK1ol) / [Xbox Series X](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUgJK1olWAUHVlpaCE4fBF8IGloVXgQHXVdaDksnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAG0NElISWwYdDRsBVXtKRzlrRQcRXmNENgQCCShLd2xzZA5TUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtHM9-EzYrOuhlWQV8KG1oTVQYAXVlUOEsRCmgAEl0WWwQKVlxtD0seM28MH1MTXQ4EUVZVZgonM18LK1wVVBIEJh8PHE1lM18IK1glXQcCVVddCUgRBmwUG1wUXgQDSF5bAUwfCmkLH10RXQYyVl9cDEInM7GFqz8cO0VhJxhUVDxVCiwJZSzL0LYTKClUCkkTEl9YaDIUHk9VCi4dbzIWWWoJewVDNn8DDlsETAkUWwZmGRpFNW9EDQsuDy4WWzpzRFtSbQMyU1hcOEon)
+> - SSD: [Lenovo 1TB NVMe M.2 PCIe 5.0 SSD](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV0JK1olWAUCVlxUCU0RAV8IGloUWwUBVl5cCkknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBWwLGVsUXwQdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK1MVGFJBXSo8bU11QRBBZBpoXGZ6EBhRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZAgzCEoWAm4OHFsUXzYAVF9bAEsVCmkJK1sTVAEKXVhcCk4TC2c4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmgMGF4UXg8eVFldCE0QH28OElwdVAADVVlcDEknAW4JH1IlbdiP5CRfcixXAhNccxJlG0J_MRyDhfsGfxgBH18RTDZ7XFsAbRx_fDxuez5IGlx3Ug06Dy5KRDUJWSsVPgNsViIdXEpxdBhhe1hIO19iLyk7OE4nBGkJK1ol) (PC players should prepare early)
+> - Monitor: [27" 2K 144Hz monitor](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV4JK1olWAUCU1hYCUkTBV8IGloXXAAKUltUDEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkAHV4cWQcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlDBkMKMxsgajZLBwsBYiBNCHZjFghRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZBwzXx9IVSlYRA0TWQcyVl5cDkMXAWYPE2sVWw8FXFdaD0seC20KK1wVVDYCUFpVDksfBWoAEzVUbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA24PH1gQXAQGSF5YDU0WAHMIHVISVQ8FUFlZAUMXM20JGl8cbTbc2e40fzFTYm5MYSlHFm11ESAY1sanEh14G1kXXRcyLQo9bwlTWmYIYCJiOkZrEz0bfglgZC9hcCVRPl5iOlwud0pzdzwKWAwcOn5VIQdacnsSM2gOGmsUbQ) for high-refresh console/PC gaming
+> - Controller: [ThundeRobot Hunter 50 gamepad](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtGM96o0ojJp5-CpLaXlFgWbQQCVVhVCEkeBW44G10cWg4LU1hYDUMSAl8PG1IlXQIGXFhdAE0SC2dmWmslbQUyU15UHE1lQj0cHSklbQYyV25dCUsWCm4OG10VWhoCVFddCEoLA2kBHFMcWgEKVFlbDHsVAm4MEmslg4uyPVopDzhkQhlMYR1CKVh-EoDQuFprZ2sIGl4EbVJGXV4Gdx1NYRROZFtTK31yUjUnd0tRdRgLTF8XVGgAXVo6Uw0Way4AaFt3PnFHKDhtDXsQBW44Gms) / [GulKit Wukong2 controller adapter](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU4JK1olXw8KVFleDEwQBl8IGloXXwEKVlpeAEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAWgAGV8WVQcdDRsBVXtDfghLeQd0XmRaCAAUX0tqWBIBbCR1UQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol)
+> *Some links on this site may include affiliate codes. Prices are not increased for you. See our [Privacy Policy](../privacy/) for details.*
