@@ -251,5 +251,6 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 - 🖥️ [27 英寸 2K 144Hz 显示器（京东）](https://search.jd.com/Search?keyword=27%E8%8B%B1%E5%AF%B8%202K%20144Hz%20%E6%98%BE%E7%A4%BA%E5%99%A8)
 - 🕹️ [DualSense Edge 手柄（京东）](https://search.jd.com/Search?keyword=DualSense%20Edge)
 - 🕹️ [Xbox Elite 二代手柄（京东）](https://search.jd.com/Search?keyword=Xbox%20Elite%20%E6%89%8B%E6%9F%84)
+- 🖱️ [英菲克 PW1 有线静音鼠标（到手价 ¥19.80）](https://m.tb.cn/h.87E8dcF) <!-- 淘宝联盟真实链接，佣金率 3.00%（约 ¥0.59）；手机淘宝可粘口令：t800swhswt :7輹👋Zhi3$EBI4TYDo4Rx$:// MF3106,打開/ -->
 
-> ⚠️ **联盟链接说明**：上方为平台搜索页占位链接。在你开通联盟计划（京东联盟 / 淘宝联盟 / Amazon Associates）后，将每个链接替换为带你自己 PID 的专属短链，即可开始赚取佣金。
+> ⚠️ **联盟链接说明**：除「英菲克 PW1 鼠标」为真实淘宝联盟链接外，其余为平台搜索页占位链接。在你开通对应联盟计划（京东联盟 / 淘宝联盟 / Amazon Associates）后，将占位链接替换为带你自己 PID 的专属短链，即可开始赚取佣金。
