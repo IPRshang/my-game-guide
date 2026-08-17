@@ -242,15 +242,15 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 > 💡 以下商品链接指向各电商平台官方搜索页，方便你一键比价。**本站是联盟会员，若你通过链接购买，本站可能获得佣金，而你无需支付额外费用。** 详见[隐私政策](../privacy/)。
 
 ### 主机 / 游戏机
-- 🎮 [PS5 光驱版（京东）](https://search.jd.com/Search?keyword=PS5%20%E5%85%89%E9%A9%B1%E7%89%88) <!-- AFFILIATE: 替换为你京东联盟/淘宝联盟 PID 短链 -->
-- 🎮 [PS5 Pro（京东）](https://search.jd.com/Search?keyword=PS5%20Pro)
-- 🎮 [Xbox Series X（京东）](https://search.jd.com/Search?keyword=Xbox%20Series%20X)
+- 🎮 [PS5 光驱版（淘宝）](https://s.taobao.com/search?q=PS5%E5%85%89%E9%A9%B1%E7%89%88&pid=mm_10543114634_3434450039_116305100447)
+- 🎮 [PS5 Pro（淘宝）](https://s.taobao.com/search?q=PS5%20Pro&pid=mm_10543114634_3434450039_116305100447)
+- 🎮 [Xbox Series X（淘宝）](https://s.taobao.com/search?q=Xbox%20Series%20X&pid=mm_10543114634_3434450039_116305100447)
 
 ### 存储 / 显示器 / 外设（PC 玩家）
-- 💾 [1TB NVMe PCIe 4.0 SSD（京东）](https://search.jd.com/Search?keyword=1TB%20NVMe%20SSD)
-- 🖥️ [27 英寸 2K 144Hz 显示器（京东）](https://search.jd.com/Search?keyword=27%E8%8B%B1%E5%AF%B8%202K%20144Hz%20%E6%98%BE%E7%A4%BA%E5%99%A8)
-- 🕹️ [DualSense Edge 手柄（京东）](https://search.jd.com/Search?keyword=DualSense%20Edge)
-- 🕹️ [Xbox Elite 二代手柄（京东）](https://search.jd.com/Search?keyword=Xbox%20Elite%20%E6%89%8B%E6%9F%84)
+- 💾 [1TB NVMe PCIe 4.0 SSD（淘宝）](https://s.taobao.com/search?q=1TB%20NVMe%20SSD&pid=mm_10543114634_3434450039_116305100447)
+- 🖥️ [27 英寸 2K 144Hz 显示器（淘宝）](https://s.taobao.com/search?q=27%E8%8B%B1%E5%AF%B8%202K%20144Hz%20%E6%98%BE%E7%A4%BA%E5%99%A8&pid=mm_10543114634_3434450039_116305100447)
+- 🕹️ [DualSense Edge 手柄（淘宝）](https://s.taobao.com/search?q=DualSense%20Edge&pid=mm_10543114634_3434450039_116305100447)
+- 🕹️ [Xbox Elite 二代手柄（淘宝）](https://s.taobao.com/search?q=Xbox%20Elite%20%E6%89%8B%E6%9F%84&pid=mm_10543114634_3434450039_116305100447)
 - 🖱️ [英菲克 PW1 有线静音鼠标（到手价 ¥19.80）](https://m.tb.cn/h.87E8dcF) <!-- 淘宝联盟真实链接，佣金率 3.00%（约 ¥0.59）；手机淘宝可粘口令：t800swhswt :7輹👋Zhi3$EBI4TYDo4Rx$:// MF3106,打開/ -->
 
-> ⚠️ **联盟链接说明**：除「英菲克 PW1 鼠标」为真实淘宝联盟链接外，其余为平台搜索页占位链接。在你开通对应联盟计划（京东联盟 / 淘宝联盟 / Amazon Associates）后，将占位链接替换为带你自己 PID 的专属短链，即可开始赚取佣金。
+> 💡 **联盟链接说明**：上方主机 / SSD / 显示器 / 手柄均为带本人淘宝客 PID（`mm_10543114634_3434450039_116305100447`）的淘宝搜索推广链接，访客通过链接下单你即获佣金；英菲克 PW1 为真实商品短链。如需更精准的单品转化，可在阿里妈妈「我要推广」为每件商品生成 `s.click.taobao.com` 专属链接后替换。
