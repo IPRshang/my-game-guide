@@ -235,9 +235,21 @@ A: No. PS5 is the current-gen standard console and will remain relevant for 3–
 
 ---
 
-> 🛒 **Gear recommendations (affiliate)**
-> - Console: PS5 Disc Edition / PS5 Pro / Xbox Series X
-> - SSD: 1TB NVMe PCIe 4.0 SSD (PC players should prepare early)
-> - Monitor: 27" 2K 144Hz for high-refresh console/PC gaming
-> - Controller: DualSense Edge / Xbox Elite Series 2
-> *Some links on this site may include affiliate codes. Prices are not increased for you. See our [Privacy Policy](../privacy/) for details.*
+---
+
+## 10. Gear Recommendations (Affiliate Links)
+
+> 💡 The product links below point to official store search pages for easy price comparison. **This site is an affiliate partner; if you buy through a link, we may earn a commission at no extra cost to you.** See our [Privacy Policy](../privacy/) for details.
+
+### Consoles
+- 🎮 [PS5 Disc Edition (Amazon)](https://www.amazon.com/s?k=PS5+console+disc) <!-- AFFILIATE: replace with your Amazon Associates tracking ID -->
+- 🎮 [PS5 Pro (Amazon)](https://www.amazon.com/s?k=PS5+Pro)
+- 🎮 [Xbox Series X (Amazon)](https://www.amazon.com/s?k=Xbox+Series+X)
+
+### Storage / Display / Accessories (PC players)
+- 💾 [1TB NVMe PCIe 4.0 SSD (Amazon)](https://www.amazon.com/s?k=1TB+NVMe+SSD)
+- 🖥️ [27" 2K 144Hz Monitor (Amazon)](https://www.amazon.com/s?k=27+inch+2K+144Hz+monitor)
+- 🕹️ [DualSense Edge Controller (Amazon)](https://www.amazon.com/s?k=DualSense+Edge)
+- 🕹️ [Xbox Elite Series 2 Controller (Amazon)](https://www.amazon.com/s?k=Xbox+Elite+Series+2+controller)
+
+> ⚠️ **Affiliate note**: The links above are placeholder store-search links. Once you join an affiliate program (Amazon Associates / JD Alliance / Taobao Alliance), replace each link with your own PID-tagged short link to start earning commissions.
