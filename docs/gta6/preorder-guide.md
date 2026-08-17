@@ -242,7 +242,7 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 > 💡 以下商品链接指向各电商平台官方搜索页，方便你一键比价。**本站是联盟会员，若你通过链接购买，本站可能获得佣金，而你无需支付额外费用。** 详见[隐私政策](../privacy/)。
 
 ### 主机 / 游戏机
-- 🎮 [PS5 光驱版（淘宝）](https://s.taobao.com/search?q=PS5%E5%85%89%E9%A9%B1%E7%89%88&pid=mm_10543114634_3434450039_116305100447)
+- 🎮 [PS5 光驱版（京东）](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUsJK1olXwQAVVxUCEwXBl8IGloQXwQFXVdVDUkeBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoKGVwcVA4HVldYFxJSXzI4elt8H19-M109ADFsASRgSAViC11QJFJROE4XAmkNHFsUWgYyV19dDUgfAm8BHWslXQAyFTBdCUkRBWoAH2sXXQcEXF5fAUweM28OElwdVAEBUF9YAU0nBG8BK1sRWQ4EVFZbDUMfbS44K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8SBmgIH1kJXQMKXV5eFEsRCmgAEl8dXgAHXFZtCkoWB2Y4K4WY7XULJD8oCR51A259YBpVB3Dc2e5MYzIfA28LCmsXAwMADBwtfTNIdhgKSRNUX2NrNClfWgMRWxNVY157X1RFNT0pdBF2Zi1gUiFmAHNwZFttD00WM244) <!-- 京东联盟真实推广链接，佣金比例约 0.20% -->
 - 🎮 [PS5 Pro（淘宝）](https://s.taobao.com/search?q=PS5%20Pro&pid=mm_10543114634_3434450039_116305100447)
 - 🎮 [Xbox Series X（淘宝）](https://s.taobao.com/search?q=Xbox%20Series%20X&pid=mm_10543114634_3434450039_116305100447)
 
