@@ -2,7 +2,7 @@
 
 > 🌃 **Legend of Night City** · CD Projekt RED · December 10, 2020 · PC / PS5 / Xbox / **Switch 2 / Mac (2026)**
 
-<div style="background: linear-gradient(135deg, #0a0a1a, #1a0a2e); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div style="background: linear-gradient(135deg, #f0f2f8, #e6e8f5); color: #1a1a3d; padding: 1.5rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #d0d4e8;">
 
 ### At a Glance
 

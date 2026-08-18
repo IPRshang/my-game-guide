@@ -2,7 +2,7 @@
 
 > 🔥 **An Epic Across the Lands Between** · FromSoftware × George R.R. Martin · February 25, 2022 · All Platforms
 
-<div style="background: linear-gradient(135deg, #1a1a0f, #2d2d1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div style="background: linear-gradient(135deg, #faf8f2, #f0ebd8); color: #3d331a; padding: 1.5rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #e6dcc0;">
 
 ### At a Glance
 

@@ -2,7 +2,7 @@
 
 > 🏔️ **China's First AAA** · Game Science · August 20, 2024 · PS5 / PC (Steam/Epic/WeGame) / Xbox Series X|S
 
-<div style="background: linear-gradient(135deg, #2c1810, #4a2c17); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div style="background: linear-gradient(135deg, #faf6f1, #f0e6d8); color: #3d2b1f; padding: 1.5rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #e6d5c0;">
 
 ### At a Glance
 

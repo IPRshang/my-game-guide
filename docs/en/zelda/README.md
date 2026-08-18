@@ -2,7 +2,7 @@
 
 > 🗡️ **A New Chapter in Hyrule** · Nintendo · May 12, 2023 · Nintendo Switch / **Switch 2 Edition**
 
-<div style="background: linear-gradient(135deg, #0a2a0a, #1a4a1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div style="background: linear-gradient(135deg, #f0f7f0, #e0f0e0); color: #1a3d1a; padding: 1.5rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #c8e0c8;">
 
 ### At a Glance
 

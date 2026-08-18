@@ -31,7 +31,7 @@ These cookies may be set by Google and third-party advertisers (e.g., `NID`, `ID
 
 This Site may link to third-party websites (game official sites, stores, video platforms). They have their own privacy policies, and we are not responsible for their content or data practices.
 
-Some content on this Site (such as gear recommendations and purchase links) may contain **affiliate marketing links** (e.g., Amazon Associates, partner retailers). If you purchase through these links, this Site may earn a small commission, but **the product price is not increased for you**. Affiliate partners may use cookies to track conversions; please refer to their privacy policies for details.
+Some of our Chinese-language pages (such as gear recommendations and purchase links) may contain **affiliate marketing links** (e.g., JD.com affiliate links). If you purchase through these links, this Site may earn a small commission, but **the product price is not increased for you**. Affiliate partners may use cookies to track conversions; please refer to their privacy policies for details.
 
 ## 4. Children's Privacy
 
