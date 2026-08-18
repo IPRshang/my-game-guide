@@ -4,7 +4,7 @@
   "description": "Game Guide Website powered by VuePress",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs && (git fetch --unshallow || git fetch --deepen=100000 || true) && node scripts/fix-sitemap-lastmod.js && node scripts/add-structured-data.js"
+    "docs:build": "vuepress build docs && (git fetch --unshallow || git fetch --deepen=100000 || true) && node scripts/fix-sitemap-lastmod.js && node scripts/add-structured-data.js && node scripts/fix-canonical.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10",
