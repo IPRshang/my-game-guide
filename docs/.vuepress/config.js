@@ -10,20 +10,7 @@ module.exports = {
       dateFormatter: (time) => {
         return new Date(time).toISOString();
       }
-    }],
-    {
-      name: 'dynamic-canonical',
-      extendPageData ($page) {
-        const canonical = `https://ggexplore.com${$page.path}`;
-        const ogLocale = $page.path.startsWith('/en/') ? 'en_US' : 'zh_CN';
-        $page.frontmatter.head = $page.frontmatter.head || [];
-        $page.frontmatter.head.push(
-          ['link', { rel: 'canonical', href: canonical }],
-          ['meta', { property: 'og:url', content: canonical }],
-          ['meta', { property: 'og:locale', content: ogLocale }]
-        );
-      }
-    }
+    }]
   ],
   locales: {
     '/': {
