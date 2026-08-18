@@ -1,11 +1,11 @@
 module.exports = {
-  base: '/my-game-guide/',
+  base: '/',  // ggexplore.com 为根域名部署，base 必须为 /
   markdown: {
     lineNumbers: true
   },
   plugins: [
     ['sitemap', {
-      hostname: 'https://iprshang.github.io/my-game-guide/',
+      hostname: 'https://ggexplore.com/',
       exclude: ['/404.html'],
       dateFormatter: (time) => {
         return new Date(time).toISOString();
@@ -43,17 +43,17 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.svg' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://iprshang.github.io/my-game-guide/og-image.svg' }],
+    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.svg' }],
     // Canonical URL
-    ['link', { rel: 'canonical', href: 'https://iprshang.github.io/my-game-guide/' }],
+    ['link', { rel: 'canonical', href: 'https://ggexplore.com/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
     ['meta', { name: 'google-site-verification', content: 'GSC_VERIFICATION_CODE_HERE' }],
-    // Baidu Site Verification (需替换为实际验证码)
-    // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
+    // Baidu Site Verification — 去 https://ziyuan.baidu.com 添加站点 ggexplore.com，验证方式选"HTML标签"，把 code 填到下面 content 里
+    ['meta', { name: 'baidu-site-verification', content: 'code-XXXXXX' }],
   ],
   themeConfig: {
     smoothScroll: true,
