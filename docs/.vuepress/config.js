@@ -90,7 +90,8 @@ module.exports = {
               { text: '法术变化', link: '/wukong/spells' },
               { text: '珍玩收集', link: '/wukong/collectibles' },
               { text: '战斗精通', link: '/wukong/combat-guide' },
-              { text: '隐藏要素', link: '/wukong/secrets' }
+              { text: '隐藏要素', link: '/wukong/secrets' },
+              { text: '周年回顾', link: '/wukong/anniversary-2026' }
             ]
           },
           {
@@ -176,6 +177,11 @@ module.exports = {
               title: '隐藏内容',
               collapsable: false,
               children: ['secrets']
+            },
+            {
+              title: '周年 & 资讯',
+              collapsable: false,
+              children: ['anniversary-2026']
             }
           ],
           '/elden-ring/': [
