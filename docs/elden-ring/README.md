@@ -2,7 +2,7 @@
 
 > 🔥 **交界地的史诗** · FromSoftware × George R.R. Martin · 2022 年 2 月 25 日 · 全平台
 
-<div style="background: linear-gradient(135deg, #1a1a0f, #2d2d1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div class="game-hero elden">
 
 ### 游戏速览
 
@@ -103,23 +103,23 @@ A：先探索宁姆格福外围练级，拿到马和骨灰后再碰第一个大 
 
 ## 攻略导航
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+<div class="game-grid">
 
-<div class="game-card" style="border-left: 4px solid #27ae60;">
+<div class="game-card elden">
 
 ### 🌱 新手入门
 - **[30分钟从入门到精通](./beginner-guide)** — 出身选择、开局路线、核心机制
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #e74c3c;">
+<div class="game-card elden">
 
 ### 👹 全 Boss 攻略
 - **[Boss 图鉴 & 打法](./bosses)** — 半神、追忆 Boss、地牢 Boss
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #8e44ad;">
+<div class="game-card elden">
 
 ### ⚔️ 最强流派
 - **[Build 构筑指南](./builds)** — 法师、出血、信仰、力量流

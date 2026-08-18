@@ -1,0 +1,245 @@
+// =====================================================================
+// ggexplore.com 统一设计系统
+// 目标：整洁、一致、可读（WCAG 2.2 AA）。统一字体/字号/行距/配色/间距/层级。
+// 注：VuePress 1.x 用 Stylus 编译此文件，避免使用 CSS 自定义属性(var)，
+//     改用修饰类(.gta6/.wukong/...)与硬编码值，确保稳定编译。
+// =====================================================================
+
+// ---------- 基础排版 ----------
+html { font-size: 16px; }
+
+.theme-default-content {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC",
+    "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #1f2328;
+  word-wrap: break-word;
+}
+
+.theme-default-content p { margin: 1rem 0; }
+.theme-default-content hr { border: none; border-top: 1px solid #e3e8ee; margin: 2rem 0; }
+
+// ---------- 标题层级 ----------
+.theme-default-content h1,
+.theme-default-content h2,
+.theme-default-content h3,
+.theme-default-content h4 {
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1f2328;
+}
+.theme-default-content h1 { font-size: 2rem; margin: 0 0 1rem; line-height: 1.25; }
+.theme-default-content h2 {
+  font-size: 1.5rem;
+  margin: 2.25rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e3e8ee;
+}
+.theme-default-content h3 { font-size: 1.25rem; margin: 1.6rem 0 0.75rem; }
+.theme-default-content h4 { font-size: 1.1rem; margin: 1.25rem 0 0.5rem; }
+
+// ---------- 链接 ----------
+.theme-default-content a {
+  color: #3b5bdb;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+.theme-default-content a:hover { border-bottom-color: currentColor; }
+
+// ---------- 列表 ----------
+.theme-default-content ul,
+.theme-default-content ol { padding-left: 1.5rem; margin: 1rem 0; }
+.theme-default-content li { margin: 0.4rem 0; }
+.theme-default-content li::marker { color: #8b95a1; }
+
+// ---------- 引用块（攻略页顶部信息条）----------
+.theme-default-content blockquote {
+  margin: 1.25rem 0;
+  padding: 0.85rem 1.1rem;
+  border-left: 4px solid #3b5bdb;
+  background: #f5f7ff;
+  border-radius: 0 10px 10px 0;
+  color: #3a4250;
+}
+.theme-default-content blockquote p { margin: 0.35rem 0; }
+
+// ---------- 表格（统一、可读、深色文字）----------
+.theme-default-content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.95rem;
+}
+.theme-default-content th,
+.theme-default-content td {
+  border: 1px solid #e3e8ee;
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  color: #1f2328;
+}
+.theme-default-content th {
+  background: #f1f3f7;
+  font-weight: 600;
+}
+.theme-default-content tr:nth-child(2n) { background: #f7f9fc; }
+
+// ---------- 行内代码 & 代码块 ----------
+.theme-default-content :not(pre) > code {
+  background: #f1f3f7;
+  color: #c0341d;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.theme-default-content pre {
+  border-radius: 10px;
+  margin: 1.25rem 0;
+}
+
+// ---------- 图片 ----------
+.theme-default-content img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+// ---------- 自定义提示块圆角 ----------
+.theme-default-content .custom-block {
+  border-radius: 10px;
+}
+
+// ---------- 游戏速览 hero 卡片 ----------
+.game-hero {
+  margin: 1.25rem 0;
+  padding: 1.1rem 1.25rem;
+  background: #f7f9fc;
+  border: 1px solid #e3e8ee;
+  border-top: 4px solid #3b5bdb;
+  border-radius: 12px;
+}
+.game-hero > h3:first-child {
+  margin-top: 0;
+  color: #3b5bdb;
+}
+.game-hero table { margin: 0.6rem 0 0; }
+
+// ---------- 攻略导航卡片 ----------
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+.game-card {
+  background: #ffffff;
+  border: 1px solid #e3e8ee;
+  border-left: 4px solid #3b5bdb;
+  border-radius: 12px;
+  padding: 1rem 1.15rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.game-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(17, 24, 39, 0.1);
+}
+.game-card > h3:first-child {
+  margin: 0 0 0.5rem;
+  color: #3b5bdb;
+  font-size: 1.1rem;
+}
+.game-card ul { margin: 0.25rem 0 0; padding-left: 1.2rem; }
+.game-card li { margin: 0.25rem 0; }
+
+// ---------- 首页游戏卡片 ----------
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+.home-card {
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  border: 1px solid #e3e8ee;
+  border-top: 4px solid #3b5bdb;
+  border-radius: 14px;
+  padding: 1.25rem 1.35rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.home-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(17, 24, 39, 0.12);
+}
+.home-card > h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+  color: #3b5bdb;
+}
+.home-card .card-sub {
+  margin: 0 0 1rem;
+  color: #57606a;
+  font-size: 0.85rem;
+}
+.home-card .card-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.home-card .card-links a {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  background: #eef2ff;
+  color: #3b5bdb;
+  border: 1px solid #dbe3ff;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-bottom: none;
+}
+.home-card .card-links a:hover {
+  background: #3b5bdb;
+  color: #ffffff;
+}
+.home-card .card-meta {
+  margin-top: auto;
+  font-size: 0.78rem;
+  color: #6b7280;
+}
+
+// ---------- 各游戏配色（深色文字友好，对比度≥4.5:1）----------
+.game-hero.gta6, .game-card.gta6, .home-card.gta6 { border-top-color: #0369a1; border-left-color: #0369a1; }
+.game-hero.gta6 > h3:first-child, .game-card.gta6 > h3:first-child, .home-card.gta6 > h3 { color: #0369a1; }
+
+.game-hero.wukong, .game-card.wukong, .home-card.wukong { border-top-color: #c92a2a; border-left-color: #c92a2a; }
+.game-hero.wukong > h3:first-child, .game-card.wukong > h3:first-child, .home-card.wukong > h3 { color: #c92a2a; }
+
+.game-hero.elden, .game-card.elden, .home-card.elden { border-top-color: #b54708; border-left-color: #b54708; }
+.game-hero.elden > h3:first-child, .game-card.elden > h3:first-child, .home-card.elden > h3 { color: #b54708; }
+
+.game-hero.cyberpunk, .game-card.cyberpunk, .home-card.cyberpunk { border-top-color: #a61e7a; border-left-color: #a61e7a; }
+.game-hero.cyberpunk > h3:first-child, .game-card.cyberpunk > h3:first-child, .home-card.cyberpunk > h3 { color: #a61e7a; }
+
+.game-hero.zelda, .game-card.zelda, .home-card.zelda { border-top-color: #2b8a3e; border-left-color: #2b8a3e; }
+.game-hero.zelda > h3:first-child, .game-card.zelda > h3:first-child, .home-card.zelda > h3 { color: #2b8a3e; }
+
+// ---------- 导航栏 / 侧边栏 链接统一为品牌色 ----------
+.navbar .site-name,
+.navbar .nav-links a,
+.sidebar .sidebar-link.active {
+  color: #3b5bdb;
+}
+.sidebar .sidebar-link.active { border-left-color: #3b5bdb; }
+
+// ---------- 移动端微调 ----------
+@media (max-width: 768px) {
+  .theme-default-content { font-size: 15px; line-height: 1.7; }
+  .theme-default-content h1 { font-size: 1.7rem; }
+  .theme-default-content h2 { font-size: 1.35rem; }
+  .home-grid, .game-grid { grid-template-columns: 1fr; }
+}

@@ -2,7 +2,7 @@
 
 > 🗡️ **海拉鲁新篇章** · 任天堂 · 2023 年 5 月 12 日 · Nintendo Switch / **Switch 2 Edition**
 
-<div style="background: linear-gradient(135deg, #0a2a0a, #1a4a1a); color: #fff; padding: 1.5rem; border-radius: 12px; margin: 1rem 0;">
+<div class="game-hero zelda">
 
 ### 游戏速览
 
@@ -103,23 +103,23 @@ A：单机全程离线。ZELDA NOTES 需联网与任天堂账号，非必需。
 
 ## 攻略导航
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+<div class="game-grid">
 
-<div class="game-card" style="border-left: 4px solid #27ae60;">
+<div class="game-card zelda">
 
 ### ⛩️ 神庙探索
 - **[152 座神庙全攻略](./shrines)** — 按区域分类，含解谜方法
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #e74c3c;">
+<div class="game-card zelda">
 
 ### ⚔️ 武器装备
 - **[武器 & 盾牌推荐](./weapons)** — 最强余料建造组合
 
 </div>
 
-<div class="game-card" style="border-left: 4px solid #f39c12;">
+<div class="game-card zelda">
 
 ### 🍳 料理体系
 - **[全料理配方](./cooking)** — 回复/攻防/耐寒耐热/特殊效果

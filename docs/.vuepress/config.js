@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',  // ggexplore.com 为根域名部署，base 必须为 /
+  base: '/',
   markdown: {
     lineNumbers: true
   },
@@ -43,17 +43,19 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
     ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.svg' }],
+    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.png' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.svg' }],
+    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.png' }],
     // Canonical URL
     ['link', { rel: 'canonical', href: 'https://ggexplore.com/' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
-    ['meta', { name: 'google-site-verification', content: 'GSC_VERIFICATION_CODE_HERE' }],
-    // Baidu Site Verification — 去 https://ziyuan.baidu.com 添加站点 ggexplore.com，验证方式选"HTML标签"，把 code 填到下面 content 里
-    ['meta', { name: 'baidu-site-verification', content: 'code-XXXXXX' }],
+    ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
+    // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
+    ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163601143398403', async: true, crossorigin: 'anonymous' }],
+    // Baidu Site Verification (需替换为实际验证码)
+    // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
   ],
   themeConfig: {
     smoothScroll: true,
@@ -68,6 +70,8 @@ module.exports = {
             text: 'GTA6',
             items: [
               { text: '专区首页', link: '/gta6/' },
+              { text: '发售配置', link: '/gta6/release-guide' },
+              { text: '预购指南', link: '/gta6/preorder-guide' },
               { text: '赚钱攻略', link: '/gta6/money-guide' },
               { text: '剧情攻略', link: '/gta6/story-guide' },
               { text: '最强载具', link: '/gta6/best-vehicles' },
@@ -125,14 +129,16 @@ module.exports = {
               { text: '地底世界', link: '/zelda/depths-guide' },
               { text: '克洛格种子', link: '/zelda/korok-seeds' }
             ]
-          }
+          },
+          { text: '关于', link: '/about/' },
+          { text: '隐私政策', link: '/privacy/' }
         ],
         sidebar: {
           '/gta6/': [
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'money-guide', 'early-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'early-guide']
             },
             {
               title: '进阶攻略',
@@ -231,6 +237,8 @@ module.exports = {
             text: 'GTA6',
             items: [
               { text: 'Hub', link: '/en/gta6/' },
+              { text: 'Release & Specs', link: '/en/gta6/release-guide' },
+              { text: 'Pre-Order Guide', link: '/en/gta6/preorder-guide' },
               { text: 'Money Guide', link: '/en/gta6/money-guide' },
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
@@ -283,14 +291,16 @@ module.exports = {
               { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
               { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' }
             ]
-          }
+          },
+          { text: 'About', link: '/en/about/' },
+          { text: 'Privacy', link: '/en/privacy/' }
         ],
         sidebar: {
           '/en/gta6/': [
             {
               title: 'Getting Started',
               collapsable: false,
-              children: ['', 'money-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide']
             },
             {
               title: 'Advanced',
