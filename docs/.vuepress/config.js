@@ -24,39 +24,44 @@ module.exports = {
       description: 'GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, Zelda: TotK — Complete Strategy Guides'
     }
   },
-  head: [
-    // 百度统计
-    ['script', {}, `
-      var _hmt = _hmt || [];
-      (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?896ed0566f9fdd9364a533ce8cec952a";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-      })();
-    `],
-    // SEO meta tags
-    ['meta', { name: 'robots', content: 'index, follow' }],
-    ['meta', { name: 'author', content: 'Game Strategy Hub' }],
-    ['meta', { name: 'keywords', content: '游戏攻略,game guide,黑神话悟空,艾尔登法环,赛博朋克2077,塞尔达传说,GTA6,Black Myth Wukong,Elden Ring,Cyberpunk 2077,Zelda Tears of the Kingdom' }],
-    // Open Graph / Facebook
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
-    ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.png' }],
-    // Twitter Card
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.png' }],
-    // Canonical URL
-    ['link', { rel: 'canonical', href: 'https://ggexplore.com/' }],
-    // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
-    ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
-    // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
-    ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163601143398403', async: true, crossorigin: 'anonymous' }],
-    // Baidu Site Verification (需替换为实际验证码)
-    // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
-  ],
+  head: (page) => {
+    const canonical = `https://ggexplore.com${page.path}`;
+    const ogLocale = page.path.startsWith('/en/') ? 'en_US' : 'zh_CN';
+    return [
+      // 百度统计
+      ['script', {}, `
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?896ed0566f9fdd9364a533ce8cec952a";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `],
+      // SEO meta tags
+      ['meta', { name: 'robots', content: 'index, follow' }],
+      ['meta', { name: 'author', content: 'Game Strategy Hub' }],
+      ['meta', { name: 'keywords', content: '游戏攻略,game guide,黑神话悟空,艾尔登法环,赛博朋克2077,塞尔达传说,GTA6,Black Myth Wukong,Elden Ring,Cyberpunk 2077,Zelda Tears of the Kingdom' }],
+      // Open Graph / Facebook
+      ['meta', { property: 'og:type', content: 'website' }],
+      ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
+      ['meta', { property: 'og:locale', content: ogLocale }],
+      ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.png' }],
+      ['meta', { property: 'og:url', content: canonical }],
+      // Twitter Card
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
+      ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.png' }],
+      // Canonical URL (per-page)
+      ['link', { rel: 'canonical', href: canonical }],
+      // Google Search Console
+      ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
+      // Google AdSense
+      ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163601143398403', async: true, crossorigin: 'anonymous' }],
+      // Baidu Site Verification (需替换为实际验证码)
+      // ['meta', { name: 'baidu-site-verification', content: 'code-XXXXX' }],
+    ];
+  },
   themeConfig: {
     smoothScroll: true,
     locales: {
