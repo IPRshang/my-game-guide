@@ -22,3 +22,13 @@ date: 2026-07-23
 |--------|------------------------|----------|
 | 码头区 | 红色货柜箱堆顶部       | 现实2小时 |
 | 沼泽地 | 废弃木屋南侧树丛里     | 现实4小时 |
+
+## FAQ
+### How to make money fast in GTA 6?
+The fastest early cash comes from heists, vehicle theft resale,
+and the new passive business loop.
+
+1. **Run the intro heist chain** — highest upfront payout
+2. **Steal and sell exotic cars** at Los Santos Customs
+3. **Buy a nightclub / cocaine lockup** for passive income
+4. **Complete weekly challenges** for 2x bonus weeks
