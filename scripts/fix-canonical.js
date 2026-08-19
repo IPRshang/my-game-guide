@@ -30,11 +30,13 @@ function walk(dir, acc = []) {
 
 /**
  * Map a dist-relative HTML path to the site URL path.
- *   index.html               -> /
- *   gta6/index.html           -> /gta6/
- *   gta6/release-guide.html   -> /gta6/release-guide.html
- *   en/index.html             -> /en/
- *   en/gta6/release-guide.html -> /en/gta6/release-guide.html
+ * GitHub Pages serves both /foo/bar and /foo/bar.html as the same file, so we
+ * use the extension-less form as canonical to avoid duplicate-content splits.
+ *   index.html                  -> /
+ *   gta6/index.html             -> /gta6/
+ *   gta6/release-guide.html     -> /gta6/release-guide
+ *   en/index.html               -> /en/
+ *   en/gta6/release-guide.html  -> /en/gta6/release-guide
  */
 function relToUrlPath(rel) {
   let p = rel.replace(/\\/g, '/');
@@ -43,7 +45,10 @@ function relToUrlPath(rel) {
     // gta6/index.html -> /gta6/
     return '/' + p.slice(0, -'index.html'.length);
   }
-  // gta6/release-guide.html -> /gta6/release-guide.html
+  // gta6/release-guide.html -> /gta6/release-guide  (strip .html)
+  if (p.endsWith('.html')) {
+    p = p.slice(0, -'.html'.length);
+  }
   return '/' + p;
 }
 
