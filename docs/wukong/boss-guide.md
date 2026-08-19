@@ -75,3 +75,13 @@ date: 2026-07-23
 - **关键**：留变身和定身术给 P3 爆发
 
 > 💡 打不过就先去收集装备和丹药，数值也是实力的一部分。
+
+## FAQ
+### How many bosses are in Black Myth Wukong?
+The base game has **81 bosses** total: 36 primary bosses and
+45 mini/elite bosses across 6 chapters.
+
+1. **Chapter 1:** Elderglow Wolf, Guangzhi, Black Bear Guai
+2. **Chapter 2:** Yellow Wind Sage, Fuban
+3. **Chapter 3:** Yellowbrow, Captain Wise-Voice
+4. **Chapter 4–6:** Scorpionlord, Duskveil, Erlang, Great Sage
