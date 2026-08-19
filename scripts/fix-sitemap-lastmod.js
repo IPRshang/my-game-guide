@@ -4,6 +4,14 @@
  * source markdown file (via git history), so Google gets accurate signals
  * instead of a uniform build timestamp.
  *
+ * Also strips the .html extension from content-page <loc> URLs so the sitemap
+ * URL form matches the canonical chosen by fix-canonical.js. GitHub Pages
+ * serves both /foo/bar and /foo/bar.html as the same file; we use the
+ * extension-less form as canonical to avoid duplicate-content splits.
+ *   /gta6/release-guide.html -> /gta6/release-guide
+ *   /en/elden-ring/bosses.html -> /en/elden-ring/bosses
+ * Index/dir pages (/ , /gta6/) and 404 are left unchanged.
+ *
  * Run AFTER `vuepress build` and BEFORE deploying dist/.
  * Requires the repo to be checked out with full history (fetch-depth: 0)
  * so per-file `git log` returns different dates.
@@ -19,6 +27,7 @@ const { execSync } = require('child_process');
 
 const SITEMAP = process.env.SITEMAP_PATH || 'docs/.vuepress/dist/sitemap.xml';
 const DOCS = process.env.DOCS_DIR || 'docs';
+const SITE = 'https://ggexplore.com';
 
 if (!fs.existsSync(SITEMAP)) {
   console.warn('[sitemap-lastmod] not found, skip:', SITEMAP);
@@ -67,6 +76,7 @@ let result = '';
 let lastEnd = 0;
 let matched = 0;
 let updated = 0;
+let stripped = 0;
 
 let m;
 while ((m = urlRe.exec(xml)) !== null) {
@@ -98,6 +108,20 @@ while ((m = urlRe.exec(xml)) !== null) {
       }
       updated++;
     }
+    // Strip .html from content-page locs so canonical URL form matches
+    // fix-canonical.js (GitHub Pages serves both, we pick the extension-less
+    // one as the canonical to avoid duplicate-content splits).
+    //   /gta6/release-guide.html -> /gta6/release-guide
+    //   /en/elden-ring/bosses.html -> /en/elden-ring/bosses
+    // Index/dir pages (/ , /gta6/) and 404 are left unchanged.
+    if (locPath.endsWith('.html')) {
+      const newPath = locPath.slice(0, -'.html'.length);
+      block = block.replace(
+        /<loc>[\s\S]*?<\/loc>/,
+        `<loc>${SITE}${newPath}</loc>`
+      );
+      stripped++;
+    }
   }
 
   result += '<url>' + block + '</url>';
@@ -107,5 +131,5 @@ result += xml.slice(lastEnd);
 
 fs.writeFileSync(SITEMAP, result);
 console.log(
-  `[sitemap-lastmod] processed ${matched} urls, updated ${updated} with real git dates`
+  `[sitemap-lastmod] processed ${matched} urls, updated ${updated} with real git dates, stripped .html from ${stripped}`
 );
