@@ -245,3 +245,15 @@ date: 2026-07-28
 | 日期 | 更新内容 |
 |------|----------|
 | 2026-07-28 | 新增克洛格种子全收集指南 |
+
+## FAQ
+### How many Korok Seeds are in Tears of the Kingdom?
+There are **1000 Korok Seeds** in TOTK. Collect 800 to fully
+upgrade all 4 inventory slots (weapons, bows, shields, seeds).
+
+| Goal | Seeds needed |
+|------|-------------|
+| Max weapon slots | ~440 |
+| Max bow slots | ~200 |
+| Max shield slots | ~160 |
+| Max seed pouch | ~80 |
