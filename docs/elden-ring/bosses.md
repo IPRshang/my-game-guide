@@ -422,3 +422,14 @@ head:
     🗺️ 打开交互式Boss地图
   </a>
 </p>
+
+## FAQ
+### What order should you fight Elden Ring bosses?
+The recommended story order is: Margit → Godrick → Rennala →
+Radahn → Morgott → Godfrey (golden shade) → Malenia →
+Margit (later) → Placidusax → Radagon & Elden Beast.
+
+1. **Early game:** Margit, the Fell Omen → Godrick the Grafted
+2. **Mid game:** Rennala, Red Wolf → Starscourge Radahn
+3. **Late game:** Morgott → Malenia, Blade of Miquella
+4. **Final:** Radagon of the Golden Order → Elden Beast
