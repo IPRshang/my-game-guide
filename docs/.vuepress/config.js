@@ -136,7 +136,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'early-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'early-guide', 'map-guide']
             },
             {
               title: '进阶攻略',
@@ -303,7 +303,7 @@ module.exports = {
             {
               title: 'Getting Started',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'money-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'map-guide']
             },
             {
               title: 'Advanced',
