@@ -75,7 +75,8 @@ module.exports = {
               { text: '角色技能', link: '/gta6/character-guide' },
               { text: '成就奖杯', link: '/gta6/achievements' },
               { text: '新手开局', link: '/gta6/early-guide' },
-              { text: '资料库', link: '/gta6/database' }
+              { text: '资料库', link: '/gta6/database' },
+              { text: '地图地点', link: '/gta6/map-guide' },
             ]
           },
           {
@@ -247,7 +248,8 @@ module.exports = {
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
               { text: 'Character Skills', link: '/en/gta6/character-guide' },
               { text: 'Achievements', link: '/en/gta6/achievements' },
-              { text: 'Database', link: '/en/gta6/database' }
+              { text: 'Database', link: '/en/gta6/database' },
+              { text: 'Map & Locations', link: '/en/gta6/map-guide' },
             ]
           },
           {
