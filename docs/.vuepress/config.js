@@ -22,6 +22,11 @@ module.exports = {
       lang: 'en-US',
       title: 'Game Strategy Hub',
       description: 'GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, Zelda: TotK — Complete Strategy Guides'
+    },
+    '/es/': {
+      lang: 'es-ES',
+      title: 'Guías de Videojuegos',
+      description: 'GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, Zelda: TotK — Guías completas en español'
     }
   },
   head: [
@@ -393,6 +398,84 @@ module.exports = {
           ]
         },
         footer: 'Copyright © 2026 Game Strategy Hub | Powered by VuePress'
+      },
+      '/es/': {
+        label: 'Español',
+        selectText: 'Idiomas',
+        lastUpdated: 'Última actualización',
+        nav: [
+          { text: 'Inicio', link: '/es/' },
+          {
+            text: 'GTA 6',
+            items: [
+              { text: 'Inicio de sección', link: '/es/gta6/' }
+            ]
+          },
+          {
+            text: 'Black Myth: Wukong',
+            items: [
+              { text: 'Inicio de sección', link: '/es/wukong/' }
+            ]
+          },
+          {
+            text: 'Elden Ring',
+            items: [
+              { text: 'Inicio de sección', link: '/es/elden-ring/' }
+            ]
+          },
+          {
+            text: 'Cyberpunk 2077',
+            items: [
+              { text: 'Inicio de sección', link: '/es/cyberpunk/' }
+            ]
+          },
+          {
+            text: 'Zelda: TotK',
+            items: [
+              { text: 'Inicio de sección', link: '/es/zelda/' }
+            ]
+          },
+          { text: 'Acerca de', link: '/es/about/' },
+          { text: 'Privacidad', link: '/es/privacy/' }
+        ],
+        sidebar: {
+          '/es/gta6/': [
+            {
+              title: 'GTA 6',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/wukong/': [
+            {
+              title: 'Black Myth: Wukong',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/elden-ring/': [
+            {
+              title: 'Elden Ring',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/cyberpunk/': [
+            {
+              title: 'Cyberpunk 2077',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/zelda/': [
+            {
+              title: 'Zelda: TotK',
+              collapsable: false,
+              children: ['']
+            }
+          ]
+        },
+        footer: 'Copyright © 2026 Guías de Videojuegos | Impulsado por VuePress'
       }
     }
   }
