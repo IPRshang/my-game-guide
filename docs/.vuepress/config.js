@@ -134,6 +134,7 @@ module.exports = {
               { text: '克洛格种子', link: '/zelda/korok-seeds' }
             ]
           },
+          { text: '🔥每日推荐', link: '/daily/' },
           { text: '关于', link: '/about/' },
           { text: '隐私政策', link: '/privacy/' }
         ],
@@ -191,12 +192,12 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'beginner-guide']
+              children: ['', 'beginner-guide', 'early-game', 'summary', 'co-op']
             },
             {
               title: 'Boss与Build',
               collapsable: false,
-              children: ['bosses', 'builds', 'legendary-weapons', 'quests', 'dlc-guide']
+              children: ['bosses', 'builds', 'legendary-weapons', 'quests', 'dlc-guide', 'best-weapons', 'malenia']
             }
           ],
           '/cyberpunk/': [

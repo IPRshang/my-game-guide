@@ -73,6 +73,19 @@
 
 ---
 
+## 🔥 每日游戏推荐
+
+<div class="home-card" style="max-width:420px; margin:0 auto; text-align:center;">
+  <h3>🏁 今日精选：Forza Horizon 6</h3>
+  <p class="card-sub">开放世界竞速神作 · Metacritic 91</p>
+  <div class="card-links">
+    <a href="/daily/">📅 查看今日推荐</a>
+  </div>
+  <div class="card-meta">每天一款高质量游戏 · 持续更新</div>
+</div>
+
+---
+
 ## 📊 网站统计
 
 | 数据 | 数量 |

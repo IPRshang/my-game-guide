@@ -1,6 +1,6 @@
 # 网站推广执行手册
 
-> 目标站点：https://iprshang.github.io/my-game-guide/
+> 目标站点：https://ggexplore.com/
 > 双语攻略站：GTA6 · 黑神话悟空 · 艾尔登法环 · 赛博朋克2077 · 塞尔达传说 TotK
 
 ---
@@ -9,9 +9,9 @@
 
 ### 1.1 Google Search Console
 - 访问 https://search.google.com/search-console
-- 添加资源：`https://iprshang.github.io/my-game-guide/`
+- 添加资源：`https://ggexplore.com/`
 - 验证方式：选择 HTML 标签验证，将验证码填入 config.js head 中
-- 提交 sitemap: `https://iprshang.github.io/my-game-guide/sitemap.xml`
+- 提交 sitemap: `https://ggexplore.com/sitemap.xml`
 
 ### 1.2 Bing Webmaster Tools
 - 访问 https://www.bing.com/webmasters
@@ -40,7 +40,7 @@ NGA 是中国最大的核心游戏玩家社区，攻略帖流量极高。
 ```
 最近整理了《xxx》的全套攻略，建了一个攻略站方便查阅：
 
-📌 地址：https://iprshang.github.io/my-game-guide/xxx/
+📌 地址：https://ggexplore.com/xxx/
 
 包含内容：
 - [列出该游戏的攻略页面]
@@ -80,7 +80,7 @@ NGA 是中国最大的核心游戏玩家社区，攻略帖流量极高。
 正文：
 整理了黑神话的完整攻略站，分享给兄弟们：
 
-📍 https://iprshang.github.io/my-game-guide/wukong/
+📍 https://ggexplore.com/wukong/
 
 包含：
 ✅ 全 Boss 攻略（从牯护院到最终Boss）
@@ -98,7 +98,7 @@ NGA 是中国最大的核心游戏玩家社区，攻略帖流量极高。
 正文：
 From社老玩家整理的环攻略站：
 
-📍 https://iprshang.github.io/my-game-guide/elden-ring/
+📍 https://ggexplore.com/elden-ring/
 
 包含：
 ✅ 新手入门攻略
@@ -116,7 +116,7 @@ From社老玩家整理的环攻略站：
 正文：
 整理了夜之城的攻略站，特别做了浪漫线和结局的关键选择：
 
-📍 https://iprshang.github.io/my-game-guide/cyberpunk/
+📍 https://ggexplore.com/cyberpunk/
 
 重点：
 ✅ 4条浪漫线完整攻略（Panam/Judy/River/Kerry 性别锁定详解）
@@ -134,7 +134,7 @@ From社老玩家整理的环攻略站：
 正文：
 整理了王国之泪的全面攻略站：
 
-📍 https://iprshang.github.io/my-game-guide/zelda/
+📍 https://ggexplore.com/zelda/
 
 包含：
 ✅ 152神庙详细攻略（120地面+32天空）
@@ -152,7 +152,7 @@ From社老玩家整理的环攻略站：
 正文：
 整理了GTA6的攻略站（游戏未发售，先搭好框架）：
 
-📍 https://iprshang.github.io/my-game-guide/gta6/
+📍 https://ggexplore.com/gta6/
 
 现有内容：
 ✅ 赚钱攻略指南
@@ -181,7 +181,7 @@ From社老玩家整理的环攻略站：
 **回答模板：**
 ```
 整理了《xxx》的详细攻略，可以直接看这个攻略站：
-https://iprshang.github.io/my-game-guide/xxx/
+https://ggexplore.com/xxx/
 
 （然后从攻略中摘取2-3段关键内容作为回答正文）
 
@@ -245,8 +245,8 @@ I've been working on a clean, ad-free strategy guide website for Elden Ring. It 
 ✅ Beginner guide for new players
 ✅ Build recommendations
 
-📌 Guide: https://iprshang.github.io/my-game-guide/en/elden-ring/
-📌 Boss Flowchart: https://iprshang.github.io/my-game-guide/en/elden-ring/bosses.html
+📌 Guide: https://ggexplore.com/en/elden-ring/
+📌 Boss Flowchart: https://ggexplore.com/en/elden-ring/bosses.html
 
 Also covers Black Myth Wukong, Cyberpunk 2077, Zelda TotK, and GTA6 (same site).
 
@@ -260,7 +260,7 @@ Title: I made a Black Myth: Wukong guide website with hidden areas route diagram
 Post:
 Created a comprehensive Wukong guide:
 
-📍 https://iprshang.github.io/my-game-guide/en/wukong/
+📍 https://ggexplore.com/en/wukong/
 
 What's inside:
 ✅ All Bosses guide (from Bullguard to final boss)
@@ -278,7 +278,7 @@ Title: Cyberpunk 2077 romance guide with critical choice flowchart
 Post:
 Made a romance guide because the wrong choices can lock you out permanently:
 
-📍 https://iprshang.github.io/my-game-guide/en/cyberpunk/
+📍 https://ggexplore.com/en/cyberpunk/
 
 ✅ All 4 romance options (Panam/Judy/River/Kerry) with gender requirements
 ✅ Critical choice flowchart — avoid the "permanent lockout" mistakes
@@ -295,7 +295,7 @@ Title: Zelda TotK shrine guide — all 152 shrines with regional distribution ch
 Post:
 Complete shrine guide for Tears of the Kingdom:
 
-📍 https://iprshang.github.io/my-game-guide/en/zelda/
+📍 https://ggexplore.com/en/zelda/
 
 ✅ All 152 shrines (120 Surface + 32 Sky)
 ✅ Regional distribution chart (9 regions breakdown)
@@ -312,7 +312,7 @@ Title: Built a GTA6 strategy guide hub — ready for launch day
 Post:
 Got excited about GTA6 and built a guide site ready for when it drops:
 
-📍 https://iprshang.github.io/my-game-guide/en/gta6/
+📍 https://ggexplore.com/en/gta6/
 
 Current sections:
 ✅ Money-making strategies
