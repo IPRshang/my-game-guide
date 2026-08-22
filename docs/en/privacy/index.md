@@ -6,7 +6,7 @@ title: Privacy Policy
 
 Last updated: 2026-08-09
 
-Welcome to **Game Strategy Hub** (this "Site"). We provide original strategy guides for popular games including GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, and Zelda: Tears of the Kingdom. We respect your privacy, and this policy explains how information related to you is handled.
+Welcome to **Game Strategy Hub** (this "Site"). We provide original strategy guides for popular games including GTA6, Arknights: Endfield, and Neverness to Everness. We respect your privacy, and this policy explains how information related to you is handled.
 
 ## 1. Information We Collect
 

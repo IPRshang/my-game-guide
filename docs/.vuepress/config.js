@@ -8,7 +8,8 @@ module.exports = {
       hostname: 'https://ggexplore.com/',
       exclude: ['/404.html'],
       dateFormatter: (time) => {
-        return new Date(time).toISOString();
+        const d = new Date(time);
+        return isNaN(d.getTime()) ? new Date().toISOString() : d.toISOString();
       }
     }]
   ],
@@ -16,17 +17,17 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '热门游戏攻略站',
-      description: 'GTA6、黑神话悟空、艾尔登法环、赛博朋克2077、塞尔达传说 — 最全中文游戏攻略大全'
+      description: 'GTA6、Arknights: Endfield、Neverness to Everness — 热门游戏攻略站'
     },
     '/en/': {
       lang: 'en-US',
       title: 'Game Strategy Hub',
-      description: 'GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, Zelda: TotK — Complete Strategy Guides'
+      description: 'GTA6, Arknights: Endfield, Neverness to Everness — Game Strategy Guides'
     },
     '/es/': {
       lang: 'es-ES',
       title: 'Guías de Videojuegos',
-      description: 'GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, Zelda: TotK — Guías completas en español'
+      description: 'GTA6, Arknights: Endfield, Neverness to Everness — Guías de estrategia'
     }
   },
   head: [
@@ -43,7 +44,7 @@ module.exports = {
     // SEO meta tags
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'author', content: 'Game Strategy Hub' }],
-    ['meta', { name: 'keywords', content: '游戏攻略,game guide,黑神话悟空,艾尔登法环,赛博朋克2077,塞尔达传说,GTA6,Black Myth Wukong,Elden Ring,Cyberpunk 2077,Zelda Tears of the Kingdom' }],
+    ['meta', { name: 'keywords', content: '游戏攻略,game guide,GTA6,Arknights Endfield,Neverness to Everness,redeem codes,tier list,ggexplore' }],
     // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
@@ -84,56 +85,8 @@ module.exports = {
               { text: '地图地点', link: '/gta6/map-guide' },
             ]
           },
-          {
-            text: '黑神话悟空',
-            items: [
-              { text: '专区首页', link: '/wukong/' },
-              { text: 'Boss攻略', link: '/wukong/boss-guide' },
-              { text: '流派配装', link: '/wukong/builds' },
-              { text: '法术变化', link: '/wukong/spells' },
-              { text: '珍玩收集', link: '/wukong/collectibles' },
-              { text: '战斗精通', link: '/wukong/combat-guide' },
-              { text: '隐藏要素', link: '/wukong/secrets' },
-              { text: '周年回顾', link: '/wukong/anniversary-2026' }
-            ]
-          },
-          {
-            text: '艾尔登法环',
-            items: [
-              { text: '专区首页', link: '/elden-ring/' },
-              { text: '新手攻略', link: '/elden-ring/beginner-guide' },
-              { text: 'Boss攻略', link: '/elden-ring/bosses' },
-              { text: '流派配装', link: '/elden-ring/builds' },
-              { text: '传说武器', link: '/elden-ring/legendary-weapons' },
-              { text: 'NPC支线', link: '/elden-ring/quests' },
-              { text: 'DLC开荒', link: '/elden-ring/dlc-guide' },
-              { text: '🗺️ Boss地图', link: '/map.html' }
-            ]
-          },
-          {
-            text: '赛博朋克2077',
-            items: [
-              { text: '专区首页', link: '/cyberpunk/' },
-              { text: '流派配装', link: '/cyberpunk/builds' },
-              { text: '义体改造', link: '/cyberpunk/cyberware' },
-              { text: '浪漫攻略', link: '/cyberpunk/romance' },
-              { text: '结局攻略', link: '/cyberpunk/endings' },
-              { text: '往日之影', link: '/cyberpunk/phantom-liberty' },
-              { text: '成就奖杯', link: '/cyberpunk/achievements' }
-            ]
-          },
-          {
-            text: '塞尔达传说',
-            items: [
-              { text: '专区首页', link: '/zelda/' },
-              { text: '神庙攻略', link: '/zelda/shrines' },
-              { text: '武器图鉴', link: '/zelda/weapons' },
-              { text: '烹饪食谱', link: '/zelda/cooking' },
-              { text: '左纳乌装置', link: '/zelda/zonai-devices' },
-              { text: '地底世界', link: '/zelda/depths-guide' },
-              { text: '克洛格种子', link: '/zelda/korok-seeds' }
-            ]
-          },
+          { text: 'Endfield', link: '/en/endfield/' },
+          { text: 'NTE', link: '/en/nte/' },
           { text: '🔥每日推荐', link: '/daily/' },
           { text: '关于', link: '/about/' },
           { text: '隐私政策', link: '/privacy/' }
@@ -166,74 +119,7 @@ module.exports = {
               children: ['database']
             }
           ],
-          '/wukong/': [
-            {
-              title: '战斗攻略',
-              collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'spells', 'combat-guide']
-            },
-            {
-              title: '收集系统',
-              collapsable: false,
-              children: ['collectibles']
-            },
-            {
-              title: '隐藏内容',
-              collapsable: false,
-              children: ['secrets']
-            },
-            {
-              title: '周年 & 资讯',
-              collapsable: false,
-              children: ['anniversary-2026']
-            }
-          ],
-          '/elden-ring/': [
-            {
-              title: '新手上路',
-              collapsable: false,
-              children: ['', 'beginner-guide', 'early-game', 'summary', 'co-op']
-            },
-            {
-              title: 'Boss与Build',
-              collapsable: false,
-              children: ['bosses', 'builds', 'legendary-weapons', 'quests', 'dlc-guide', 'best-weapons', 'malenia']
-            }
-          ],
-          '/cyberpunk/': [
-            {
-              title: '构筑攻略',
-              collapsable: false,
-              children: ['', 'builds', 'cyberware']
-            },
-            {
-              title: '剧情指南',
-              collapsable: false,
-              children: ['romance', 'endings', 'phantom-liberty']
-            },
-            {
-              title: '成就收集',
-              collapsable: false,
-              children: ['achievements']
-            }
-          ],
-          '/zelda/': [
-            {
-              title: '探索攻略',
-              collapsable: false,
-              children: ['', 'shrines', 'weapons', 'zonai-devices', 'depths-guide']
-            },
-            {
-              title: '生存技巧',
-              collapsable: false,
-              children: ['cooking']
-            },
-            {
-              title: '收集指南',
-              collapsable: false,
-              children: ['korok-seeds']
-            }
-          ]
+
         },
         footer: 'Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动'
       },
@@ -258,51 +144,8 @@ module.exports = {
               { text: 'Map & Locations', link: '/en/gta6/map-guide' },
             ]
           },
-          {
-            text: 'Wukong',
-            items: [
-              { text: 'Hub', link: '/en/wukong/' },
-              { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
-              { text: 'Builds', link: '/en/wukong/builds' },
-              { text: 'Spells', link: '/en/wukong/spells' },
-              { text: 'Collectibles', link: '/en/wukong/collectibles' },
-              { text: 'Secrets', link: '/en/wukong/secrets' }
-            ]
-          },
-          {
-            text: 'Elden Ring',
-            items: [
-              { text: 'Hub', link: '/en/elden-ring/' },
-              { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
-              { text: 'Boss Guide', link: '/en/elden-ring/bosses' },
-              { text: 'Builds', link: '/en/elden-ring/builds' },
-              { text: 'Legendary Weapons', link: '/en/elden-ring/legendary-weapons' },
-              { text: 'NPC Quests', link: '/en/elden-ring/quests' },
-              { text: '🗺️ Boss Map', link: '/map.html' }
-            ]
-          },
-          {
-            text: 'Cyberpunk 2077',
-            items: [
-              { text: 'Hub', link: '/en/cyberpunk/' },
-              { text: 'Builds', link: '/en/cyberpunk/builds' },
-              { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
-              { text: 'Romance', link: '/en/cyberpunk/romance' },
-              { text: 'Endings', link: '/en/cyberpunk/endings' },
-              { text: 'Achievements', link: '/en/cyberpunk/achievements' }
-            ]
-          },
-          {
-            text: 'Zelda: TotK',
-            items: [
-              { text: 'Hub', link: '/en/zelda/' },
-              { text: 'Shrines', link: '/en/zelda/shrines' },
-              { text: 'Weapons', link: '/en/zelda/weapons' },
-              { text: 'Cooking', link: '/en/zelda/cooking' },
-              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
-              { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' }
-            ]
-          },
+          { text: 'Arknights: Endfield', link: '/en/endfield/' },
+          { text: 'Neverness to Everness', link: '/en/nte/' },
           { text: 'About', link: '/en/about/' },
           { text: 'Privacy', link: '/en/privacy/' }
         ],
@@ -334,67 +177,18 @@ module.exports = {
               children: ['database']
             }
           ],
-          '/en/wukong/': [
+'/en/endfield/': [
             {
-              title: 'Combat',
+              title: 'Endfield',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'spells']
-            },
-            {
-              title: 'Collectibles',
-              collapsable: false,
-              children: ['collectibles']
-            },
-            {
-              title: 'Secrets',
-              collapsable: false,
-              children: ['secrets']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner']
             }
           ],
-          '/en/elden-ring/': [
+          '/en/nte/': [
             {
-              title: 'Getting Started',
+              title: 'NTE',
               collapsable: false,
-              children: ['', 'beginner-guide']
-            },
-            {
-              title: 'Boss & Builds',
-              collapsable: false,
-              children: ['bosses', 'builds', 'legendary-weapons', 'quests']
-            }
-          ],
-          '/en/cyberpunk/': [
-            {
-              title: 'Builds',
-              collapsable: false,
-              children: ['', 'builds', 'cyberware']
-            },
-            {
-              title: 'Story',
-              collapsable: false,
-              children: ['romance', 'endings']
-            },
-            {
-              title: 'Achievements',
-              collapsable: false,
-              children: ['achievements']
-            }
-          ],
-          '/en/zelda/': [
-            {
-              title: 'Exploration',
-              collapsable: false,
-              children: ['', 'shrines', 'weapons', 'zonai-devices']
-            },
-            {
-              title: 'Survival',
-              collapsable: false,
-              children: ['cooking']
-            },
-            {
-              title: 'Collectibles',
-              collapsable: false,
-              children: ['korok-seeds']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha']
             }
           ]
         },
@@ -412,30 +206,6 @@ module.exports = {
               { text: 'Inicio de sección', link: '/es/gta6/' }
             ]
           },
-          {
-            text: 'Black Myth: Wukong',
-            items: [
-              { text: 'Inicio de sección', link: '/es/wukong/' }
-            ]
-          },
-          {
-            text: 'Elden Ring',
-            items: [
-              { text: 'Inicio de sección', link: '/es/elden-ring/' }
-            ]
-          },
-          {
-            text: 'Cyberpunk 2077',
-            items: [
-              { text: 'Inicio de sección', link: '/es/cyberpunk/' }
-            ]
-          },
-          {
-            text: 'Zelda: TotK',
-            items: [
-              { text: 'Inicio de sección', link: '/es/zelda/' }
-            ]
-          },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -447,34 +217,7 @@ module.exports = {
               children: ['']
             }
           ],
-          '/es/wukong/': [
-            {
-              title: 'Black Myth: Wukong',
-              collapsable: false,
-              children: ['']
-            }
-          ],
-          '/es/elden-ring/': [
-            {
-              title: 'Elden Ring',
-              collapsable: false,
-              children: ['']
-            }
-          ],
-          '/es/cyberpunk/': [
-            {
-              title: 'Cyberpunk 2077',
-              collapsable: false,
-              children: ['']
-            }
-          ],
-          '/es/zelda/': [
-            {
-              title: 'Zelda: TotK',
-              collapsable: false,
-              children: ['']
-            }
-          ]
+
         },
         footer: 'Copyright © 2026 Guías de Videojuegos | Impulsado por VuePress'
       }

@@ -3,7 +3,7 @@ title: "Acerca de"
 description: "ggexplore — Guías de videojuegos en español"
 ---
 
-**ggexplore** es un proyecto de guías de videojuegos hecho por y para la comunidad de habla hispana. Nuestro objetivo es reunir análisis, guías y bases de datos detalladas sobre los títulos más relevantes del momento: *GTA 6, Black Myth: Wukong, Elden Ring, Cyberpunk 2077* y *Zelda: Tears of the Kingdom*.
+**ggexplore** es un proyecto de guías de videojuegos hecho por y para la comunidad de habla hispana. Nuestro objetivo es reunir análisis, guías y bases de datos detalladas sobre los títulos más relevantes del momento: *GTA 6, Arknights: Endfield* y *Neverness to Everness*.
 
 ### Qué hacemos
 

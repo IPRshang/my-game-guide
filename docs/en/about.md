@@ -4,7 +4,7 @@ title: About
 
 # About
 
-**Game Strategy Hub** is a player-built, **original** game guide site covering GTA6, Black Myth Wukong, Elden Ring, Cyberpunk 2077, and Zelda: Tears of the Kingdom.
+**Game Strategy Hub** is a player-built, **original** game guide site covering GTA6, Arknights: Endfield, and Neverness to Everness.
 
 ## What We Do
 

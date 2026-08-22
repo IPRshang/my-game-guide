@@ -7,7 +7,7 @@ description: "ggexplore — Guías de videojuegos en español"
 
 Bienvenido a la sección en español de **ggexplore**. Encuentra guías profesionales, bases de datos detalladas y análisis de los juegos más esperados, actualizados de forma constante.
 
-> **GTA 6 · Black Myth: Wukong · Elden Ring · Cyberpunk 2077 · Zelda: Tears of the Kingdom**
+> **GTA 6 · Arknights: Endfield · Neverness to Everness**
 >
 
 ## Elige tu juego
@@ -17,25 +17,15 @@ Bienvenido a la sección en español de **ggexplore**. Encuentra guías profesio
 Vuelve a Vice City en *GTA 6*, con Lucía y Jason como protagonistas. Guía de mapa, misiones, dinero y vehículos.\
   → [Leer guía de GTA 6](/es/gta6/)
 
-### 🐵 Black Myth: Wukong
+### 🏭 Arknights: Endfield
 
-Action RPG souls-like basado en la mitología china. Guía de construcción, hechizos, jefes y capítulos.\
-  → [Leer guía de Black Myth: Wukong](/es/wukong/)
+RPG industrial 3D con automatización de base. Códigos de canje, lista de personajes, guía para principiantes y planificador de base interactivo.\
+  → [Leer guía de Arknights: Endfield](/en/endfield/)
 
-### 💍 Elden Ring
+### 🌃 Neverness to Everness (NTE)
 
-El mundo abierto de FromSoftware. Guía de builds, jefes, mapa interactivo y finales.\
-  → [Leer guía de Elden Ring](/es/elden-ring/)
-
-### 🤖 Cyberpunk 2077
-
-Night City y su cyberware. Guía de implantes, romances, finales y construcción de personaje.\
-  → [Leer guía de Cyberpunk 2077](/es/cyberpunk/)
-
-### 🗡️ Zelda: Tears of the Kingdom
-
-Hyrule, los cielos y las profundidades. Guía de dispositivos Zonai, santuarios y construcción.\
-  → [Leer guía de Zelda: Tears of the Kingdom](/es/zelda/)
+ARPG de mundo abierto urbano. Códigos de canje, lista de personajes, guía para principiantes y simulador de gacha.\
+  → [Leer guía de NTE](/en/nte/)
 
 ## Más información
 
