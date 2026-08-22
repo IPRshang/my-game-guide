@@ -39,13 +39,15 @@ GTA6's heat is driven by **GTA5's 200+ million lifetime sales**. But the bigger 
 
 ## 2. Which Edition Should You Buy?
 
-### 2.1 Edition Comparison
+### 2.1 Edition Comparison (Official Pricing)
 
-| Edition | Estimated Price | Best For | Core Contents |
+Rockstar revealed pricing with pre-orders on June 25, 2026 (USD list; regional tax-inclusive prices vary by store):
+
+| Edition | Official Price | Best For | Core Contents |
 |---|---|---|---|
-| **Standard Edition** | $59 – $69 | Most players | Full base game |
-| **Deluxe Edition** | $79 – $89 | Day-one Online players | Base game + starter cash + exclusive property/vehicles |
-| **Collector's Edition** | Limited, price varies | Hardcore collectors | Physical collectibles + digital deluxe content |
+| **Standard Edition** | **$79.99** | Most players | Full base game |
+| **Ultimate Edition (digital only)** | **$99.99** | Day-one Online players | Base game + exclusive in-game content (vehicles / cash bonuses, etc.) |
+| **Physical Edition (code-in-box)** | Same as Standard | Collectors / resellers | Boxed redeem code; pre-load around Nov 12 |
 
 ### 2.2 Quick Recommendation
 
@@ -232,3 +234,54 @@ A: No. PS5 is the current-gen standard console and will remain relevant for 3–
 - [GTA6 Money Guide: Fastest Ways to Make Money Online](./money-guide.md)
 - [GTA6 Beginner Guide: What to Do in the First 10 Hours](./early-guide.md)
 - [GTA6 Best Vehicles Recommendations](./best-vehicles.md)
+
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I pre-order GTA6, and how much is it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Pre-orders opened June 25, 2026 on the PS5 and Xbox digital stores. The Standard Edition is $79.99 and the Ultimate Edition (digital only) is $99.99; regional tax-inclusive prices vary by store."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between GTA6 Standard and Ultimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Standard Edition is the full base game. The Ultimate Edition (digital only) adds exclusive in-game content such as specific vehicles and cash bonuses, which help with an early GTA Online 2 start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a refund on a GTA6 pre-order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-orders are usually fully refundable before launch. After launch, PlayStation and Microsoft stores generally allow refunds within 14 days if barely played; Steam and Epic allow 14 days with under 2 hours of play. Do not start the download or play before launch, or refunds get harder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When do GTA6 pre-order bonuses end?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-order bonuses typically end before the official launch day. If you're certain you'll buy, complete your pre-order before the November 19, 2026 launch to lock in the bonus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can PC players pre-order GTA6 now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at launch. GTA6 launches only on PS5 and Xbox Series X|S; the PC date is TBA (expected 2027 or later). PC players can wishlist on Steam / Epic to get the PC launch notification."
+      }
+    }
+  ]
+}
+</script>

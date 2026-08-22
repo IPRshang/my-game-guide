@@ -29,9 +29,9 @@
   <h3>🏭 Arknights: Endfield</h3>
   <p class="card-sub">终末地 · 3D工业RPG · 基地自动化</p>
   <div class="card-links">
-    <a href="/en/endfield/">📖 攻略中心</a>
-    <a href="/en/endfield/codes">🎟️ 兑换码</a>
-    <a href="/en/endfield/planner">🛠️ 基地规划器</a>
+    <a href="/endfield/">📖 攻略中心</a>
+    <a href="/endfield/codes">🎟️ 兑换码</a>
+    <a href="/endfield/planner">🛠️ 基地规划器</a>
   </div>
   <div class="card-meta">新游 · 兑换码 · 角色榜 · 新手 · 交互规划器</div>
 </div>
@@ -40,9 +40,9 @@
   <h3>🌃 Neverness to Everness</h3>
   <p class="card-sub">NTE · 都市开放世界ARPG</p>
   <div class="card-links">
-    <a href="/en/nte/">📖 攻略中心</a>
-    <a href="/en/nte/codes">🎟️ 兑换码</a>
-    <a href="/en/nte/gacha">🎲 抽卡模拟器</a>
+    <a href="/nte/">📖 攻略中心</a>
+    <a href="/nte/codes">🎟️ 兑换码</a>
+    <a href="/nte/gacha">🎲 抽卡模拟器</a>
   </div>
   <div class="card-meta">新游 · 兑换码 · 角色榜 · 新手 · 抽卡模拟器</div>
 </div>
@@ -69,7 +69,7 @@
 | 数据 | 数量 |
 |------|:--:|
 | 🎮 游戏数量 | **3**（GTA6 · Endfield · NTE） |
-| 📄 攻略页数 | **30+**（中英文） |
+| 📄 攻略页数 | **40+**（中/英/西三语） |
 | 🛠️ 交互工具 | **2**（Endfield基地规划器 · NTE抽卡模拟器） |
 | 📊 资料库 | **1**（GTA6：角色/武器/载具） |
 | 🗣️ 评论区 | **Giscus**（全部页面） |
@@ -80,10 +80,10 @@
 ## 🔥 推荐阅读
 
 - 📊 [GTA6 资料库](./gta6/database) — Fandom风格：角色、武器、载具数据表
-- 🎟️ [Arknights: Endfield 兑换码](/en/endfield/codes) — 最新礼包码 + 兑换教程
-- 🛠️ [Endfield 基地规划器](/en/endfield/planner) — 交互式产能/布局模拟
-- 🎲 [NTE 抽卡模拟器](/en/nte/gacha) — 模拟十连，规划你的抽卡资源
-- 📖 [NTE 新手攻略](/en/nte/beginner) — 开服第一天该做什么
+- 🎟️ [Arknights: Endfield 兑换码](/endfield/codes) — 最新礼包码 + 兑换教程
+- 🛠️ [Endfield 基地规划器](/endfield/planner) — 交互式产能/布局模拟
+- 🎲 [NTE 抽卡模拟器](/nte/gacha) — 模拟十连，规划你的抽卡资源
+- 📖 [NTE 新手攻略](/nte/beginner) — 开服第一天该做什么
 
 ---
 

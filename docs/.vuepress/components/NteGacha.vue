@@ -18,17 +18,19 @@
     </div>
     <ul class="nte-log">
       <li v-for="(res, i) in log" :key="i" :class="'nte-' + res.rarity.toLowerCase()">
-        {{ res.rarity }} · {{ res.name }}
+        {{ res.name }}
       </li>
     </ul>
   </div>
 </template>
 
 <script>
-const POOL = {
-  SSR: ['Aira', 'Miyabi', 'Ellen', 'Zhu Yuan', 'Aston'],
-  SR: ['Nicole', 'Billy', 'Anby', 'Ben', 'Corin'],
-  R: ['Soldier', 'Mechanic', 'Scout', 'Medic', 'Engineer']
+// 角色名使用通用占位标签，避免与任何真实游戏角色（如其他游戏的已公布角色）混淆。
+// 若需展示 NTE 真实角色，按官方名单替换 PLACEHOLDER 数组即可。
+const PLACEHOLDER = {
+  SSR: ['★ SSR 角色'],
+  SR: ['◆ SR 角色'],
+  R: ['● R 角色']
 }
 export default {
   data () {
@@ -39,7 +41,7 @@ export default {
   },
   methods: {
     pick (rar) {
-      const arr = POOL[rar]
+      const arr = PLACEHOLDER[rar]
       return arr[Math.floor(Math.random() * arr.length)]
     },
     roll () {

@@ -85,8 +85,8 @@ module.exports = {
               { text: '地图地点', link: '/gta6/map-guide' },
             ]
           },
-          { text: 'Endfield', link: '/en/endfield/' },
-          { text: 'NTE', link: '/en/nte/' },
+          { text: 'Endfield', link: '/endfield/' },
+          { text: 'NTE', link: '/nte/' },
           { text: '🔥每日推荐', link: '/daily/' },
           { text: '关于', link: '/about/' },
           { text: '隐私政策', link: '/privacy/' }
@@ -119,6 +119,20 @@ module.exports = {
               children: ['database']
             }
           ],
+          '/endfield/': [
+            {
+              title: '终末地',
+              collapsable: false,
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner']
+            }
+          ],
+          '/nte/': [
+            {
+              title: 'NTE',
+              collapsable: false,
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha']
+            }
+          ]
 
         },
         footer: 'Copyright © 2026 热门游戏攻略站 | 由 VuePress 驱动'
@@ -206,6 +220,8 @@ module.exports = {
               { text: 'Inicio de sección', link: '/es/gta6/' }
             ]
           },
+          { text: 'Endfield', link: '/es/endfield/' },
+          { text: 'NTE', link: '/es/nte/' },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -217,6 +233,20 @@ module.exports = {
               children: ['']
             }
           ],
+          '/es/endfield/': [
+            {
+              title: 'Endfield',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/nte/': [
+            {
+              title: 'NTE',
+              collapsable: false,
+              children: ['']
+            }
+          ]
 
         },
         footer: 'Copyright © 2026 Guías de Videojuegos | Impulsado por VuePress'

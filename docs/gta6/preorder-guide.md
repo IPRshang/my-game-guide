@@ -39,13 +39,15 @@ GTA6 预售热的本质是 **"GTA5 卖了 2 亿份"** 带来的用户存量释�
 
 ## 二、我该买哪个版本？
 
-### 2.1 版本对比一览
+### 2.1 版本对比一览（官方定价）
 
-| 版本 | 价格区间（预估） | 适合人群 | 核心内容 |
+Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地区含税价以当地商店为准）：
+
+| 版本 | 官方定价 | 适合人群 | 核心内容 |
 |---|---|---|---|
-| **标准版** | ¥398 – ¥498 | 绝大多数玩家 | 游戏完整本体 |
-| **豪华版** | ¥498 – ¥598 | 想首发玩 Online | 本体 + 游戏内启动资金、独家房产/载具 |
-| **典藏版** | 限量，价格浮动 | 死忠收藏党 | 实体周边 + 数字豪华内容 |
+| **标准版（Standard）** | **$79.99** | 绝大多数玩家 | 游戏完整本体 |
+| **终极版（Ultimate，数字版）** | **$99.99** | 想首发玩 Online | 本体 + 独家游戏内内容（载具 / 现金奖励等） |
+| **实体版（code-in-box）** | 与标准版同价 | 收藏 / 回血党 | 盒装兑换码，11 月 12 日提前预载 |
 
 ### 2.2 一句话建议
 
@@ -241,4 +243,55 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 > - 显示器：[27" 2K 144Hz 显示器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV4JK1olWAUCU1hYCUkTBV8IGloXXAAKUltUDEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkAHV4cWQcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlDBkMKMxsgajZLBwsBYiBNCHZjFghRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZBwzXx9IVSlYRA0TWQcyVl5cDkMXAWYPE2sVWw8FXFdaD0seC20KK1wVVDYCUFpVDksfBWoAEzVUbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA24PH1gQXAQGSF5YDU0WAHMIHVISVQ8FUFlZAUMXM20JGl8cbTbc2e40fzFTYm5MYSlHFm11ESAY1sanEh14G1kXXRcyLQo9bwlTWmYIYCJiOkZrEz0bfglgZC9hcCVRPl5iOlwud0pzdzwKWAwcOn5VIQdacnsSM2gOGmsUbQ) 适合主机高刷模式
 > - 手柄：[雷神 猎刃50 游戏手柄](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtGM96o0ojJp5-CpLaXlFgWbQQCVVhVCEkeBW44G10cWg4LU1hYDUMSAl8PG1IlXQIGXFhdAE0SC2dmWmslbQUyU15UHE1lQj0cHSklbQYyV25dCUsWCm4OG10VWhoCVFddCEoLA2kBHFMcWgEKVFlbDHsVAm4MEmslg4uyPVopDzhkQhlMYR1CKVh-EoDQuFprZ2sIGl4EbVJGXV4Gdx1NYRROZFtTK31yUjUnd0tRdRgLTF8XVGgAXVo6Uw0Way4AaFt3PnFHKDhtDXsQBW44Gms) / [GulKit 谷粒悟空2 手柄适配器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU4JK1olXw8KVFleDEwQBl8IGloXXwEKVlpeAEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAWgAGV8WVQcdDRsBVXtDfghLeQd0XmRaCAAUX0tqWBIBbCR1UQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol)
 > *部分链接含联盟推广代码，购买价格不变。详见[隐私政策](../privacy/)。*
+
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "GTA6 预购开了吗？多少钱？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购。标准版 79.99 美元，终极版（数字版）99.99 美元，各地区含税价以当地商店为准。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 标准版和终极版有什么区别？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "标准版为游戏完整本体；终极版（数字版）在标准版基础上额外包含独家游戏内内容，如特定载具与现金奖励，对 GTA Online 2 起步更有帮助。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 预购后能退款吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "发售前通常可全额退款。发售后 PlayStation / Microsoft 商店一般支持 14 天内、未大量游玩时退款；Steam / Epic 为 14 天内且游玩少于 2 小时。注意未发售前不要点开始下载或游玩，否则退款难度增加。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 预购奖励什么时候截止？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "预购奖励通常在游戏正式发售前截止。若确定要买，建议在 2026 年 11 月 19 日发售前完成预购以锁定奖励。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "PC 玩家现在能预购 GTA6 吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不能首发。GTA6 首发仅 PS5 / Xbox Series X|S，PC 版时间未定（预计 2027 年之后）。PC 玩家可先加入 Steam / Epic 愿望单，等 PC 版上架通知。"
+      }
+    }
+  ]
+}
+</script>
 

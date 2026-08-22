@@ -14,18 +14,22 @@ tags: ['GTA6','GTA6 release date','GTA6 platforms','GTA6 PC requirements','GTA6 
 
 ---
 
-## 1. When Does GTA6 Release?
+## 1. When Does GTA6 Release? (Confirmed)
 
-According to Rockstar Games, **Grand Theft Auto VI is scheduled to release in 2026**. The exact date has not been officially announced, but based on pre-order pages, industry leaks, and Rockstar's historical patterns, the widely expected window is **May – October 2026**.
+**Grand Theft Auto VI's official release date is confirmed: November 19, 2026 (Thursday)**, on PS5 and Xbox Series X|S.
+
+> 🔥 **Latest**: Rockstar will premiere a ~20-minute gameplay demo on **August 27, 2026** via Netflix, with media previews lifting the same day — the first major search-interest spike before launch. Bookmark this page now.
 
 | Milestone | Status | Notes |
 |---|---|---|
 | First trailer | ✅ Released | December 5, 2023 |
-| Gameplay reveals | ✅ Shown | Multiple gameplay segments released by late 2025 |
-| Pre-orders | 🔔 Open | Available on PS5 / Xbox digital stores |
-| Official release date | ⏳ TBD | Usually confirmed 2–4 weeks before launch |
+| Second delay confirmed | ✅ Announced | From 2025 → May 26, 2026 → **Nov 19, 2026** (Rockstar, Nov 6 2025) |
+| Gameplay demo premiere | 🔔 Aug 27 | Netflix premiere, then on Rockstar's official YouTube |
+| Pre-orders | ✅ Open | Since June 25, 2026 on PS5 / Xbox digital stores |
+| Digital pre-load | 🔔 Pre-launch | Around November 12 |
+| Official release | ✅ **Nov 19, 2026** | PS5 / Xbox Series X|S; PC date TBA |
 
-> 💡 **Update notice**: This page will be updated as Rockstar confirms the date. Bookmark it and check back.
+> 💡 **Update notice**: This page is kept current with official announcements. The date is locked; next watch for the PC timeline and launch reviews.
 
 ---
 
@@ -157,14 +161,17 @@ GTA6's gameplay reveals show extreme urban detail, seamless streaming traffic, a
 
 ---
 
-## 6. Price & Edition Guide (Console Reference)
+## 6. Price & Edition Guide (Officially Announced)
 
-| Edition | Estimated Price | Includes |
+Rockstar revealed pricing alongside pre-orders on June 25, 2026:
+
+| Edition | Official Price | Includes |
 |---|---|---|
-| Standard Edition | $59 – $69 / €69 – €79 | Base game |
-| Deluxe Edition | $79 – $89 / €89 – €99 | Base game + in-game currency + exclusive vehicles |
-| Collector's Edition | Limited, price varies | Physical collectibles + digital deluxe content |
+| **Standard Edition** | **$79.99** | Full base game |
+| **Ultimate Edition (digital only)** | **$99.99** | Base game + exclusive in-game content (vehicles / cash bonuses, etc.) |
+| Physical Edition (code-in-box) | Same as Standard | Boxed redeem code; pre-load around Nov 12 |
 
+> 💡 Regional tax-inclusive prices vary by store. What the Ultimate Edition adds beyond Standard is per the official store page.
 > 📣 **Next read**: [GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice](./preorder-guide.md)
 
 ---
@@ -215,3 +222,54 @@ GTA6's excitement is real, but many viral numbers — "50 million pre-orders," "
 - [GTA6 Beginner Guide: What to Do in the First 10 Hours](./early-guide.md)
 - [GTA6 Best Vehicles Recommendations](./best-vehicles.md)
 - [GTA6 Story Walkthrough](./story-guide.md)
+
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When does GTA6 release?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GTA6's official release date is November 19, 2026 (Thursday) on PS5 and Xbox Series X|S. The PC version is not announced and is expected in 2027 or later."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a PC version of GTA6 at launch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. GTA6 launches only on PS5 and Xbox Series X|S; the PC date is TBA. Rockstar's history is console-first, with PC ports typically 12–18 months later."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does GTA6 cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Standard Edition is priced at $79.99 and the Ultimate Edition (digital only) at $99.99. Regional tax-inclusive prices vary by store."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pre-order GTA6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Pre-orders opened on June 25, 2026 on the PS5 and Xbox digital stores; digital pre-load is expected around November 12."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will GTA6 be on PS4 or Xbox One?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Rockstar has confirmed GTA6 is only for PS5, Xbox Series X|S, and (later) PC. Last-gen consoles cannot run it."
+      }
+    }
+  ]
+}
+</script>

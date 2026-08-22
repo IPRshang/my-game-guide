@@ -33,3 +33,22 @@ this hub — built to answer those exact questions.
 4. Open the gacha simulator to plan pity and pulls.
 
 > Bookmark this hub — codes and tier rankings update with every version.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Neverness to Everness (NTE)?",
+      "acceptedAnswer": { "@type": "Answer", "text": "NTE is a 2026 urban open-world action RPG from Perfect World, launched April 29, 2026, mixing open-world exploration with gacha character collection." }
+    },
+    {
+      "@type": "Question",
+      "name": "When did NTE release?",
+      "acceptedAnswer": { "@type": "Answer", "text": "NTE launched on April 29, 2026." }
+    }
+  ]
+}
+</script>

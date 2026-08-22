@@ -47,3 +47,22 @@ official channels. Bookmark this page — it refreshes whenever a new code drops
 
 - See who to pull in the [Character Tier List](./tier-list.md).
 - Plan pulls with the [Gacha Simulator](./gacha.md).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I redeem an NTE code?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Open Settings from the main menu, find the Redemption / Code option, enter the code and confirm; collect rewards from in-game mail." }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do NTE codes drop?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Mainly the official Discord, pre-registration milestones, in-game mail, and official social campaigns." }
+    }
+  ]
+}
+</script>

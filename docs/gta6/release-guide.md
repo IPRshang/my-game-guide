@@ -14,18 +14,22 @@ tags: ['GTA6','GTA6发售日期','GTA6平台','GTA6配置要求','GTA6什么时�
 
 ---
 
-## 一、GTA6 什么时候发售？
+## 一、GTA6 什么时候发售？（已官宣）
 
-根据 Rockstar Games 官方信息，**《侠盗猎车手 6》（Grand Theft Auto VI）预计于 2026 年内发售**。具体日期尚未官宣，但结合预购页面、行业爆料与 R 星历史习惯，业内普遍预测窗口在 **2026 年 5 月 – 10 月** 之间。
+**《侠盗猎车手 6》（Grand Theft Auto VI）官方发售日已确认：2026 年 11 月 19 日（周四）**，登陆 PS5 与 Xbox Series X|S。
+
+> 🔥 **最新动态**：Rockstar 将于 **2026 年 8 月 27 日** 在 Netflix 首播约 20 分钟实机演示，同日媒体前瞻解禁——这是发售前搜索热度的第一个尖峰，建议现在就收藏本页。
 
 | 关键节点 | 状态 | 说明 |
 |---|---|---|
 | 首次预告片 | ✅ 已发布 | 2023 年 12 月 5 日首支预告 |
-| 实机演示 | ✅ 已曝光 | 2025 年底公开多段实机 |
-| 预购开启 | 🔔 进行中 | PS5 / Xbox 数字商店已开放预购 |
-| 正式发售日 | ⏳ 待定 | 预计 2026 年内，官方将提前 2–4 周确认 |
+| 二次延期确认 | ✅ 已官宣 | 从 2025 → 2026-05-26 → **2026-11-19**（R 星 2025-11-06 公告） |
+| 实机演示首播 | 🔔 8/27 来袭 | Netflix 首播，随后上线 R 星官方 YouTube |
+| 预购开启 | ✅ 已开放 | 2026 年 6 月 25 日起，PS5 / Xbox 数字商店 |
+| 数字版预载 | 🔔 发售前 | 11 月 12 日左右开放预载 |
+| 正式发售日 | ✅ **2026-11-19** | PS5 / Xbox Series X|S，PC 版未定 |
 
-> 💡 **更新提示**：本文会随官方公告更新。建议收藏本页，发售日确认后第一时间回来查看配置和价格变化。
+> 💡 **更新提示**：本文随官方公告持续更新。发售日已锁定，下一步关注 PC 版时间表与首发评测。
 
 ---
 
@@ -157,14 +161,17 @@ GTA6 的实机演示展现了极高的城市细节、无缝加载的交通流与
 
 ---
 
-## 六、价格与版本选择（主机版参考）
+## 六、价格与版本选择（官方已公布）
 
-| 版本 | 预估价格（国区/港区） | 包含内容 |
+Rockstar 于 2026 年 6 月 25 日随预购公布定价：
+
+| 版本 | 官方定价 | 包含内容 |
 |---|---|---|
-| 标准版 | ¥398 – ¥498 / HK$468 | 游戏本体 |
-| 豪华版 | ¥498 – ¥598 / HK$598 | 本体 + 游戏内货币 / 独家载具 |
-| 典藏版 | 限量，可能断货 | 实体周边 + 数字内容 |
+| **标准版（Standard）** | **$79.99** | 游戏完整本体 |
+| **终极版（Ultimate，数字版）** | **$99.99** | 本体 + 独家游戏内内容（载具 / 现金奖励等） |
+| 实体版（code-in-box） | 与标准版同价 | 盒装内含兑换码，11 月 12 日提前预载 |
 
+> 💡 各地区含税价不同（国区/港区以当地商店为准）。终极版相比标准版多出的内容以官方商店页说明为准。
 > 📣 **下一篇必读**：[GTA6 预购全攻略：版本、渠道、退款、主机选购，一文说清](./preorder-guide.md)
 
 ---
@@ -225,3 +232,54 @@ GTA6 的热度是真实的，但网络上很多 "5,000 万预售"、"40 亿美�
 > - 显示器：[27 英寸 2K 144Hz 显示器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV4JK1olWAUCU1hYCUkTBV8IGloXXAAKUltUDEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkAHV4cWQcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlDBkMKMxsgajZLBwsBYiBNCHZjFghRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZBwzXx9IVSlYRA0TWQcyVl5cDkMXAWYPE2sVWw8FXFdaD0seC20KK1wVVDYCUFpVDksfBWoAEzVUbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA24PH1gQXAQGSF5YDU0WAHMIHVISVQ8FUFlZAUMXM20JGl8cbTbc2e40fzFTYm5MYSlHFm11ESAY1sanEh14G1kXXRcyLQo9bwlTWmYIYCJiOkZrEz0bfglgZC9hcCVRPl5iOlwud0pzdzwKWAwcOn5VIQdacnsSM2gOGmsUbQ)，适合 PC / 主机高刷模式
 > - 手柄：[雷神 猎刃50 游戏手柄](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtGM96o0ojJp5-CpLaXlFgWbQQCVVhVCEkeBW44G10cWg4LU1hYDUMSAl8PG1IlXQIGXFhdAE0SC2dmWmslbQUyU15UHE1lQj0cHSklbQYyV25dCUsWCm4OG10VWhoCVFddCEoLA2kBHFMcWgEKVFlbDHsVAm4MEmslg4uyPVopDzhkQhlMYR1CKVh-EoDQuFprZ2sIGl4EbVJGXV4Gdx1NYRROZFtTK31yUjUnd0tRdRgLTF8XVGgAXVo6Uw0Way4AaFt3PnFHKDhtDXsQBW44Gms) 或 [GulKit 谷粒悟空2 手柄适配器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU4JK1olXw8KVFleDEwQBl8IGloXXwEKVlpeAEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAWgAGV8WVQcdDRsBVXtDfghLeQd0XmRaCAAUX0tqWBIBbCR1UQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol)（射击+驾驶手感更好）
 > *本站部分链接可能包含联盟营销代码，购买价格不会因此增加，详情请阅读[隐私政策](../privacy/)。*
+
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "GTA6 什么时候发售？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GTA6 官方发售日为 2026 年 11 月 19 日（周四），登陆 PS5 与 Xbox Series X|S。PC 版未定，预计 2027 年之后。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 首发有 PC 版吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "没有。GTA6 首发仅登陆 PS5 和 Xbox Series X|S，PC 版时间未定。R 星历史惯例是主机先行，PC 版通常晚 12–18 个月。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 多少钱？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "标准版官方定价 79.99 美元，终极版（数字版）99.99 美元。各地区含税价以当地商店为准。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 预购开了吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购，数字版预计 11 月 12 日左右开放预载。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTA6 会上 PS4 / Xbox One 吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不会。R 星已确认 GTA6 仅登陆 PS5、Xbox Series X|S 和（后续的）PC，上世代主机无法运行。"
+      }
+    }
+  ]
+}
+</script>

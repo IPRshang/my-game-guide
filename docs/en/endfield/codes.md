@@ -52,3 +52,22 @@ Looking for a specific code? Try these phrases players use most:
 
 - Not sure who to build? See the [Operator Tier List](./tier-list.md).
 - Setting up your factory? Try the [Base Planner](./planner.md).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I redeem an Endfield code?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Open Settings from the main menu, go to the Account / Redemption tab, paste the code and confirm; rewards arrive in your in-game mail." }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do Endfield codes drop?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Mainly the official Discord, pre-registration milestones, in-game mail, and official social campaigns." }
+    }
+  ]
+}
+</script>
