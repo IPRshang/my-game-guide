@@ -1,6 +1,6 @@
 ---
 title: "Arknights: Endfield — Guías en español"
-description: Guías de Arknights: Endfield en español — códigos de canje, tier list de operadores y guía para principiantes del RPG industrial de Hypergryph.
+description: "Guías de Arknights: Endfield en español — códigos de canje, tier list de operadores y guía para principiantes del RPG industrial de Hypergryph."
 ---
 
 # Arknights: Endfield — Centro de Guías (Español)

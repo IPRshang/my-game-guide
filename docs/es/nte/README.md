@@ -1,6 +1,6 @@
 ---
 title: "Neverness to Everness (NTE) — Guías en español"
-description: Guías de Neverness to Everness en español — códigos de canje, tier list de personajes y guía para principiantes del ARPG de mundo abierto urbano.
+description: "Guías de Neverness to Everness en español — códigos de canje, tier list de personajes y guía para principiantes del ARPG de mundo abierto urbano."
 ---
 
 # Neverness to Everness (NTE) — Centro de Guías (Español)

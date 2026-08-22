@@ -1,6 +1,6 @@
 ---
 title: "NTE 新手攻略 — 开服第一天优先级"
-description: Neverness to Everness 新手攻略 — 开服第一天优先级、资源规划、探索技巧与避坑。
+description: "Neverness to Everness 新手攻略 — 开服第一天优先级、资源规划、探索技巧与避坑。"
 ---
 
 # NTE 新手攻略

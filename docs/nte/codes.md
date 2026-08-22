@@ -1,6 +1,6 @@
 ---
 title: "NTE 兑换码（2026）— 在哪领、怎么兑换"
-description: Neverness to Everness 兑换码怎么领取与兑换，发放渠道，以及随新码更新的社区追踪表。
+description: "Neverness to Everness 兑换码怎么领取与兑换，发放渠道，以及随新码更新的社区追踪表。"
 ---
 
 # NTE 兑换码 — 领取与兑换

@@ -1,6 +1,6 @@
 ---
 title: "NTE 抽卡模拟器 — 交互式十连规划"
-description: Neverness to Everness 交互式抽卡模拟器。单抽或十连，统计 SSR/SR/R 数量，规划你的保底。
+description: "Neverness to Everness 交互式抽卡模拟器。单抽或十连，统计 SSR/SR/R 数量，规划你的保底。"
 ---
 
 # NTE 抽卡模拟器

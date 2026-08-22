@@ -1,6 +1,6 @@
 ---
 title: "NTE 角色节奏榜 — 先抽谁"
-description: Neverness to Everness 角色节奏榜（前期/中期）— 哪些角色值得优先抽取与培养，面向探索、战斗与组队。
+description: "Neverness to Everness 角色节奏榜（前期/中期）— 哪些角色值得优先抽取与培养，面向探索、战斗与组队。"
 ---
 
 # NTE 角色节奏榜

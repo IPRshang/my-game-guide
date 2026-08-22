@@ -1,6 +1,6 @@
 ---
 title: "NTE（Neverness to Everness）攻略中心 — 兑换码、节奏榜与抽卡模拟器"
-description: NTE（Neverness to Everness）中文完全攻略 — 可用兑换码、角色节奏榜、新手开局与交互式抽卡模拟器。2026 年都市开放世界 ARPG。
+description: "NTE（Neverness to Everness）中文完全攻略 — 可用兑换码、角色节奏榜、新手开局与交互式抽卡模拟器。2026 年都市开放世界 ARPG。"
 ---
 
 # NTE（Neverness to Everness）攻略中心
