@@ -17,17 +17,17 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '热门游戏攻略站',
-      description: 'GTA6、Arknights: Endfield、Neverness to Everness — 热门游戏攻略站'
+      description: 'GTA6、Arknights: Endfield、Neverness to Everness、Ananta — 热门游戏攻略站'
     },
     '/en/': {
       lang: 'en-US',
       title: 'Game Strategy Hub',
-      description: 'GTA6, Arknights: Endfield, Neverness to Everness — Game Strategy Guides'
+      description: 'GTA6, Arknights: Endfield, Neverness to Everness, Ananta — Game Strategy Guides'
     },
     '/es/': {
       lang: 'es-ES',
       title: 'Guías de Videojuegos',
-      description: 'GTA6, Arknights: Endfield, Neverness to Everness — Guías de estrategia'
+      description: 'GTA6, Arknights: Endfield, Neverness to Everness, Ananta — Guías de estrategia'
     }
   },
   head: [
@@ -44,7 +44,7 @@ module.exports = {
     // SEO meta tags
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'author', content: 'Game Strategy Hub' }],
-    ['meta', { name: 'keywords', content: '游戏攻略,game guide,GTA6,Arknights Endfield,Neverness to Everness,redeem codes,tier list,ggexplore' }],
+    ['meta', { name: 'keywords', content: '游戏攻略,game guide,GTA6,Arknights Endfield,Neverness to Everness,Ananta,redeem codes,tier list,ggexplore' }],
     // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
@@ -88,6 +88,7 @@ module.exports = {
           },
           { text: 'Endfield', link: '/endfield/' },
           { text: 'NTE', link: '/nte/' },
+          { text: 'Ananta', link: '/ananta/' },
           { text: '🔥每日推荐', link: '/daily/' },
           { text: '关于', link: '/about/' },
           { text: '隐私政策', link: '/privacy/' }
@@ -133,6 +134,13 @@ module.exports = {
               collapsable: false,
               children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'system-requirements']
             }
+          ],
+          '/ananta/': [
+            {
+              title: 'Ananta',
+              collapsable: false,
+              children: ['', 'system-requirements', 'pre-registration']
+            }
           ]
 
         },
@@ -162,6 +170,7 @@ module.exports = {
           },
           { text: 'Arknights: Endfield', link: '/en/endfield/' },
           { text: 'Neverness to Everness', link: '/en/nte/' },
+          { text: 'Ananta', link: '/en/ananta/' },
           { text: 'About', link: '/en/about/' },
           { text: 'Privacy', link: '/en/privacy/' }
         ],
@@ -206,6 +215,13 @@ module.exports = {
               collapsable: false,
               children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'system-requirements']
             }
+          ],
+          '/en/ananta/': [
+            {
+              title: 'Ananta',
+              collapsable: false,
+              children: ['', 'system-requirements', 'pre-registration']
+            }
           ]
         },
         footer: 'Copyright © 2026 Game Strategy Hub | Powered by VuePress'
@@ -226,6 +242,7 @@ module.exports = {
           },
           { text: 'Endfield', link: '/es/endfield/' },
           { text: 'NTE', link: '/es/nte/' },
+          { text: 'Ananta', link: '/es/ananta/' },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -247,6 +264,13 @@ module.exports = {
           '/es/nte/': [
             {
               title: 'NTE',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/ananta/': [
+            {
+              title: 'Ananta',
               collapsable: false,
               children: ['']
             }

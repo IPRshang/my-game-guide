@@ -7,7 +7,7 @@ description: "ggexplore — Guías de videojuegos en español"
 
 Bienvenido a la sección en español de **ggexplore**. Encuentra guías profesionales, bases de datos detalladas y análisis de los juegos más esperados, actualizados de forma constante.
 
-> **GTA 6 · Arknights: Endfield · Neverness to Everness**
+> **GTA 6 · Arknights: Endfield · Neverness to Everness · Ananta**
 >
 
 ## Elige tu juego
@@ -26,6 +26,11 @@ RPG industrial 3D con automatización de base. Códigos de canje, lista de perso
 
 ARPG de mundo abierto urbano. Códigos de canje, lista de personajes, guía para principiantes y simulador de gacha.\
   → [Leer guía de NTE](/en/nte/)
+
+### 🌆 Ananta
+
+RPG de mundo abierto urbano anime (anime GTA) de NetEase. Guía completa, requisitos de PC y pre-registro.\
+  → [Leer guía de Ananta](/es/ananta/)
 
 ## Más información
 

@@ -2,7 +2,7 @@
 
 # 🎮 热门游戏攻略站
 
-**GTA6 · Arknights: Endfield · Neverness to Everness**
+**GTA6 · Arknights: Endfield · Neverness to Everness · Ananta**
 
 *专业的游戏攻略 | 详尽资料数据 | 持续更新中*
 
@@ -45,6 +45,17 @@
     <a href="/nte/gacha">🎲 抽卡模拟器</a>
   </div>
   <div class="card-meta">新游 · 兑换码 · 角色榜 · 新手 · 抽卡模拟器</div>
+  </div>
+
+<div class="home-card ananta">
+  <h3>🌆 Ananta</h3>
+  <p class="card-sub">都市开放世界 anime RPG · anime GTA</p>
+  <div class="card-links">
+    <a href="/ananta/">📖 攻略中心</a>
+    <a href="/ananta/system-requirements">💻 配置要求</a>
+    <a href="/ananta/pre-registration">📝 预注册</a>
+  </div>
+  <div class="card-meta">新游 · 全面介绍 · 配置 · 预注册</div>
 </div>
 
 </div>
@@ -68,7 +79,7 @@
 
 | 数据 | 数量 |
 |------|:--:|
-| 🎮 游戏数量 | **3**（GTA6 · Endfield · NTE） |
+| 🎮 游戏数量 | **4**（GTA6 · Endfield · NTE · Ananta） |
 | 📄 攻略页数 | **40+**（中/英/西三语） |
 | 🛠️ 交互工具 | **2**（Endfield基地规划器 · NTE抽卡模拟器） |
 | 📊 资料库 | **1**（GTA6：角色/武器/载具） |
@@ -84,6 +95,7 @@
 - 🛠️ [Endfield 基地规划器](/endfield/planner) — 交互式产能/布局模拟
 - 🎲 [NTE 抽卡模拟器](/nte/gacha) — 模拟十连，规划你的抽卡资源
 - 📖 [NTE 新手攻略](/nte/beginner) — 开服第一天该做什么
+- 🌆 [Ananta 全面介绍](/ananta/) — 网易都市开放世界 anime RPG（anime GTA）深度解析
 
 ---
 
