@@ -75,6 +75,7 @@ module.exports = {
               { text: '专区首页', link: '/gta6/' },
               { text: '发售配置', link: '/gta6/release-guide' },
               { text: '预购指南', link: '/gta6/preorder-guide' },
+              { text: '价格版本', link: '/gta6/price' },
               { text: '赚钱攻略', link: '/gta6/money-guide' },
               { text: '剧情攻略', link: '/gta6/story-guide' },
               { text: '最强载具', link: '/gta6/best-vehicles' },
@@ -96,7 +97,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'early-guide', 'map-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'early-guide', 'map-guide']
             },
             {
               title: '进阶攻略',
@@ -123,14 +124,14 @@ module.exports = {
             {
               title: '终末地',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'system-requirements']
             }
           ],
           '/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'system-requirements']
             }
           ]
 
@@ -149,6 +150,7 @@ module.exports = {
               { text: 'Hub', link: '/en/gta6/' },
               { text: 'Release & Specs', link: '/en/gta6/release-guide' },
               { text: 'Pre-Order Guide', link: '/en/gta6/preorder-guide' },
+              { text: 'Price & Editions', link: '/en/gta6/price' },
               { text: 'Money Guide', link: '/en/gta6/money-guide' },
               { text: 'Story Walkthrough', link: '/en/gta6/story-guide' },
               { text: 'Best Vehicles', link: '/en/gta6/best-vehicles' },
@@ -168,7 +170,7 @@ module.exports = {
             {
               title: 'Getting Started',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'money-guide', 'map-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'map-guide']
             },
             {
               title: 'Advanced',
@@ -191,18 +193,18 @@ module.exports = {
               children: ['database']
             }
           ],
-'/en/endfield/': [
+          '/en/endfield/': [
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'system-requirements']
             }
           ],
           '/en/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'system-requirements']
             }
           ]
         },
@@ -217,7 +219,9 @@ module.exports = {
           {
             text: 'GTA 6',
             items: [
-              { text: 'Inicio de sección', link: '/es/gta6/' }
+              { text: 'Inicio de sección', link: '/es/gta6/' },
+              { text: 'Guía de lanzamiento', link: '/es/gta6/release-guide' },
+              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' }
             ]
           },
           { text: 'Endfield', link: '/es/endfield/' },
@@ -230,7 +234,7 @@ module.exports = {
             {
               title: 'GTA 6',
               collapsable: false,
-              children: ['']
+              children: ['', 'release-guide', 'preorder-guide']
             }
           ],
           '/es/endfield/': [
