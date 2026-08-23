@@ -55,5 +55,7 @@ A: Sí. Project Mugen fue el nombre en 2023; se renombró Ananta a finales de 20
 
 ## Guías relacionadas
 
+- [Prerregistro de Ananta](./pre-registration)
+- [Requisitos de sistema de Ananta](./system-requirements)
 - [Neverness to Everness](/es/nte/)
 - [GTA 6](/es/gta6/)

@@ -7,11 +7,15 @@ description: "Guías de Neverness to Everness en español — códigos de canje,
 
 **Neverness to Everness (NTE)** es un ARPG de mundo abierto urbano de Perfect World, lanzado el 29 de abril de 2026. Mezcla exploración en mundo abierto con colección de personajes (gacha).
 
-Esta página es el punto de entrada en español. Las guías detalladas (códigos, tier list, guía de inicio) están disponibles en la versión en inglés mientras ampliamos la cobertura en español:
+Esta página es el punto de entrada en español. Todas las guías detalladas están disponibles directamente en español:
 
-- [Códigos de canje (EN)](/en/nte/codes)
-- [Tier list de personajes (EN)](/en/nte/tier-list)
-- [Guía para principiantes (EN)](/en/nte/beginner)
-- [Simulador de gacha (EN)](/en/nte/gacha)
+- [Guía para principiantes](./beginner)
+- [Códigos de canje](./codes)
+- [Solución de cuelgues y lag](./fix-crash)
+- [Simulador de gacha](./gacha)
+- [Stamina y recursos](./stamina-resources)
+- [Requisitos del sistema](./system-requirements)
+- [Formación de equipo y Ciclo Esper](./team-build)
+- [Lista de niveles de personajes](./tier-list)
 
-> Próximamente ampliaremos estas guías directamente en español.
+> ¿Prefieres el inglés? Las versiones en [inglés](/en/nte/) también están disponibles.

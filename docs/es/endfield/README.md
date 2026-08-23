@@ -7,11 +7,16 @@ description: "Guías de Arknights: Endfield en español — códigos de canje, t
 
 **Arknights: Endfield** es el RPG de ciencia ficción industrial 3D de Hypergryph, lanzado el 22 de enero de 2026. Combina automatización de base con combate táctico en tiempo real.
 
-Esta página es el punto de entrada en español. Las guías detalladas (códigos, tier list, guía de base) están disponibles en la versión en inglés mientras ampliamos la cobertura en español:
+Esta página es el punto de entrada en español. Todas las guías detalladas están disponibles directamente en español:
 
-- [Códigos de canje (EN)](/en/endfield/codes)
-- [Tier list de operadores (EN)](/en/endfield/tier-list)
-- [Guía para principiantes (EN)](/en/endfield/beginner)
-- [Planificador de base (EN)](/en/endfield/planner)
+- [Guía para principiantes](./beginner)
+- [Códigos de canje](./codes)
+- [Guía de monedas](./currencies)
+- [Desbloqueo Datalogger](./datalogger)
+- [Guía de fábrica (AIC)](./factory-guide)
+- [Gacha y pity](./gacha-pity)
+- [Planificador de base](./planner)
+- [Requisitos del sistema](./system-requirements)
+- [Lista de niveles de operadores](./tier-list)
 
-> Próximamente ampliaremos estas guías directamente en español.
+> ¿Prefieres el inglés? Las versiones en [inglés](/en/endfield/) también están disponibles.
