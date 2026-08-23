@@ -27,16 +27,7 @@ building's quantity and watch totals update live.
 > Numbers here are illustrative starting points. Replace them with in-game values as you
 > learn the exact stats.
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I use the Endfield Base Planner?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Adjust each building's quantity and watch total power, population and output update live; keep total power at or above 0 to avoid a deficit." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: How do I use the Endfield Base Planner?**
+A: Adjust each building's quantity and watch total power, population and output update live; keep total power at or above 0 to avoid a deficit.

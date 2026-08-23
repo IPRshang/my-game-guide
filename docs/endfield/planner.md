@@ -15,19 +15,7 @@ description: "明日方舟：终末地交互式基地规划器。调整各建筑
 - **总人口** 显示基地雇佣的干员数 —— 用于规划物流分配。
 - **产出** 是各建筑贡献的速览。
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "终末地基地规划器里的数值准确吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "数值为示意模板，用于理解产能/人口/产出的平衡关系；实际请以游戏内数值替换。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：终末地基地规划器里的数值准确吗？**
+A：数值为示意模板，用于理解产能/人口/产出的平衡关系；实际请以游戏内数值替换。

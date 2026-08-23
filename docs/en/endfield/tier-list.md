@@ -39,16 +39,7 @@ factory and the battlefield.
 - New player? Start with the [Beginner Guide](./beginner.md).
 - Planning your base? Use the [Base Planner](./planner.md).
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who should I pull first in Endfield?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Prioritize an S-tier logistics/reactor operator early because base economy compounds, then fill combat gaps with A-tier damage and tank." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: Who should I pull first in Endfield?**
+A: Prioritize an S-tier logistics/reactor operator early because base economy compounds, then fill combat gaps with A-tier damage and tank.

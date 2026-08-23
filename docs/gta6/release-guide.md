@@ -235,51 +235,19 @@ GTA6 的热度是真实的，但网络上很多 "5,000 万预售"、"40 亿美�
 
 ---
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "GTA6 什么时候发售？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "GTA6 官方发售日为 2026 年 11 月 19 日（周四），登陆 PS5 与 Xbox Series X|S。PC 版未定，预计 2027 年之后。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 首发有 PC 版吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "没有。GTA6 首发仅登陆 PS5 和 Xbox Series X|S，PC 版时间未定。R 星历史惯例是主机先行，PC 版通常晚 12–18 个月。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 多少钱？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "标准版官方定价 79.99 美元，终极版（数字版）99.99 美元。各地区含税价以当地商店为准。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 预购开了吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购，数字版预计 11 月 12 日左右开放预载。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 会上 PS4 / Xbox One 吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "不会。R 星已确认 GTA6 仅登陆 PS5、Xbox Series X|S 和（后续的）PC，上世代主机无法运行。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：GTA6 什么时候发售？**
+A：GTA6 官方发售日为 2026 年 11 月 19 日（周四），登陆 PS5 与 Xbox Series X|S。PC 版未定，预计 2027 年之后。
+
+**Q：GTA6 首发有 PC 版吗？**
+A：没有。GTA6 首发仅登陆 PS5 和 Xbox Series X|S，PC 版时间未定。R 星历史惯例是主机先行，PC 版通常晚 12–18 个月。
+
+**Q：GTA6 多少钱？**
+A：标准版官方定价 79.99 美元，终极版（数字版）99.99 美元。各地区含税价以当地商店为准。
+
+**Q：GTA6 预购开了吗？**
+A：已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购，数字版预计 11 月 12 日左右开放预载。
+
+**Q：GTA6 会上 PS4 / Xbox One 吗？**
+A：不会。R 星已确认 GTA6 仅登陆 PS5、Xbox Series X|S 和（后续的）PC，上世代主机无法运行。

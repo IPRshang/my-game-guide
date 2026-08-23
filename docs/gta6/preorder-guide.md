@@ -246,52 +246,19 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 
 ---
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "GTA6 预购开了吗？多少钱？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购。标准版 79.99 美元，终极版（数字版）99.99 美元，各地区含税价以当地商店为准。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 标准版和终极版有什么区别？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "标准版为游戏完整本体；终极版（数字版）在标准版基础上额外包含独家游戏内内容，如特定载具与现金奖励，对 GTA Online 2 起步更有帮助。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 预购后能退款吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "发售前通常可全额退款。发售后 PlayStation / Microsoft 商店一般支持 14 天内、未大量游玩时退款；Steam / Epic 为 14 天内且游玩少于 2 小时。注意未发售前不要点开始下载或游玩，否则退款难度增加。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "GTA6 预购奖励什么时候截止？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "预购奖励通常在游戏正式发售前截止。若确定要买，建议在 2026 年 11 月 19 日发售前完成预购以锁定奖励。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "PC 玩家现在能预购 GTA6 吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "不能首发。GTA6 首发仅 PS5 / Xbox Series X|S，PC 版时间未定（预计 2027 年之后）。PC 玩家可先加入 Steam / Epic 愿望单，等 PC 版上架通知。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
 
+**Q：GTA6 预购开了吗？多少钱？**
+A：已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购。标准版 79.99 美元，终极版（数字版）99.99 美元，各地区含税价以当地商店为准。
+
+**Q：GTA6 标准版和终极版有什么区别？**
+A：标准版为游戏完整本体；终极版（数字版）在标准版基础上额外包含独家游戏内内容，如特定载具与现金奖励，对 GTA Online 2 起步更有帮助。
+
+**Q：GTA6 预购后能退款吗？**
+A：发售前通常可全额退款。发售后 PlayStation / Microsoft 商店一般支持 14 天内、未大量游玩时退款；Steam / Epic 为 14 天内且游玩少于 2 小时。注意未发售前不要点开始下载或游玩，否则退款难度增加。
+
+**Q：GTA6 预购奖励什么时候截止？**
+A：预购奖励通常在游戏正式发售前截止。若确定要买，建议在 2026 年 11 月 19 日发售前完成预购以锁定奖励。
+
+**Q：PC 玩家现在能预购 GTA6 吗？**
+A：不能首发。GTA6 首发仅 PS5 / Xbox Series X|S，PC 版时间未定（预计 2027 年之后）。PC 玩家可先加入 Steam / Epic 愿望单，等 PC 版上架通知。

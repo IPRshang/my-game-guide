@@ -20,19 +20,7 @@ description: "Neverness to Everness 交互式抽卡模拟器。单抽或十连�
 - 用它估算抽到目标角色需要几次。
 - 概率目前为 **示意值（社区估算）**，仅用于规划与娱乐。
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "NTE抽卡模拟器准吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "模拟器概率为示意值（社区估算），主要用于规划保底与娱乐参考，实际概率以游戏内公示为准。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：NTE抽卡模拟器准吗？**
+A：模拟器概率为示意值（社区估算），主要用于规划保底与娱乐参考，实际概率以游戏内公示为准。

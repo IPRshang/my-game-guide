@@ -37,16 +37,7 @@ New to Neverness to Everness? Here is the efficient first-day path.
 - See who to pull in the [Character Tier List](./tier-list.md).
 - Simulate pulls with the [Gacha Simulator](./gacha.md).
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do on my first day in NTE?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Finish the tutorial to unlock banners and code redemption, redeem codes, explore the starter district, and pull your first target using the tier list." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: What should I do on my first day in NTE?**
+A: Finish the tutorial to unlock banners and code redemption, redeem codes, explore the starter district, and pull your first target using the tier list.

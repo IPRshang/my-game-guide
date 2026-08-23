@@ -83,43 +83,16 @@ description: "Arknights Endfield 货币系统全图解：Oroberyl、Origeometry�
 
 **相关章节**：[抽卡保底规则详解](/endfield/gacha-pity) · [Datalogger 气球人解锁](/endfield/datalogger) · [PC 配置要求](/endfield/system-requirements)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "终末地最容易搞混的货币是哪几种？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "外观相似的红币类（Oroberyl / Origeometry）与区域股票券最易混；前者用于抽卡，后者仅限对应区域、跨区不共享。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Oroberyl 和 Origeometry 有什么区别？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Oroberyl 是主抽卡货币，可肝；Origeometry 是付费货币，用于限定 / 付费卡池。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "区域股票券为什么不能通用？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "每个区域独立结算，股票券仅限对应区域使用，跨区不共享，乱用会浪费。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "有没有工具帮我理清货币与抽卡？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "本页提供货币速查表，可配合 Endfield 抽卡规划器一起使用。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：终末地最容易搞混的货币是哪几种？**
+A：外观相似的红币类（Oroberyl / Origeometry）与区域股票券最易混；前者用于抽卡，后者仅限对应区域、跨区不共享。
+
+**Q：Oroberyl 和 Origeometry 有什么区别？**
+A：Oroberyl 是主抽卡货币，可肝；Origeometry 是付费货币，用于限定 / 付费卡池。
+
+**Q：区域股票券为什么不能通用？**
+A：每个区域独立结算，股票券仅限对应区域使用，跨区不共享，乱用会浪费。
+
+**Q：有没有工具帮我理清货币与抽卡？**
+A：本页提供货币速查表，可配合 Endfield 抽卡规划器一起使用。

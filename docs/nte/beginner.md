@@ -37,27 +37,10 @@ description: "Neverness to Everness 新手攻略 — 开服第一天优先级、
 - 看 [角色节奏榜](./tier-list.md) 决定抽谁。
 - 用 [抽卡模拟器](./gacha.md) 模拟抽取。
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "NTE新手开服第一天先做什么？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "做完教学解锁卡池与兑换入口 → 领取可用兑换码 → 探索初始城区熟悉操作 → 参考节奏榜抽首个目标角色。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "NTE抽卡货币怎么规划？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "囤住抽卡货币，别每个卡池都花；聚焦核心队突破素材；可用抽卡模拟器在花费前规划保底。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：NTE新手开服第一天先做什么？**
+A：做完教学解锁卡池与兑换入口 → 领取可用兑换码 → 探索初始城区熟悉操作 → 参考节奏榜抽首个目标角色。
+
+**Q：NTE抽卡货币怎么规划？**
+A：囤住抽卡货币，别每个卡池都花；聚焦核心队突破素材；可用抽卡模拟器在花费前规划保底。

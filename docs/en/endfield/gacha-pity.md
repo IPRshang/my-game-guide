@@ -76,35 +76,13 @@ Every 6★ is an independent 50/50 — there's **no "next 6★ is guaranteed fea
 
 **Related**: [Currency Guide](/en/endfield/currencies) · [System Requirements](/en/endfield/system-requirements)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the Endfield pity system?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A 5★ is guaranteed every 10 pulls; soft pity ramps from 65 pulls; hard pity guarantees a 6★ at 80; the featured guarantee locks the limited character at 120."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does the 120-pull featured pity carry across banners?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Before switching banners, either reach 120 or give up the character, otherwise the featured progress resets."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What does the 50/50 mean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "On a pity hit in the limited banner, there's a 50% chance for the featured and 50% for a standard; if you miss, the next pity is guaranteed featured."
-      }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: What is the Endfield pity system?**
+A: A 5★ is guaranteed every 10 pulls; soft pity ramps from 65 pulls; hard pity guarantees a 6★ at 80; the featured guarantee locks the limited character at 120.
+
+**Q: Does the 120-pull featured pity carry across banners?**
+A: No. Before switching banners, either reach 120 or give up the character, otherwise the featured progress resets.
+
+**Q: What does the 50/50 mean?**
+A: On a pity hit in the limited banner, there's a 50% chance for the featured and 50% for a standard; if you miss, the next pity is guaranteed featured.

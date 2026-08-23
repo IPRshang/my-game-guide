@@ -1,7 +1,14 @@
 // scripts/fix-faq-schema.js
-// 构建后遍历 dist 所有 HTML，为含「## FAQ」(渲染为 <h2 id="faq">) 的页面注入
+// 构建后遍历 dist 所有 HTML，为含 FAQ 段落（中/英/西三语标题）的页面注入
 // FAQPage JSON-LD，帮助 Google 产出 FAQ 富结果 / 精选摘要。
 // 与 add-structured-data.js 注入的 Article 脚本互不冲突（各自独立 <script> 块）。
+//
+// 支持的 FAQ 段落格式（渲染后 HTML）：
+//   1) <h2 id="faq">  +  <h3>问题</h3><p>答案</p>            （英文 ## FAQ 常见写法）
+//   2) <h2 id="常见问题"> + <p><strong>Q：问题</strong>\nA：答案</p>  （中文 ## 常见问题）
+//   3) <h2 id="preguntas-frecuentes"> + <p><strong>Q: 问题</strong>\nA: 答案</p> （西语）
+// 标题 id 由 VuePress 根据 heading 文本自动生成（FAQ→faq，常见问题→常见问题，
+// Preguntas frecuentes→preguntas-frecuentes），因此三语均可命中。
 
 const fs = require('fs');
 const path = require('path');
@@ -38,31 +45,50 @@ function stripHtml(html) {
     .trim();
 }
 
-function buildFaqLd(html) {
-  const h2m = html.match(/<h2[^>]*\bid="faq"[^>]*>[\s\S]*?<\/h2>/i);
+// 截取 FAQ 段落内容（从 FAQ 标题到下一个 <h2 / <footer / </main>）
+function extractFaqSection(html) {
+  const h2m = html.match(
+    /<h2[^>]*\bid="(faq|常见问题|preguntas-frecuentes)"[^>]*>/i
+  );
   if (!h2m) return null;
-
   const sectionStart = h2m.index + h2m[0].length;
-  // 截取到下一个 <h2 / <footer / </main>，避免抓到页脚或翻页导航
   let end = html.length;
   for (const c of ['<h2', '<footer', '</main>']) {
     const idx = html.indexOf(c, sectionStart);
     if (idx !== -1) end = Math.min(end, idx);
   }
-  const section = html.slice(sectionStart, end);
+  return html.slice(sectionStart, end);
+}
 
-  const parts = section.split(/<h3[^>]*>/i);
+function buildFaqLd(html) {
+  const section = extractFaqSection(html);
+  if (!section) return null;
+
   const qa = [];
+
+  // 策略 A：<h3> 小节格式（英文 ## FAQ 常见写法）
+  const parts = section.split(/<h3[^>]*>/i);
   for (let i = 1; i < parts.length; i++) {
     const block = parts[i];
     const close = block.indexOf('</h3>');
     if (close === -1) continue;
-    const qHtml = block.slice(0, close);
-    const aHtml = block.slice(close + '</h3>'.length);
-    const q = stripHtml(qHtml).replace(/^#\s*/, '').trim();
-    const a = stripHtml(aHtml).trim();
+    const q = stripHtml(block.slice(0, close)).replace(/^#\s*/, '').trim();
+    const a = stripHtml(block.slice(close + '</h3>'.length)).trim();
     if (q && a) qa.push({ q, a });
   }
+
+  // 策略 B：<p><strong>Q[:：]问题</strong>\nA[:：]答案</p>（中/西语 ## 常见问题 写法）
+  if (!qa.length) {
+    const strongRe =
+      /<p[^>]*>\s*<strong[^>]*>\s*Q[:：]\s*([\s\S]*?)<\/strong>\s*A[:：]?\s*([\s\S]*?)<\/p>/gi;
+    let m;
+    while ((m = strongRe.exec(section)) !== null) {
+      const q = stripHtml(m[1]).trim();
+      const a = stripHtml(m[2]).trim();
+      if (q && a) qa.push({ q, a });
+    }
+  }
+
   if (!qa.length) return null;
 
   return {

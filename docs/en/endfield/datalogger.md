@@ -44,35 +44,13 @@ For a game built around forced factory + power grid + trade loops, AIC Index is 
 
 **Related**: [Currency Guide](/en/endfield/currencies) · [System Requirements](/en/endfield/system-requirements)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why can't I use Data Logger early in Endfield?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Data Logger unlocks only after you advance the story to unlock the relevant permission / system; it's intentionally unavailable at the start."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I unlock Data Logger?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Push the main story to the specified node and complete the guidance quest — about 3 steps to open it."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What do I get after unlocking (AIC Index)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can view the AIC data index for enemies / objects, useful for weakness analysis and team building."
-      }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: Why can't I use Data Logger early in Endfield?**
+A: Data Logger unlocks only after you advance the story to unlock the relevant permission / system; it's intentionally unavailable at the start.
+
+**Q: How do I unlock Data Logger?**
+A: Push the main story to the specified node and complete the guidance quest — about 3 steps to open it.
+
+**Q: What do I get after unlocking (AIC Index)?**
+A: You can view the AIC data index for enemies / objects, useful for weakness analysis and team building.

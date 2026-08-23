@@ -35,16 +35,7 @@ A practical ranking of which NTE characters are worth your early pulls and resou
 - New player? Start with the [Beginner Guide](./beginner.md).
 - Plan pulls with the [Gacha Simulator](./gacha.md).
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who should I pull first in NTE?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Spend early pulls on an S-tier exploration anchor or burst DPS, then add an A-tier sustain unit for open-world bosses." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: Who should I pull first in NTE?**
+A: Spend early pulls on an S-tier exploration anchor or burst DPS, then add an A-tier sustain unit for open-world bosses.

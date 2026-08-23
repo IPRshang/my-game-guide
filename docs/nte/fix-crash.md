@@ -64,35 +64,13 @@ description: "Neverness to Everness 崩溃卡顿修复指南：针对启动闪�
 
 **相关章节**：[NTE 新手攻略](/nte/beginner) · [NTE PC 配置要求](/nte/system-requirements) · [NTE 抽卡模拟器](/nte/gacha)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "NTE 启动就崩溃 / 闪退怎么办？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "确认硬件达标（i7-10700 / GTX 1660 / 16GB）、更新 GPU 驱动、装在 SSD、关闭后台程序，并用启动器「修复游戏文件」。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "NTE 开放世界卡顿怎么调？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "先把视距（View Distance）降到 Very Low，再降车流（Traffic）密度，并开启 DLSS（RTX）/ FSR（AMD）。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "NTE 高延迟 / 网络卡怎么办？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "选离你最近的服务器（Asia / America / Europe / SEA），关闭 VPN / 代理，改用有线网络。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：NTE 启动就崩溃 / 闪退怎么办？**
+A：确认硬件达标（i7-10700 / GTX 1660 / 16GB）、更新 GPU 驱动、装在 SSD、关闭后台程序，并用启动器「修复游戏文件」。
+
+**Q：NTE 开放世界卡顿怎么调？**
+A：先把视距（View Distance）降到 Very Low，再降车流（Traffic）密度，并开启 DLSS（RTX）/ FSR（AMD）。
+
+**Q：NTE 高延迟 / 网络卡怎么办？**
+A：选离你最近的服务器（Asia / America / Europe / SEA），关闭 VPN / 代理，改用有线网络。

@@ -200,51 +200,19 @@ Las cifras virales ("50 millones de precompras", "$4 mil millones") son **especu
 
 ---
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cuándo sale GTA6?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La fecha oficial de GTA6 es el 19 de noviembre de 2026 (jueves) en PS5 y Xbox Series X|S. La versión para PC no está anunciada y se espera en 2027 o más tarde."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Hay versión de GTA6 para PC al lanzamiento?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. GTA6 sale solo en PS5 y Xbox Series X|S; la fecha de PC está por confirmar. Rockstar suele lanzar PC 12–18 meses después."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuánto cuesta GTA6?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La Edición Estándar cuesta $79.99 y la Edición Ultimate (solo digital) $99.99. Los precios con impuestos varían por región."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Se puede precomprar GTA6?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sí. Las precompras abrieron el 25 de junio de 2026 en las tiendas digitales de PS5 y Xbox; la precarga digital se espera cerca del 12 de noviembre."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Habrá GTA6 en PS4 o Xbox One?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Rockstar confirmó que GTA6 es solo para PS5, Xbox Series X|S y (más adelante) PC. Las consolas de la generación anterior no pueden ejecutarlo."
-      }
-    }
-  ]
-}
-</script></template>
+## Preguntas frecuentes
+
+**Q: ¿Cuándo sale GTA6?**
+A: La fecha oficial de GTA6 es el 19 de noviembre de 2026 (jueves) en PS5 y Xbox Series X|S. La versión para PC no está anunciada y se espera en 2027 o más tarde.
+
+**Q: ¿Hay versión de GTA6 para PC al lanzamiento?**
+A: No. GTA6 sale solo en PS5 y Xbox Series X|S; la fecha de PC está por confirmar. Rockstar suele lanzar PC 12–18 meses después.
+
+**Q: ¿Cuánto cuesta GTA6?**
+A: La Edición Estándar cuesta $79.99 y la Edición Ultimate (solo digital) $99.99. Los precios con impuestos varían por región.
+
+**Q: ¿Se puede precomprar GTA6?**
+A: Sí. Las precompras abrieron el 25 de junio de 2026 en las tiendas digitales de PS5 y Xbox; la precarga digital se espera cerca del 12 de noviembre.
+
+**Q: ¿Habrá GTA6 en PS4 o Xbox One?**
+A: No. Rockstar confirmó que GTA6 es solo para PS5, Xbox Series X|S y (más adelante) PC. Las consolas de la generación anterior no pueden ejecutarlo.

@@ -37,27 +37,10 @@ description: "明日方舟：终末地新手攻略 — 开局几小时该做什�
 - 看 [干员节奏榜](./tier-list.md) 决定抽谁。
 - 用 [基地规划器](./planner.md) 规划布局。
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "终末地新手开局先做什么？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "推主线解锁基地系统 → 领取可用兑换码 → 培养一名物流干员启动产出 → 完成教学战斗熟悉操作。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "终末地基地怎么布局不亏产能？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "先放反应堆再放生产建筑，确保总产能不为负；可用基地规划器预览后再落定，物流干员能缩短制造时间。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：终末地新手开局先做什么？**
+A：推主线解锁基地系统 → 领取可用兑换码 → 培养一名物流干员启动产出 → 完成教学战斗熟悉操作。
+
+**Q：终末地基地怎么布局不亏产能？**
+A：先放反应堆再放生产建筑，确保总产能不为负；可用基地规划器预览后再落定，物流干员能缩短制造时间。

@@ -64,35 +64,13 @@ If you've done everything above and it still crashes — especially memory-leak 
 
 **Related**: [NTE Beginner Guide](/en/nte/beginner) · [NTE System Requirements](/en/nte/system-requirements) · [NTE Gacha Simulator](/en/nte/gacha)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "NTE crashes / freezes on launch — what do I do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Confirm specs (i7-10700 / GTX 1660 / 16GB), update GPU drivers, install on SSD, close background apps, and use the launcher's \"repair game files\"."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "NTE stutters in the open world — how do I fix it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drop View Distance to Very Low first, then lower Traffic density, and enable DLSS (RTX) / FSR (AMD)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "NTE has high ping / connection lag — what do I do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pick the server closest to you (Asia / America / Europe / SEA), turn off VPN / proxy, and use a wired connection."
-      }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: NTE crashes / freezes on launch — what do I do?**
+A: Confirm specs (i7-10700 / GTX 1660 / 16GB), update GPU drivers, install on SSD, close background apps, and use the launcher's "repair game files".
+
+**Q: NTE stutters in the open world — how do I fix it?**
+A: Drop View Distance to Very Low first, then lower Traffic density, and enable DLSS (RTX) / FSR (AMD).
+
+**Q: NTE has high ping / connection lag — what do I do?**
+A: Pick the server closest to you (Asia / America / Europe / SEA), turn off VPN / proxy, and use a wired connection.

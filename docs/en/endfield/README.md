@@ -40,26 +40,13 @@ operator needs.
 > New to Endfield? Bookmark this hub — codes and tier rankings are updated as the game
 > evolves.
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Arknights: Endfield?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Arknights: Endfield is a 3D industrial sci-fi RPG spin-off from Hypergryph, launched worldwide on January 22, 2026. It combines base automation with real-time tactical combat." }
-    },
-    {
-      "@type": "Question",
-      "name": "When did Endfield release?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Endfield launched globally on January 22, 2026 for PS5 and PC." }
-    },
-    {
-      "@type": "Question",
-      "name": "What platforms is Endfield on?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Endfield is available on PS5 and PC (Windows). Check the official store for the latest platform list." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: What is Arknights: Endfield?**
+A: Arknights: Endfield is a 3D industrial sci-fi RPG spin-off from Hypergryph, launched worldwide on January 22, 2026. It combines base automation with real-time tactical combat.
+
+**Q: When did Endfield release?**
+A: Endfield launched globally on January 22, 2026 for PS5 and PC.
+
+**Q: What platforms is Endfield on?**
+A: Endfield is available on PS5 and PC (Windows). Check the official store for the latest platform list.

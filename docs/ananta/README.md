@@ -122,43 +122,16 @@ A：CBT1 已确认 PC 支持 DualSense PS5 手柄；跨平台联机与跨进度�
 - [Neverness to Everness 攻略中心](/nte/)
 - [GTA6 攻略中心](/gta6/)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Ananta 是什么游戏？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ananta（原 Project Mugen）是网易都市开放世界 anime RPG，融合 GTA 式都市沙盒、蜘蛛侠式摆荡移动、城市生活模拟与开放世界探索，背景都市为 Nova City。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ananta 要花钱抽角色吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "不用。所有角色通过玩法免费获得，付费仅限外观等 cosmetic 内容。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ananta 会登陆 Mac 或 Steam 吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "确认平台为 PC（网易自研启动器）、PS5、iOS、Android；Mac 与 Steam / Epic 暂未官宣。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ananta 什么时候发售？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "官方目标 2026 年，确切日期未定；有分析预测可能延至 2027 上半年。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：Ananta 是什么游戏？**
+A：Ananta（原 Project Mugen）是网易都市开放世界 anime RPG，融合 GTA 式都市沙盒、蜘蛛侠式摆荡移动、城市生活模拟与开放世界探索，背景都市为 Nova City。
+
+**Q：Ananta 要花钱抽角色吗？**
+A：不用。所有角色通过玩法免费获得，付费仅限外观等 cosmetic 内容。
+
+**Q：Ananta 会登陆 Mac 或 Steam 吗？**
+A：确认平台为 PC（网易自研启动器）、PS5、iOS、Android；Mac 与 Steam / Epic 暂未官宣。
+
+**Q：Ananta 什么时候发售？**
+A：官方目标 2026 年，确切日期未定；有分析预测可能延至 2027 上半年。

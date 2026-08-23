@@ -182,51 +182,19 @@ R: No. PS5 sigue siendo estándar por 3–4 años. PS5 disco o PS5 Pro son sensa
 
 ---
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Se puede precomprar GTA6 y cuánto cuesta?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sí. Las precompras abrieron el 25 de junio de 2026 en PS5 y Xbox. La Estándar cuesta $79.99 y la Ultimate (digital) $99.99; con impuestos varía por región."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Diferencia entre GTA6 Estándar y Ultimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La Estándar es el juego base. La Ultimate (digital) añade contenido exclusivo en juego como vehículos y bonos de efectivo, útiles para un inicio de GTA Online 2."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Puedo reembolsar mi precompra de GTA6?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Las precompras suelen reembolsarse totalmente antes del lanzamiento. Después, PlayStation y Microsoft permiten 14 días si barely jugado; Steam y Epic 14 días y menos de 2 horas. No descargues ni juegues antes, o será más difícil."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuándo terminan los bonos de precompra?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los bonos suelen terminar antes del lanzamiento. Si vas a comprar, completa la precompra antes del 19 de noviembre de 2026 para asegurarlo."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Pueden los de PC precomprar GTA6 ahora?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No al lanzamiento. GTA6 sale solo en PS5 y Xbox Series X|S; la fecha de PC está por confirmar (esperada 2027+). Los de PC pueden wishlist en Steam / Epic para aviso de PC."
-      }
-    }
-  ]
-}
-</script></template>
+## Preguntas frecuentes
+
+**Q: ¿Se puede precomprar GTA6 y cuánto cuesta?**
+A: Sí. Las precompras abrieron el 25 de junio de 2026 en PS5 y Xbox. La Estándar cuesta $79.99 y la Ultimate (digital) $99.99; con impuestos varía por región.
+
+**Q: ¿Diferencia entre GTA6 Estándar y Ultimate?**
+A: La Estándar es el juego base. La Ultimate (digital) añade contenido exclusivo en juego como vehículos y bonos de efectivo, útiles para un inicio de GTA Online 2.
+
+**Q: ¿Puedo reembolsar mi precompra de GTA6?**
+A: Las precompras suelen reembolsarse totalmente antes del lanzamiento. Después, PlayStation y Microsoft permiten 14 días si barely jugado; Steam y Epic 14 días y menos de 2 horas. No descargues ni juegues antes, o será más difícil.
+
+**Q: ¿Cuándo terminan los bonos de precompra?**
+A: Los bonos suelen terminar antes del lanzamiento. Si vas a comprar, completa la precompra antes del 19 de noviembre de 2026 para asegurarlo.
+
+**Q: ¿Pueden los de PC precomprar GTA6 ahora?**
+A: No al lanzamiento. GTA6 sale solo en PS5 y Xbox Series X|S; la fecha de PC está por confirmar (esperada 2027+). Los de PC pueden wishlist en Steam / Epic para aviso de PC.

@@ -34,21 +34,10 @@ this hub — built to answer those exact questions.
 
 > Bookmark this hub — codes and tier rankings update with every version.
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Neverness to Everness (NTE)?",
-      "acceptedAnswer": { "@type": "Answer", "text": "NTE is a 2026 urban open-world action RPG from Perfect World, launched April 29, 2026, mixing open-world exploration with gacha character collection." }
-    },
-    {
-      "@type": "Question",
-      "name": "When did NTE release?",
-      "acceptedAnswer": { "@type": "Answer", "text": "NTE launched on April 29, 2026." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: What is Neverness to Everness (NTE)?**
+A: NTE is a 2026 urban open-world action RPG from Perfect World, launched April 29, 2026, mixing open-world exploration with gacha character collection.
+
+**Q: When did NTE release?**
+A: NTE launched on April 29, 2026.

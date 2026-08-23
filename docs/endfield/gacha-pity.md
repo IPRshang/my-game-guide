@@ -76,35 +76,13 @@ description: "Arknights Endfield 抽卡保底全解析：单抽500、十连5000�
 
 **相关章节**：[货币系统图解](/endfield/currencies) · [PC 配置要求](/endfield/system-requirements)
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "终末地抽卡保底是多少？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "每 10 抽保底 5★；软保底 65 抽概率递增；硬保底 80 抽必出 6★；限定保底 120 抽必得限定角色。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "限定保底（120 抽）会跨卡池继承吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "不会。切换卡池前务必抽满 120 或放弃该角色，否则限定进度清零。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "50/50 机制是什么意思？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "限定卡池保底命中时，50% 出限定、50% 出常驻；若未中，下次保底必出限定。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：终末地抽卡保底是多少？**
+A：每 10 抽保底 5★；软保底 65 抽概率递增；硬保底 80 抽必出 6★；限定保底 120 抽必得限定角色。
+
+**Q：限定保底（120 抽）会跨卡池继承吗？**
+A：不会。切换卡池前务必抽满 120 或放弃该角色，否则限定进度清零。
+
+**Q：50/50 机制是什么意思？**
+A：限定卡池保底命中时，50% 出限定、50% 出常驻；若未中，下次保底必出限定。

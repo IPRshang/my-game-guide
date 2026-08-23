@@ -48,35 +48,13 @@ description: "明日方舟：终末地兑换码怎么领取与兑换，兑换码
 - 不知道养谁？看 [干员节奏榜](./tier-list.md)。
 - 搭基地？用 [基地规划器](./planner.md)。
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "终末地兑换码怎么兑换？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "主菜单打开设置 → 进入账号/兑换页签 → 输入兑换码确认 → 奖励发到游戏内邮件领取。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "终末地兑换码在哪领？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "主要在官方 Discord、预约里程碑奖励、游戏内邮件，以及官方 X/YouTube 的联动社媒活动中发放。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "终末地兑换码会过期吗？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "会。兑换码通常限时且区分大小写，建议找到后尽快兑换，并以游戏内实际状态为准。"
-      }
-    }
-  ]
-}
-</script></template>
+## 常见问题
+
+**Q：终末地兑换码怎么兑换？**
+A：主菜单打开设置 → 进入账号/兑换页签 → 输入兑换码确认 → 奖励发到游戏内邮件领取。
+
+**Q：终末地兑换码在哪领？**
+A：主要在官方 Discord、预约里程碑奖励、游戏内邮件，以及官方 X/YouTube 的联动社媒活动中发放。
+
+**Q：终末地兑换码会过期吗？**
+A：会。兑换码通常限时且区分大小写，建议找到后尽快兑换，并以游戏内实际状态为准。

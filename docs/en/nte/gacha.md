@@ -24,16 +24,7 @@ Plan your pulls before spending currency. Run single or 10-pulls and track your 
 > Probabilities shown are **illustrative** (community-estimated). Use for planning, not as
 > official rates.
 
-<template><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is the NTE Gacha Simulator accurate?",
-      "acceptedAnswer": { "@type": "Answer", "text": "The simulator uses illustrative (community-estimated) probabilities for planning and fun; actual rates follow the game's official disclosure." }
-    }
-  ]
-}
-</script></template>
+## FAQ
+
+**Q: Is the NTE Gacha Simulator accurate?**
+A: The simulator uses illustrative (community-estimated) probabilities for planning and fun; actual rates follow the game's official disclosure.
