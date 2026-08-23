@@ -57,3 +57,44 @@ A：互通。同一账号在不同平台数据同步，各平台为同一 UID。
 - 开服先用 [兑换码](./codes.md) 领开荒素材，过期不候。
 - 不知道先练谁？看 [干员节奏榜](./tier-list.md)。
 - 另一款新游攻略见 [GTA6 发售全攻略](../gta6/release-guide.md)。
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "终末地需要多少硬盘空间？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC 端至少预留 50 GB，解压过程中会临时多占约 40 GB，建议装在 SSD 并预留 90 GB 以上更稳妥。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTX 1060 能玩吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以，这是官方列出的最低显卡。能跑起来，但画质与帧率建议调低；想要更稳的体验看推荐配置（RTX 2060 起步）。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mac 能玩终末地吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "目前官方公布平台为 PC（Windows）、PS5、Android、iOS、Epic，未提及 macOS 版本。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "手机和 PC 进度互通吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "互通。同一账号在不同平台数据同步，各平台为同一 UID。"
+      }
+    }
+  ]
+}
+</script></template>

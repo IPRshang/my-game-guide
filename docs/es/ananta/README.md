@@ -57,3 +57,36 @@ A: Sí. Project Mugen fue el nombre en 2023; se renombró Ananta a finales de 20
 
 - [Neverness to Everness](/es/nte/)
 - [GTA 6](/es/gta6/)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Hay que pagar por los personajes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Todos son gratis por progreso; solo se paga por cosmética."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Estará en Steam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC usa el launcher de NetEase; Steam/Epic aún no se confirma."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Ananta es Project Mugen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Project Mugen fue el nombre en 2023; se renombró Ananta a finales de 2024."
+      }
+    }
+  ]
+}
+</script></template>

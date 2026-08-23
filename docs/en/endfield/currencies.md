@@ -80,3 +80,44 @@ The first time you load into Arknights: Endfield it doesn't feel like a game —
 > The core loop: **explore for Oroberyl → pull Operators → duplicates become Arsenal Tickets / Quotas → upgrade to farm faster**. Run that loop and the currency anxiety disappears.
 
 **Related**: [Gacha & Pity Explained](/en/endfield/gacha-pity) · [Datalogger Balloon Men](/en/endfield/datalogger) · [System Requirements](/en/endfield/system-requirements)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which Endfield currencies are easiest to confuse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The red currencies Oroberyl / Origeometry and the regional Stock Bills look similar; Oroberyl and Origeometry are for pulls, while Stock Bills are region-locked and not shared across regions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between Oroberyl and Origeometry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oroberyl is the main pull currency (farmable); Origeometry is the premium currency used for limited / paid banners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why aren't regional Stock Bills shared?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each region settles independently; Stock Bills only work in their own region and don't carry over, so mixing them up wastes resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a tool to sort out currencies and pulls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This page has a currency quick-reference table that pairs well with the Endfield pull planner."
+      }
+    }
+  ]
+}
+</script></template>

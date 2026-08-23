@@ -114,3 +114,44 @@ A: CBT1 confirmed DualSense PS5 controller support on PC. Cross-play and cross-p
 - [Ananta Pre-Registration Guide & Rewards](./pre-registration)
 - [Neverness to Everness Hub](/en/nte/)
 - [GTA6 Hub](/en/gta6/)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to pay to get characters in Ananta?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. All characters are earned through gameplay; payment is cosmetic only."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will Ananta be on Steam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC is confirmed on NetEase's own launcher; Steam/Epic are not yet announced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Ananta the same as Project Mugen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Project Mugen was the 2023 codename; it was renamed Ananta (Sanskrit for \"infinite\") in late 2024."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it support controllers / cross-play?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CBT1 confirmed DualSense PS5 controller support on PC. Cross-play and cross-progression are widely reported but not formally itemized."
+      }
+    }
+  ]
+}
+</script></template>

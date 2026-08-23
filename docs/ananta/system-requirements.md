@@ -56,3 +56,44 @@ A：PC 走网易自研启动器，Steam / Epic 尚未官宣。
 
 - [Ananta 全面介绍](./)
 - [Ananta 预注册指南](./pre-registration)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ananta 要多少存储空间？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CBT1 测试包约 46GB，建议预留 60GB SSD 空间。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "支持 AMD FSR 吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "目前官方只确认 DLSS 4（NVIDIA），FSR 未明确；AMD 显卡可在中低画质原生运行。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mac 能玩吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "目前确认平台为 PC / PS5 / iOS / Android，Mac 未列入。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "会登陆 Steam 吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC 走网易自研启动器，Steam / Epic 尚未官宣。"
+      }
+    }
+  ]
+}
+</script></template>

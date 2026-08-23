@@ -56,3 +56,44 @@ A: PC uses NetEase's own launcher; Steam / Epic are not yet announced.
 
 - [Ananta Game Guide](./)
 - [Ananta Pre-Registration Guide](./pre-registration)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much storage does Ananta need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "~46GB for the CBT1 build; reserve 60GB SSD for launch."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it support AMD FSR?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only DLSS 4 (NVIDIA) is confirmed so far; FSR is unconfirmed. AMD GPUs run at native medium-low."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Macs play it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Confirmed platforms are PC / PS5 / iOS / Android; Mac is not listed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will it be on Steam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC uses NetEase's own launcher; Steam / Epic are not yet announced."
+      }
+    }
+  ]
+}
+</script></template>

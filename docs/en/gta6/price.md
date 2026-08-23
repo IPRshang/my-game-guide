@@ -48,3 +48,44 @@ A: Not at launch. GTA 6 is console-only (PS5, Xbox Series X|S) on November 19, 2
 - Start with the [GTA 6 release & specs overview](./release-guide.md).
 - Ready to buy? See the [GTA 6 pre-order guide](./preorder-guide.md).
 - Other 2026 specs guides: [Endfield requirements](../endfield/system-requirements.md) and [NTE requirements](../nte/system-requirements.md).
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is GTA 6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard is $79.99 and Ultimate is $99.99 (USD; regional pricing may vary)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pre-order now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — pre-orders have been live since June 25, 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do I get for pre-ordering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Vintage Vice City Pack, if purchased before November 20, 2026."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a PC version?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at launch. GTA 6 is console-only (PS5, Xbox Series X|S) on November 19, 2026; no PC date has been announced."
+      }
+    }
+  ]
+}
+</script></template>

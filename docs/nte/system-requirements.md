@@ -58,3 +58,44 @@ A：互通。同一账号（PWG 账号）在各平台数据同步，UID 共享�
 - 开服先用 [兑换码](./codes.md) 领奖励，过期不候。
 - 不知道先抽谁？看 [角色节奏榜](./tier-list.md)。
 - 另一款新游攻略见 [GTA6 发售全攻略](../gta6/release-guide.md)。
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "NTE 需要多少硬盘空间？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PC 端至少预留 60 GB，安装时会临时多占约 60 GB，建议装在 SSD 并预留 120 GB 以上更稳妥。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "GTX 1660 能玩吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可以，这是官方最低显卡。能跑，但建议降低画质；想要更高画质看推荐配置（RTX 3060 起步）。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "NTE 有 Mac 版吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "有，已随全球上线推出，但仅支持 Apple Silicon（M1 及以上）与 macOS 14.0+，Intel Mac 无法运行。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "iOS 和安卓进度互通吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "互通。同一账号（PWG 账号）在各平台数据同步，UID 共享。"
+      }
+    }
+  ]
+}
+</script></template>

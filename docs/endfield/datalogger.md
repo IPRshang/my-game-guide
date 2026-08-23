@@ -44,3 +44,36 @@ Protocol Datalogger（协议数据记录器）的访问授权**绑定主线剧�
 - **Datalogger 在哪？** 全图散布，授权后地图上会标出，顺路收即可。
 
 **相关章节**：[货币系统图解](/endfield/currencies)（AIC Index 不算货币，但同属资源体系）· [PC 配置要求](/endfield/system-requirements)
+
+<template><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "为什么终末地早期用不了 Data Logger？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Data Logger（数据记录仪）需推进主线解锁对应权限 / 系统后才开放，前期不可用是设计如此。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Data Logger 怎么解锁？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "推进主线到指定节点并完成引导任务，约 3 步即可开放。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "解锁后能看什么（AIC Index）？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可查看敌人 / 物件的 AIC 数据索引，用于弱点分析与配队参考。"
+      }
+    }
+  ]
+}
+</script></template>
