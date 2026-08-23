@@ -125,14 +125,14 @@ module.exports = {
             {
               title: '终末地',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'system-requirements']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements']
             }
           ],
           '/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'system-requirements']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements']
             }
           ],
           '/ananta/': [
@@ -206,14 +206,14 @@ module.exports = {
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'system-requirements']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements']
             }
           ],
           '/en/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'system-requirements']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements']
             }
           ],
           '/en/ananta/': [
