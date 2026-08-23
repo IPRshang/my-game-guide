@@ -26,6 +26,15 @@ tags: ['precompra GTA6','ediciones GTA6','comprar GTA6','reembolso GTA6','compra
 
 GTA6 se alimenta de **las 200+ millones de copias de GTA5**. Pero a mayor hype, más importante comprar con cabeza.
 
+**En comparación con éxitos recientes**:
+
+| Juego | Rendimiento al lanzamiento / precompra |
+|---|---|
+| Black Myth: Wukong | 20+ millones en el primer mes |
+| Zelda: Tears of the Kingdom | ~10 millones en la primera semana |
+| Elden Ring | ~12 millones en el primer mes |
+| GTA5 | 1.000 millones de dólares en los primeros 3 días |
+
 ---
 
 ## 2. ¿Qué edición comprar?
@@ -49,7 +58,7 @@ Rockstar reveló los precios con la precompra el 25 de junio de 2026 (lista en U
 
 ### 2.3 ¿Vale la pena la Ultimate?
 
-Sus recompensas iniciales ayudan sobre todo a GTA Online 2, no a la historia. Como referencia, la Edition de GTA5:
+Sus recompensas iniciales ayudan sobre todo a GTA Online 2, no a la historia. Como referencia, la edición de GTA5:
 
 | Contenido | Modo historia | Modo Online |
 |---|---|---|
@@ -99,7 +108,7 @@ Sus recompensas iniciales ayudan sobre todo a GTA Online 2, no a la historia. Co
 
 | Tienda | Pros | Contras |
 |---|---|---|
-| PlayStation Store | Compra directa, precarga rápida | Precio HK/regional a veces más alto |
+| PlayStation Store | Compra directa, precarga rápida | El precio por región a veces es más alto |
 | Microsoft Store | Cambio de región más fácil | Algunos títulos llegan tarde por región |
 | Rockstar Store | Probable PC día uno | Puede requerir optimización de red |
 | Steam / Epic | Probable PC; precio regional más bajo | No jugable al lanzamiento |
@@ -132,12 +141,20 @@ Sus recompensas iniciales ayudan sobre todo a GTA Online 2, no a la historia. Co
 
 | Tienda | Reembolso pre-lanzamiento | Reembolso post-lanzamiento |
 |---|---|---|
-| PlayStation Store | Normalmente total | 14 días tras descarga, si barely jugado |
+| PlayStation Store | Normalmente total | 14 días tras descarga, si apenas has jugado |
 | Microsoft Store | Total en precompra | 14 días, según tiempo de juego |
 | Steam | 14 días / < 2 horas | 14 días / < 2 horas |
 | Epic Games Store | 14 días / < 2 horas | 14 días / < 2 horas |
 
 > 📌 No inicies la descarga ni juegues antes del lanzamiento si vas a pedir reembolso.
+
+### 5.2 Preguntas comunes sobre reembolsos
+
+**P: Si el precio baja tras precomprar, ¿hay compensación de precio?**
+R: Las tiendas digitales normalmente no aplican compensación de precio. Los discos físicos se pueden devolver y volver a comprar.
+
+**P: ¿Puedo reembolsar una compra de otra región?**
+R: Sí, pero el reembolso va al método de pago original y puede tardar más en cuentas de otra región.
 
 ---
 
@@ -191,10 +208,16 @@ A: Sí. Las precompras abrieron el 25 de junio de 2026 en PS5 y Xbox. La Estánd
 A: La Estándar es el juego base. La Ultimate (digital) añade contenido exclusivo en juego como vehículos y bonos de efectivo, útiles para un inicio de GTA Online 2.
 
 **Q: ¿Puedo reembolsar mi precompra de GTA6?**
-A: Las precompras suelen reembolsarse totalmente antes del lanzamiento. Después, PlayStation y Microsoft permiten 14 días si barely jugado; Steam y Epic 14 días y menos de 2 horas. No descargues ni juegues antes, o será más difícil.
+A: Las precompras suelen reembolsarse totalmente antes del lanzamiento. Después, PlayStation y Microsoft permiten 14 días si apenas has jugado; Steam y Epic 14 días y menos de 2 horas. No descargues ni juegues antes, o será más difícil.
 
 **Q: ¿Cuándo terminan los bonos de precompra?**
 A: Los bonos suelen terminar antes del lanzamiento. Si vas a comprar, completa la precompra antes del 19 de noviembre de 2026 para asegurarlo.
 
 **Q: ¿Pueden los de PC precomprar GTA6 ahora?**
 A: No al lanzamiento. GTA6 sale solo en PS5 y Xbox Series X|S; la fecha de PC está por confirmar (esperada 2027+). Los de PC pueden wishlist en Steam / Epic para aviso de PC.
+
+**Q: ¿Mejora mucho GTA6 en PS5 Pro frente a PS5?**
+A: Se espera soporte de mayor resolución o un modo 60 FPS más estable, pero el juego base es idéntico.
+
+**Q: ¿Es real la cifra de "50 millones de precompras"?**
+A: Ha circulado en redes y análisis de la industria, **pero no ha sido confirmada oficialmente**. Refleja expectativas del mercado, no datos financieros finales.

@@ -50,7 +50,7 @@ Si solo tienes PC, la forma más realista de jugar GTA6 el primer día es **comp
 | Consola | Ventajas | Desventajas | Ideal para |
 |---|---|---|---|
 | **PS5 / PS5 Pro** | Posible colaboración de marketing, gran base de jugadores, buenos controles DualSense | El precio por región puede ser más alto | Usuarios PlayStation; quienes quieren 4K60 estable |
-| **Xbox Series X** | La consola más potente; precios por región flexibles / Game Pass | Ecosistema online más pequeño en Asia | Mejor relación potencia-precio; suscriptores de Game Pass |
+| **Xbox Series X** | La consola más potente; precios por región flexibles / Game Pass | Ecosistema online más pequeño fuera de Norteamérica | Mejor relación potencia-precio; suscriptores de Game Pass |
 | **Xbox Series S** | Entrada más económica | Hardware más débil; compromisos de imagen/rendimiento | Presupuesto ajustado, sin exigencia de gráficos |
 
 > 🎮 **Recomendación**: los amantes de la imagen elijan **PS5 Pro o Xbox Series X**; quienes quieren la historia por menos, **PS5 edición con disco o Xbox Series X**.
