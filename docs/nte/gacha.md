@@ -20,7 +20,7 @@ description: "Neverness to Everness 交互式抽卡模拟器。单抽或十连�
 - 用它估算抽到目标角色需要几次。
 - 概率目前为 **示意值（社区估算）**，仅用于规划与娱乐。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -35,4 +35,4 @@ description: "Neverness to Everness 交互式抽卡模拟器。单抽或十连�
     }
   ]
 }
-</script>
+</script></template>

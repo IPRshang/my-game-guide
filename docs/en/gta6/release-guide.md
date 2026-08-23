@@ -225,7 +225,7 @@ GTA6's excitement is real, but many viral numbers — "50 million pre-orders," "
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -272,4 +272,4 @@ GTA6's excitement is real, but many viral numbers — "50 million pre-orders," "
     }
   ]
 }
-</script>
+</script></template>

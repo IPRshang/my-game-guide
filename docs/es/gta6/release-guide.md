@@ -200,7 +200,7 @@ Las cifras virales ("50 millones de precompras", "$4 mil millones") son **especu
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -247,4 +247,4 @@ Las cifras virales ("50 millones de precompras", "$4 mil millones") son **especu
     }
   ]
 }
-</script>
+</script></template>

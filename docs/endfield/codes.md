@@ -48,7 +48,7 @@ description: "明日方舟：终末地兑换码怎么领取与兑换，兑换码
 - 不知道养谁？看 [干员节奏榜](./tier-list.md)。
 - 搭基地？用 [基地规划器](./planner.md)。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -79,4 +79,4 @@ description: "明日方舟：终末地兑换码怎么领取与兑换，兑换码
     }
   ]
 }
-</script>
+</script></template>

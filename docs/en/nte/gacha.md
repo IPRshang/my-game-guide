@@ -24,7 +24,7 @@ Plan your pulls before spending currency. Run single or 10-pulls and track your 
 > Probabilities shown are **illustrative** (community-estimated). Use for planning, not as
 > official rates.
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -36,4 +36,4 @@ Plan your pulls before spending currency. Run single or 10-pulls and track your 
     }
   ]
 }
-</script>
+</script></template>

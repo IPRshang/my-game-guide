@@ -27,7 +27,7 @@ building's quantity and watch totals update live.
 > Numbers here are illustrative starting points. Replace them with in-game values as you
 > learn the exact stats.
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -39,4 +39,4 @@ building's quantity and watch totals update live.
     }
   ]
 }
-</script>
+</script></template>

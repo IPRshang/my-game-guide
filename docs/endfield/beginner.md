@@ -37,7 +37,7 @@ description: "明日方舟：终末地新手攻略 — 开局几小时该做什�
 - 看 [干员节奏榜](./tier-list.md) 决定抽谁。
 - 用 [基地规划器](./planner.md) 规划布局。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -60,4 +60,4 @@ description: "明日方舟：终末地新手攻略 — 开局几小时该做什�
     }
   ]
 }
-</script>
+</script></template>

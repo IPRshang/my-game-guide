@@ -40,7 +40,7 @@ operator needs.
 > New to Endfield? Bookmark this hub — codes and tier rankings are updated as the game
 > evolves.
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -62,4 +62,4 @@ operator needs.
     }
   ]
 }
-</script>
+</script></template>

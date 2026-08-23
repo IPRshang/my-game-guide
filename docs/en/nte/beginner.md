@@ -37,7 +37,7 @@ New to Neverness to Everness? Here is the efficient first-day path.
 - See who to pull in the [Character Tier List](./tier-list.md).
 - Simulate pulls with the [Gacha Simulator](./gacha.md).
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -49,4 +49,4 @@ New to Neverness to Everness? Here is the efficient first-day path.
     }
   ]
 }
-</script>
+</script></template>

@@ -34,7 +34,7 @@ this hub — built to answer those exact questions.
 
 > Bookmark this hub — codes and tier rankings update with every version.
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -51,4 +51,4 @@ this hub — built to answer those exact questions.
     }
   ]
 }
-</script>
+</script></template>

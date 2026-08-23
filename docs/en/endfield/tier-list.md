@@ -39,7 +39,7 @@ factory and the battlefield.
 - New player? Start with the [Beginner Guide](./beginner.md).
 - Planning your base? Use the [Base Planner](./planner.md).
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -51,4 +51,4 @@ factory and the battlefield.
     }
   ]
 }
-</script>
+</script></template>

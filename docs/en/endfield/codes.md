@@ -53,7 +53,8 @@ Looking for a specific code? Try these phrases players use most:
 - Not sure who to build? See the [Operator Tier List](./tier-list.md).
 - Setting up your factory? Try the [Base Planner](./planner.md).
 
-<script type="application/ld+json">
+<template>
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -70,4 +71,5 @@ Looking for a specific code? Try these phrases players use most:
     }
   ]
 }
-</script>
+</script></template>
+</template>

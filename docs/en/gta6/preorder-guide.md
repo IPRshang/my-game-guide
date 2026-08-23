@@ -237,7 +237,7 @@ A: No. PS5 is the current-gen standard console and will remain relevant for 3–
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -284,4 +284,4 @@ A: No. PS5 is the current-gen standard console and will remain relevant for 3–
     }
   ]
 }
-</script>
+</script></template>

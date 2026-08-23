@@ -246,7 +246,7 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -293,5 +293,5 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
     }
   ]
 }
-</script>
+</script></template>
 

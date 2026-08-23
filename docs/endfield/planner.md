@@ -15,7 +15,7 @@ description: "明日方舟：终末地交互式基地规划器。调整各建筑
 - **总人口** 显示基地雇佣的干员数 —— 用于规划物流分配。
 - **产出** 是各建筑贡献的速览。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -30,4 +30,4 @@ description: "明日方舟：终末地交互式基地规划器。调整各建筑
     }
   ]
 }
-</script>
+</script></template>

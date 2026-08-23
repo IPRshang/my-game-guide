@@ -46,7 +46,7 @@ description: "Neverness to Everness 兑换码怎么领取与兑换，发放渠�
 - 看 [角色节奏榜](./tier-list.md) 决定抽谁。
 - 用 [抽卡模拟器](./gacha.md) 规划抽取。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -77,4 +77,4 @@ description: "Neverness to Everness 兑换码怎么领取与兑换，发放渠�
     }
   ]
 }
-</script>
+</script></template>

@@ -48,7 +48,7 @@ official channels. Bookmark this page — it refreshes whenever a new code drops
 - See who to pull in the [Character Tier List](./tier-list.md).
 - Plan pulls with the [Gacha Simulator](./gacha.md).
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -65,4 +65,4 @@ official channels. Bookmark this page — it refreshes whenever a new code drops
     }
   ]
 }
-</script>
+</script></template>

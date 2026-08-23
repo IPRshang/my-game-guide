@@ -182,7 +182,7 @@ R: No. PS5 sigue siendo estándar por 3–4 años. PS5 disco o PS5 Pro son sensa
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -229,4 +229,4 @@ R: No. PS5 sigue siendo estándar por 3–4 años. PS5 disco o PS5 Pro son sensa
     }
   ]
 }
-</script>
+</script></template>

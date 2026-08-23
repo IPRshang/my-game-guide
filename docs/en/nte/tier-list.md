@@ -35,7 +35,7 @@ A practical ranking of which NTE characters are worth your early pulls and resou
 - New player? Start with the [Beginner Guide](./beginner.md).
 - Plan pulls with the [Gacha Simulator](./gacha.md).
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -47,4 +47,4 @@ A practical ranking of which NTE characters are worth your early pulls and resou
     }
   ]
 }
-</script>
+</script></template>

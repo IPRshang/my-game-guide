@@ -37,7 +37,7 @@ description: "Neverness to Everness 新手攻略 — 开服第一天优先级、
 - 看 [角色节奏榜](./tier-list.md) 决定抽谁。
 - 用 [抽卡模拟器](./gacha.md) 模拟抽取。
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -60,4 +60,4 @@ description: "Neverness to Everness 新手攻略 — 开服第一天优先级、
     }
   ]
 }
-</script>
+</script></template>

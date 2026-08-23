@@ -37,7 +37,7 @@ Just started Arknights: Endfield? Here is the efficient path through your first 
 - See who to pull in the [Operator Tier List](./tier-list.md).
 - Plan your layout with the [Base Planner](./planner.md).
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -49,4 +49,4 @@ Just started Arknights: Endfield? Here is the efficient path through your first 
     }
   ]
 }
-</script>
+</script></template>

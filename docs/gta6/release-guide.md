@@ -235,7 +235,7 @@ GTA6 的热度是真实的，但网络上很多 "5,000 万预售"、"40 亿美�
 
 ---
 
-<script type="application/ld+json">
+<template><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -282,4 +282,4 @@ GTA6 的热度是真实的，但网络上很多 "5,000 万预售"、"40 亿美�
     }
   ]
 }
-</script>
+</script></template>
