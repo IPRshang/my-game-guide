@@ -7,6 +7,8 @@ description: "Arknights Endfield gacha pity explained: 500 per pull, 0.8% base 6
 
 Endfield's gacha gets criticized as punishing — a single pull costs 5,000 currency, hard pity is 80, and the featured guarantee needs 120 pulls that **don't carry over**. This page breaks down every pity tier so you know **when to push and when to save**, instead of wasting pulls at the wrong moment.
 
+> Key reminder: character pity progress **does NOT carry over between banners** — it resets to zero when a banner ends. Before switching banners, either reach 120 or give up the character, otherwise the featured progress is void.
+
 ## 1. Base cost & rates
 
 | Item | Value |

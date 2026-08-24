@@ -76,6 +76,7 @@ The first time you load into Arknights: Endfield it doesn't feel like a game —
 1. **"Red vs gold"** → Oroberyl (red, pull) ≠ Origeometry (gold, premium) ≠ T-Creds (general).
 2. **"Save Credits for later"** → 300 daily cap, expires — spend daily.
 3. **"Universal bills"** → regional Stock Bills don't transfer between maps.
+4. **"Track limited-time currencies"** → Some currencies carry expiration dates (e.g. Chartered HH Permits, the daily-reset Credits cap), and the UI scatters them across screens so stock is hard to read at a glance. Spend any time-limited currency promptly before it lapses — don't wait for a version switch to find it void.
 
 > The core loop: **explore for Oroberyl → pull Operators → duplicates become Arsenal Tickets / Quotas → upgrade to farm faster**. Run that loop and the currency anxiety disappears.
 

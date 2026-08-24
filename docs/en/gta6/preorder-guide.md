@@ -1,6 +1,8 @@
 ---
-title: 'GTA6 Pre-Order Guide 2026: Standard vs Ultimate, Refunds & Where to Buy | ggexplore.com'
-description: 'GTA6 pre-orders live since June 25, 2026: Standard $79.99 vs Ultimate $99.99. Compare PS5, Xbox & PC stores, refund rules, and which edition is worth it before November 19 launch.'
+# GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice | ggexplore.com
+
+description: 'Which GTA6 edition should you buy? Standard vs Deluxe vs Collector''s Edition. Platform choice, store comparison, refund policies, and console buying advice for PS5, Xbox Series X|S, and PC players.'
+title: 'GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice'
 date: 2026-08-13
 author: 'Game Strategy Hub'
 tags: ['GTA6 preorder','GTA6 editions','GTA6 buy','GTA6 refund','GTA6 console buying','GTA6 cheap region','GTA6 preorder bonus','GTA6 collectors edition','GTA6 digital vs physical']
@@ -65,6 +67,19 @@ The Deluxe Edition's starter rewards mostly help GTA Online 2, not the single-pl
 | Weapon packs | Usable | Faster early progression |
 
 > 💡 **Verdict**: If you only want the story, Standard Edition + grinding later is cheaper. See our [GTA6 Money Guide](./money-guide.md) for fast money tips.
+
+---
+
+## 2b. What the Ultimate Edition Officially Includes
+
+Pre-orders opened in **June 2026**. Beyond the Standard Edition ($79.99), the Ultimate Edition is priced at **$99.99**, and Rockstar has officially confirmed its exclusive in-game contents as follows:
+
+- **Exclusive in-game vehicles**
+- **Exclusive in-game weapons**
+- **Exclusive in-game outfits**
+- **"Action content throughout the game"**
+
+> Note: The above reflects Rockstar's official description of the Ultimate Edition. The Standard Edition is the full base game and does not include these Ultimate-exclusive items. Final details are subject to Rockstar's official announcements and in-game content.
 
 ---
 
