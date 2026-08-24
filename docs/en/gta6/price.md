@@ -1,6 +1,6 @@
 ---
 title: "GTA 6 Price & Editions (2026) — Standard vs Ultimate, Pre-Order Bonus"
-description: "GTA 6 price: Standard $79.99, Ultimate $99.99. Pre-orders opened June 25, 2026 with the Vintage Vice City Pack. Launches November 19, 2026 on PS5 and Xbox Series X|S."
+description: "GTA 6 price confirmed: Standard $79.99 vs Ultimate $99.99. Pre-orders opened June 25, 2026 with the Vintage Vice City Pack bonus. Launches November 19, 2026 on PS5 and Xbox Series X|S — see which edition is worth it."
 ---
 
 # GTA 6 Price & Editions (2026)

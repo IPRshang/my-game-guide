@@ -1,8 +1,6 @@
 ---
-# Guía de precompra de GTA6: ediciones, tiendas, reembolsos y consolas | ggexplore.com
-
-description: '¿Qué edición de GTA6 comprar? Estándar vs Ultimate. Elección de plataforma, comparativa de tiendas, política de reembolso y consejos de compra de consola para PS5, Xbox Series X|S y PC.'
-title: 'Guía de precompra de GTA6: ediciones, tiendas, reembolsos y consolas'
+title: 'Guía de precompra de GTA6 2026: Estándar vs Ultimate, reembolsos y dónde comprar | ggexplore.com'
+description: 'Precompra de GTA6 abierta desde el 25 de junio de 2026: Estándar $79.99 vs Ultimate $99.99. Compara tiendas PS5, Xbox y PC, reglas de reembolso y qué edición conviene antes del lanzamiento del 19 de noviembre.'
 date: 2026-08-22
 author: 'Game Strategy Hub'
 tags: ['precompra GTA6','ediciones GTA6','comprar GTA6','reembolso GTA6','comprar consola GTA6','región barata GTA6','bono precompra GTA6','edicion coleccionista GTA6']

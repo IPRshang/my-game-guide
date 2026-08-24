@@ -1,7 +1,7 @@
 ---
 title: 'Precio y ediciones de GTA 6 (2026): Estándar vs Ultimate y bono de precompra'
 
-description: 'Precio de GTA 6: Estándar $79.99, Ultimate $99.99. Precompras abiertas desde el 25 de junio de 2026 con el Pack Vice City Vintage. Sale el 19 de noviembre de 2026 en PS5 y Xbox Series X|S.'
+description: 'Precio de GTA 6 confirmado: Estándar $79.99 vs Ultimate $99.99. Precompras abiertas desde el 25 de junio de 2026 con el bono del Pack Vice City Vintage. Sale el 19 de noviembre de 2026 en PS5 y Xbox Series X|S: qué edición conviene.'
 ---
 
 # Precio y ediciones de GTA 6 (2026)

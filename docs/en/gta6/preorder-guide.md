@@ -1,8 +1,6 @@
 ---
-# GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice | ggexplore.com
-
-description: 'Which GTA6 edition should you buy? Standard vs Deluxe vs Collector''s Edition. Platform choice, store comparison, refund policies, and console buying advice for PS5, Xbox Series X|S, and PC players.'
-title: 'GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice'
+title: 'GTA6 Pre-Order Guide 2026: Standard vs Ultimate, Refunds & Where to Buy | ggexplore.com'
+description: 'GTA6 pre-orders live since June 25, 2026: Standard $79.99 vs Ultimate $99.99. Compare PS5, Xbox & PC stores, refund rules, and which edition is worth it before November 19 launch.'
 date: 2026-08-13
 author: 'Game Strategy Hub'
 tags: ['GTA6 preorder','GTA6 editions','GTA6 buy','GTA6 refund','GTA6 console buying','GTA6 cheap region','GTA6 preorder bonus','GTA6 collectors edition','GTA6 digital vs physical']

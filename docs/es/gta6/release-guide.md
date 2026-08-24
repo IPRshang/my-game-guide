@@ -1,8 +1,6 @@
 ---
-# Guía de GTA6: Fecha de lanzamiento, plataformas y requisitos para PC | ggexplore.com
-
-description: '¿Cuándo sale GTA6? ¿Habrá versión para PC al lanzamiento? ¿Cuáles son los requisitos mínimos y recomendados para PC? Guía completa de fecha, plataformas, precio, especificaciones y precompra.'
-title: 'Guía de GTA6: Fecha de lanzamiento, plataformas y requisitos para PC'
+title: 'Fecha de GTA6 2026: plataformas, versión para PC y requisitos | ggexplore.com'
+description: 'GTA6 sale el 19 de noviembre de 2026 en PS5 y Xbox Series X|S, sin PC al lanzamiento. Consulta la fecha confirmada, plataformas, precio y requisitos mínimos vs recomendados para PC en una guía.'
 date: 2026-08-22
 author: 'Game Strategy Hub'
 tags: ['GTA6','fecha de lanzamiento GTA6','plataformas GTA6','requisitos GTA6 PC','especificaciones GTA6','GTA6 cuando sale','GTA6 sin PC al inicio','precompra GTA6']
