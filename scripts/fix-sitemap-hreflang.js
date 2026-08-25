@@ -109,7 +109,9 @@ while ((m = urlRe.exec(xml)) !== null) {
     block = block.replace(/\s*<xhtml:link\s+[^>]*\/>/gi, '');
     const alt = alternatesFor(key);
     if (alt) {
-      block = block.replace(/<\/url>/, alt + '\n  </url>');
+      // block is the inner content (no </url> tag), so append before the
+      // closing </url> that the assembly step below adds back.
+      block = block + '\n' + alt + '\n  ';
       count++;
     }
   }
