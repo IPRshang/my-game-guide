@@ -89,3 +89,15 @@ A: Sí. Modo AIC → F1 → Planos compartidos → pega el código para importar
 ---
 
 **Relacionado**: [Guía de monedas de Endfield](/es/endfield/currencies) · [Pity de gacha de Endfield](/es/endfield/gacha-pity) · [Desbloqueo Datalogger de Endfield](/es/endfield/datalogger)
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)

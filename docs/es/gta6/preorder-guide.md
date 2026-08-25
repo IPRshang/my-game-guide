@@ -219,3 +219,19 @@ A: Se espera soporte de mayor resolución o un modo 60 FPS más estable, pero el
 
 **Q: ¿Es real la cifra de "50 millones de precompras"?**
 A: Ha circulado en redes y análisis de la industria, **pero no ha sido confirmada oficialmente**. Refleja expectativas del mercado, no datos financieros finales.
+
+
+## Related
+
+- [GTA6  Guía completa de logros y trofeos](./achievements.md)
+- [GTA6  Tier list de mejores vehículos](./best-vehicles.md)
+- [Habilidades y progresión de los dos protagonistas de GTA6](./character-guide.md)
+- [GTA6  Lista completa de cheats](./cheats.md)
+- [Base de datos de GTA6](./database.md)
+- [GTA6  Lugares ocultos y huevos de pascua](./hidden-locations.md)
+- [Guía del mapa de GTA 6: Vice City y Leonida](./map-guide.md)
+- [GTA6  Guía rápida de dinero para principiantes](./money-guide.md)
+- [Precio y ediciones de GTA 6 (2026)](./price.md)
+- [Guía de GTA6: Fecha de lanzamiento plataformas y requisitos para PC](./release-guide.md)
+- [GTA6  Guía de la historia principal](./story-guide.md)
+- [GTA6  Base de datos de armas](./weapons.md)

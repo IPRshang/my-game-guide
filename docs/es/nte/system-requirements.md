@@ -58,3 +58,14 @@ A: Sí. La misma cuenta PWG sincroniza entre plataformas bajo un mismo UID.
 - Consigue recompensas de lanzamiento con [códigos de canje](./codes.md) antes de que caduquen.
 - ¿No sabes a quién tirar? Mira la [lista de niveles de personajes](./tier-list.md).
 - Otra guía de lanzamiento 2026: [Lanzamiento y specs de GTA6](../gta6/release-guide.md).
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

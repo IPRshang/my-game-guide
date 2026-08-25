@@ -71,3 +71,19 @@ A: Para misiones de combate cercano y desplazamiento vertical, sí; para distanc
 
 **Q: ¿El seguro devuelve las mejoras?**
 A: No. Solo cubre el precio base del vehículo; las modificaciones se pierden si se destruye.
+
+
+## Related
+
+- [GTA6  Guía completa de logros y trofeos](./achievements.md)
+- [Habilidades y progresión de los dos protagonistas de GTA6](./character-guide.md)
+- [GTA6  Lista completa de cheats](./cheats.md)
+- [Base de datos de GTA6](./database.md)
+- [GTA6  Lugares ocultos y huevos de pascua](./hidden-locations.md)
+- [Guía del mapa de GTA 6: Vice City y Leonida](./map-guide.md)
+- [GTA6  Guía rápida de dinero para principiantes](./money-guide.md)
+- [Guía de precompra de GTA6: ediciones tiendas reembolsos y consolas](./preorder-guide.md)
+- [Precio y ediciones de GTA 6 (2026)](./price.md)
+- [Guía de GTA6: Fecha de lanzamiento plataformas y requisitos para PC](./release-guide.md)
+- [GTA6  Guía de la historia principal](./story-guide.md)
+- [GTA6  Base de datos de armas](./weapons.md)

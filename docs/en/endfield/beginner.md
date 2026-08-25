@@ -41,3 +41,15 @@ Just started Arknights: Endfield? Here is the efficient path through your first 
 
 **Q: What should I do first in Endfield?**
 A: Push the main story to unlock the base, redeem codes for free materials, build one logistics operator, and complete the tutorial combat.
+
+
+## Related
+
+- [Endfield Redeem Codes  How to Get & Redeem](./codes.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Protocol Datalogger Balloon Men](./datalogger.md)
+- [Endfield Factory (AIC) Beginner Guide](./factory-guide.md)
+- [Endfield Gacha & Pity System](./gacha-pity.md)
+- [Endfield Base Planner](./planner.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

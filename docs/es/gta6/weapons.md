@@ -78,3 +78,19 @@ A: consiguiendo 50 bajas por disparo en la cabeza.
 
 **Q: ¿Las armas ocultas aparecen en online?**
 A: las condiciones de desbloqueo son del modo historia; en online se obtienen por progresión de negocios y eventos.
+
+
+## Related
+
+- [GTA6  Guía completa de logros y trofeos](./achievements.md)
+- [GTA6  Tier list de mejores vehículos](./best-vehicles.md)
+- [Habilidades y progresión de los dos protagonistas de GTA6](./character-guide.md)
+- [GTA6  Lista completa de cheats](./cheats.md)
+- [Base de datos de GTA6](./database.md)
+- [GTA6  Lugares ocultos y huevos de pascua](./hidden-locations.md)
+- [Guía del mapa de GTA 6: Vice City y Leonida](./map-guide.md)
+- [GTA6  Guía rápida de dinero para principiantes](./money-guide.md)
+- [Guía de precompra de GTA6: ediciones tiendas reembolsos y consolas](./preorder-guide.md)
+- [Precio y ediciones de GTA 6 (2026)](./price.md)
+- [Guía de GTA6: Fecha de lanzamiento plataformas y requisitos para PC](./release-guide.md)
+- [GTA6  Guía de la historia principal](./story-guide.md)

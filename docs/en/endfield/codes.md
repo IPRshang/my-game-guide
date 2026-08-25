@@ -64,3 +64,15 @@ A: Open Settings from the main menu, go to the Account / Redemption tab, paste t
 
 **Q: Where do Endfield codes drop?**
 A: Mainly the official Discord, pre-registration milestones, in-game mail, and official social campaigns.
+
+
+## Related
+
+- [Endfield Beginner Guide](./beginner.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Protocol Datalogger Balloon Men](./datalogger.md)
+- [Endfield Factory (AIC) Beginner Guide](./factory-guide.md)
+- [Endfield Gacha & Pity System](./gacha-pity.md)
+- [Endfield Base Planner](./planner.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

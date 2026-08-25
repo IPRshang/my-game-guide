@@ -31,3 +31,15 @@ building's quantity and watch totals update live.
 
 **Q: How do I use the Endfield Base Planner?**
 A: Adjust each building's quantity and watch total power, population and output update live; keep total power at or above 0 to avoid a deficit.
+
+
+## Related
+
+- [Endfield Beginner Guide](./beginner.md)
+- [Endfield Redeem Codes  How to Get & Redeem](./codes.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Protocol Datalogger Balloon Men](./datalogger.md)
+- [Endfield Factory (AIC) Beginner Guide](./factory-guide.md)
+- [Endfield Gacha & Pity System](./gacha-pity.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

@@ -86,3 +86,15 @@ A: No. Before switching banners, either reach 120 or give up the character, othe
 
 **Q: What does the 50/50 mean?**
 A: On a pity hit in the limited banner, there's a 50% chance for the featured and 50% for a standard; if you miss, the next pity is guaranteed featured.
+
+
+## Related
+
+- [Endfield Beginner Guide](./beginner.md)
+- [Endfield Redeem Codes  How to Get & Redeem](./codes.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Protocol Datalogger Balloon Men](./datalogger.md)
+- [Endfield Factory (AIC) Beginner Guide](./factory-guide.md)
+- [Endfield Base Planner](./planner.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

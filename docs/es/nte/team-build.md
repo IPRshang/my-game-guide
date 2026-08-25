@@ -87,3 +87,14 @@ A: No siempre. Adler/Fadia cubren defensa vía escudos/redirección; muchos equi
 ---
 
 **Relacionado**: [Stamina y recursos de NTE](./stamina-resources) · [Solución de cuelgues y lag de NTE](./fix-crash) · [Guía para principiantes de NTE](./beginner)
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

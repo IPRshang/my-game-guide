@@ -63,3 +63,33 @@ date: 2026-07-24
 - **Golden Pistol**: Unlock by achieving 50 headshot kills
 - **Alien Rifle**: Collect all 100 spaceship parts
 - **Sword in the Stone**: Swampland church ruins — only appears during thunderstorms
+
+
+
+
+## FAQ
+
+**Q: What weapons are in GTA 6?**
+A: Expect the series' full arsenal — pistols, SMGs, rifles, shotguns, and heavy weapons — plus new additions. The confirmed list and stats arrive post-launch.
+
+**Q: What is the best weapon in GTA 6?**
+A: Pre-launch we rank by series role: a reliable rifle for missions, shotgun for close quarters. Final tier list updates with hands-on damage data.
+
+**Q: Can you customize weapons in GTA 6?**
+A: Weapon customization is a Rockstar staple; expect attachments and skins. Exact options are confirmed at launch.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6 Database](./database.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)

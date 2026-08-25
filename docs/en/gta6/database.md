@@ -185,3 +185,33 @@ Jason ←→ Lucia (dual-protagonist switch)
 ---
 
 > **Data sources:** Based on released Rockstar trailer analysis + GTA Online reference data. Actual data subject to game release.
+
+
+
+
+## FAQ
+
+**Q: What is in the GTA 6 database?**
+A: Our database aggregates vehicles, weapons, characters, and collectibles with stats and locations. It is preview data from trailers/official info and updates with hands-on numbers after launch.
+
+**Q: Is the GTA 6 database accurate before release?**
+A: Pre-launch entries are based on official trailers and statements, marked as preview. Final stats replace them post-launch.
+
+**Q: How do I search the GTA 6 database?**
+A: Use the section links on the database page to jump to vehicles, weapons, or collectibles; each row notes whether the data is confirmed or preview.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

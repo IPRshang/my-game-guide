@@ -89,3 +89,15 @@ A: Yes. AIC mode → F1 → Shared Blueprints → paste code to import a whole l
 ---
 
 **Related**: [Endfield Currency Guide](/endfield/currencies) · [Endfield Gacha Pity](/endfield/gacha-pity) · [Endfield Datalogger Unlock](/endfield/datalogger)
+
+
+## Related
+
+- [Endfield Beginner Guide](./beginner.md)
+- [Endfield Redeem Codes  How to Get & Redeem](./codes.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Protocol Datalogger Balloon Men](./datalogger.md)
+- [Endfield Gacha & Pity System](./gacha-pity.md)
+- [Endfield Base Planner](./planner.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

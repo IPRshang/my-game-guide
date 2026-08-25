@@ -86,3 +86,15 @@ A: No. Antes de cambiar de banner, o llegas a 120 o renuncias al personaje, si n
 
 **Q: ¿Qué significa el 50/50?**
 A: En un acierto de pity del banner limitado, hay 50% de chance para el destacado y 50% para uno estándar; si fallas, el próximo pity es destacado garantizado.
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)

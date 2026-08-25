@@ -71,3 +71,33 @@ date: 2026-07-24
 - Find an NPC in a yellow uniform at the docklands
 - Trail him to a warehouse to trigger a shootout
 - **Reward**: Rare shotgun + large cash haul
+
+
+
+
+## FAQ
+
+**Q: What hidden locations are in GTA 6?**
+A: Vice City's map includes beaches, swamps, and small towns with easter eggs and hidden collectibles. We map confirmed spots and update after launch with interactive coordinates.
+
+**Q: Are there easter eggs in GTA 6?**
+A: Yes — Rockstar always hides references and gag locations. This page tracks verified ones; user-submitted tips are reviewed before listing.
+
+**Q: Where are the hidden loot crates in GTA 6?**
+A: Crates respawn in Docklands (top of red containers, 2 hrs) and Swamplands (bushes south of the cabin, 4 hrs). More are added post-launch.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6 Database](./database.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

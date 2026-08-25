@@ -62,3 +62,33 @@ date: 2026-07-24
 | Ammo Half Price | `1-999-358-392` |
 
 > ⚠️ **Note**: Money cheat has a cooldown. Excessive use may flag your account.
+
+
+
+
+## FAQ
+
+**Q: Are there cheat codes in GTA 6?**
+A: Classic GTA cheat codes (health, weapons, vehicles) are expected to return. We compile the verified list — be aware cheats usually disable achievements/trophies.
+
+**Q: Do GTA 6 cheats disable achievements?**
+A: In prior Rockstar titles, enabling cheats blocks trophy/achievement unlocking for that session. Assume the same for GTA 6 until confirmed otherwise.
+
+**Q: Will GTA 6 have a money cheat?**
+A: Past titles had cash/health cheats but not infinite-money god modes for Online. Any 'GTA 6 money generator' site is a scam — ignore them.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6 Database](./database.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

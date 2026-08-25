@@ -56,3 +56,8 @@ A: PC usa el launcher propio de NetEase; Steam / Epic aún no se han anunciado.
 
 - [Guía de Ananta](./)
 - [Guía de prerregistro de Ananta](./pre-registration)
+
+
+## Related
+
+- [Guía de prerregistro de Ananta](./pre-registration.md)

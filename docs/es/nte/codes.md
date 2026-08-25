@@ -55,3 +55,14 @@ A: Abre Ajustes desde el menú principal, busca la opción Canje / Código, intr
 
 **Q: ¿Dónde aparecen los códigos de NTE?**
 A: Principalmente en el Discord oficial, los hitos de prerregistro, el correo del juego y las campañas sociales oficiales.
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

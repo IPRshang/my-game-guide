@@ -74,3 +74,14 @@ A: Técnicamente sí, pero **muy poco recomendado** — el Annulith limita tus t
 ---
 
 **Relacionado**: [Formación de equipo y Ciclo Esper de NTE](./team-build) · [Solución de cuelgues y lag de NTE](./fix-crash) · [Guía para principiantes de NTE](./beginner)
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

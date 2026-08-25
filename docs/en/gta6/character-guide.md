@@ -158,3 +158,33 @@ Both characters approach their caps. Fine-tune based on personal preference.
 | Heavy assault | Jason | High Strength + heavy weapons |
 
 Master the rhythm of character switching and skill synergy, and you've mastered GTA6's core gameplay. Remember the golden rule: **Lucia scouts, Jason shoots**.
+
+
+
+
+## FAQ
+
+**Q: Who are the main characters in GTA 6?**
+A: The two confirmed protagonists are Lucia Caminos and Jason Duval — the series' first dual-protagonist setup. Switching mechanics are detailed at launch.
+
+**Q: Can you switch characters in GTA 6 like GTA 5?**
+A: A dual-protagonist system is confirmed, letting you alternate between Lucia and Jason. Exact switching controls arrive with the full game.
+
+**Q: What skills can you upgrade in GTA 6?**
+A: Rockstar has not fully detailed the skill tree yet. Expect series staples (driving, shooting, stamina) to return; we will map them at launch.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6 Database](./database.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

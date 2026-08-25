@@ -43,3 +43,15 @@ fábrica como al campo de batalla.
 
 **Q: ¿A quién debo reclutar primero en Endfield?**
 A: Prioriza un operador logístico/reactor S-tier al principio porque la economía de base se acumula, luego rellena huecos de combate con daño y tanque A-tier.
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)

@@ -54,3 +54,15 @@ A: Push the main story to the specified node and complete the guidance quest —
 
 **Q: What do I get after unlocking (AIC Index)?**
 A: You can view the AIC data index for enemies / objects, useful for weakness analysis and team building.
+
+
+## Related
+
+- [Endfield Beginner Guide](./beginner.md)
+- [Endfield Redeem Codes  How to Get & Redeem](./codes.md)
+- [Endfield Currency Guide](./currencies.md)
+- [Endfield Factory (AIC) Beginner Guide](./factory-guide.md)
+- [Endfield Gacha & Pity System](./gacha-pity.md)
+- [Endfield Base Planner](./planner.md)
+- [Arknights: Endfield System Requirements (2026)](./system-requirements.md)
+- [Endfield Operator Tier List](./tier-list.md)

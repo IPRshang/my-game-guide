@@ -194,3 +194,33 @@ date: 2026-07-28
 | Date | Update |
 |------|--------|
 | 2026-07-28 | Added complete achievements guide |
+
+
+
+
+## FAQ
+
+**Q: How many achievements are in GTA 6?**
+A: GTA 6 ships 57 achievements/trophies across Story, Collectibles, Activities, and Skill categories, plus online-specific ones. A Platinum/1000G requires the full set including hidden trophies.
+
+**Q: What are the hardest GTA 6 achievements?**
+A: The Skill/Challenge group (8 achievements) and online achievements are rated 4-star difficulty; collectible achievements need interactive maps and are best done after finishing the story with better gear.
+
+**Q: Do GTA 6 achievements require PS Plus or Xbox Live?**
+A: Only the online achievements require PS Plus / Xbox Live Gold. All single-player achievements are offline.
+
+
+## Related
+
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6 Database](./database.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Main Story Walkthrough](./story-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

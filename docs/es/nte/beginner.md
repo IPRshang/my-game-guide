@@ -41,3 +41,14 @@ description: 'Guía para principiantes de Neverness to Everness: prioridades del
 
 **Q: ¿Qué debo hacer el primer día en NTE?**
 A: Termina el tutorial para desbloquear banners y el canje de códigos, canjea códigos, explora el distrito inicial y haz tu primera tirada objetivo usando la lista de niveles.
+
+
+## Related
+
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

@@ -237,12 +237,57 @@ module.exports = {
             items: [
               { text: 'Inicio de sección', link: '/es/gta6/' },
               { text: 'Guía de lanzamiento', link: '/es/gta6/release-guide' },
-              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' }
+              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' },
+              { text: 'Precio y ediciones', link: '/es/gta6/price' },
+              { text: 'Guía de dinero', link: '/es/gta6/money-guide' },
+              { text: 'Historia', link: '/es/gta6/story-guide' },
+              { text: 'Mejores vehículos', link: '/es/gta6/best-vehicles' },
+              { text: 'Personajes', link: '/es/gta6/character-guide' },
+              { text: 'Logros', link: '/es/gta6/achievements' },
+              { text: 'Base de datos', link: '/es/gta6/database' },
+              { text: 'Mapa y lugares', link: '/es/gta6/map-guide' },
+              { text: 'Trucos', link: '/es/gta6/cheats' },
+              { text: 'Ubicaciones ocultas', link: '/es/gta6/hidden-locations' },
+              { text: 'Armas', link: '/es/gta6/weapons' }
             ]
           },
-          { text: 'Endfield', link: '/es/endfield/' },
-          { text: 'NTE', link: '/es/nte/' },
-          { text: 'Ananta', link: '/es/ananta/' },
+          {
+            text: 'Endfield',
+            items: [
+              { text: 'Inicio de sección', link: '/es/endfield/' },
+              { text: 'Códigos', link: '/es/endfield/codes' },
+              { text: 'Tier list', link: '/es/endfield/tier-list' },
+              { text: 'Principiantes', link: '/es/endfield/beginner' },
+              { text: 'Planificador', link: '/es/endfield/planner' },
+              { text: 'Monedas', link: '/es/endfield/currencies' },
+              { text: 'Piedad de gacha', link: '/es/endfield/gacha-pity' },
+              { text: 'Data Logger', link: '/es/endfield/datalogger' },
+              { text: 'Guía de fábrica', link: '/es/endfield/factory-guide' },
+              { text: 'Requisitos de sistema', link: '/es/endfield/system-requirements' }
+            ]
+          },
+          {
+            text: 'NTE',
+            items: [
+              { text: 'Inicio de sección', link: '/es/nte/' },
+              { text: 'Códigos', link: '/es/nte/codes' },
+              { text: 'Tier list', link: '/es/nte/tier-list' },
+              { text: 'Principiantes', link: '/es/nte/beginner' },
+              { text: 'Gacha', link: '/es/nte/gacha' },
+              { text: 'Arreglar crasheos', link: '/es/nte/fix-crash' },
+              { text: 'Recursos', link: '/es/nte/stamina-resources' },
+              { text: 'Equipos', link: '/es/nte/team-build' },
+              { text: 'Requisitos de sistema', link: '/es/nte/system-requirements' }
+            ]
+          },
+          {
+            text: 'Ananta',
+            items: [
+              { text: 'Inicio de sección', link: '/es/ananta/' },
+              { text: 'Requisitos de sistema', link: '/es/ananta/system-requirements' },
+              { text: 'Pre-registro', link: '/es/ananta/pre-registration' }
+            ]
+          },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -251,28 +296,28 @@ module.exports = {
             {
               title: 'GTA 6',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'map-guide', 'story-guide', 'best-vehicles', 'weapons', 'character-guide', 'achievements', 'cheats', 'hidden-locations', 'database']
             }
           ],
           '/es/endfield/': [
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements']
             }
           ],
           '/es/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements']
             }
           ],
           '/es/ananta/': [
             {
               title: 'Ananta',
               collapsable: false,
-              children: ['']
+              children: ['', 'system-requirements', 'pre-registration']
             }
           ]
 

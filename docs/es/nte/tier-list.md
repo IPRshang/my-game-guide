@@ -39,3 +39,14 @@ Un ranking práctico de qué personajes de NTE merecen tus tiradas y recursos te
 
 **Q: ¿A quién debo tirar primero en NTE?**
 A: Gasta tiradas tempranas en un ancla de exploración S-tier o DPS de ráfaga, luego añade una unidad de soporte A-tier para jefes de mundo abierto.
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de cuelgues y tirones de NTE](./fix-crash.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)

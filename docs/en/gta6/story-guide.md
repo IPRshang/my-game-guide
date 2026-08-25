@@ -51,3 +51,33 @@ The story begins with Lucia's flashback from prison. After completing the tutori
 - **Tip**: Liquidate all assets before the finale — some endings wipe your accounts
 
 > Detailed ending guide coming soon. Stay tuned for updates.
+
+
+
+
+## FAQ
+
+**Q: What is the GTA 6 story about?**
+A: Lucia and Jason are pulled into a cross-state criminal conspiracy after a job goes wrong in the state of Leonida (Florida-inspired), centered on Vice City. Full plot unlocks at launch — no spoilers yet.
+
+**Q: How long is the GTA 6 campaign?**
+A: Runtime is not announced. Given it is Rockstar's largest map, expect a long main story plus sprawling side content. We will time it at launch.
+
+**Q: Is the GTA 6 story walkthrough complete?**
+A: Pre-launch this page is a structure preview. The full chapter-by-chapter walkthrough fills in the week of November 19, 2026.
+
+
+## Related
+
+- [GTA6  Complete Achievements & Trophies Guide](./achievements.md)
+- [GTA6  Best Vehicles Tier List](./best-vehicles.md)
+- [GTA6 Dual Protagonist Skills & Character Progression](./character-guide.md)
+- [GTA6  Complete Cheats List](./cheats.md)
+- [GTA6 Database](./database.md)
+- [GTA6  Hidden Locations & Easter Eggs](./hidden-locations.md)
+- [GTA 6 Map Guide: Vice City & Leonida](./map-guide.md)
+- [GTA6  Quick Money Guide for Beginners](./money-guide.md)
+- [GTA6 Pre-Order Guide: Editions Stores Refunds & Console Buying Advice](./preorder-guide.md)
+- [GTA 6 Price & Editions (2026)](./price.md)
+- [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
+- [GTA6  Weapons Database](./weapons.md)

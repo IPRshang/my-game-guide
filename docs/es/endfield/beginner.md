@@ -41,3 +41,15 @@ description: 'Guía para principiantes de Arknights Endfield: qué hacer en tus 
 
 **Q: ¿Qué debo hacer primero en Endfield?**
 A: Avanza la historia principal para desbloquear la base, canjea códigos para obtener materiales gratis, construye un operador logístico y completa el combate del tutorial.
+
+
+## Related
+
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)

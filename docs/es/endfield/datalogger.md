@@ -54,3 +54,15 @@ A: Avanza la historia principal hasta el nodo indicado y completa la misión gu�
 
 **Q: ¿Qué obtengo tras desbloquear (Índice AIC)?**
 A: Puedes ver el índice de datos AIC de enemigos / objetos, útil para análisis de debilidades y formación de equipo.
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)

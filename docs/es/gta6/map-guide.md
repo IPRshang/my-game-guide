@@ -132,3 +132,19 @@ A: la primera demo extendida de gameplay se emite el 27 de agosto de 2026 (15:00
 
 **Q: ¿Habrá versión de PC de GTA 6 al lanzamiento?**
 A: No. GTA 6 está confirmado para PS5 y Xbox Series X|S al lanzamiento; la versión de PC no se ha anunciado y, por el historial de Rockstar, llegará más tarde.
+
+
+## Related
+
+- [GTA6  Guía completa de logros y trofeos](./achievements.md)
+- [GTA6  Tier list de mejores vehículos](./best-vehicles.md)
+- [Habilidades y progresión de los dos protagonistas de GTA6](./character-guide.md)
+- [GTA6  Lista completa de cheats](./cheats.md)
+- [Base de datos de GTA6](./database.md)
+- [GTA6  Lugares ocultos y huevos de pascua](./hidden-locations.md)
+- [GTA6  Guía rápida de dinero para principiantes](./money-guide.md)
+- [Guía de precompra de GTA6: ediciones tiendas reembolsos y consolas](./preorder-guide.md)
+- [Precio y ediciones de GTA 6 (2026)](./price.md)
+- [Guía de GTA6: Fecha de lanzamiento plataformas y requisitos para PC](./release-guide.md)
+- [GTA6  Guía de la historia principal](./story-guide.md)
+- [GTA6  Base de datos de armas](./weapons.md)

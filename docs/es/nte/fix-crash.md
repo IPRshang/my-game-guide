@@ -74,3 +74,14 @@ A: Baja Distancia de visión a Muy baja primero, luego baja densidad de Tráfico
 
 **Q: NTE tiene ping alto / lag de conexión — ¿qué hago?**
 A: Elige el servidor más cercano (Asia / América / Europa / SEA), apaga VPN / proxy y usa conexión por cable.
+
+
+## Related
+
+- [Guía para principiantes de NTE](./beginner.md)
+- [Códigos de canje de NTE  Cómo obtenerlos y usarlos](./codes.md)
+- [Simulador de gacha de NTE](./gacha.md)
+- [Guía de stamina y recursos de NTE](./stamina-resources.md)
+- [Requisitos de sistema de Neverness to Everness (2026)](./system-requirements.md)
+- [Guía de formación de equipo y Ciclo Esper de NTE](./team-build.md)
+- [Lista de niveles de personajes de NTE](./tier-list.md)

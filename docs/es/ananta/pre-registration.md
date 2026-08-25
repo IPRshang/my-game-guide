@@ -45,3 +45,8 @@ A: Oficialmente previsto para 2026, fecha exacta sin confirmar; JPMorgan sugiere
 
 - [Guía de Ananta](./)
 - [Requisitos de sistema de Ananta](./system-requirements)
+
+
+## Related
+
+- [Requisitos de sistema de PC de Ananta (mín / recomendado)](./system-requirements.md)

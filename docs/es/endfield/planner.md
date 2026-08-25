@@ -30,3 +30,15 @@ cantidad de cada edificio y observa los totales actualizarse en vivo.
 
 **Q: ¿Cómo uso el Planificador de base de Endfield?**
 A: Ajusta la cantidad de cada edificio y observa energía total, población y producción actualizarse en vivo; mantén la energía total en 0 o más para evitar un déficit.
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Requisitos de sistema de Arknights: Endfield (2026)](./system-requirements.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)

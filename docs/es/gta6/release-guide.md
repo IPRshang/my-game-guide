@@ -214,3 +214,19 @@ A: Sí. Las precompras abrieron el 25 de junio de 2026 en las tiendas digitales 
 
 **Q: ¿Habrá GTA6 en PS4 o Xbox One?**
 A: No. Rockstar confirmó que GTA6 es solo para PS5, Xbox Series X|S y (más adelante) PC. Las consolas de la generación anterior no pueden ejecutarlo.
+
+
+## Related
+
+- [GTA6  Guía completa de logros y trofeos](./achievements.md)
+- [GTA6  Tier list de mejores vehículos](./best-vehicles.md)
+- [Habilidades y progresión de los dos protagonistas de GTA6](./character-guide.md)
+- [GTA6  Lista completa de cheats](./cheats.md)
+- [Base de datos de GTA6](./database.md)
+- [GTA6  Lugares ocultos y huevos de pascua](./hidden-locations.md)
+- [Guía del mapa de GTA 6: Vice City y Leonida](./map-guide.md)
+- [GTA6  Guía rápida de dinero para principiantes](./money-guide.md)
+- [Guía de precompra de GTA6: ediciones tiendas reembolsos y consolas](./preorder-guide.md)
+- [Precio y ediciones de GTA 6 (2026)](./price.md)
+- [GTA6  Guía de la historia principal](./story-guide.md)
+- [GTA6  Base de datos de armas](./weapons.md)

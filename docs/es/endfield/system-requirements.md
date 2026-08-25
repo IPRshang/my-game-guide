@@ -55,3 +55,15 @@ A: Sí. La misma cuenta sincroniza entre plataformas bajo un mismo UID.
 - Consigue materiales iniciales con [códigos de canje](./codes.md) antes de que caduquen.
 - ¿No sabes a quién subir primero? Mira la [lista de niveles de operadores](./tier-list.md).
 - Otra guía de lanzamiento 2026: [Lanzamiento y specs de GTA6](../gta6/release-guide.md).
+
+
+## Related
+
+- [Guía para principiantes de Endfield](./beginner.md)
+- [Códigos de canje de Endfield  Cómo obtenerlos y usarlos](./codes.md)
+- [Guía de monedas de Endfield](./currencies.md)
+- [Hombres Globo del Protocolo Datalogger](./datalogger.md)
+- [Guía de fábrica (AIC) para principiantes de Endfield](./factory-guide.md)
+- [Sistema de gacha y pity de Endfield](./gacha-pity.md)
+- [Planificador de base de Endfield](./planner.md)
+- [Lista de niveles de operadores de Endfield](./tier-list.md)
