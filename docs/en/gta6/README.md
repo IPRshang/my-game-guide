@@ -1,3 +1,8 @@
+---
+title: "GTA 6 (GTA VI) Strategy Hub — Release Date, Map & Cities, Vehicles, Cheat Codes & PC Specs"
+description: "GTA 6 (GTA VI) English strategy hub — release date, map & cities, vehicles, main story missions, cheat codes, character system and PC requirements, all in one place."
+---
+
 # Grand Theft Auto VI — Strategy Hub
 
 > Vice City Returns · Rockstar Games · **Release: November 19, 2026 (delayed twice)** · PS5 / Xbox Series X|S (PC TBA)
