@@ -64,6 +64,19 @@ If you've done everything above and it still crashes — especially memory-leak 
 
 **Related**: [NTE Beginner Guide](/en/nte/beginner) · [NTE System Requirements](/en/nte/system-requirements) · [NTE Gacha Simulator](/en/nte/gacha)
 
+## 5. Known 1.3 Issues
+
+Version 1.3 (China Aug 12, 2026 / Global Aug 19, 2026) has several known scene-specific issues; try updating the client first:
+
+- **Fashion Shop crash**: opening the Fashion Shop can sometimes crash the game.
+- **Controller issues**:
+  - Pressing ○ on the device-select screen wrongly opens the Anomaly Pilgrimage screen.
+  - After Hotori's Ultimate, her basic-attack button can disappear.
+  - In Fight Club, the soap-item button can fail to show.
+- **Shinku animation bugs**: animation glitches can appear in certain outfits.
+
+Advice: keep the client updated; Hotta Studio typically addresses these through later patches.
+
 ## FAQ
 
 **Q: NTE crashes / freezes on launch — what do I do?**
