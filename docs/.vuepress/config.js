@@ -16,18 +16,18 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '热门游戏攻略站',
-      description: 'GTA6、Arknights: Endfield、Neverness to Everness、Ananta — 热门游戏攻略站'
+      title: 'GTA6 / Endfield / NTE / Ananta 攻略站',
+      description: 'GTA6、Arknights: Endfield、Neverness to Everness、Ananta 一站式攻略站：发售时间、兑换码、节奏榜、抽卡模拟器、基地规划器、地图、泄露汇总与每日游戏推荐。'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Game Strategy Hub',
-      description: 'GTA6, Arknights: Endfield, Neverness to Everness, Ananta — Game Strategy Guides'
+      title: 'GTA6, Endfield, NTE and Ananta Guides | ggexplore.com',
+      description: 'Game guides for GTA 6, Arknights: Endfield, Neverness to Everness (NTE), and Ananta: release dates, redeem codes, tier lists, gacha simulator, base planner, maps, leaks and daily picks.'
     },
     '/es/': {
       lang: 'es-ES',
-      title: 'Guías de Videojuegos',
-      description: 'GTA6, Arknights: Endfield, Neverness to Everness, Ananta — Guías de estrategia'
+      title: 'Guías de GTA6, Endfield, NTE y Ananta | ggexplore.com',
+      description: 'Guías de GTA 6, Arknights: Endfield, Neverness to Everness (NTE) y Ananta: fechas de lanzamiento, códigos, tier lists, simulador, planner, mapas, filtraciones y recomendaciones diarias.'
     }
   },
   head: [
@@ -44,15 +44,15 @@ module.exports = {
     // SEO meta tags
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'author', content: 'Game Strategy Hub' }],
-    ['meta', { name: 'keywords', content: '游戏攻略,game guide,GTA6,Arknights Endfield,Neverness to Everness,Ananta,redeem codes,tier list,ggexplore' }],
+    ['meta', { name: 'keywords', content: 'GTA6攻略,GTA6指南,Arknights Endfield攻略,终末地攻略,NTE攻略,Neverness to Everness攻略,Ananta攻略,兑换码,redeem codes,tier list,节奏榜,抽卡模拟器,基地规划器,gacha simulator,base planner,泄露,leaks,发售时间,release date,地图,map,每日推荐' }],
     // Open Graph / Facebook
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:site_name', content: 'Game Strategy Hub | 热门游戏攻略站' }],
-    ['meta', { property: 'og:image', content: 'https://ggexplore.com/og-image.png' }],
+    ['meta', { property: 'og:site_name', content: 'ggexplore.com | Game Strategy Hub' }],
+    ['meta', { property: 'og:image', content: 'https://ggexplore.com/images/og-image-v3.png' }],
     // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@GameStrategyHub' }],
-    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/og-image.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://ggexplore.com/images/og-image-v3.png' }],
     // Google Search Console — 把下面 content 替换为 GSC 提供的真实验证码后重新部署即可验证
     ['meta', { name: 'google-site-verification', content: 'bPUpcxFWlq1QuUGCtsb-fSoUcwQGm8T2YUjU_6PUZM4' }],
     // Google AdSense — 申请通过后，把 client 的 ca-pub-XXXX 换成你的发布商 ID，并去掉本行注释即可启用自动广告
@@ -85,6 +85,7 @@ module.exports = {
               { text: '资料库', link: '/gta6/database' },
               { text: '地图地点', link: '/gta6/map-guide' },
               { text: '8/27 前瞻观看', link: '/gta6/extended-look-guide' },
+              { text: '泄露汇总', link: '/gta6/leaks' },
               { text: 'PC 版状态', link: '/gta6/pc-version' },
             ]
           },
@@ -112,7 +113,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'early-guide', 'map-guide', 'extended-look-guide', 'pc-version']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'early-guide', 'map-guide', 'extended-look-guide', 'leaks', 'pc-version']
             },
             {
               title: '进阶攻略',
@@ -139,14 +140,14 @@ module.exports = {
             {
               title: '终末地',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'version-roadmap', 'vs-wuthering-waves']
             }
           ],
           '/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'roadmap', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/ananta/': [
@@ -181,6 +182,7 @@ module.exports = {
               { text: 'Database', link: '/en/gta6/database' },
               { text: 'Map & Locations', link: '/en/gta6/map-guide' },
               { text: 'Watch Aug 27', link: '/en/gta6/extended-look-guide' },
+              { text: 'Leaks', link: '/en/gta6/leaks' },
               { text: 'PC Status', link: '/en/gta6/pc-version' }
             ]
           },
@@ -207,7 +209,7 @@ module.exports = {
             {
               title: 'Getting Started',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'map-guide', 'extended-look-guide', 'pc-version']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'map-guide', 'extended-look-guide', 'leaks', 'pc-version']
             },
             {
               title: 'Advanced',
@@ -234,14 +236,14 @@ module.exports = {
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'version-roadmap', 'vs-wuthering-waves']
             }
           ],
           '/en/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'roadmap', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/en/ananta/': [
@@ -265,57 +267,12 @@ module.exports = {
             items: [
               { text: 'Inicio de sección', link: '/es/gta6/' },
               { text: 'Guía de lanzamiento', link: '/es/gta6/release-guide' },
-              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' },
-              { text: 'Precio y ediciones', link: '/es/gta6/price' },
-              { text: 'Guía de dinero', link: '/es/gta6/money-guide' },
-              { text: 'Historia', link: '/es/gta6/story-guide' },
-              { text: 'Mejores vehículos', link: '/es/gta6/best-vehicles' },
-              { text: 'Personajes', link: '/es/gta6/character-guide' },
-              { text: 'Logros', link: '/es/gta6/achievements' },
-              { text: 'Base de datos', link: '/es/gta6/database' },
-              { text: 'Mapa y lugares', link: '/es/gta6/map-guide' },
-              { text: 'Trucos', link: '/es/gta6/cheats' },
-              { text: 'Ubicaciones ocultas', link: '/es/gta6/hidden-locations' },
-              { text: 'Armas', link: '/es/gta6/weapons' }
+              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' }
             ]
           },
-          {
-            text: 'Endfield',
-            items: [
-              { text: 'Inicio de sección', link: '/es/endfield/' },
-              { text: 'Códigos', link: '/es/endfield/codes' },
-              { text: 'Tier list', link: '/es/endfield/tier-list' },
-              { text: 'Principiantes', link: '/es/endfield/beginner' },
-              { text: 'Planificador', link: '/es/endfield/planner' },
-              { text: 'Monedas', link: '/es/endfield/currencies' },
-              { text: 'Piedad de gacha', link: '/es/endfield/gacha-pity' },
-              { text: 'Data Logger', link: '/es/endfield/datalogger' },
-              { text: 'Guía de fábrica', link: '/es/endfield/factory-guide' },
-              { text: 'Requisitos de sistema', link: '/es/endfield/system-requirements' }
-            ]
-          },
-          {
-            text: 'NTE',
-            items: [
-              { text: 'Inicio de sección', link: '/es/nte/' },
-              { text: 'Códigos', link: '/es/nte/codes' },
-              { text: 'Tier list', link: '/es/nte/tier-list' },
-              { text: 'Principiantes', link: '/es/nte/beginner' },
-              { text: 'Gacha', link: '/es/nte/gacha' },
-              { text: 'Arreglar crasheos', link: '/es/nte/fix-crash' },
-              { text: 'Recursos', link: '/es/nte/stamina-resources' },
-              { text: 'Equipos', link: '/es/nte/team-build' },
-              { text: 'Requisitos de sistema', link: '/es/nte/system-requirements' }
-            ]
-          },
-          {
-            text: 'Ananta',
-            items: [
-              { text: 'Inicio de sección', link: '/es/ananta/' },
-              { text: 'Requisitos de sistema', link: '/es/ananta/system-requirements' },
-              { text: 'Pre-registro', link: '/es/ananta/pre-registration' }
-            ]
-          },
+          { text: 'Endfield', link: '/es/endfield/' },
+          { text: 'NTE', link: '/es/nte/' },
+          { text: 'Ananta', link: '/es/ananta/' },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -324,28 +281,28 @@ module.exports = {
             {
               title: 'GTA 6',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'map-guide', 'story-guide', 'best-vehicles', 'weapons', 'character-guide', 'achievements', 'cheats', 'hidden-locations', 'database']
+              children: ['', 'release-guide', 'preorder-guide']
             }
           ],
           '/es/endfield/': [
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements']
+              children: ['']
             }
           ],
           '/es/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements']
+              children: ['']
             }
           ],
           '/es/ananta/': [
             {
               title: 'Ananta',
               collapsable: false,
-              children: ['', 'system-requirements', 'pre-registration']
+              children: ['']
             }
           ]
 

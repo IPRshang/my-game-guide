@@ -1,393 +1,280 @@
-# 网站推广执行手册
+# ggexplore.com 推广作战图
 
-> 目标站点：https://ggexplore.com/
-> 双语攻略站：GTA6 · 黑神话悟空 · 艾尔登法环 · 赛博朋克2077 · 塞尔达传说 TotK
-
----
-
-## 一、搜索引擎收录（优先执行）
-
-### 1.1 Google Search Console
-- 访问 https://search.google.com/search-console
-- 添加资源：`https://ggexplore.com/`
-- 验证方式：选择 HTML 标签验证，将验证码填入 config.js head 中
-- 提交 sitemap: `https://ggexplore.com/sitemap.xml`
-
-### 1.2 Bing Webmaster Tools
-- 访问 https://www.bing.com/webmasters
-- 可直接导入 Google Search Console 数据
-
-### 1.3 百度站长平台
-- 访问 https://ziyuan.baidu.com/
-- GitHub Pages 域名百度收录较难，但仍建议提交
-- 重点走内容分发策略（见下文国内平台）
+> 目标：在 0 广告预算（或少量时间成本）下，把 ggexplore.com 的自然搜索流量和社区流量拉起来。
+> 更新时间：2026-08-25
 
 ---
 
-## 二、国内平台推广
+## 一、当前流量瓶颈（军师诊断）
 
-### 2.1 NGA (bbs.nga.cn) ⭐ 最高优先级
-NGA 是中国最大的核心游戏玩家社区，攻略帖流量极高。
+| 维度 | 状态 | 风险/机会 |
+|------|------|-----------|
+| 站内内容 | 163 页，三语（zh/en/es），覆盖 GTA6/Endfield/NTE/Ananta | 内容厚度已具备 |
+| 技术 SEO | sitemap、robots、GSC/百度验证、结构化数据脚本齐全 | 底子 OK |
+| 首页 title | 原“热门游戏攻略站” → 已优化为带核心关键词 | ✅ 已改 |
+| 社交分享图 | 原图含“黑神话/艾尔登法环”等误导内容 → 已替换真实主题 OG 图 | ✅ 已换 |
+| Google 收录 | `site:ggexplore.com` 几乎看不到自己的页面 | ❌ 最大瓶颈 |
+| 站外外链 | 0 | ❌ 权重低 |
+| 社媒存在 | Twitter 占位，Reddit/Discord/论坛零运营 | ❌ 直接流量低 |
 
-**发帖策略：每个游戏专区分别发布**
-
-#### 帖子标题模板：
-```
-[攻略分享] 自建中文攻略站 —— 《xxx》全流程+隐藏要素+配图攻略
-```
-
-#### 帖子内容模板：
-```
-最近整理了《xxx》的全套攻略，建了一个攻略站方便查阅：
-
-📌 地址：https://ggexplore.com/xxx/
-
-包含内容：
-- [列出该游戏的攻略页面]
-- 配有流程图/SVG 图解
-- 支持中英文切换
-- 完全免费，无广告
-
-也整理了其他几款游戏：GTA6、黑神话悟空、艾尔登法环、赛博朋克2077、塞尔达传说
-
-欢迎收藏，后续会持续更新！
-```
-
-**各游戏 NGA 专区入口：**
-- 艾尔登法环：https://bbs.nga.cn/thread.php?fid=723
-- 黑神话悟空：https://bbs.nga.cn/thread.php?fid=724
-- 赛博朋克2077：https://bbs.nga.cn/thread.php?fid=703
-- 塞尔达传说：https://bbs.nga.cn/thread.php?fid=659
-- GTA6：（尚无专区，发综合游戏区）
-
-**注意事项：**
-- NGA 禁止纯广告，内容必须是有价值的攻略分享
-- 先发最有价值的攻略（如艾尔登法环 Boss 攻略+流程图）
-- 积极回复评论，建立信任
-
-
-### 2.2 百度贴吧
-
-**各游戏贴吧：**
-- 黑神话悟空吧、艾尔登法环吧、赛博朋克2077吧、塞尔达传说吧、GTA6吧
-
-**帖子模板（不同游戏微调内容）：**
-
-**黑神话吧：**
-```
-标题：【自制攻略站】黑神话悟空全Boss攻略+隐藏地图路线图
-
-正文：
-整理了黑神话的完整攻略站，分享给兄弟们：
-
-📍 https://ggexplore.com/wukong/
-
-包含：
-✅ 全 Boss 攻略（从牯护院到最终Boss）
-✅ 隐藏地图路线图（古观音禅寺→斯哈哩国→紫云山→璧水洞→二郎神）
-✅ 流派构筑推荐
-✅ 配了SVG路线图，手机也能看清楚
-
-内容参考了国内外攻略整理，也欢迎指正补充！
-```
-
-**艾尔登法环吧：**
-```
-标题：【攻略分享】艾尔登法环全Boss攻略+流程图（新手友好）
-
-正文：
-From社老玩家整理的环攻略站：
-
-📍 https://ggexplore.com/elden-ring/
-
-包含：
-✅ 新手入门攻略
-✅ 全Boss攻略（12个强制Boss+4个推荐可选Boss，按阶段分类）
-✅ Boss攻略流程图（带分支选择）
-✅ 流派构筑推荐
-
-完全免费，手机也能看，兄弟们觉得有用就收藏一下！
-```
-
-**赛博朋克2077吧：**
-```
-标题：【分享自建攻略】赛博朋克2077浪漫线+结局攻略（关键选择图解）
-
-正文：
-整理了夜之城的攻略站，特别做了浪漫线和结局的关键选择：
-
-📍 https://ggexplore.com/cyberpunk/
-
-重点：
-✅ 4条浪漫线完整攻略（Panam/Judy/River/Kerry 性别锁定详解）
-✅ 浪漫线关键选择流程图（避免选错锁死）
-✅ 全结局解锁条件
-✅ 2.0版本流派构筑
-
-配了流程图，告别"选错选项后悔"！
-```
-
-**塞尔达传说吧：**
-```
-标题：【攻略分享】王国之泪152神庙分布+最强武器+料理大全
-
-正文：
-整理了王国之泪的全面攻略站：
-
-📍 https://ggexplore.com/zelda/
-
-包含：
-✅ 152神庙详细攻略（120地面+32天空）
-✅ 9大区域神庙分布图
-✅ 最强武器合成指南
-✅ 料理配方大全
-
-手机浏览友好，随时查攻略！
-```
-
-**GTA6吧：**
-```
-标题：【攻略整理】GTA6 全攻略站 — 赚钱/剧情/载具/武器/秘籍
-
-正文：
-整理了GTA6的攻略站（游戏未发售，先搭好框架）：
-
-📍 https://ggexplore.com/gta6/
-
-现有内容：
-✅ 赚钱攻略指南
-✅ 剧情流程攻略
-✅ 最强载具评测
-✅ 武器大全
-✅ 秘籍代码
-✅ 隐藏地点
-
-等游戏发售后第一时间更新完整攻略！
-```
-
-
-### 2.3 知乎
-知乎长尾流量大，搜索排名好。
-
-**策略：搜索相关问题，用攻略内容答题**
-
-**可回答的问题类型：**
-- "黑神话悟空有哪些隐藏Boss？" → 回答 + 链接攻略站隐藏地图页
-- "艾尔登法环新手怎么玩？" → 回答 + 链接入门攻略页
-- "赛博朋克2077 Judy线怎么走？" → 回答 + 链接浪漫线页
-- "王国之泪最强武器怎么合成？" → 回答 + 链接武器页
-- "GTA6攻略哪里有？" → 推荐你的攻略站
-
-**回答模板：**
-```
-整理了《xxx》的详细攻略，可以直接看这个攻略站：
-https://ggexplore.com/xxx/
-
-（然后从攻略中摘取2-3段关键内容作为回答正文）
-
-内容涵盖...（列出要点）
-```
-
-**关键：**
-- 不要只放链接，要提供实质性内容
-- 每篇回答放1-2个链接即可，不要堆砌
-- 回答内容必须是攻略站中的原创内容，不要复制粘贴别人的攻略
-
-
-### 2.4 B站
-B站是游戏流量重地。
-
-**方案一：评论区互动**
-- 在大UP主的攻略视频下方评论，自然地提到你的攻略站
-- 例如："感谢UP整理！我也整理了一个文字版攻略站，方便随时查：xxx"
-
-**方案二：制作简单攻略视频**
-- 将攻略站中的 SVG 图截屏 + 配音讲解
-- 视频描述中放攻略站链接
-- 系列标题："X分钟速通XXX完整攻略"
-
-**方案三：B站专栏**
-- 将攻略站的文章改写为专栏投稿
-- 文末放攻略站链接："查看完整攻略站（含其他游戏）"
-
-
-### 2.5 小黑盒
-游戏社区 APP，用户精准。
-
-**策略：在对应游戏的社区发帖**
-- 发布攻略摘要 + 攻略站链接
-- 配1-2张SVG截图
-- 标题吸引力很重要
-
-
-### 2.6 游民星空 / 3DM / 游侠网 评论区
-- 在热门攻略文章下评论，自然地推荐你的站点
-- 注意不要 spam，选高质量帖子评论
+**结论**：流量卡在“Google 没收录 + 站外零触达”。解决路径 = 站内 SEO 加固 + 主动提交搜索引擎 + 内容钩子社区分发 + 外链。
 
 ---
 
-## 三、国际平台推广（英文版）
+## 二、已完成的站内优化（本轮已 commit）
 
-### 3.1 Reddit ⭐ 最高优先级
-Reddit 是游戏攻略最大的海外流量来源。
-
-#### r/EldenRing (52万订阅)
-```
-Title: Made a free Elden Ring boss guide website with progression flowchart (SVG)
-
-Post:
-Hey Tarnished!
-
-I've been working on a clean, ad-free strategy guide website for Elden Ring. It includes:
-
-✅ All 12 mandatory bosses with detailed strategies
-✅ Progression flowchart (visual guide showing stages and optional bosses)
-✅ Beginner guide for new players
-✅ Build recommendations
-
-📌 Guide: https://ggexplore.com/en/elden-ring/
-📌 Boss Flowchart: https://ggexplore.com/en/elden-ring/bosses.html
-
-Also covers Black Myth Wukong, Cyberpunk 2077, Zelda TotK, and GTA6 (same site).
-
-Happy to take feedback and suggestions!
-```
-
-#### r/BlackMythWukong (22万订阅)
-```
-Title: I made a Black Myth: Wukong guide website with hidden areas route diagram
-
-Post:
-Created a comprehensive Wukong guide:
-
-📍 https://ggexplore.com/en/wukong/
-
-What's inside:
-✅ All Bosses guide (from Bullguard to final boss)
-✅ Hidden areas route (Old Guanyin Temple → Kingdom of Sahali → Purple Cloud Mountain → Bishui Cave → Erlang Shen)
-✅ Build guides
-✅ SVG route diagram for secret areas
-
-No ads, mobile-friendly. Hope it helps!
-```
-
-#### r/cyberpunkgame (140万订阅)
-```
-Title: Cyberpunk 2077 romance guide with critical choice flowchart
-
-Post:
-Made a romance guide because the wrong choices can lock you out permanently:
-
-📍 https://ggexplore.com/en/cyberpunk/
-
-✅ All 4 romance options (Panam/Judy/River/Kerry) with gender requirements
-✅ Critical choice flowchart — avoid the "permanent lockout" mistakes
-✅ All endings guide
-✅ 2.0 build recommendations
-
-If you don't want to replay 20+ hours because of one wrong dialog choice, check this out!
-```
-
-#### r/tearsofthekingdom (200万订阅)
-```
-Title: Zelda TotK shrine guide — all 152 shrines with regional distribution chart
-
-Post:
-Complete shrine guide for Tears of the Kingdom:
-
-📍 https://ggexplore.com/en/zelda/
-
-✅ All 152 shrines (120 Surface + 32 Sky)
-✅ Regional distribution chart (9 regions breakdown)
-✅ Best weapon fusion combos
-✅ Cooking recipes
-
-The site has a clean mobile layout — easy to reference while playing!
-```
-
-#### r/GTA6 (coming soon, already active)
-```
-Title: Built a GTA6 strategy guide hub — ready for launch day
-
-Post:
-Got excited about GTA6 and built a guide site ready for when it drops:
-
-📍 https://ggexplore.com/en/gta6/
-
-Current sections:
-✅ Money-making strategies
-✅ Story walkthrough framework
-✅ Best vehicles analysis
-✅ Weapon guides
-✅ Cheat codes
-✅ Hidden locations
-
-Will update with real content the moment the game launches!
-```
-
-#### r/gaming / r/Games / r/pcgaming
-- 可以发综合帖："I made a free ad-free game guide site covering 5 major games"
-- 注意大版块竞争激烈，需要好的标题和内容
-
-
-### 3.2 Discord 社区
-- 加入各游戏的官方/社区 Discord
-- 在 #resources 或 #guides 频道分享链接
-- 主要游戏：Elden Ring, Cyberpunk 2077, Black Myth Wukong
-
-### 3.3 Twitter/X
-- 创建 @GameStrategyHub 账号
-- 定期发布攻略摘要 + 链接 + 截图
-- 使用热门游戏标签：#EldenRing #BlackMythWukong #Cyberpunk2077 #Zelda #GTA6
-- 可以 @ 游戏官方账号和相关大V
-
-### 3.4 GameFAQs
-- https://gamefaqs.gamespot.com/
-- 在对应游戏页面提交攻略链接
-- 这需要提交完整攻略文档（可导出markdown为txt提交）
+1. **config.js 三语首页 title/description 关键词化**
+   - zh: `GTA6 / Endfield / NTE / Ananta 攻略站`
+   - en: `GTA6, Endfield, NTE and Ananta Guides | ggexplore.com`
+   - es: `Guías de GTA6, Endfield, NTE y Ananta | ggexplore.com`
+2. **keywords 强化**：兑换码、节奏榜、抽卡模拟器、基地规划器、泄露、发售时间、地图等。
+3. **OG/Twitter 图替换**：指向 `/images/og-image-v3.png`，真实反映四游戏主题。
+4. **新增 `scripts/generate-og-image.py`**：以后换主题或加活动页可一键生成新 OG 图。
+5. **更新 `.gitignore`**：排除本地构建产物和临时 OG 图。
 
 ---
 
-## 四、发布时间策略
+## 三、搜索引擎提交与收录加速（主公 30 分钟内可完成）
 
-### 最佳发布时间（北京时间）：
-| 平台 | 最佳时间 | 原因 |
-|------|---------|------|
-| Reddit | 周一到周五 08:00-10:00 | 对应美国晚间流量高峰 |
-| NGA | 周五-周日 20:00-23:00 | 周末游戏玩家活跃 |
-| 贴吧 | 每日 12:00-14:00, 19:00-22:00 | 午休和晚间 |
-| 知乎 | 每日全天 | 长尾流量，时间不敏感 |
-| B站专栏 | 周五-周日 | 周末流量高 |
+### 3.1 Google Search Console（最重要）
 
-### 分批发布计划：
-| 天 | 平台 | 游戏 |
-|----|------|------|
-| 第1天 | Reddit + NGA | 艾尔登法环 |
-| 第2天 | Reddit + 贴吧 | 黑神话悟空 |
-| 第3天 | Reddit + 贴吧 | 赛博朋克2077 |
-| 第4天 | Reddit + 贴吧 | 塞尔达传说 |
-| 第5天 | Reddit + 贴吧 | GTA6 |
-| 第6天 | 知乎 | 批量回答5-10个问题 |
-| 第7天 | B站评论区 | 在热门视频下互动 |
+站点已验证（meta tag 在 config.js 里）。接下来：
+
+1. 打开 https://search.google.com/search-console
+2. 选择资源 `ggexplore.com`
+3. 左侧「站点地图」→ 提交 `https://ggexplore.com/sitemap.xml`
+4. 等 1~7 天观察「覆盖范围」里的已收录/排除数量
+5. **对核心页请求重新抓取**（索引 → URL 检查 → 输入 URL → 请求编入索引）：
+   - `https://ggexplore.com/`
+   - `https://ggexplore.com/gta6/`
+   - `https://ggexplore.com/endfield/`
+   - `https://ggexplore.com/nte/`
+   - `https://ggexplore.com/ananta/`
+   - `https://ggexplore.com/daily/`
+
+### 3.2 Bing Webmaster Tools
+
+1. 打开 https://www.bing.com/webmasters
+2. 用 Google/微软账号登录并添加站点
+3. 提交 sitemap：`https://ggexplore.com/sitemap.xml`
+4. Bing 对独立站收录通常比 Google 更快，且会同步到 Yahoo/DuckDuckGo。
+
+### 3.3 百度搜索资源平台
+
+1. 打开 https://ziyuan.baidu.com/
+2. 添加站点并验证（config.js 已有 `baidu-site-verification`）
+3. 提交 sitemap 和链接。
+4. 中文游戏攻略在百度有流量，但百度收录偏慢，需要持续更新。
+
+### 3.4 Yandex（顺手做，俄语区也有玩家）
+
+1. https://webmaster.yandex.com/
+2. 添加站点、验证、提交 sitemap。
 
 ---
 
-## 五、效果追踪
+## 四、内容钩子与可分享资产（持续做）
 
-### 百度统计（已安装）
-- https://tongji.baidu.com/
-- 查看来源分析 → 各平台引流效果
-- 一周后评估哪些平台 ROI 最高
+高病毒传播潜力的页面，优先拿到社区分发：
 
-### GitHub Pages 流量
-- Settings → Pages → 可查看基本流量数据
-- 或在仓库 Insights → Traffic 查看
+| 页面 | 为什么值得分享 | 推荐渠道 |
+|------|---------------|----------|
+| `/gta6/leaks` | 近期 CyberLeek 泄露，Reddit 讨论度高 | r/GTA6, r/GamingLeaksAndRumours, GTA Forums |
+| `/gta6/extended-look-guide` | 8/27 Gamescom 观看指南，时间敏感 | r/GTA6, X/Twitter |
+| `/endfield/codes` | 兑换码 = 玩家刚需 | Discord, Reddit, Bilibili/贴吧 |
+| `/nte/gacha` | 抽卡模拟器 = 互动工具，易转发 | Twitter/X, Reddit, 贴吧 |
+| `/endfield/planner` | 基地规划器 = 独一份工具 | B 站/贴吧/Discord |
+| `/daily/` | 每天一款新游，适合日更社媒 | Twitter/X, Reddit, 小红书/即刻 |
 
-### Reddit 反馈
-- 查看帖子 upvote 数和评论质量
-- 高质量评论要去回复互动
+### 4.1 给 daily 页加个「分享」组件（建议）
 
-### 下一步行动
-- 一周后汇总各平台数据
-- 筛选效果最好的2-3个平台重点运营
-- 根据用户反馈补充攻略内容
+在 `docs/daily/README.md` 底部加入一段固定 CTA：
+
+```markdown
+---
+
+**觉得有用？** 分享给你的队友：
+[X 转发](https://twitter.com/intent/tweet?text=今日游戏推荐：...) · [Reddit](...) · [复制链接](...)
+```
+
+### 4.2 长尾词继续补
+
+基于真实搜索需求，再补 10~20 页：
+
+- GTA6: `gta 6 radio stations`, `gta 6 wildlife`, `gta 6 police system`, `gta 6 fast travel`, `gta 6 property`
+- Endfield: `endfield factory layout`, `endfield best team comp`, `endfield ascension guide`
+- NTE: `nte controller support`, `nte best weapons`, `nte daily checklist`
+- Ananta: `ananta beta signup`, `ananta factions`, `ananta co-op`
+
+---
+
+## 五、站外推广渠道与可直接发的文案
+
+### 5.1 Reddit（海外最大游戏流量池）
+
+**不要直接 spam 链接**，先参与讨论再发。建议账号：主账号 + 1~2 个小号轮换。
+
+#### 可发帖/回帖的 subreddit
+
+| 社区 | 适合内容 | 发帖形式 |
+|------|---------|----------|
+| r/GTA6 | leaks、watch guide、map | 情报帖/汇总帖 |
+| r/GamingLeaksAndRumours | CyberLeek 汇总 | 链接帖 |
+| r/Arknights | Endfield codes/planner | 工具帖 |
+| r/arknightsendfield | Endfield 所有内容 | 攻略帖 |
+| r/gachagaming | NTE codes/gacha | 资源帖 |
+| r/AnantaGame | Ananta 全内容 | 攻略/预注册 |
+| r/gamescom | 8/27 观看指南 | 讨论帖 |
+
+#### 文案模板 A：GTA6 泄露汇总
+
+```
+I put together a curated summary of the recent GTA 6 CyberLeek stuff (map regions, 6-star wanted, Honor/Karma, fuel mechanics, combat, radio). Everything is labeled as unverified/dev-build and linked back to the DMCA context.
+
+Wrote it in English/Chinese/Spanish so non-English speakers don’t have to rely on machine translation.
+
+https://ggexplore.com/en/gta6/leaks
+
+If anything looks wrong or I missed a source, let me know and I’ll update it.
+```
+
+#### 文案模板 B：8/27 观看指南
+
+```
+Gamescom Opening Night Live is on Aug 27, and there are strong hints of a new GTA 6 trailer. I made a one-page watch guide with time zones, where to stream, what to expect, and a checklist for the day after.
+
+English: https://ggexplore.com/en/gta6/extended-look-guide
+中文： https://ggexplore.com/gta6/extended-look-guide
+```
+
+#### 文案模板 C：兑换码/工具（Arknights Endfield / NTE）
+
+```
+Made a quick code tracker + beginner guide for [Endfield/NTE]. Will keep it updated as new codes drop.
+
+https://ggexplore.com/en/endfield/codes
+
+Also has an interactive base planner if you want to optimize production lines.
+```
+
+### 5.2 Discord（社区沉淀）
+
+建议加入下列 Discord 服务器，在 `general/资源` 频道分享链接：
+
+- Arknights Endfield Official / Fan
+- Neverness to Everness Official / Fan
+- Ananta Official / Anime GTA Community
+- GTA 6 Leaks & Discussion
+
+**分享时不要只丢链接**，加一句价值说明：
+
+```
+I built a multilingual guide hub for GTA6/Endfield/NTE/Ananta with codes, tier lists, maps, and a daily recommendation page. Might save you from hunting through 20 different wikis: https://ggexplore.com/en/
+```
+
+### 5.3 X / Twitter（短链+图）
+
+**Twitter 账号 @GameStrategyHub 目前是占位**，建议主公注册/接管一个真实账号。每发一条推：
+
+1. 配 OG 图（新图已支持 1200x630）
+2. 带 1~2 个相关 hashtag：`#GTA6` `#ArknightsEndfield` `#NTE` `#Ananta`
+3. 贴一个具体页面（不要总贴首页）
+
+#### 推文模板
+
+```
+🚨 GTA 6: everything from the recent CyberLeak mapped, labeled as unverified, and compared to prior reports.
+
+Map / wanted system / Honor / fuel / combat / radio — one page, EN/ZH/ES.
+
+https://ggexplore.com/en/gta6/leaks
+
+#GTA6 #GTA6Leaks #RockstarGames
+```
+
+### 5.4 中文社区（贴吧 / NGA / Bilibili / 小红书 / 即刻）
+
+| 平台 | 适合内容 | 注意事项 |
+|------|---------|----------|
+| 贴吧（GTA6吧、终末地吧） | leaks、兑换码、观看指南 | 少发硬广，多回帖带链接 |
+| NGA 手游/单机版块 | Endfield/NTE/Ananta 攻略 | 先发文字，链接放二楼 |
+| B 站专栏/动态 | 图文攻略、视频脚本 | 视频简介放 ggexplore 链接 |
+| 小红书 | Ananta/女性向/二次元 | 图文笔记，封面要吸睛 |
+| 即刻 | daily 推荐 | 短内容+链接 |
+
+#### 中文文案模板：GTA6 泄露汇总
+
+```
+最近 GTA6 的 CyberLeek 泄露挺多，我整理了一个汇总页：
+• Leonida 地图分区（Vice-Dale/Kelly County 等）
+• 6 星通缉与 Honor/Karma 系统
+• 燃油、战斗、电台等机制
+
+所有内容都标了「未官方确认」，并附上 DMCA 背景，方便大家自己判断真实性。
+中文/英文/西语三语： https://ggexplore.com/gta6/leaks
+```
+
+### 5.5 游戏论坛与 Wiki 友链
+
+**友链/外链是 SEO 权重核心**：
+
+1. Fandom/GTA Wiki：在讨论页或用户页介绍 ggexplore 的 GTA6 database（不 spam）。
+2. GameFAQs：发布短篇攻略，底部引用详细页。
+3. Reddit wiki：部分 subreddit 允许在 wiki 放资源链接。
+4. 联系小型游戏博主/YouTuber：提供他们可引用的资料页，换取反向链接。
+
+### 5.6 视频/YouTube（中期）
+
+如果主公或同事愿意做短视频：
+
+- “GTA6 泄露 5 分钟速览” → 简介放链接
+- “Endfield 基地规划器演示” → 工具引流
+- “NTE 抽卡模拟器：你多少抽能出货？”
+
+---
+
+## 六、效果衡量与迭代节奏
+
+### 6.1 必看指标
+
+- **Google Search Console**：展示次数、点击次数、平均排名、收录页数
+- **百度统计**：来源渠道、跳出率、停留时间
+- **GitHub Pages insights**：访问量（有限但免费）
+
+### 6.2 推荐节奏
+
+| 频率 | 动作 |
+|------|------|
+| 每天 | 更新 `/daily/` + 发 1~2 条社媒 |
+| 每周 | 补 2~3 个长尾词页面；在 2 个社区回帖/发帖 |
+| 每月 | 检查 GSC/Bing 收录；分析高展示低点击页面，改 title/description |
+
+### 6.3 30 天目标（建议）
+
+- GSC 收录页数 ≥ 50
+- 日均点击 ≥ 10（从 0 起步）
+- 至少获得 3 个外部反向链接
+
+---
+
+## 七、下一步行动清单（按优先级）
+
+1. ✅ 站内：首页 title/description/关键词/OG 图（已完成，待部署）
+2. 🔄 部署：推送 commit 后等待 GitHub Actions 部署
+3. ⏳ 提交：GSC / Bing / 百度 / Yandex sitemap
+4. ⏳ 请求索引：首页 + 4 游戏专区 + daily + leaks/extended-look-guide
+5. ⏳ 注册/接管 Twitter/X 账号，发第一条推文
+6. ⏳ 在 r/GTA6 发 GTA6 leaks/extended-look-guide 帖
+7. ⏳ 在 r/arknightsendfield 发 Endfield codes/planner 帖
+8. ⏳ 在 r/AnantaGame 发汇总导航帖
+9. ⏳ 加“分享按钮”到 daily 页和高价值工具页
+10. ⏳ 继续补 10~20 个长尾词页面
+
+---
+
+## 八、风险提醒
+
+- **Reddit/X 账号**：新号直接发链接容易被判 spam，建议先混 1~2 天再发。
+- **泄露内容**：始终标注“未官方确认 / unverified / no confirmado”，避免被 DMCA 或社区反噬。
+- **友链**：不要买低质外链，容易被 Google 惩罚。
+- **多语言**：社媒发帖时尽量带对应语言页，提升转化率。
