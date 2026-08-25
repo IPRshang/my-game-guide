@@ -1,3 +1,8 @@
+---
+title: "GTA6（GTA VI）攻略中心 — 发售日期、地图城市、载具、作弊码与 PC 配置"
+description: "GTA6（GTA VI）中文攻略中心 —— 发售日期、地图与城市、载具、主线任务、作弊码、角色系统与 PC 配置要求，一站速通。"
+---
+
 # Grand Theft Auto VI — 攻略中心
 
 > 罪恶都市归来 · Rockstar Games · **发售日 2026 年 11 月 19 日（已二次跳票）** · PS5 / Xbox Series X|S（PC 版未定）
