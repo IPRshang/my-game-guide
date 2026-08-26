@@ -1,134 +1,150 @@
 ---
-title: "Ananta at Gamescom 2026 Opening Night Live: Recap"
-description: "Ananta returns to Gamescom Opening Night Live on August 25, 2026. Full guide to broadcast times across time zones, how to watch, Geoff Keighley's teaser wording, and the four things to expect — trailer, gameplay demo, release window and monetization."
+title: "Ananta Gamescom 2026 Recap: ONL Aired, Release Date Still Unconfirmed, No Gacha and Free Characters Explained"
+description: "Ananta (formerly Project Mugen) appeared at Gamescom 2026 Opening Night Live (ONL) on Aug 26, 02:00 Beijing time, completing a three-year full-circle return. Recap highlights: release date still unconfirmed (analysts speculate 1H 2027, unofficial), no gacha and free characters remain unconfirmed rumor, global pre-registrations exceed 17 million across Nova City platforms; how to choose vs GTA6 and NTE, with a TGS/TGA next-step timeline and FAQ."
 ---
 
-# Ananta at Gamescom 2026 Opening Night Live: Recap
+# Ananta Gamescom 2026 Recap: ONL Aired, Release Date Still Unconfirmed
 
-> **Ananta** (formerly codenamed Project Mugen) appears at **Gamescom Opening Night Live (ONL) on August 25, 2026**. It is a **full-circle return** three years in the making — the game was first revealed at Gamescom on August 24, 2023, under the Project Mugen codename.
+> **Ananta** (formerly codenamed Project Mugen) appeared at the **Gamescom Opening Night Live (ONL) on August 25, 2026**. This was a "**full-circle**" return to the same stage after three years — back on August 24, 2023, the game was first unveiled at Gamescom under the codename "Project Mugen".
 
-## Why This Appearance Matters
+## 1. ONL Recap: Three-Year Full Circle, a "a fresh look"
 
-Ananta is an **urban open-world anime RPG** from NetEase's **Naked Rain** studio (Hangzhou, roughly 800 people), widely nicknamed **"anime GTA."** You play an Esper investigator codenamed **Infinite Trigger**, part of the **A.C.D. (Anti-Chaos Department)**, working supernatural anomalies in **Nova City**.
+Ananta's ONL appearance has wrapped up. Those familiar with the timeline will notice its symmetry is almost perfect:
 
-What makes this ONL slot notable is the symmetry of the timeline:
+- **August 24, 2023**: First unveiled at Gamescom under the codename "Project Mugen";
+- **December 5, 2024**: Officially renamed **Ananta** (Sanskrit for "infinite / without end");
+- **August 25, 2026**: Back at Gamescom Opening Night Live, the same show, a three-year cycle.
 
-- **August 24, 2023** — revealed at Gamescom as codename "Project Mugen";
-- **December 5, 2024** — officially renamed **Ananta** (Sanskrit for "infinite / without end");
-- **August 25, 2026** — returns to Gamescom Opening Night Live, same show, three years later.
+This ONL was hosted by Geoff Keighley. For Chinese viewers, the broadcast started at **2:00 AM Beijing time on August 26** (8/25 11:00 AM PT / 2:00 PM ET / 6:00 PM UTC / 8:00 PM CEST). When announcing the lineup, Keighley used "**a fresh look**" to preview Ananta's appearance — this is officially published, quotable wording, confirming the expectation that "this appearance will present a new posture different from the past."
 
-When announcing the lineup, Geoff Keighley described the segment with the phrases "**a fresh look**" and "**swing into the vibrant streets**" — the latter reading as a direct nod to Ananta's signature web-swinging traversal.
+> **Honesty boundary**: As of this writing, NetEase has **not released frame-by-frame verifiable official clip details**, so this article **does not fabricate what ONL actually broadcast**. The following is organized along three threads: "established facts + reasonable expectations + still needing official confirmation."
 
-## When and Where to Watch
+## 2. Confirmed Facts Roundup
 
-### Broadcast Times by Time Zone
+The following items are all verified information, distinguishing "officially confirmed" from "external reports / speculation."
 
-Gamescom Opening Night Live begins on **August 25**:
+### 1. Release Date: Still No Official Date
 
-| Time zone | Start time |
-|-----------|-----------|
-| Pacific Time (PT) | Aug 25, 11:00 AM |
-| Eastern Time (ET) | Aug 25, 2:00 PM |
-| Coordinated Universal Time (UTC) | Aug 25, 6:00 PM |
-| Central European Summer Time (CEST, Cologne local) | Aug 25, 8:00 PM |
-| **China Standard Time (Beijing)** | **Aug 26, 02:00** |
+- **Officially confirmed**: There is currently **no official release date**.
+- **Analyst speculation (unofficial)**: NetEase's target was once written as 2026, but **analysts such as JPMorgan speculate on the first half of 2027 (1H 2027)**. This is an analyst estimate, **not an official date**, so please do not treat it as a fixed schedule.
+- See [Is Ananta delayed / cancelled? Status and official timeline](/en/ananta/is-it-cancelled).
 
-Note for viewers in Asia: in China the show lands at **2:00 AM on August 26**, so a replay may be the more practical option. ONL's full broadcast is typically available on demand shortly after it ends.
+### 2. No Gacha / Free Characters: Rumor Only, Unconfirmed
 
-### Where to Watch
+- Japanese media reported that Ananta **will have no character gacha, all characters freely obtainable, monetizing only through cosmetics**.
+- **NetEase has never officially confirmed this claim**. Until an official response, treat it as an "unconfirmed rumor"; see [Ananta Monetization: Confirmed vs Rumor](/en/ananta/monetization).
 
-ONL is the Gamescom opening keynote event, hosted by Geoff Keighley. It has historically streamed simultaneously through the official Gamescom and The Game Awards channels, including official video platforms and the official channels on major streaming services.
+### 3. Free Character Acquisition (as a setting-level description)
 
-**Viewing tips:**
+- Within the published setting framework, the A.C.D. investigator you play and the playable characters are presented outwardly as "free to obtain," but **the specific acquisition methods and how monetization will be implemented remain subject to the official final statement**.
 
-- Ananta's exact slot within the show has **not been announced**. ONL usually runs 90 minutes to two hours, so watch the full broadcast or follow clip roundups;
-- If you only care about Ananta, watch the official site `anantagame.com` and official social accounts for the standalone trailer, which typically posts right after the show;
-- Stream footage is compression-limited; the high-bitrate trailer normally goes live on official channels once ONL wraps.
+### 4. Pre-Registration: Over 17 Million Globally
 
-## Four Things to Expect
+- Ananta's global pre-registration has **exceeded 17 million**.
+- Platform coverage: **PS5 / PC (Steam) / iOS / Android**, using a **free-to-play** model.
+- Pre-registration steps and rewards are subject to the official page; see [Ananta Pre-Registration Guide](/en/ananta/pre-registration).
 
-**Important caveat: everything below is community and press expectation. None of it is confirmed by NetEase.**
+### 5. Platform and Business Model Summary
 
-### 1. A New Trailer
+| Item | Status |
+|------|--------|
+| Platform | PS5 / PC (Steam) / iOS / Android |
+| Payment model | Free-to-play |
+| Official release date | None |
+| Analyst window (unofficial) | 1H 2027 |
+| No gacha / all characters free | Rumor, **not officially confirmed** |
+| Global pre-registration | Over 17 million |
 
-This would be the first new footage in roughly a year — the last public gameplay showing was at **TGS 2025**. Given Keighley's "a fresh look" wording, a recut trailer reflecting the current build's visual standard is the floor expectation.
+## 3. Four Highlights Recap (with expectation boundaries marked)
 
-### 2. A Gameplay Demo
+ONL has aired, but given there is still no frame-by-frame verifiable official content, below we separate each highlight's "known" from "pending confirmation."
 
-More valuable than a trailer would be **sustained gameplay**. The community mainly wants to verify three things: the density of Nova City's blocks, how web-swinging transitions into vehicle traversal, and real-world combat performance. Whether this happens is **unconfirmed**.
+### 1. New Trailer
 
-### 3. A Release Window
+- **Known**: Keighley previewed with "a fresh look," pointing to a "brand-new appearance" presentation.
+- **Pending confirmation**: The specific form of the trailer (CG / gameplay / montage) and its length are subject to the official full version. The last public gameplay was at **TGS 2025**, so if new footage arrives this time, it would be the first visual update in roughly a year.
 
-There is currently **no official release date**. NetEase previously targeted 2026, while analysts including **JPMorgan have suggested a 1H 2027** window — that is an estimate, **not an official date**. Whether ONL delivers a firm date remains unknown.
+### 2. Gameplay Demo
+
+- **Known**: What players most want to verify is Nova City's block density, the web-swinging and vehicle transition feel, and combat frame performance.
+- **Pending confirmation**: Whether ONL includes continuous gameplay and its actual look, this article **does not speculate**. Follow the official site `anantagame.com` and official social media for standalone clips released after the stream.
+
+### 3. Release Window
+
+- **Known**: There is no official release date; analysts speculate 1H 2027, an unofficial estimate.
+- **Pending confirmation**: Whether ONL gives a specific window or a new round of testing (CBT) info. If a window is given, interpret it against the 1H 2027 speculation.
 
 ### 4. Monetization Details
 
-This is the most sensitive item. Japanese press reports say Ananta will have **no gacha, give all characters away for free, and monetize through cosmetics only** — but **NetEase has never officially confirmed this**. If ONL formally addresses the business model, it would be the heaviest news of the appearance. See [Ananta Monetization: Confirmed vs Rumored](/en/ananta/monetization).
+- **Known**: The Japanese-media claim of "no gacha, all characters free, cosmetics-only monetization" is widely circulated, but **NetEase has never officially confirmed it**.
+- **Pending confirmation**: Whether ONL formally responds on the monetization model. If it does, it would be the most significant piece of information from this appearance. See [Ananta Monetization](/en/ananta/monetization).
 
-## Context: From "Chopping Block" Fears to a Gameplay Leak
+## 4. What Is Ananta: The A.C.D. Investigator of Nova City
 
-Ananta went through a long silent stretch after its rename, and the community began to fear cancellation. Chinese-language forums coined the phrase "网易斩杀线," which circulated in English as being "on NetEase's chopping block."
+If you haven't touched this game yet, here's a quick look:
 
-The turning point came roughly **two weeks before the ONL announcement**, when **leaked gameplay footage surfaced on Bilibili** showing notably detailed city blocks and near-water exploration. That leak largely defused the "project is dead" narrative, and the ONL lineup announcement that followed confirmed the game is still moving forward.
+- **Stage**: The open-world city **Nova City**.
+- **Identity**: You play an **Esper (superpowered) investigator** belonging to the **A.C.D. (Anti-Chaos Department)**, investigating supernatural anomalies in the city.
+- **Movement and combat features**:
+  - **Web-swinging**-style high-speed movement (a nod to Spider-Man-style city traversal);
+  - **Watch_Dogs-style hacking**, able to intervene in city systems;
+  - **Sleeping Dogs-style melee**, emphasizing fists and environmental interaction.
+- Because of this combination of "urban open world + free movement + melee," players and media widely call it "**anime GTA**".
 
-If cancellation worries brought you here, see the full official timeline in [Is Ananta Cancelled?](/en/ananta/is-it-cancelled).
+For full character and ability settings, see [Ananta Character Archive](/en/ananta/characters); for configuration requirements, see [Ananta System Requirements](/en/ananta/system-requirements).
 
-## Live Recap (to be filled after Aug 25)
+## 5. How to Choose vs GTA6 / NTE
 
-> **This section is a placeholder and will be completed after ONL airs on August 25, 2026.** The items below are to-do entries, not statements of fact.
+Ananta is often compared with two works:
 
-### TODO: What Was Actually Shown
+- **GTA6**: A realistic open-world benchmark, different in positioning from Ananta's anime art and superpower setting; audiences overlap but don't fully compete.
+- **NTE (Neverness to Everness)**: Also an anime urban open world, with closer themes and gameplay, making it the more direct "same-genre comparison item."
 
-- To fill: trailer format (CG / gameplay / mixed) and runtime
-- To fill: whether any new Nova City districts were revealed
-- To fill: whether new characters debuted
-- To fill: whether new combat or traversal mechanics were demonstrated
+We've compiled the positioning, platforms, gameplay differences, and purchase advice for all three; see [Ananta vs NTE vs GTA6: How to Choose](/en/ananta/vs-nte-vs-gta6). Cross-game entries: [Neverness to Everness Guide Hub](/en/nte/) / [GTA6 Guide Hub](/en/gta6/).
 
-### TODO: Was a Release Date Given
+## 6. Next-Step Timeline: What to Watch at TGS and TGA
 
-- To fill: whether a firm date or window was announced
-- To fill: whether a new beta test (CBT) was announced
-- To fill: if a window was given, how it compares to the earlier 1H 2027 analyst estimate
+After ONL, two key nodes for Ananta:
 
-### TODO: Gameplay Impression
+| Time | Node | What to watch |
+|------|------|---------------|
+| **September 17–21, 2026** | **Tokyo Game Show 2026 (TGS)** | Whether there's a gameplay demo, new Nova City areas, character roster expansion |
+| **December 2026** | **The Game Awards (TGA)** | Whether release-window signals, new trailer, or test info are given |
 
-- To fill: visual fidelity and optimization level
-- To fill: how web-swinging and vehicle transitions actually felt on screen
-- To fill: improvements versus the TGS 2025 gameplay showing
-- To fill: first wave of community and press reaction
+**Suggested way to follow**:
 
-### TODO: Official Links
+1. "Standalone full trailers" on official channels (official site `anantagame.com`, official social media) usually carry more information than the compressed live footage;
+2. Release-date news — **trust only official sources**; any phrasing like 1H 2027 should first be labeled "analyst speculation";
+3. Monetization follows the "confirmed vs rumor" on the [Ananta Monetization](/en/ananta/monetization) page; the no-gacha claim should **not be treated as settled** until officially confirmed.
 
-- To fill: official video link for the ONL trailer
-- To fill: corresponding update page on `anantagame.com`
-- To fill: official social media announcement text
-- To fill: whether the pre-registration page was updated (see [Ananta Pre-Registration Guide](/en/ananta/pre-registration))
+## 7. FAQ
 
-## FAQ
+**Q: Has Ananta's release date been set?**
+A: No. There is currently **no official release date**. NetEase's target was once written as 2026, but analysts such as JPMorgan speculate 1H 2027 — this is **analyst speculation, not an official date**. Everything is subject to official announcements.
 
-**Q: What time is Ananta's segment at Gamescom 2026?**
-A: The full ONL show starts Aug 25 at 11:00 AM PT / 2:00 PM ET / 6:00 PM UTC / 8:00 PM CEST, which is 2:00 AM on Aug 26 in Beijing. Ananta's exact slot within the show has not been announced.
+**Q: Do I need Netflix or a subscription to play Ananta?**
+A: No. Ananta is **free-to-play**, on PS5 / PC (Steam) / iOS / Android, with no Netflix tie-in or hard subscription requirement. Specific in-app purchases and cosmetic payments are subject to official statements.
 
-**Q: Will a release date be announced?**
-A: Unconfirmed. A release window is one of the community expectations, but NetEase has promised nothing. No official release date exists today.
+**Q: Does Ananta have gacha?**
+A: No official conclusion yet. Japanese media say it has "no character gacha, all characters freely obtainable, cosmetics-only monetization," but **NetEase has never officially confirmed it**. Treat it as an **unconfirmed rumor**; see the [monetization page](/en/ananta/monetization).
 
-**Q: Was Ananta cancelled?**
-A: No. The long silence caused concern, but the game is confirmed to be in development and is showing at Gamescom 2026.
+**Q: What's the difference between Ananta and GTA6?**
+A: GTA6 is a realistic open-world benchmark; Ananta is an anime-art, superpower (Esper) urban open world, featuring web-swinging, hacking, and melee, called "anime GTA." For finer comparison and purchase advice, see [Ananta vs NTE vs GTA6](/en/ananta/vs-nte-vs-gta6).
 
-**Q: Why call this a "full-circle" return?**
-A: Because Ananta was first revealed at Gamescom on August 24, 2023, as Project Mugen. Three years later it returns to the same show's opening night.
+**Q: What are the pre-registration rewards?**
+A: Global pre-registration has exceeded 17 million, but the specific reward content and distribution method are **subject to the official pre-registration page announcement**. For steps and the latest reward list, see [Ananta Pre-Registration Guide](/en/ananta/pre-registration).
 
-**Q: Will the no-gacha model be confirmed here?**
-A: The no-gacha, all-characters-free claim is currently a Japanese press report only, not confirmed by NetEase. Whether ONL addresses it is unknown.
+**Q: Which platforms can I play Ananta on? Are the system requirements high?**
+A: Platforms are PS5 / PC (Steam) / iOS / Android. For specific PC requirements, see [Ananta System Requirements](/en/ananta/system-requirements).
 
-## Related Guides
+## 8. Related Guides
 
-- [Ananta Game Guide](/en/ananta/)
-- [Is Ananta Cancelled? Status & Official Timeline](/en/ananta/is-it-cancelled)
+- [Ananta Guide Hub](/en/ananta/)
+- [Is Ananta delayed / cancelled? Status and official timeline](/en/ananta/is-it-cancelled)
 - [Ananta Monetization: No Gacha, All Characters Free?](/en/ananta/monetization)
-- [Ananta Characters](/en/ananta/characters)
+- [Ananta Character Archive](/en/ananta/characters)
 - [Ananta System Requirements](/en/ananta/system-requirements)
 - [Ananta Pre-Registration Guide](/en/ananta/pre-registration)
-- [Ananta vs NTE vs GTA6](/en/ananta/vs-nte-vs-gta6)
-- [Neverness to Everness Hub](/en/nte/)
-- [GTA6 Hub](/en/gta6/)
+- [Ananta vs NTE vs GTA6: How to Choose](/en/ananta/vs-nte-vs-gta6)
+- [Neverness to Everness Guide Hub](/en/nte/)
+- [GTA6 Guide Hub](/en/gta6/)

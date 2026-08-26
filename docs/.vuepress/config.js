@@ -269,12 +269,31 @@ module.exports = {
             items: [
               { text: 'Inicio de sección', link: '/es/gta6/' },
               { text: 'Guía de lanzamiento', link: '/es/gta6/release-guide' },
-              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' }
+              { text: 'Guía de precompra', link: '/es/gta6/preorder-guide' },
+              { text: '8/27 Análisis a fondo', link: '/es/gta6/extended-look-recap' }
             ]
           },
-          { text: 'Endfield', link: '/es/endfield/' },
-          { text: 'NTE', link: '/es/nte/' },
-          { text: 'Ananta', link: '/es/ananta/' },
+          {
+            text: 'Endfield',
+            items: [
+              { text: 'Inicio', link: '/es/endfield/' },
+              { text: 'Dreamscape of Wind and Snow (1.5)', link: '/es/endfield/dreamscape-of-wind-and-snow' }
+            ]
+          },
+          {
+            text: 'NTE',
+            items: [
+              { text: 'Inicio', link: '/es/nte/' },
+              { text: 'Versión 1.4', link: '/es/nte/version-1-4' }
+            ]
+          },
+          {
+            text: 'Ananta',
+            items: [
+              { text: 'Inicio', link: '/es/ananta/' },
+              { text: 'Gamescom 2026', link: '/es/ananta/gamescom-2026-recap' }
+            ]
+          },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -283,28 +302,28 @@ module.exports = {
             {
               title: 'GTA 6',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide']
+              children: ['', 'release-guide', 'preorder-guide', 'extended-look-recap']
             }
           ],
           '/es/endfield/': [
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['']
+              children: ['', 'dreamscape-of-wind-and-snow']
             }
           ],
           '/es/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['']
+              children: ['', 'version-1-4']
             }
           ],
           '/es/ananta/': [
             {
               title: 'Ananta',
               collapsable: false,
-              children: ['']
+              children: ['', 'gamescom-2026-recap']
             }
           ]
 
