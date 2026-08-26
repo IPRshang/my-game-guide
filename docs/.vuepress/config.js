@@ -105,7 +105,13 @@ module.exports = {
               { text: '三方对比', link: '/ananta/vs-nte-vs-gta6' }
             ]
           },
-          { text: '🔥每日推荐', link: '/daily/' },
+          {
+            text: '🔥每日推荐',
+            items: [
+              { text: '今日推荐', link: '/daily/' },
+              // DAILY_FEATURE_INSERT
+            ]
+          },
           { text: '关于', link: '/about/' },
           { text: '隐私政策', link: '/privacy/' }
         ],
