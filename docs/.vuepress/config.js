@@ -302,28 +302,28 @@ module.exports = {
             {
               title: 'GTA 6',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'extended-look-recap']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'early-guide', 'map-guide', 'extended-look-guide', 'extended-look-recap', 'leaks', 'pc-version', 'achievements', 'best-vehicles', 'character-guide', 'story-guide', 'cheats', 'hidden-locations', 'database', 'weapons']
             }
           ],
           '/es/endfield/': [
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'dreamscape-of-wind-and-snow']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'dreamscape-of-wind-and-snow', 'vs-wuthering-waves']
             }
           ],
           '/es/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'version-1-4']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'character-iroi', 'character-shinku', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/es/ananta/': [
             {
               title: 'Ananta',
               collapsable: false,
-              children: ['', 'gamescom-2026-recap']
+              children: ['', 'system-requirements', 'pre-registration', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
             }
           ]
 
