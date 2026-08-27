@@ -109,7 +109,8 @@ module.exports = {
             text: '🔥每日推荐',
             items: [
               { text: '今日推荐', link: '/daily/' },
-              // DAILY_FEATURE_INSERT
+                            { text: '悟空·两周年', link: '/daily/wukong-anniversary-2026/' },
+// DAILY_FEATURE_INSERT
             ]
           },
           { text: '关于', link: '/about/' },
