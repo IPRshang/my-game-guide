@@ -90,8 +90,36 @@ module.exports = {
               { text: 'PC 版状态', link: '/gta6/pc-version' },
             ]
           },
-          { text: 'Endfield', link: '/endfield/' },
-          { text: 'NTE', link: '/nte/' },
+          {
+            text: 'Endfield',
+            items: [
+              { text: '专区首页', link: '/endfield/' },
+              { text: '兑换码', link: '/endfield/codes' },
+              { text: '节奏榜', link: '/endfield/tier-list' },
+              { text: '新手攻略', link: '/endfield/beginner' },
+              { text: '基地规划器', link: '/endfield/planner' },
+              { text: '经济系统', link: '/endfield/currencies' },
+              { text: '工厂攻略', link: '/endfield/factory-guide' },
+              { text: '战斗技巧', link: '/endfield/combat-tips' },
+              { text: '版本 1.5', link: '/endfield/dreamscape-of-wind-and-snow' },
+              { text: '对比鸣潮', link: '/endfield/vs-wuthering-waves' }
+            ]
+          },
+          {
+            text: 'NTE',
+            items: [
+              { text: '专区首页', link: '/nte/' },
+              { text: '兑换码', link: '/nte/codes' },
+              { text: '节奏榜', link: '/nte/tier-list' },
+              { text: '新手攻略', link: '/nte/beginner' },
+              { text: '版本 1.4', link: '/nte/version-1-4' },
+              { text: '角色·新', link: '/nte/character-shinku' },
+              { text: '角色·色', link: '/nte/character-iroi' },
+              { text: '驾驶指南', link: '/nte/driving-guide' },
+              { text: '资源规划', link: '/nte/stamina-resources' },
+              { text: '对比鸣潮', link: '/nte/vs-wuthering-waves' }
+            ]
+          },
           {
             text: 'Ananta',
             items: [
@@ -148,14 +176,14 @@ module.exports = {
             {
               title: '终末地',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'version-roadmap', 'dreamscape-of-wind-and-snow', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'dreamscape-of-wind-and-snow', 'vs-wuthering-waves']
             }
           ],
           '/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'roadmap', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/ananta/': [
@@ -195,8 +223,36 @@ module.exports = {
               { text: 'PC Status', link: '/en/gta6/pc-version' }
             ]
           },
-          { text: 'Arknights: Endfield', link: '/en/endfield/' },
-          { text: 'Neverness to Everness', link: '/en/nte/' },
+          {
+            text: 'Arknights: Endfield',
+            items: [
+              { text: 'Hub', link: '/en/endfield/' },
+              { text: 'Codes', link: '/en/endfield/codes' },
+              { text: 'Tier List', link: '/en/endfield/tier-list' },
+              { text: 'Beginner', link: '/en/endfield/beginner' },
+              { text: 'Planner', link: '/en/endfield/planner' },
+              { text: 'Economy', link: '/en/endfield/currencies' },
+              { text: 'Factory', link: '/en/endfield/factory-guide' },
+              { text: 'Combat Tips', link: '/en/endfield/combat-tips' },
+              { text: 'Dreamscape 1.5', link: '/en/endfield/dreamscape-of-wind-and-snow' },
+              { text: 'vs Wuthering Waves', link: '/en/endfield/vs-wuthering-waves' }
+            ]
+          },
+          {
+            text: 'Neverness to Everness',
+            items: [
+              { text: 'Hub', link: '/en/nte/' },
+              { text: 'Codes', link: '/en/nte/codes' },
+              { text: 'Tier List', link: '/en/nte/tier-list' },
+              { text: 'Beginner', link: '/en/nte/beginner' },
+              { text: 'Version 1.4', link: '/en/nte/version-1-4' },
+              { text: 'Character: Shinku', link: '/en/nte/character-shinku' },
+              { text: 'Character: Iroi', link: '/en/nte/character-iroi' },
+              { text: 'Driving Guide', link: '/en/nte/driving-guide' },
+              { text: 'Stamina & Resources', link: '/en/nte/stamina-resources' },
+              { text: 'vs Wuthering Waves', link: '/en/nte/vs-wuthering-waves' }
+            ]
+          },
           {
             text: 'Ananta',
             items: [
@@ -245,14 +301,14 @@ module.exports = {
             {
               title: 'Endfield',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'version-roadmap', 'dreamscape-of-wind-and-snow', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'planner', 'currencies', 'gacha-pity', 'datalogger', 'factory-guide', 'system-requirements', 'sandleaf-guide', 'combat-tips', 'exploration-guide', 'dreamscape-of-wind-and-snow', 'vs-wuthering-waves']
             }
           ],
           '/en/nte/': [
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'roadmap', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/en/ananta/': [
@@ -284,14 +340,28 @@ module.exports = {
             text: 'Endfield',
             items: [
               { text: 'Inicio', link: '/es/endfield/' },
-              { text: 'Dreamscape of Wind and Snow (1.5)', link: '/es/endfield/dreamscape-of-wind-and-snow' }
+              { text: 'Códigos', link: '/es/endfield/codes' },
+              { text: 'Tier List', link: '/es/endfield/tier-list' },
+              { text: 'Principiantes', link: '/es/endfield/beginner' },
+              { text: 'Planificador', link: '/es/endfield/planner' },
+              { text: 'Economía', link: '/es/endfield/currencies' },
+              { text: 'Fábrica', link: '/es/endfield/factory-guide' },
+              { text: 'Dreamscape 1.5', link: '/es/endfield/dreamscape-of-wind-and-snow' }
             ]
           },
           {
             text: 'NTE',
             items: [
               { text: 'Inicio', link: '/es/nte/' },
-              { text: 'Versión 1.4', link: '/es/nte/version-1-4' }
+              { text: 'Códigos', link: '/es/nte/codes' },
+              { text: 'Tier List', link: '/es/nte/tier-list' },
+              { text: 'Principiantes', link: '/es/nte/beginner' },
+              { text: 'Versión 1.4', link: '/es/nte/version-1-4' },
+              { text: 'Personaje: Shinku', link: '/es/nte/character-shinku' },
+              { text: 'Personaje: Iroi', link: '/es/nte/character-iroi' },
+              { text: 'Conducción', link: '/es/nte/driving-guide' },
+              { text: 'Recursos', link: '/es/nte/stamina-resources' },
+              { text: 'vs Wuthering Waves', link: '/es/nte/vs-wuthering-waves' }
             ]
           },
           {
