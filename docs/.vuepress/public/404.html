@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — 页面走丢了 | ggexplore.com</title>
+  <meta name="robots" content="noindex, follow" />
+  <style>
+    :root { --bg:#0e0f13; --card:#1a1c22; --card-hover:#22252e; --text:#e8eaf0; --muted:#9aa0ad; --accent:#7c5cff; --accent2:#00c2a8; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); min-height:100vh; display:flex; align-items:center; justify-content:center; padding:24px; }
+    .wrap { max-width:680px; width:100%; text-align:center; }
+    .code { font-size:88px; font-weight:800; line-height:1; background:linear-gradient(135deg,var(--accent),var(--accent2)); -webkit-background-clip:text; background-clip:text; color:transparent; letter-spacing:2px; }
+    h1 { font-size:24px; margin:12px 0 8px; }
+    p.lead { color:var(--muted); font-size:15px; line-height:1.7; margin-bottom:6px; }
+    p.lead strong { color:var(--text); font-weight:600; }
+    .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin:28px 0 18px; }
+    .card { display:block; background:var(--card); border:1px solid rgba(255,255,255,.06); border-radius:12px; padding:18px 14px; text-decoration:none; color:var(--text); transition:.18s; }
+    .card:hover { background:var(--card-hover); border-color:var(--accent); transform:translateY(-2px); }
+    .card .t { font-size:16px; font-weight:700; }
+    .card .s { font-size:12px; color:var(--muted); margin-top:4px; }
+    .home { display:inline-block; margin-top:6px; color:var(--accent); text-decoration:none; font-weight:600; font-size:15px; }
+    .home:hover { text-decoration:underline; }
+    footer { margin-top:26px; color:var(--muted); font-size:12px; line-height:1.6; }
+    footer a { color:var(--accent2); text-decoration:none; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="code">404</div>
+    <h1>页面走丢了</h1>
+    <p class="lead">你访问的攻略页面可能已经<strong>下线或迁移</strong>。</p>
+    <p class="lead">我们已经把内容重心转向最新大作，下面这些专区都在更新：</p>
+    <div class="cards">
+      <a class="card" href="/gta6/"><div class="t">GTA 6</div><div class="s">价格 · 预购 · 发售</div></a>
+      <a class="card" href="/endfield/"><div class="t">终末地 Endfield</div><div class="s">开服 · 配队 · 工厂</div></a>
+      <a class="card" href="/nte/"><div class="t">NTE</div><div class="s">界面 · 载具 · 攻略</div></a>
+      <a class="card" href="/ananta/"><div class="t">Ananta</div><div class="s">开放世界新作</div></a>
+    </div>
+    <a class="home" href="/">← 返回首页，用顶部搜索找最新攻略</a>
+    <footer>
+      ggexplore.com · 游戏攻略站<br />
+      Still looking? <a href="/">Go home</a> and use the search box.
+    </footer>
+  </div>
+</body>
+</html>
