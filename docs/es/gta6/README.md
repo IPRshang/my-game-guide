@@ -1,6 +1,6 @@
 ---
-title: "GTA 6"
-description: "ggexplore — Guías de videojuegos en español"
+title: "GTA 6 (GTA VI) Guías — Fecha de lanzamiento, mapa y ciudades, vehículos, códigos de trucos y requisitos de PC"
+description: "Centro de guías de GTA 6 (GTA VI) en español — fecha de lanzamiento, mapa y ciudades, vehículos, misiones principales, códigos de trucos, sistema de personajes y requisitos de PC, todo en un sitio."
 ---
 
 ## Guía completa de Grand Theft Auto VI en español

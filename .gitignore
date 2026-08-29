@@ -1,5 +1,10 @@
 node_modules
 docs/.vuepress/dist
+docs/.vuepress/dist*
+docs/.vuepress/.temp
+docs/.vuepress/public/og-image-v2.png
+docs/.vuepress/public/images/og-image-v2.png
+docs/.vuepress/public/images/og-image-v2.svg
 package-lock.json
 .env
 .workbuddy

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="45%" style="stop-color:#1e1b4b"/>
+      <stop offset="75%" style="stop-color:#312e81"/>
+      <stop offset="100%" style="stop-color:#111827"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#f5a623"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="8" fill="url(#bar)"/>
+  <text x="600" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="82" font-weight="bold" fill="#ffffff">ggexplore.com</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#cbd5e1">GTA 6 · Arknights: Endfield · Neverness to Everness · Ananta</text>
+  <text x="600" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#7dd3fc">Guides · Codes · Tier Lists · Maps · Leaks &amp; Updates</text>
+  <line x1="350" y1="470" x2="850" y2="470" stroke="#4b5563" stroke-width="2"/>
+  <text x="600" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#9ca3af">Open-world game guides in EN / ZH / ES</text>
+</svg>
