@@ -152,7 +152,7 @@ module.exports = {
             {
               title: '新手上路',
               collapsable: false,
-              children: ['', 'release-guide', 'preorder-guide', 'price', 'money-guide', 'early-guide', 'map-guide', 'extended-look-guide', 'extended-look-recap', 'leaks', 'pc-version']
+              children: ['', 'release-guide', 'preorder-guide', 'price', 'release-date', 'pre-order-bonus', 'editions', 'money-guide', 'early-guide', 'map-guide', 'extended-look-guide', 'extended-look-recap', 'leaks', 'pc-version']
             },
             {
               title: '进阶攻略',
@@ -186,14 +186,14 @@ module.exports = {
             {
               title: 'NTE',
               collapsable: false,
-              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
+              children: ['', 'codes', 'tier-list', 'beginner', 'gacha', 'gacha-simulator', 'fix-crash', 'stamina-resources', 'team-build', 'system-requirements', 'ai-controversy', 'version-1-3', 'version-1-4', 'character-shinku', 'character-iroi', 'driving-guide', 'vs-wuthering-waves']
             }
           ],
           '/ananta/': [
             {
               title: 'Ananta',
               collapsable: false,
-              children: ['', 'system-requirements', 'pre-registration', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
+              children: ['', 'system-requirements', 'pre-registration', 'release-date', 'vs-gta6', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
             }
           ]
 
