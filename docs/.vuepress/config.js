@@ -140,6 +140,7 @@ module.exports = {
                             { text: '悟空·两周年', link: '/daily/wukong-anniversary-2026' },
               { text: '艾尔登·玛莲妮亚', link: '/daily/elden-malenia-switch2' },
               { text: '致命躯壳 II', link: '/daily/mortal-shell-ii-guide' },
+              { text: '塞尔达·全收集', link: '/daily/zelda-totk-collection/' },
 // DAILY_FEATURE_INSERT
             ]
           },
