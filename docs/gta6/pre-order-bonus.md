@@ -29,6 +29,8 @@ description: "GTA6 已于 2026 年 6 月 25 日开启预购，预购即送「罪
 
 ## 相关阅读
 
+- [GTA6 预购渠道、退款与主机选购](/gta6/preorder-guide)
+- [GTA6 版本对比：标准版 vs 终极版](/gta6/editions)
 - [GTA6 发售日期](/gta6/release-date)
 - [GTA6 配置要求（PC 版）](/gta6/pc-version)
 

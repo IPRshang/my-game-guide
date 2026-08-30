@@ -26,6 +26,7 @@ description: "GTA6 标准版售价 79.99 美元仅含基础游戏；终极版 99
 ## 相关阅读
 
 - [GTA6 预购奖励与渠道](/gta6/pre-order-bonus)
+- [GTA6 预购渠道、退款与主机选购](/gta6/preorder-guide)
 - [GTA6 发售日期](/gta6/release-date)
 
 ## 常见问题

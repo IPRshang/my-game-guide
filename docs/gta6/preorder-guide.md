@@ -1,16 +1,14 @@
 ---
-# GTA6 预购全攻略：版本、渠道、退款与主机选购｜ggexplore.com
-
-description: 'GTA6 预购怎么买最划算？标准版/豪华版/典藏版区别、PS5/Xbox/PC 平台选择、退款政策、低价区购买风险，一文看懂。'
-title: 'GTA6 预购全攻略：版本、渠道、退款与主机选购'
+title: "GTA6 预购渠道、退款与主机选购指南"
+description: 'GTA6 预购买哪个主机/平台最划算？PS5 / Xbox / PC 怎么选、官方与低价区购买渠道对比、各平台退款政策与避坑指南。版本对比与预购奖励见对应专页。'
 date: 2026-08-13
 author: 'Game Strategy Hub'
-tags: ['GTA6预购','GTA6版本区别','GTA6怎么买','GTA6退款','GTA6主机选购','GTA6低价区','GTA6预购奖励','GTA6典藏版','GTA6数字版还是光盘版']
+tags: ['GTA6预购','GTA6怎么买','GTA6退款','GTA6主机选购','GTA6低价区','GTA6预购渠道','GTA6 PS5','GTA6 Xbox','GTA6购买避坑']
 ---
 
-# GTA6 预购全攻略：版本、渠道、退款与主机选购
+# GTA6 预购渠道、退款与主机选购指南
 
-> 📌 **一句话结论**：只想玩剧情买标准版；想首发冲 Online 选豪华版；收藏党盯紧典藏版。主机玩家优先 PS5 / Xbox Series X，PC 玩家建议等 PC 版，别贪小便宜买黑卡/代充。
+> 📌 **一句话结论**：首发党优先 PS5 / Xbox Series X|S；PC 玩家建议等 PC 版，别贪小便宜买黑卡/代充。只在官方商店或你信任的实体零售商购买，买错及时退（**未下载/未游玩**前退款最容易）。
 
 ---
 
@@ -35,57 +33,13 @@ tags: ['GTA6预购','GTA6版本区别','GTA6怎么买','GTA6退款','GTA6主机�
 
 GTA6 预售热的本质是 **"GTA5 卖了 2 亿份"** 带来的用户存量释放。但越是这种时候，越要冷静购买。
 
----
-
-## 二、我该买哪个版本？
-
-### 2.1 版本对比一览（官方定价）
-
-Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地区含税价以当地商店为准）：
-
-| 版本 | 官方定价 | 适合人群 | 核心内容 |
-|---|---|---|---|
-| **标准版（Standard）** | **$79.99** | 绝大多数玩家 | 游戏完整本体 |
-| **终极版（Ultimate，数字版）** | **$99.99** | 想首发玩 Online | 本体 + 独家游戏内内容（载具 / 现金奖励等） |
-| **实体版（code-in-box）** | 与标准版同价 | 收藏 / 回血党 | 盒装兑换码，11 月 12 日提前预载 |
-
-### 2.2 一句话建议
-
-- **预算有限 / 只玩剧情**：标准版足够
-- **计划首发冲 GTA Online 2**：豪华版性价比最高
-- **想收藏 / 不差钱**：典藏版，但发售前通常就会售罄
-- **PC 玩家**：等 Steam / Epic / R 星启动器 PC 版，价格会比主机版低
-
-### 2.3 豪华版到底值不值？
-
-豪华版的 "启动奖励" 对 GTA Online 2 有帮助，但对单人剧情影响不大。参考 GTA5 豪华版：
-
-| 内容 | 单人模式 | Online 模式 |
-|---|---|---|
-| 游戏内货币 | 少量可用 | 极大帮助 |
-| 独家载具/房产 | 装饰性 | 启动优势明显 |
-| 武器包 | 可用 | 前期升级更快 |
-
-> 💡 **结论**：如果你只想体验剧情，标准版 + 后期自己刷钱是更省钱的选择。详细刷钱攻略可以看 [GTA6 赚钱攻略](./money-guide.md)。
+> 📌 **版本怎么选、预购奖励有什么**，本站已单开专页：[GTA6 标准版与终极版区别](/gta6/editions)｜[GTA6 预购奖励明细与渠道](/gta6/pre-order-bonus)。本文只讲**渠道、退款与主机选购**。
 
 ---
 
-## 二之一、终极版（Ultimate）官方确认包含什么
+## 二、在哪个平台买？主机 vs PC 怎么选
 
-预购已于 **2026 年 6 月**开放。在标准版（$79.99）之外，终极版定价 **$99.99**，官方确认其包含的独家游戏内内容如下：
-
-- **专属游戏内载具（exclusive in-game vehicles）**
-- **专属游戏内武器（exclusive in-game weapons）**
-- **专属游戏内服装 / 外观（exclusive in-game outfits）**
-- **贯穿游戏全程的"动作内容"（"action content throughout the game"）**
-
-> 说明：以上为 Rockstar 官方对终极版的描述。标准版为完整游戏本体，不含上述终极版独占内容。具体落地形式以官方最终公告与游戏内实际内容为准。
-
----
-
-## 三、在哪个平台买？主机 vs PC 怎么选
-
-### 3.1 首发平台现状
+### 2.1 首发平台现状
 
 | 平台 | 能否首发玩到 | 说明 |
 |---|---|---|
@@ -95,7 +49,7 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 | PC | ❌ 不能首发 | 预计晚 12–18 个月上线 |
 | PS4 / Xbox One | ❌ 不支持 | 硬件无法运行 |
 
-### 3.2 主机选购决策树
+### 2.2 主机选购决策树
 
 ```
 没有主机？
@@ -106,18 +60,18 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 └── 可以等 → 等 PC 版，省钱升级显卡
 ```
 
-### 3.3 PC 玩家现在需要做什么？
+### 2.3 PC 玩家现在需要做什么？
 
-1. **确认配置**：对照 [GTA6 发售配置攻略](./release-guide.md) 的预测配置表
+1. **确认配置**：对照 [GTA6 发售配置攻略](/gta6/release-guide) 的预测配置表
 2. **预留 150GB+ 硬盘空间**：优先换 NVMe SSD
 3. **显卡观望**：RTX 3060 Ti 是 1080P 高画质 60 帧的甜点卡
 4. **关注 Steam / Epic 愿望单**：加入后可第一时间收到上架通知
 
 ---
 
-## 四、购买渠道对比：哪里买最划算？
+## 三、购买渠道对比：哪里买最划算？
 
-### 4.1 官方渠道
+### 3.1 官方渠道
 
 | 渠道 | 优点 | 缺点 |
 |---|---|---|
@@ -126,7 +80,7 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 | Rockstar Store | 将来 PC 版首发地之一 | 国内访问可能需网络优化 |
 | Steam / Epic | PC 版大概率上线，国区价低 | 不能首发 |
 
-### 4.2 低价区与跨区购买
+### 3.2 低价区与跨区购买
 
 很多玩家关心 "能不能去阿根廷、土耳其、印度等低价区买"。
 
@@ -139,7 +93,7 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 
 > ⚠️ **避坑提醒**：GTA6 这种热度，发售前后是 "低价码"、"代充"、"共享号" 骗局高发期。请只在官方商店或你信任的实体零售商购买。
 
-### 4.3 数字版 vs 实体光盘版
+### 3.3 数字版 vs 实体光盘版
 
 | 维度 | 数字版 | 实体光盘版 |
 |---|---|---|
@@ -151,9 +105,9 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 
 ---
 
-## 五、退款政策：买错了能不能退？
+## 四、退款政策：买错了能不能退？
 
-### 5.1 各平台退款规则
+### 4.1 各平台退款规则
 
 | 平台 | 未发售前退款 | 发售后退款 |
 |---|---|---|
@@ -164,7 +118,7 @@ Rockstar 于 2026 年 6 月 25 日随预购公布定价（美元标价，各地�
 
 > 📌 **关键提醒**：如果你买了之后发现配置不够、平台选错，**千万别点开始下载或游玩**，否则退款难度大幅增加。
 
-### 5.2 常见问题
+### 4.2 常见问题
 
 **Q：预购后降价了能补差价吗？**
 A：数字商店通常不补差价。实体版可以退了重新买。
@@ -174,37 +128,22 @@ A：可以，但需退回原支付方式，跨区账号退款周期可能更长�
 
 ---
 
-## 六、预购奖励：现在买有什么额外好处？
+## 五、理性消费：GTA6 值得期待，但别冲动
 
-GTA6 的预购奖励通常包括：
-
-| 类型 | 可能内容 |
-|---|---|
-| 游戏内货币 | GTA Online 2 启动资金 |
-| 载具 | 限定版跑车 / 摩托车 |
-| 房产 | 早期公寓或地堡 |
-| 外观 | 限定服装、武器涂装 |
-
-> ⏰ **预购奖励通常在发售前截止**。如果你确定要买，建议在发售前完成预购。
-
----
-
-## 七、理性消费：GTA6 值得期待，但别冲动
-
-### 7.1 适合现在预购的人
+### 5.1 适合现在预购的人
 
 - 有 PS5 / Xbox Series X|S，确定要首发玩
-- 想获得预购奖励
+- 想获得预购奖励（明细见 [GTA6 预购奖励](/gta6/pre-order-bonus)）
 - 担心发售后数字商店排队下载 / 实体版涨价断货
 
-### 7.2 可以再等等的人
+### 5.2 可以再等等的人
 
 - 只有 PC，不急着玩
 - 配置不够，准备等硬件降价
 - 对 Online 不感兴趣，只想过剧情
 - 想等发售后真实口碑和实机评测
 
-### 7.3 绝对不要做的事
+### 5.3 绝对不要做的事
 
 - ❌ 买 "低价激活码"、"共享账号"
 - ❌ 找陌生人 "代充" 到未知区服
@@ -213,40 +152,37 @@ GTA6 的预购奖励通常包括：
 
 ---
 
-## 八、常见问题 FAQ
+## 六、常见问题 FAQ
 
-**Q1：GTA6 预购奖励什么时候截止？**
-A：通常在游戏正式发售前一天的 23:59 截止，具体以商店页面为准。
+**Q1：现在能在哪个平台预购 GTA6？**
+A：自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购，PC 版时间未定（预计 2027 年之后）。国区/港区 PlayStation Store、Microsoft Store 均可购买。
 
-**Q2：预购后可以提前下载吗？**
-A：主机版通常支持发售前 1–3 天预载；PC 版需等 PC 发售日确定后才能预载。
+**Q2：PS5 和 Xbox 买哪个更划算？**
+A：两者都能首发 60 帧畅玩。PS5 国行可通过备份还原登录港服，商店内容更完整；Xbox Series X 性能强且低价区购买灵活。预算紧张选 Xbox Series S（画质妥协），画质党选 PS5 Pro。
 
-**Q3：典藏版哪里买最稳？**
-A：Rockstar Warehouse、亚马逊、京东/天猫官方旗舰店（若有）。发售前通常售罄，需要蹲点。
+**Q3：低价区/代充能不能买？**
+A：强烈不建议。代充、黑卡、淘宝"便宜激活码"多为黑卡或退款诈骗，账号可能被封。只在官方商店或可信实体零售商购买。
 
-**Q4：港服和国行 PS5 有区别吗？**
-A：国行主机可通过备份还原登录港服账号；港服商店购买的游戏内容更完整，建议优先选择港服。
+**Q4：预购后还能退款吗？**
+A：发售前通常可全额退款；发售后 PlayStation / Microsoft 商店支持 14 天内、未大量游玩时退款，Steam / Epic 为 14 天内且游玩少于 2 小时。**未发售前不要点开始下载或游玩**，否则退款难度增加。
 
-**Q5：Xbox Series S 能玩 GTA6 吗？画质差多少？**
-A：能玩，但分辨率可能降至 1080P 或动态分辨率，帧率模式可能优先 60 帧但牺牲画质。
+**Q5：数字版和实体光盘版哪个好？**
+A：想首发最快到手选数字版；想收藏或通关后回血选实体光盘版。首发实体版可能加价，后期可能降价。
 
 **Q6：网传预售 5,000 万份是真的吗？**
 A：这是社交媒体和行业分析中流传的数据，**尚未得到官方确认**。它反映了市场预期，但不是最终财报数字。
 
-**Q7：PS5 Pro 玩 GTA6 会比 PS5 好很多吗？**
-A：预计会支持更高分辨率或更稳定的 60 帧模式，但核心内容完全一致。
-
-**Q8：现在买 PS5 会不会过时？**
-A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果专为 GTA6 买一台，PS5 光驱版或 PS5 Pro 都是合理选择。
+**Q7：PC 玩家现在需要准备什么？**
+A：对照 [GTA6 PC 配置攻略](/gta6/release-guide) 预留 150GB+ NVMe SSD 空间，关注 Steam / Epic 愿望单等上架通知。
 
 ---
 
-## 九、相关攻略推荐
+## 七、相关攻略推荐
 
-- [GTA6 发售日期、平台与 PC 配置全攻略](./release-guide.md)
-- [GTA6 赚钱攻略：线上模式最快刷钱方法](./money-guide.md)
-- [GTA6 新手开局指南：前 10 小时该做什么](./early-guide.md)
-- [GTA6 最强载具推荐](./best-vehicles.md)
+- [GTA6 版本对比：标准版 vs 终极版](/gta6/editions)
+- [GTA6 预购奖励明细与渠道](/gta6/pre-order-bonus)
+- [GTA6 发售日期、平台与 PC 配置全攻略](/gta6/release-guide)
+- [GTA6 赚钱攻略：线上模式最快刷钱方法](/gta6/money-guide)
 
 ---
 
@@ -254,7 +190,7 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 > - 主机：[PS5 光驱版](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUsJK1olXwQAVVxUCEwXBl8IGloQXwQFXVdVDUkeBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoKGVwcVA4HVldYFxJSXzI4elt8H19-M109ADFsASRgSAViC11QJFJROE4XAmkNHFsUWgYyV19dDUgfAm8BHWslXQAyFTBdCUkRBWoAH2sXXQcEXF5fAUweM28OElwdVAEBUF9YAU0nBG8BK1sRWQ4EVFZbDUMfbS44K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dCU8SBmgIH1kJXQMKXV5eFEsRCmgAEl8dXgAHXFZtCkoWB2Y4K4WY7XULJD8oCR51A259YBpVB3Dc2e5MYzIfA28LCmsXAwMADBwtfTNIdhgKSRNUX2NrNClfWgMRWxNVY157X1RFNT0pdBF2Zi1gUiFmAHNwZFttD00WM244) / [PS5 Pro](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV0JK1olXwQAVV5UAE4QAV8IGlsWWAYHV1laDk4QB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wNG14WWgEEUVlZFxJSXzIGXwRNA1l-AAsFWC5HVWMLdVp7XTYAKTYNXjVcBApLYT9IIVZeUz5YQSNnD2M4HlsUWwMFVF9aCHsUAm8NGFMUXQ8EZG5dDntWbWgAH1sSXDYAVF9bAEsVCmgBK1sTVAEKXVhUDk8VBmY4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYIGlgSVQYeVF9ZDEsXH28OElwdVAAGVlxcDk0nAW4JH1IlbdiP5CZccRhEBGh1SAdcL2FAUyCDhfsGcR8IH1wRTDZfEFtbbCBEfmdzaCsTWnZgLzgvADsRBB9cRgdiGANsVj8tSE9lUShbWTBWWnpwASQKOE4nBGkJK1ol) / [Xbox Series X](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAUgJK1olWAUHVlpaCE4fBF8IGloVXgQHXVdaDksnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAG0NElISWwYdDRsBVXtKRzlrRQcRXmNENgQCCShLd2xzZA5TUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtHM9-EzYrOuhlWQV8KG1oTVQYAXVlUOEsRCmgAEl0WWwQKVlxtD0seM28MH1MTXQ4EUVZVZgonM18LK1wVVBIEJh8PHE1lM18IK1glXQcCVVddCUgRBmwUG1wUXgQDSF5bAUwfCmkLH10RXQYyVl9cDEInM7GFqz8cO0VhJxhUVDxVCiwJZSzL0LYTKClUCkkTEl9YaDIUHk9VCi4dbzIWWWoJewVDNn8DDlsETAkUWwZmGRpFNW9EDQsuDy4WWzpzRFtSbQMyU1hcOEon)
 > - SSD：[联想 1TB NVMe M.2 PCIe 5.0 SSD](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV0JK1olWAUCVlxUCU0RAV8IGloUWwUBVl5cCkknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBWwLGVsUXwQdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIK1MVGFJBXSo8bU11QRBBZBpoXGZ6EBhRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZAgzCEoWAm4OHFsUXzYAVF9bAEsVCmkJK1sTVAEKXVhcCk4TC2c4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmgMGF4UXg8eVFldCE0QH28OElwdVAADVVlcDEknAW4JH1IlbdiP5CRfcixXAhNccxJlG0J_MRyDhfsGfxgBH18RTDZ7XFsAbRx_fDxuez5IGlx3Ug06Dy5KRDUJWSsVPgNsViIdXEpxdBhhe1hIO19iLyk7OE4nBGkJK1ol)（PC 玩家提前准备）
 > - 显示器：[27" 2K 144Hz 显示器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAV4JK1olWAUCU1hYCUkTBV8IGloXXAAKUltUDEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAmkAHV4cWQcdDRsBVUVTXDdWRCdBCF5SMQ4LBEh5AgEIKzlDBkMKMxsgajZLBwsBYiBNCHZjFghRBHsSA24OHlwVXAECZF1cCE4UC24IEl0lbQYEZBwzXx9IVSlYRA0TWQcyVl5cDkMXAWYPE2sVWw8FXFdaD0seC20KK1wVVDYCUFpVDksfBWoAEzVUbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA24PH1gQXAQGSF5YDU0WAHMIHVISVQ8FUFlZAUMXM20JGl8cbTbc2e40fzFTYm5MYSlHFm11ESAY1sanEh14G1kXXRcyLQo9bwlTWmYIYCJiOkZrEz0bfglgZC9hcCVRPl5iOlwud0pzdzwKWAwcOn5VIQdacnsSM2gOGmsUbQ) 适合主机高刷模式
-> - 手柄：[雷神 猎刃50 游戏手柄](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtGM96o0ojJp5-CpLaXlFgWbQQCVVhVCEkeBW44G10cWg4LU1hYDUMSAl8PG1IlXQIGXFhdAE0SC2dmWmslbQUyU15UHE1lQj0cHSklbQYyV25dCUsWCm4OG10VWhoCVFddCEoLA2kBHFMcWgEKVFlbDHsVAm4MEmslg4uyPVopDzhkQhlMYR1CKVh-EoDQuFprZ2sIGl4EbVJGXV4Gdx1NYRROZFtTK31yUjUnd0tRdRgLTF8XVGgAXVo6Uw0Way4AaFt3PnFHKDhtDXsQBW44Gms) / [GulKit 谷粒悟空2 手柄适配器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU4JK1olXw8KVFleDEwQBl8IGloXXwEKVlpeAEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAWgAGV8WVQcdDRsBVXtDfghLeQd0XmRaCAAUX0tqWBIBbCR1UQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol)
+> - 手柄：[雷神 猎刃50 游戏手柄](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU0JK1olWAUCUl5fC0sVAV8IGloXWAIDUVxbDEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVBmsJHlkTWQEdDRsBVXtCRQpJWRthPGZ_CAsFcj92WzhfYA9lUQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol) / [GulKit 谷粒悟空2 手柄适配器](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAU4JK1olXw8KVFleDEwQBl8IGloXXwEKVlpeAEonRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoVAWgAGV8WVQcdDRsBVXtDfghLeQd0XmRaCAAUX0tqWBIBbCR1UQoyUV5cDk4QA24PG2sWXAYHV1ZcCEIRM18IHWtXM1BGCQYHUA5BUzNcGFoWWTYAVF9bAEsVCmkJK1sTVAEKXVlUDUIXAGk4HFscbQYGUFZbCEMRBmcAdRolbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXAmYJHVsTXQEeVF5UCEsWH28OElwdVAEFXF5aDk8nAW4JH1IlbdiP5CdeTTtDAy99eQZiXlQDIDeDhfsGfxgBGVkRTDZ5Jz4heCMVfWhWExtpI1lXPBchCwtrfTBSThJdImZsVllYTQNEQhsMclxpPX9_M1YeOE4nBGkJK1ol)
 > *部分链接含联盟推广代码，购买价格不变。详见[隐私政策](../privacy/)。*
 
 ---
@@ -262,16 +198,13 @@ A：PS5 仍是本世代主流主机，未来 3–4 年内不会过时。如果�
 ## 常见问题
 
 **Q：GTA6 预购开了吗？多少钱？**
-A：已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购。标准版 79.99 美元，终极版（数字版）99.99 美元，各地区含税价以当地商店为准。
-
-**Q：GTA6 标准版和终极版有什么区别？**
-A：标准版为游戏完整本体；终极版（数字版）在标准版基础上额外包含独家游戏内内容，如特定载具与现金奖励，对 GTA Online 2 起步更有帮助。
-
-**Q：GTA6 预购后能退款吗？**
-A：发售前通常可全额退款。发售后 PlayStation / Microsoft 商店一般支持 14 天内、未大量游玩时退款；Steam / Epic 为 14 天内且游玩少于 2 小时。注意未发售前不要点开始下载或游玩，否则退款难度增加。
+A：已开放。自 2026 年 6 月 25 日起可在 PS5 / Xbox 数字商店预购。标准版 79.99 美元，终极版（数字版）99.99 美元，各地区含税价以当地商店为准。版本与价格详情见 [GTA6 版本对比](/gta6/editions)。
 
 **Q：GTA6 预购奖励什么时候截止？**
-A：预购奖励通常在游戏正式发售前截止。若确定要买，建议在 2026 年 11 月 19 日发售前完成预购以锁定奖励。
+A：预购奖励通常在游戏正式发售前截止。若确定要买，建议在 2026 年 11 月 19 日发售前完成预购以锁定奖励。奖励明细见 [GTA6 预购奖励](/gta6/pre-order-bonus)。
+
+**Q：预购后还能退款吗？**
+A：发售前通常可全额退款。发售后 PlayStation / Microsoft 商店一般支持 14 天内、未大量游玩时退款；Steam / Epic 为 14 天内且游玩少于 2 小时。注意未发售前不要点开始下载或游玩，否则退款难度增加。
 
 **Q：PC 玩家现在能预购 GTA6 吗？**
 A：不能首发。GTA6 首发仅 PS5 / Xbox Series X|S，PC 版时间未定（预计 2027 年之后）。PC 玩家可先加入 Steam / Epic 愿望单，等 PC 版上架通知。
