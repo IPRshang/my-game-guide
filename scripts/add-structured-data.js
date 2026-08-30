@@ -12,6 +12,21 @@ const REPO_ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(REPO_ROOT, 'docs', '.vuepress', 'dist');
 const SITE = 'https://ggexplore.com';
 
+// 同 fix-canonical.js：把 dist 相对 html 路径映射成 clean URL 路径，
+// 让 mainEntityOfPage.@id 与 canonical 完全一致（去掉 .html，
+// index.html -> / 或 /xxx/），避免两者后缀不一致。
+function relToUrlPath(rel) {
+  let p = rel.replace(/\\/g, '/');
+  if (p === 'index.html') return '/';
+  if (p.endsWith('/index.html')) {
+    return '/' + p.slice(0, -'index.html'.length);
+  }
+  if (p.endsWith('.html')) {
+    p = p.slice(0, -'.html'.length);
+  }
+  return '/' + p;
+}
+
 // 把 dist 下的 html 相对路径映射回可能的源 markdown 文件
 function htmlToMarkdownCandidates(relHtml) {
   let p = relHtml.replace(/\.html$/, '');
@@ -54,7 +69,7 @@ function inject(htmlPath) {
   const title = titleMatch ? titleMatch[1].trim() : '';
   const descMatch = html.match(/<meta\s+name=["']description["']\s+content=["']([^"']*)["']/i);
   const desc = descMatch ? descMatch[1] : '';
-  const url = SITE + '/' + rel;
+  const url = SITE + relToUrlPath(rel);
 
   let dates = { first: null, last: null };
   for (const c of htmlToMarkdownCandidates(rel)) {
