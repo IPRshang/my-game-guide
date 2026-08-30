@@ -1,6 +1,12 @@
 ---
 # GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice | ggexplore.com
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 description: 'Which GTA6 edition should you buy? Standard vs Deluxe vs Collector''s Edition. Platform choice, store comparison, refund policies, and console buying advice for PS5, Xbox Series X|S, and PC players.'
 title: 'GTA6 Pre-Order Guide: Editions, Stores, Refunds & Console Buying Advice'
 date: 2026-08-13

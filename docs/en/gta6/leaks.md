@@ -5,6 +5,12 @@ description: "Since August 18, 2026, a source calling itself 'CyberLeek' has rel
 
 # GTA 6 Leaks Roundup: Map, Wanted System, Honor & Fuel
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 Since **August 18, 2026**, a source calling itself **"CyberLeek"** has released gameplay clips, map images, and footage online. Rockstar and Take-Two issued DMCA takedowns — which the community widely reads as a tacit signal that the footage is genuine — but **Rockstar has never officially confirmed** its authenticity.
 
 Insiders (such as NateTheHate) note that some clips are reportedly over a year old, so they may **not reflect the upcoming Netflix event or the final game**. Treat every detail below as unconfirmed development-build material that is subject to change.

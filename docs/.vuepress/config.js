@@ -7,6 +7,7 @@ module.exports = {
     ['sitemap', {
       hostname: 'https://ggexplore.com/',
       exclude: ['/404.html'],
+      changefreq: 'weekly',
       dateFormatter: (time) => {
         const d = new Date(time);
         return isNaN(d.getTime()) ? new Date().toISOString() : d.toISOString();

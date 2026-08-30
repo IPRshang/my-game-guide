@@ -7,6 +7,12 @@ tags: ['GTA6','GTA6 map','GTA6 Vice City','GTA6 Leonida','GTA6 map size','GTA6 l
 
 # GTA 6 Map Guide: Vice City & Leonida
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 > 📌 **The short version**: GTA 6 returns to the sun-soaked **Vice City** and, for the first time, opens up the entire **state of Leonida (based on Florida)** — expected to be the largest open world Rockstar has ever built. The gameplay reveal is the first real chance to see this map up close.
 
 ---

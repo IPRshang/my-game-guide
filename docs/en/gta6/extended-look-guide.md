@@ -5,6 +5,12 @@ description: "Grand Theft Auto VI: An Extended Look premieres August 27, 2026. T
 
 # How to Watch GTA 6 "An Extended Look" (Aug 27)
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 Rockstar has confirmed that **Grand Theft Auto VI: An Extended Look** premieres on **Thursday, August 27, 2026**. It is the studio's next major showcase of the most anticipated game of 2026, following the first two trailers. This page helps you watch it at the right time, on the right platform, and sets realistic expectations for what it does and does not promise.
 
 ## What Exactly Is It?

@@ -5,6 +5,12 @@ description: "GTA6 已于 2026 年 6 月 25 日开启预购，预购即送「罪
 
 # GTA6 预购奖励有什么？怎么预购？
 
+::: warning ⚠️ 发售前内容提示
+<!-- GTA6_PRERELEASE_NOTE -->
+本攻略基于 GTA6 泄露片段、官方预告及发售前公开数据整理。**游戏将于 2026 年 11 月 19 日正式发售**，文中具体收益、机制、地点等均以发售后实测为准，发售 48 小时内我们会逐一核验并更新。
+:::
+
+
 **GTA6 已于 2026 年 6 月 25 日全球开启预购，凡在 11 月 20 日前预购或购买，均可获「罪恶城复古包」（Vintage Vice City），数字版额外赠送 1 个月 GTA+。**
 
 预购渠道：PlayStation Store、Microsoft Store、各大零售渠道及 rockstargames.com/VI。
