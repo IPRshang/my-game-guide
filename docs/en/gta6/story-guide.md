@@ -6,6 +6,12 @@ date: 2026-07-24
 
 # GTA6 — Main Story Walkthrough
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 > Updated: 2026-07-24 | All Platforms
 
 ## Prologue: Vice Returns

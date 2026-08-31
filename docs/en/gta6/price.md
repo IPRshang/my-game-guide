@@ -5,6 +5,12 @@ description: "GTA 6 price confirmed: Standard $79.99 vs Ultimate $99.99. Pre-ord
 
 # GTA 6 Price & Editions (2026)
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 Grand Theft Auto VI lands on **November 19, 2026** for **PS5 and Xbox Series X|S** (no PC date yet). This page covers the officially confirmed **price, edition differences, and pre-order bonus** so you can decide which version to buy.
 
 ## Editions & price

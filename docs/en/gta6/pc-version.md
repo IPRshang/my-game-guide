@@ -5,6 +5,12 @@ description: "Rockstar has not announced a GTA 6 PC version. This page covers th
 
 # GTA 6 on PC: Status, Release Window & Build Prep
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 As of now, **Rockstar has not announced any GTA 6 PC version**. The only officially confirmed launch platforms are **PlayStation 5 and Xbox Series X|S**, with a release date of **November 19, 2026**. This page separates what PC players can and cannot know today, and clearly labels every prediction as speculation.
 
 ## Current Confirmed Status
@@ -32,7 +38,7 @@ The suggestions below are preventive prep for a PC version that *may* arrive lat
 - **16GB+ RAM:** Many recent AAA titles treat 16GB as a baseline, with more headroom being safer.
 - **Strong GPU:** Open-world high-fidelity rendering is demanding; plan around a mid-to-high-end discrete graphics card, not an entry-level one.
 
-These directions are general经验 only, not GTA 6 PC requirements. Real PC specs will only be known when Rockstar officially announces a PC version.
+These directions are general experience only, not GTA 6 PC requirements. Real PC specs will only be known when Rockstar officially announces a PC version.
 
 ## Why You Shouldn't Trust "PC Spec Sheets" Yet
 

@@ -5,6 +5,12 @@ description: "GTA6 An Extended Look 解析一站速通：发售日期 2026 已�
 
 # GTA6《An Extended Look》深度解读
 
+::: warning ⚠️ 发售前内容提示
+<!-- GTA6_PRERELEASE_NOTE -->
+本攻略基于 GTA6 泄露片段、官方预告及发售前公开数据整理。**游戏将于 2026 年 11 月 19 日正式发售**，文中具体收益、机制、地点等均以发售后实测为准，发售 48 小时内我们会逐一核验并更新。
+:::
+
+
 Rockstar 已确认《GTA VI: An Extended Look》将于 **2026-08-27 15:00 ET** 在 Netflix 首映，6 小时后 **21:00 ET** 在 YouTube 与官网免费放出。这是约 15 个月来首个重大新画面，普遍预期将首次展示真实 gameplay。本页一站式梳理发售日、地图城市、双主角、载具、作弊码与 PC 配置要求，并严谨区分「官方确认」与「社区预期」。
 
 ## ① 为什么这次「Extended Look」如此重要

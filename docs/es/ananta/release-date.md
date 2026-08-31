@@ -1,6 +1,6 @@
 ---
 title: "Fecha de lanzamiento y plataformas de Ananta - Cuándo sale"
-description: "Ananta (antes Project Mugen) sale el 15 de enero de 2027 en PC, PS5, iOS y Android. Free-to-play sin gacha de personajes. Fecha, plataformas y estado de prerregistro."
+description: "Ananta (antes Project Mugen) sale el 15 de enero de 2027 en PC, PS5, iOS y Android. Free-to-play (según medios japoneses, sin gacha de personajes; NetEase no lo ha confirmado oficialmente). Fecha, plataformas y estado de prerregistro."
 tags: [Ananta, fecha de lanzamiento, plataformas, free-to-play, prerregistro]
 ---
 
@@ -12,14 +12,16 @@ tags: [Ananta, fecha de lanzamiento, plataformas, free-to-play, prerregistro]
 
 - **Lanzamiento**: 2027-01-15 (global, simultáneo)
 - **Plataformas**: PC (cliente oficial / Steam), PS5, iOS, Android — progreso cruzado
-- **Precio**: free-to-play (F2P), **sin gacha de personajes** — todos los personajes se obtienen gratis, la monetización es cosmética
+- **Precio**: free-to-play (F2P), **sin gacha de personajes (según medios japoneses; NetEase no lo ha confirmado)** — todos los personajes se obtienen gratis, la monetización es cosmética
 - **Estudio**: Naked Rain (NetEase), RPG de acción de mundo abierto urbano ambientado en Nova City
 
 ## Por qué vale la pena seguirlo
 
-Ananta combina "mundo abierto urbano estilo anime + movimiento estilo Spider-Man + eventos Caos sobrenaturales", y evita explícitamente la monetización por gacha: todos los personajes son gratis. Para quienes detestan el gacha o el grind a largo plazo, es un punto de entrada de bajo costo.
+Ananta combina "mundo abierto urbano estilo anime + movimiento estilo Spider-Man + eventos Caos sobrenaturales", y al parecer evita la monetización por gacha: todos los personajes son gratis. Para quienes detestan el gacha o el grind a largo plazo, es un punto de entrada de bajo costo.
 
 > Nota: la fecha y plataformas siguen el anuncio oficial final; antes del lanzamiento, siga el sitio y redes oficiales de Ananta.
+
+> **Calibre de monetización:** "Sin gacha de personajes, todos los personajes gratis, ingresos solo por cosmética" proviene de medios japoneses y **NetEase no lo ha confirmado oficialmente**. El modelo puede cambiar antes del lanzamiento; no base decisiones de compra en ello. Vea [Monetización de Ananta: confirmado vs rumoreado](/es/ananta/monetization).
 
 ## Lecturas relacionadas
 
@@ -32,7 +34,7 @@ Ananta combina "mundo abierto urbano estilo anime + movimiento estilo Spider-Man
 A: Fechado oficialmente al 15 de enero de 2027, lanzamiento global simultáneo en PC, PS5, iOS y Android.
 
 **P: ¿Ananta cuesta dinero por gacha?**
-A: No. Ananta tiene explícitamente "sin gacha de personajes" — todos los personajes son gratis, con ingresos por monetización cosmética, bajo un modelo free-to-play (F2P).
+A: No (según medios japoneses). Ananta al parecer tiene "sin gacha de personajes" (NetEase no lo ha confirmado oficialmente) — todos los personajes son gratis, con ingresos por monetización cosmética, bajo un modelo free-to-play (F2P).
 
 **P: ¿Hay versión PC de Ananta?**
 A: Sí. Llega a PC (cliente oficial / Steam), PS5, iOS y Android, con progreso cruzado.

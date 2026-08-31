@@ -23,7 +23,10 @@ const SECTION_NAMES = {
 
 // 根据 clean URL 路径生成 BreadcrumbList 结构化数据
 function buildBreadcrumb(urlPath, title) {
-  const segs = urlPath.split('/').filter(Boolean);
+  // urlPath 是完整 URL（如 https://ggexplore.com/en/gta6/release-date），
+  // 先去掉站点 origin 仅保留路径段，避免把 https: / 域名拆成面包屑。
+  const pathOnly = urlPath.startsWith(SITE) ? urlPath.slice(SITE.length) : urlPath;
+  const segs = pathOnly.split('/').filter(Boolean);
   const items = [{ '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' }];
   let acc = '';
   segs.forEach((seg, i) => {

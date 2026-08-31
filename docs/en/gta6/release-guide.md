@@ -8,6 +8,12 @@ tags: ['GTA6','GTA6 release date','GTA6 platforms','GTA6 PC requirements','GTA6 
 
 # GTA6 Release Date, Platforms & PC Requirements Guide
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 > 📌 **TL;DR**: GTA6 launches first on PS5 / Xbox Series X|S. The PC version is expected to arrive later. If you want to play day one, get a PS5 or Xbox Series X. PC players should check the predicted specs below and budget for upgrades.
 
 ---

@@ -5,6 +5,12 @@ description: "A one-stop GTA 6 An Extended Look breakdown: the 2026 release date
 
 # GTA 6 "An Extended Look" In-Depth Recap
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 Rockstar has confirmed that **GTA VI: An Extended Look** will premiere on **2026-08-27 15:00 ET** on Netflix, and 6 hours later, at **21:00 ET**, it will be released for free on YouTube and the official website. This is the first major new footage in roughly 15 months, and it is widely expected to show real gameplay for the first time. This page offers a one-stop rundown of the release date, map cities, the dual protagonists, vehicles, cheat codes, and PC spec requirements, and carefully distinguishes between "officially confirmed" and "community expectations."
 
 ## ① Why This "Extended Look" Matters So Much
