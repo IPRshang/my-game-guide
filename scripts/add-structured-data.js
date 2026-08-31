@@ -12,6 +12,32 @@ const REPO_ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(REPO_ROOT, 'docs', '.vuepress', 'dist');
 const SITE = 'https://ggexplore.com';
 
+// 面包屑分段可读名称映射（未知段用 title-case 兜底）
+const SECTION_NAMES = {
+  'en': 'English', 'es': 'Español',
+  'gta6': 'GTA 6', 'ananta': 'Ananta', 'nte': 'NTE', 'endfield': 'Endfield',
+  'wukong': 'Black Myth: Wukong', 'elden-ring': 'Elden Ring', 'zelda': 'Zelda',
+  'cyberpunk': 'Cyberpunk 2077', 'daily': 'Daily Picks',
+  'about': 'About', 'privacy': 'Privacy'
+};
+
+// 根据 clean URL 路径生成 BreadcrumbList 结构化数据
+function buildBreadcrumb(urlPath, title) {
+  const segs = urlPath.split('/').filter(Boolean);
+  const items = [{ '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' }];
+  let acc = '';
+  segs.forEach((seg, i) => {
+    acc += seg + '/';
+    const isLast = i === segs.length - 1;
+    const name = isLast
+      ? title
+      : (SECTION_NAMES[seg] || seg.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()));
+    const itemUrl = isLast ? urlPath : SITE + acc;
+    items.push({ '@type': 'ListItem', position: items.length + 1, name, item: itemUrl });
+  });
+  return { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items };
+}
+
 // 同 fix-canonical.js：把 dist 相对 html 路径映射成 clean URL 路径，
 // 让 mainEntityOfPage.@id 与 canonical 完全一致（去掉 .html，
 // index.html -> / 或 /xxx/），避免两者后缀不一致。
@@ -97,7 +123,9 @@ function inject(htmlPath) {
     mainEntityOfPage: { '@type': 'WebPage', '@id': url }
   };
 
-  const script = `  <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>\n`;
+  const breadcrumbLd = buildBreadcrumb(url, title);
+  const script = `  <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>\n`
+    + `  <script type="application/ld+json">${JSON.stringify(breadcrumbLd)}</script>\n`;
   const newHtml = html.replace(/<\/head>/i, (m) => script + m);
   if (newHtml !== html) {
     fs.writeFileSync(htmlPath, newHtml);
