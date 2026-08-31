@@ -1,6 +1,7 @@
 ---
 title: "NTE 抽卡模拟器怎么用？规划保底不盲目抽"
 description: "NTE 抽卡模拟器让你在不消耗真实资源的情况下演练卡池概率、预判 S 级出货，是规划养成资源的好工具。本文讲清使用步骤。"
+related: [/nte/gacha, /endfield/gacha-pity, /gta6/leaks]
 ---
 
 # NTE 抽卡模拟器怎么用？

@@ -24,6 +24,13 @@ function cleanPath(p) {
   return String(p).replace(/\.html$/, '')
 }
 
+// Normalize for override matching: strip both .html and any trailing slash so a
+// curated path like `/en/gta6/foo` resolves regardless of whether the live
+// page.path is `/en/gta6/foo.html`, `/en/gta6/foo/`, or `/en/gta6/foo`.
+function normKey(p) {
+  return String(p || '').replace(/\.html$/, '').replace(/\/+$/, '')
+}
+
 function sectionKey(p) {
   const c = cleanPath(p || '')
   const parts = c.split('/').filter(Boolean)
@@ -60,12 +67,12 @@ export default {
       // --- optional frontmatter curation ---
       const override = cur.frontmatter && cur.frontmatter.related
       if (Array.isArray(override) && override.length) {
-        const byClean = {}
-        pages.forEach((pg) => { byClean[cleanPath(pg.path)] = pg })
+        const byNorm = {}
+        pages.forEach((pg) => { byNorm[normKey(pg.path)] = pg })
         const out = []
         override.forEach((rp) => {
-          const target = byClean[cleanPath(rp)] || pages.find((p) => cleanPath(p.path) === cleanPath(rp))
-          if (target && target.title && cleanPath(target.path) !== curClean) {
+          const target = byNorm[normKey(rp)]
+          if (target && target.title && normKey(target.path) !== normKey(cur.path)) {
             out.push({ path: target.path, title: target.title })
           }
         })

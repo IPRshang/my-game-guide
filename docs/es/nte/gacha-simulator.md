@@ -2,6 +2,7 @@
 title: "Cómo usar el simulador de gacha de NTE - Planifica tus tiradas de piedad"
 description: "El simulador de gacha de NTE te deja ensayar las probabilidades del banner y predecir drops S sin gastar recursos reales - ideal para planificar tu economía. Esta guía explica los pasos."
 tags: [NTE, simulador de gacha, piedad, rango S, planificación]
+related: [/es/nte/gacha, /es/endfield/gacha-pity, /es/gta6/leaks]
 ---
 
 # ¿Cómo usar el simulador de gacha de NTE?

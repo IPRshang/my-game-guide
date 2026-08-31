@@ -3,6 +3,7 @@ title: "Análisis del 2º Aniversario de Black Myth: Wukong (2026) - 30M ventas,
 description: "Guía profunda del 2º aniversario de Black Myth: Wukong 2026: resumen de 30M+ ventas, el mínimo histórico del 30% ya terminó, si vale la pena comprarlo, 6 estilos de build, consejos para 81 jefes, DLC en desarrollo y nuevo título Zhong Kui, con FAQ."
 tags: [Black Myth Wukong, aniversario, builds, jefes, DLC, Zhong Kui]
 date: 2026-08-27
+related: [/es/endfield/beginner, /es/nte/beginner]
 ---
 
 # Análisis del 2º Aniversario de Black Myth: Wukong (2026)

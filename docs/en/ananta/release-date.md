@@ -2,6 +2,7 @@
 title: "Ananta Release Date & Platforms - When Does It Launch"
 description: "Ananta (formerly Project Mugen) launches globally on January 15, 2027 on PC, PS5, iOS and Android. Free-to-play (reportedly no character gacha; NetEase has not officially confirmed). Launch date, platforms and pre-registration status."
 tags: [Ananta, release date, platforms, free-to-play, pre-registration]
+related: [/en/ananta/vs-gta6, /en/ananta/vs-nte-vs-gta6, /en/gta6/release-date]
 ---
 
 # When Does Ananta Launch? Release Date

@@ -1,6 +1,7 @@
 ---
 title: "Ananta（无限大）什么时候出？上线日期与平台"
 description: "Ananta（无限大，原 Project Mugen）定于 2027 年 1 月 15 日全球同步上线，登陆 PC、PS5、iOS 与 Android，免费游玩（据日本媒体报道「无角色抽卡」，网易尚未官方确认）。"
+related: [/ananta/vs-gta6, /ananta/vs-nte-vs-gta6, /gta6/release-date]
 ---
 
 # Ananta 什么时候出？上线日期

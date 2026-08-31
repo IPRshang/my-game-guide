@@ -2,6 +2,7 @@
 title: "How to Use the NTE Gacha Simulator - Plan Your Pity Pulls"
 description: "The NTE gacha simulator lets you rehearse banner odds and predict S-rank drops without spending real resources - a great tool to plan your upgrade economy. This guide walks through the steps."
 tags: [NTE, gacha simulator, pity, S-rank, planning]
+related: [/en/nte/gacha, /en/endfield/gacha-pity, /en/gta6/leaks]
 ---
 
 # How to Use the NTE Gacha Simulator?

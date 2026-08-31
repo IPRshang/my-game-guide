@@ -1,6 +1,7 @@
 ---
 title: "GTA6 什么时候发售？发售日期、平台与 PC 版详解"
 description: "GTA6（GTA VI）将于 2026 年 11 月 19 日登陆 PS5 与 Xbox Series X|S，PC 版尚未定档。本文给出确切发售日、首发平台、预下载时间与故事舞台。"
+related: [/gta6/editions, /gta6/pre-order-bonus, /gta6/early-guide, /gta6/preorder-guide, /ananta/vs-gta6]
 ---
 
 # GTA6 什么时候发售？

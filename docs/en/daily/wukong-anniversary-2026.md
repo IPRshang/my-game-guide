@@ -3,6 +3,7 @@ title: "Black Myth: Wukong 2nd Anniversary Deep Dive (2026) - 30M Sales, Best Bu
 description: "Black Myth: Wukong 2nd anniversary 2026 deep guide: 30M+ sales recap, all-time low 30% off just ended, is it worth buying, 6 build styles, 81 boss tips, DLC in development and new title Zhong Kui, with FAQ."
 tags: [Black Myth Wukong, anniversary, builds, bosses, DLC, Zhong Kui]
 date: 2026-08-27
+related: [/en/endfield/beginner, /en/nte/beginner]
 ---
 
 # Black Myth: Wukong 2nd Anniversary Deep Dive (2026)

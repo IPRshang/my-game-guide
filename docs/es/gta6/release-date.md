@@ -2,6 +2,7 @@
 title: "Fecha de lanzamiento de GTA 6, plataformas y versión PC - Todo lo que sabemos"
 description: "GTA 6 (GTA VI) llega el 19 de noviembre de 2026 a PS5 y Xbox Series X|S; la versión PC aún no tiene fecha. Fecha exacta, plataformas de lanzamiento, precarga e historia."
 tags: [GTA6, fecha de lanzamiento, plataformas, PS5, Xbox, Vice City]
+related: [/es/gta6/editions, /es/gta6/pre-order-bonus, /es/gta6/early-guide, /es/gta6/preorder-guide, /es/ananta/vs-gta6]
 ---
 
 # Fecha de lanzamiento de GTA 6
