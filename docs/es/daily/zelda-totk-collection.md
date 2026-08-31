@@ -163,3 +163,10 @@ A: No pago (según reportes; solo parches gratis, último Ver. 1.4.3, 2026-02).
 ---
 
 > Más guías profundas en 🔥 Daily Picks /es/daily/
+
+## Related Reading
+
+- [Black Myth: Wukong: 2º aniversario, análisis](/es/daily/wukong-anniversary-2026)
+- [Elden Ring: Malenia en Switch 2 — primer contacto](/es/daily/elden-malenia-switch2)
+- [Mortal Shell II: guía completa](/es/daily/mortal-shell-ii-guide)
+- [All Daily Picks](/es/daily/)

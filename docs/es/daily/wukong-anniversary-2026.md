@@ -103,3 +103,10 @@ A: No. Zhong Kui es un **juego nuevo independiente**, anunciado en Gamescom 2025
 ---
 
 > Más guías profundas en 🔥 Daily Picks /es/daily/
+
+## Related Reading
+
+- [Elden Ring: Malenia en Switch 2 — primer contacto](/es/daily/elden-malenia-switch2)
+- [Mortal Shell II: guía completa](/es/daily/mortal-shell-ii-guide)
+- [Zelda: TOTK colección completa](/es/daily/zelda-totk-collection)
+- [All Daily Picks](/es/daily/)

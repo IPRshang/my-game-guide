@@ -110,3 +110,10 @@ A: Malenia es oculta (Haligtree), nivel 120–130; limpia la historia y sácale 
 ---
 
 > Más guías profundas en 🔥 Daily Picks /es/daily/
+
+## Related Reading
+
+- [Black Myth: Wukong: 2º aniversario, análisis](/es/daily/wukong-anniversary-2026)
+- [Mortal Shell II: guía completa](/es/daily/mortal-shell-ii-guide)
+- [Zelda: TOTK colección completa](/es/daily/zelda-totk-collection)
+- [All Daily Picks](/es/daily/)
