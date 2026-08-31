@@ -22,12 +22,6 @@ Ananta combina "mundo abierto urbano estilo anime + movimiento estilo Spider-Man
 > Nota: la fecha y plataformas siguen el anuncio oficial final; antes del lanzamiento, siga el sitio y redes oficiales de Ananta.
 
 > **Calibre de monetización:** "Sin gacha de personajes, todos los personajes gratis, ingresos solo por cosmética" proviene de medios japoneses y **NetEase no lo ha confirmado oficialmente**. El modelo puede cambiar antes del lanzamiento; no base decisiones de compra en ello. Vea [Monetización de Ananta: confirmado vs rumoreado](/es/ananta/monetization).
-
-## Lecturas relacionadas
-
-- [Recompensas de prerregistro de Ananta](/es/ananta/pre-registration)
-- [Jugabilidad y personajes de Ananta](/es/ananta/)
-
 ## Preguntas frecuentes
 
 **P: ¿Cuándo sale Ananta?**

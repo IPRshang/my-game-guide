@@ -51,9 +51,3 @@ A：目前官方公布平台为 PC（Windows）、PS5、Android、iOS、Epic，�
 
 **Q：手机和 PC 进度互通吗？**
 A：互通。同一账号在不同平台数据同步，各平台为同一 UID。
-
-## 相关阅读
-
-- 开服先用 [兑换码](./codes.md) 领开荒素材，过期不候。
-- 不知道先练谁？看 [干员节奏榜](./tier-list.md)。
-- 另一款新游攻略见 [GTA6 发售全攻略](../gta6/release-guide.md)。

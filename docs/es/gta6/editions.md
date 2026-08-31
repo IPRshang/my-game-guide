@@ -23,13 +23,6 @@ tags: [GTA6, ediciones, Edición Estándar, Edición Definitiva, precompra]
 - **Edición Estándar** basta si solo te interesa la historia y el mundo abierto.
 - **Edición Definitiva** compensa más si quieres los look, vehículos y talleres exclusivos — estos contenidos rara vez se venden por separado después.
 - Precomprar cualquier edición también da la bonificación de precompra "Vintage Vice City" (ver [Bonificación de precompra de GTA 6](/es/gta6/pre-order-bonus)).
-
-## Lecturas relacionadas
-
-- [Bonificación y dónde precomprar GTA 6](/es/gta6/pre-order-bonus)
-- [Canales de precompra, reembolsos y consola](/es/gta6/preorder-guide)
-- [Fecha de lanzamiento de GTA 6](/es/gta6/release-date)
-
 ## Preguntas frecuentes
 
 **P: ¿Vale la pena pagar 20 USD más por la Definitiva?**

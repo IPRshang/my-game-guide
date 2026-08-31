@@ -121,10 +121,3 @@ A: 60+ are mostly optional; main story doesn't force-clear; explore side paths y
 ---
 
 > More deep guides at 🔥 Daily Picks /en/daily/
-
-## Related Reading
-
-- [Black Myth: Wukong 2nd Anniversary Deep Dive](/en/daily/wukong-anniversary-2026)
-- [Elden Ring: Malenia on Switch 2 — First Hands-On](/en/daily/elden-malenia-switch2)
-- [Zelda: Tears of the Kingdom Complete Collection](/en/daily/zelda-totk-collection)
-- [All Daily Picks](/en/daily/)

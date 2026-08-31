@@ -26,12 +26,6 @@ tags: [Ananta, GTA6, gacha, comparación, ARPG anime]
 - Quieres **ciudad realista + fecha confirmada + pago único**: elige **GTA 6** (2026-11-19, sin sistema de obtención de personajes).
 
 Los dos géneros difieren mucho con solapamiento de audiencia limitado; si te interesan ambos, pruébalos en secuencia — Ananta es gratis, así que el costo de probar es bajo.
-
-## Lecturas relacionadas
-
-- [Fecha de lanzamiento de Ananta](/es/ananta/release-date)
-- [Fecha de lanzamiento de GTA 6](/es/gta6/release-date)
-
 ## Preguntas frecuentes
 
 **P: ¿Ananta es un juego de gacha?**

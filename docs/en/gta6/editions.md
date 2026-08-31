@@ -23,13 +23,6 @@ tags: [GTA6, editions, Standard Edition, Ultimate Edition, pre-order]
 - **Standard Edition** is enough if you only care about the story and open world.
 - **Ultimate Edition** is better value if you want the exclusive looks, vehicles, and customization shops — these exclusives usually aren't sold separately later.
 - Pre-ordering any edition also grants the "Vintage Vice City" pre-order bonus (see [GTA 6 Pre-order Bonus](/en/gta6/pre-order-bonus)).
-
-## Related Reading
-
-- [GTA 6 Pre-order Bonus & Where to Buy](/en/gta6/pre-order-bonus)
-- [GTA 6 Pre-order Channels, Refunds & Console Picks](/en/gta6/preorder-guide)
-- [GTA 6 Release Date](/en/gta6/release-date)
-
 ## FAQ
 
 **Q: Is the $20 Ultimate upgrade worth it?**

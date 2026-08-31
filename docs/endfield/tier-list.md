@@ -22,12 +22,6 @@ description: "Endfield 当前版本 T0 多为限定 6 星（Laevatain、Gilberta
 3. 核心队稳定前别在边缘单位上过度投入。
 
 > 排名随新干员与平衡补丁变动，每次版本更新后复查。
-
-## 相关阅读
-
-- [Endfield 新手开局攻略](/endfield/beginner)
-- [Endfield 兑换码](/endfield/codes)
-
 ## 常见问题
 
 **Q：终末地新手先抽谁？**

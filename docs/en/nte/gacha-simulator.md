@@ -22,12 +22,6 @@ tags: [NTE, gacha simulator, pity, S-rank, planning]
 - **Zero-cost trial**: consumes no real resources, purely for planning.
 
 > Simulator odds are illustrative community estimates for planning and fun only; actual odds follow the in-game disclosure.
-
-## Related Reading
-
-- [NTE Beginner Guide](/en/nte/beginner)
-- [NTE Redeem Codes](/en/nte/codes)
-
 ## FAQ
 
 **Q: Is the NTE gacha simulator accurate?**

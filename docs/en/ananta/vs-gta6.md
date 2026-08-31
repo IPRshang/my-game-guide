@@ -26,12 +26,6 @@ tags: [Ananta, GTA6, gacha, comparison, anime ARPG]
 - Want **realistic city + confirmed date + single-player buyout**: pick **GTA 6** (2026-11-19, no character-acquisition system).
 
 The two genres differ greatly with limited audience overlap; if both interest you, try them in sequence — Ananta is free, so the cost of trial is low.
-
-## Related Reading
-
-- [Ananta Release Date](/en/ananta/release-date)
-- [GTA 6 Release Date](/en/gta6/release-date)
-
 ## FAQ
 
 **Q: Is Ananta a gacha game?**

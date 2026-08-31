@@ -163,10 +163,3 @@ A: No paid DLC (per public reports / third-party estimates; only free fix patche
 ---
 
 > More deep guides at 🔥 Daily Picks /en/daily/
-
-## Related Reading
-
-- [Black Myth: Wukong 2nd Anniversary Deep Dive](/en/daily/wukong-anniversary-2026)
-- [Elden Ring: Malenia on Switch 2 — First Hands-On](/en/daily/elden-malenia-switch2)
-- [Mortal Shell II Deep Guide](/en/daily/mortal-shell-ii-guide)
-- [All Daily Picks](/en/daily/)

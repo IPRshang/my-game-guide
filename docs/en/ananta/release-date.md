@@ -22,12 +22,6 @@ Ananta combines "anime-style urban open world + Spider-Man-like movement + super
 > Note: launch date and platforms follow the official final announcement; before launch, follow Ananta's site and official socials.
 
 > **Monetization caliber:** "No character gacha, all characters free, cosmetic-only revenue" comes from Japanese media reports and **has not been officially confirmed by NetEase**. The monetization model may change before launch — do not base spending decisions on it. See [Ananta monetization: confirmed vs rumored](/en/ananta/monetization).
-
-## Related Reading
-
-- [Ananta Pre-registration Rewards](/en/ananta/pre-registration)
-- [Ananta Gameplay & Characters](/en/ananta/)
-
 ## FAQ
 
 **Q: When does Ananta launch?**

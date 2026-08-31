@@ -1,6 +1,7 @@
 <template>
   <Layout>
     <template #page-bottom>
+      <RelatedArticles />
       <div class="giscus-wrapper">
         <GiscusComments />
       </div>
@@ -10,9 +11,11 @@
 
 <script>
 import Layout from '@theme/layouts/Layout.vue'
+import RelatedArticles from './RelatedArticles.vue'
+import GiscusComments from './GiscusComments.vue'
 
 export default {
-  components: { Layout }
+  components: { Layout, RelatedArticles, GiscusComments }
 }
 </script>
 

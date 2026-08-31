@@ -22,12 +22,6 @@ tags: [NTE, simulador de gacha, piedad, rango S, planificación]
 - **Prueba sin costo**: no consume recursos reales, solo sirve para planificar.
 
 > Las probabilidades del simulador son estimaciones ilustrativas de la comunidad, solo para planificar y entretener; las probabilidades reales siguen lo divulgado en el juego.
-
-## Lecturas relacionadas
-
-- [Guía para principiantes de NTE](/es/nte/beginner)
-- [Códigos de canje de NTE](/es/nte/codes)
-
 ## Preguntas frecuentes
 
 **P: ¿Es preciso el simulador de gacha de NTE?**

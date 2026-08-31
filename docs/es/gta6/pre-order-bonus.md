@@ -27,14 +27,6 @@ Dónde precomprar: PlayStation Store, Microsoft Store, grandes cadenas y rocksta
 La precompra digital añade 1 mes de GTA+ gratis (incluye GTA$500.000, bonos de tarjeta Shark, etc.; se renueva solo tras la prueba — no necesitas recordar cancelar).
 
 > Nota: las bonificaciones y precios siguen la página vigente de cada tienda; el precio y los regalos pueden variar por región.
-
-## Lecturas relacionadas
-
-- [Canales de precompra, reembolsos y consola](/es/gta6/preorder-guide)
-- [GTA 6 Edición Estándar vs Definitiva](/es/gta6/editions)
-- [Fecha de lanzamiento de GTA 6](/es/gta6/release-date)
-- [Requisitos de GTA 6 para PC](/es/gta6/pc-version)
-
 ## Preguntas frecuentes
 
 **P: ¿Aún puedo precomprar GTA 6?**

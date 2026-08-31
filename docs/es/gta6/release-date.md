@@ -21,13 +21,6 @@ tags: [GTA6, fecha de lanzamiento, plataformas, PS5, Xbox, Vice City]
 Rockstar fijó 2026-11-19 en un comunicado oficial, y todos los materiales oficiales desde entonces (tráileres, páginas de tienda) apuntan a la misma ventana sin señales de retraso. Los dos aplazamientos previos ya están absorbidos, así que no hay razón para esperar un tercero.
 
 > Nota: las noticias de videojuegos cambian rápido — verifique en la tienda oficial de Rockstar y sus anuncios antes del lanzamiento.
-
-## Lecturas relacionadas
-
-- [Centro de GTA 6](/es/gta6/)
-- [Bonificación y dónde precomprar GTA 6](/es/gta6/pre-order-bonus)
-- [Requisitos de GTA 6 para PC](/es/gta6/pc-version)
-
 ## Preguntas frecuentes
 
 **P: ¿Cuándo sale la versión PC de GTA 6?**

@@ -21,13 +21,6 @@ tags: [GTA6, release date, platforms, PS5, Xbox, Vice City]
 Rockstar locked 2026-11-19 in an official statement, and every official asset since (trailers, store pages) points to the same window with no further delay signal. Both prior slips have been absorbed, so there is no reason to expect a third.
 
 > Note: game news moves fast — verify against Rockstar's official store and announcements before launch.
-
-## Related Reading
-
-- [GTA 6 Hub](/en/gta6/)
-- [GTA 6 Pre-order Bonus & Where to Buy](/en/gta6/pre-order-bonus)
-- [GTA 6 PC Requirements](/en/gta6/pc-version)
-
 ## FAQ
 
 **Q: When is the GTA 6 PC version coming out?**

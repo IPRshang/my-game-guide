@@ -48,9 +48,3 @@ A：Vintage Vice City Pack（罪恶城怀旧包），需在 2026 年 11 月 20 �
 
 **Q：GTA6 有 PC 版吗？**
 A：首发仅 PS5 与 Xbox Series X|S，PC 版官方未公布。
-
-## 相关阅读
-
-- 先看 [GTA6 发售与配置总览](./release-guide.md)。
-- 准备入手？看 [GTA6 预购指南](./preorder-guide.md)。
-- 另一款新游攻略见 [Endfield 配置要求](../endfield/system-requirements.md) 与 [NTE 配置要求](../nte/system-requirements.md)。

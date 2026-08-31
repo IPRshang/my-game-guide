@@ -27,14 +27,6 @@ Where to pre-order: PlayStation Store, Microsoft Store, major retail channels, a
 The digital pre-order adds 1 free month of GTA+ (includes GTA$500,000, Shark Card bonuses, etc.; auto-renews after the trial — you don't need to remember to cancel).
 
 > Note: pre-order bonuses and pricing follow each store's current page; regional pricing and gifts may differ.
-
-## Related Reading
-
-- [GTA 6 Pre-order Channels, Refunds & Console Picks](/en/gta6/preorder-guide)
-- [GTA 6 Standard vs Ultimate Edition](/en/gta6/editions)
-- [GTA 6 Release Date](/en/gta6/release-date)
-- [GTA 6 PC Requirements](/en/gta6/pc-version)
-
 ## FAQ
 
 **Q: Can I still pre-order GTA 6 now?**

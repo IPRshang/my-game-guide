@@ -103,10 +103,3 @@ A: No. Zhong Kui is a **standalone new title**, announced at Gamescom 2025, earl
 ---
 
 > More deep guides at 🔥 Daily Picks /en/daily/
-
-## Related Reading
-
-- [Elden Ring: Malenia on Switch 2 — First Hands-On](/en/daily/elden-malenia-switch2)
-- [Mortal Shell II Deep Guide](/en/daily/mortal-shell-ii-guide)
-- [Zelda: Tears of the Kingdom Complete Collection](/en/daily/zelda-totk-collection)
-- [All Daily Picks](/en/daily/)

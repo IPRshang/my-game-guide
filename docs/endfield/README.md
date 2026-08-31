@@ -49,8 +49,3 @@ description: "明日方舟：终末地（Arknights: Endfield）中文完全攻�
 - **兑换码**：官方在社群不定时发放，[兑换码页](./codes.md) 同步整理可用码与有效期。
 - **先抽谁**：版本更迭会改变干员强度，[节奏榜](./tier-list.md) 按开荒/长线给出建议。
 - **基地别乱建**：先用 [规划器](./planner.md) 算产能，再照 [工厂攻略](./factory-guide.md) 落地产线。
-
-## 相关阅读
-
-- 想看另一款新游？看看 [GTA6 发售全攻略](../gta6/release-guide.md) 或 [NTE 新手攻略](../nte/beginner.md)。
-- 每天一款好游戏，见 [🔥每日游戏推荐](../daily/)。

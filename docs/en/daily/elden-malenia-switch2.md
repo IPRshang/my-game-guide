@@ -110,10 +110,3 @@ A: Malenia is hidden (Haligtree), recommended level 120–130; clear the main st
 ---
 
 > More deep guides at 🔥 Daily Picks /en/daily/
-
-## Related Reading
-
-- [Black Myth: Wukong 2nd Anniversary Deep Dive](/en/daily/wukong-anniversary-2026)
-- [Mortal Shell II Deep Guide](/en/daily/mortal-shell-ii-guide)
-- [Zelda: Tears of the Kingdom Complete Collection](/en/daily/zelda-totk-collection)
-- [All Daily Picks](/en/daily/)
