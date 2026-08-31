@@ -35,7 +35,7 @@ function buildBreadcrumb(urlPath, title) {
     const name = isLast
       ? title
       : (SECTION_NAMES[seg] || seg.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()));
-    const itemUrl = isLast ? urlPath : SITE + acc;
+    const itemUrl = isLast ? urlPath : SITE + '/' + acc;
     items.push({ '@type': 'ListItem', position: items.length + 1, name, item: itemUrl });
   });
   return { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items };
