@@ -8,7 +8,7 @@ related: [/en/endfield/beginner, /en/nte/beginner]
 
 # Black Myth: Wukong 2nd Anniversary Deep Dive (2026)
 
-**Launched August 20, 2024; the 2nd anniversary landed August 20, 2026 — and the all-time-low 30% discount closed at 24:00 on August 25. With the anniversary just past, the discount gone, and DLC still undated, this is the best window to review the "domestic 3A ceiling's" lasting value.**
+**Launched August 20, 2024; the 2nd anniversary landed August 20, 2026 — and the all-time-low 30% discount closed at 24:00 on August 25. With the anniversary just past, the discount gone, and the major DLC shelved, this is the best window to review the "domestic 3A ceiling's" lasting value.**
 
 ## 1. Two Years in Numbers
 
@@ -40,7 +40,7 @@ The third and largest discount (all platforms, 30% off) has closed:
 **Yes — and now is likely the best-value mature version (two years of patches + complete content).**
 
 - **New players**: discount price + two years of optimization = lowest barrier, most stable experience.
-- **Veterans**: repeatable content is Boss Rush / NG+ and different build styles; new story waits for DLC.
+- **Veterans**: repeatable content is Boss Rush / NG+ and different build styles; new story awaits a return of the Westward Journey in a new form (major DLC shelved, resources shifted to Zhong Kui).
 - **Overseas players**: ~half of sales are overseas; the quality holds up.
 
 ## 4. 6 Build Styles (Quick Table)
@@ -69,13 +69,13 @@ Base game has **81 bosses: 36 main + 45 elite**, across 6 chapters. One rule: **
 
 > Can't win? Go farm gear and pills first — stats are also strength.
 
-## 6. DLC in Development + New Title "Zhong Kui"
+## 6. DLC Shelved + New Title "Zhong Kui"
 
 Separate what's **confirmed** from **unverified**:
 
 ### Confirmed
-- **Large story DLC in development**: Game Science said "the Journey won't end here"; first major expansion is greenlit, but **no quarter-level timeline** (community guess: H1 2027, third-party estimate).
-- **New title "Black Myth: Zhong Kui" announced** at Gamescom 2025 — a **standalone new game (not Wukong DLC)**, early development.
+- **Major story DLC shelved**: In his Aug 20, 2025 (1st anniversary) long post, Feng Ji explained the team had pushed "DLC first" for over half a year, then pivoted to the new title Zhong Kui — **major story DLC development is paused and resources clearly shifted to Zhong Kui** (the studio says the Westward Journey will return "in a more complete, solid form," but not as DLC).
+- **New title "Black Myth: Zhong Kui" announced** at Gamescom 2025 — a **standalone new game (not Wukong DLC)**, in development — a 15-minute gameplay demo dropped on Aug 20 (anniversary).
 - Base game free updates: Boss Rush, chapter maps, new gear.
 
 ### Unverified (don't trust)

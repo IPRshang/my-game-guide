@@ -8,7 +8,7 @@ related: [/es/endfield/beginner, /es/nte/beginner]
 
 # Análisis del 2º Aniversario de Black Myth: Wukong (2026)
 
-**Lanzado el 20 de agosto de 2024; el 2º aniversario cayó el 20 de agosto de 2026 — y el mínimo histórico del 30% cerró a las 24:00 del 25 de agosto. Con el aniversario recién pasado, el descuento terminado y el DLC aún sin fecha, esta es la mejor ventana para repasar el valor perdurable del "techo 3A nacional".**
+**Lanzado el 20 de agosto de 2024; el 2º aniversario cayó el 20 de agosto de 2026 — y el mínimo histórico del 30% cerró a las 24:00 del 25 de agosto. Con el aniversario recién pasado, el descuento terminado y el DLC grande archivado, esta es la mejor ventana para repasar el valor perdurable del "techo 3A nacional".**
 
 ## 1. Dos años en números
 
@@ -40,7 +40,7 @@ El tercer y mayor descuento (todas las plataformas, 30%) ya cerró:
 **Sí — y ahora es probablemente la versión madura de mejor relación calidad-precio (dos años de parches + contenido completo).**
 
 - **Nuevos**: precio de descuento + dos años de optimización = barrera más baja, experiencia más estable.
-- **Veteranos**: contenido repetible en Boss Rush / NG+ y distintos estilos de build; la historia nueva espera al DLC.
+- **Veteranos**: contenido repetible en Boss Rush / NG+ y distintos estilos de build; la historia nueva espera un retorno del Viaje al Oeste en nueva forma (DLC grande archivado, recursos a Zhong Kui).
 - **Overseas**: ~mitad de ventas en el extranjero; la calidad aguanta.
 
 ## 4. 6 estilos de build (tabla rápida)
@@ -69,13 +69,13 @@ El juego base tiene **81 jefes: 36 principales + 45 élite**, en 6 capítulos. U
 
 > ¿No puedes ganar? Ve a farmear equipo y píldoras primero — los stats también son fuerza.
 
-## 6. DLC en desarrollo + nuevo título "Zhong Kui"
+## 6. DLC archivado + nuevo título "Zhong Kui"
 
 Separa lo **confirmado** de lo **no verificado**:
 
 ### Confirmado
-- **DLC de historia grande en desarrollo**: Game Science dijo "el viaje no termina aquí"; primera expansión greenlit, pero **sin cronograma de trimestre** (rumor comunidad: H1 2027, estimación de terceros).
-- **Nuevo título "Black Myth: Zhong Kui" anunciado** en Gamescom 2025 — **juego nuevo independiente (no DLC de Wukong)**, desarrollo temprano.
+- **DLC de historia grande archivado**: En su larga publicación del 20 ago 2025 (1er aniversario), Feng Ji explicó que el equipo avanzó "DLC primero" por más de medio año y luego pivotó al nuevo título Zhong Kui — **el desarrollo del DLC de historia está pausado y los recursos pasaron claramente a Zhong Kui** (el estudio dice que el Viaje al Oeste volverá "de forma más completa y sólida", pero no como DLC).
+- **Nuevo título "Black Myth: Zhong Kui" anunciado** en Gamescom 2025 — **juego nuevo independiente (no DLC de Wukong)**, en desarrollo — el 20/8 soltó una demo de 15 min de jugabilidad.
 - Actualizaciones gratuitas: Boss Rush, mapas de capítulo, equipo nuevo.
 
 ### No verificado (no creas)
@@ -84,21 +84,21 @@ Separa lo **confirmado** de lo **no verificado**:
 
 > Confía solo en la cuenta oficial de Game Science. Cualquier fecha/precio/mapa antes de confirmación oficial es rumor.
 
-## FAQ
+## Preguntas frecuentes
 
-**P: ¿Cuánto duró el descuento de aniversario? ¿Lo perdí?**
+**Q: ¿Cuánto duró el descuento de aniversario? ¿Lo perdí?**
 A: PC/Xbox hasta 25 ago 24:00, PS Store hasta 26 ago — esta ronda terminó. Próximo gran descuento probablemente Black Friday/Navidad 2026; precio estándar ¥268, descuento suele ~¥187.6.
 
-**P: ¿Vale la pena Wukong en 2026?**
+**Q: ¿Vale la pena Wukong en 2026?**
 A: Sí. Dos años de parches + contenido completo; mejor valor para nuevos, veteranos rejugable vía Boss Rush/NG+/builds.
 
-**P: ¿Mejor build para principiantes?**
+**Q: ¿Mejor build para principiantes?**
 A: Bastón golpe cargado + Inmovilizar + vitalidad; seguro y fácil. Casual puede pasar a Tank (parada + reducción de daño).
 
-**P: ¿Salíó el DLC?**
-A: Al 2026-08-27, el DLC de historia **sigue en desarrollo, sin fecha**. Cualquier fecha concreta no está verificada.
+**Q: ¿Salíó el DLC?**
+A: Al 2026-08-27, el DLC de historia **está archivado** (el estudio movió sus recursos a Zhong Kui). Cualquier fecha concreta no está verificada.
 
-**P: ¿Zhong Kui es el DLC de Wukong?**
+**Q: ¿Zhong Kui es el DLC de Wukong?**
 A: No. Zhong Kui es un **juego nuevo independiente**, anunciado en Gamescom 2025, desarrollo temprano.
 
 ---
