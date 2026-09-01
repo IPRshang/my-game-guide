@@ -2,7 +2,7 @@
 
 # 🎮 Game Strategy Hub
 
-**GTA6 · Arknights: Endfield · Neverness to Everness · Ananta**
+**GTA6 · Arknights: Endfield · Neverness to Everness · Ananta · Black Myth: Zhong Kui**
 
 *Professional game guides | Detailed databases | Constantly updated*
 
@@ -54,6 +54,16 @@
 </div>
 </div>
 
+<div style="border:2px solid #eaecef;border-radius:12px;padding:20px;background:linear-gradient(135deg, #2e1a0a 0%, #3d2a11 100%);color:#fff;">
+<h3 style="margin:0 0 4px;color:#ffaa00;">🔱 Black Myth: Zhong Kui</h3>
+<p style="color:#a0a0b0;font-size:13px;margin:0 0 16px;">Game Science's new title · Standalone action RPG</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+<a href="/en/zhongkui/" style="display:inline-block;padding:6px 14px;background:#ffaa0022;color:#ffaa00;border:1px solid #ffaa0044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📖 Guide Hub</a>
+<a href="/en/zhongkui/release-date" style="display:inline-block;padding:6px 14px;background:#00d4ff22;color:#00d4ff;border:1px solid #00d4ff44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📅 Release Date</a>
+<a href="/en/zhongkui/vs-wukong" style="display:inline-block;padding:6px 14px;background:#ff880022;color:#ff8800;border:1px solid #ff880044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">⚔️ vs Wukong</a>
+</div>
+</div>
+
 </div>
 
 ---
@@ -62,7 +72,7 @@
 
 | Data | Count |
 |------|:--:|
-| 🎮 Games | **4** (GTA6 · Endfield · NTE · Ananta) |
+| 🎮 Games | **5** (GTA6 · Endfield · NTE · Ananta · Zhong Kui) |
 | 📄 Guide Pages | **30+** (CN + EN) |
 | 🛠️ Interactive Tools | **2** (Endfield base planner · NTE gacha simulator) |
 | 📊 Databases | **1** (GTA6: characters / weapons / vehicles) |
@@ -79,6 +89,7 @@
 - 🎲 [NTE Gacha Simulator](/en/nte/gacha) — Simulate pulls, plan your resources
 - 📖 [NTE Beginner Guide](/en/nte/beginner) — What to do on day one
 - 🌆 [Ananta Game Guide](/en/ananta/) — NetEase's urban open-world anime RPG (anime GTA) deep dive
+- 🔱 [Black Myth: Zhong Kui Guide Hub](/en/zhongkui/) — Game Science's new title: release date, platforms, and how it differs from Wukong
 
 ---
 

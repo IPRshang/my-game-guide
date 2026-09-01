@@ -2,7 +2,7 @@
 
 # 🎮 热门游戏攻略站
 
-**GTA6 · Arknights: Endfield · Neverness to Everness · Ananta**
+**GTA6 · Arknights: Endfield · Neverness to Everness · Ananta · 钟馗**
 
 *专业的游戏攻略 | 详尽资料数据 | 持续更新中*
 
@@ -58,6 +58,17 @@
   <div class="card-meta">新游 · 全面介绍 · 配置 · 预注册</div>
 </div>
 
+<div class="home-card zhongkui">
+  <h3>🔱 黑神话：钟馗</h3>
+  <p class="card-sub">游戏科学新作 · 独立动作 RPG</p>
+  <div class="card-links">
+    <a href="/zhongkui/">📖 攻略中心</a>
+    <a href="/zhongkui/release-date">📅 发售日期</a>
+    <a href="/zhongkui/vs-wukong">⚔️ vs 悟空</a>
+  </div>
+  <div class="card-meta">新游 · 发售日期 · 与悟空区别</div>
+</div>
+
 </div>
 
 ---
@@ -79,7 +90,7 @@
 
 | 数据 | 数量 |
 |------|:--:|
-| 🎮 游戏数量 | **4**（GTA6 · Endfield · NTE · Ananta） |
+| 🎮 游戏数量 | **5**（GTA6 · Endfield · NTE · Ananta · 钟馗） |
 | 📄 攻略页数 | **40+**（中/英/西三语） |
 | 🛠️ 交互工具 | **2**（Endfield基地规划器 · NTE抽卡模拟器） |
 | 📊 资料库 | **1**（GTA6：角色/武器/载具） |
@@ -96,6 +107,7 @@
 - 🎲 [NTE 抽卡模拟器](/nte/gacha) — 模拟十连，规划你的抽卡资源
 - 📖 [NTE 新手攻略](/nte/beginner) — 开服第一天该做什么
 - 🌆 [Ananta 全面介绍](/ananta/) — 网易都市开放世界 anime RPG（anime GTA）深度解析
+- 🔱 [黑神话：钟馗 攻略中心](/zhongkui/) — 游戏科学新作，发售日期、平台、与悟空区别
 
 ---
 

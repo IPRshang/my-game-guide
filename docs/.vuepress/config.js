@@ -135,6 +135,14 @@ module.exports = {
             ]
           },
           {
+            text: '钟馗',
+            items: [
+              { text: '专区首页', link: '/zhongkui/' },
+              { text: '发售日期', link: '/zhongkui/release-date' },
+              { text: 'vs 悟空', link: '/zhongkui/vs-wukong' }
+            ]
+          },
+          {
             text: '🔥每日推荐',
             items: [
               { text: '今日推荐', link: '/daily/' },
@@ -196,6 +204,13 @@ module.exports = {
               title: 'Ananta',
               collapsable: false,
               children: ['', 'system-requirements', 'pre-registration', 'release-date', 'vs-gta6', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
+            }
+          ],
+          '/zhongkui/': [
+            {
+              title: '钟馗',
+              collapsable: false,
+              children: ['', 'release-date', 'vs-wukong']
             }
           ]
 
@@ -271,6 +286,14 @@ module.exports = {
               { text: 'vs NTE vs GTA6', link: '/en/ananta/vs-nte-vs-gta6' }
             ]
           },
+          {
+            text: 'Black Myth: Zhong Kui',
+            items: [
+              { text: 'Hub', link: '/en/zhongkui/' },
+              { text: 'Release Date', link: '/en/zhongkui/release-date' },
+              { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' }
+            ]
+          },
           { text: 'About', link: '/en/about/' },
           { text: 'Privacy', link: '/en/privacy/' }
         ],
@@ -321,6 +344,13 @@ module.exports = {
               title: 'Ananta',
               collapsable: false,
               children: ['', 'system-requirements', 'pre-registration', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
+            }
+          ],
+          '/en/zhongkui/': [
+            {
+              title: 'Black Myth: Zhong Kui',
+              collapsable: false,
+              children: ['', 'release-date', 'vs-wukong']
             }
           ]
         },
@@ -376,6 +406,14 @@ module.exports = {
               { text: 'Gamescom 2026', link: '/es/ananta/gamescom-2026-recap' }
             ]
           },
+          {
+            text: 'Black Myth: Zhong Kui',
+            items: [
+              { text: 'Inicio', link: '/es/zhongkui/' },
+              { text: 'Fecha de lanzamiento', link: '/es/zhongkui/release-date' },
+              { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' }
+            ]
+          },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -406,6 +444,13 @@ module.exports = {
               title: 'Ananta',
               collapsable: false,
               children: ['', 'system-requirements', 'pre-registration', 'gamescom-2026-recap', 'is-it-cancelled', 'monetization', 'characters', 'vs-nte-vs-gta6']
+            }
+          ],
+          '/es/zhongkui/': [
+            {
+              title: 'Black Myth: Zhong Kui',
+              collapsable: false,
+              children: ['', 'release-date', 'vs-wukong']
             }
           ]
 

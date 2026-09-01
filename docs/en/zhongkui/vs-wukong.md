@@ -38,6 +38,10 @@ Game Science has been explicit:
 
 > Note: the above reflects public interviews and official long-form posts; concrete project plans follow Game Science's later announcements.
 
+## Related
+
+- [Black Myth: Zhong Kui Release Date & Platforms](/en/zhongkui/release-date) — no date yet; 2027+ realistic; PC and major consoles.
+
 ## FAQ
 
 **Q: Is Zhong Kui a sequel to Wukong?**

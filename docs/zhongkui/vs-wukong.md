@@ -38,6 +38,10 @@ related: [/zhongkui/release-date, /daily/wukong-anniversary-2026, /ananta/vs-gta
 
 > 提醒：以上为公开采访与官方长文口径，具体项目规划以游戏科学后续公告为准。
 
+## 相关阅读
+
+- [黑神话：钟馗 发售日期与平台](/zhongkui/release-date) —— 官方未定档，基于《悟空》周期推算 2027+，平台 PC + 主流主机。
+
 ## 常见问题
 
 **Q：钟馗 是悟空 的续作吗？**

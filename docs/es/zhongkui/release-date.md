@@ -30,6 +30,10 @@ El estudio no ha dado año ni trimestre. La única señal firme es el ritmo de d
 
 > Nota: las fechas, plataformas y requisitos anteriores son "no anunciados / estimados". Cualquier página que fije una fecha exacta está especulando. Sigue los canales oficiales de Game Science (heishenhua.com y redes oficiales) para el anuncio real.
 
+## Relacionado
+
+- [Black Myth: Zhong Kui vs Wukong](/es/zhongkui/vs-wukong) — cómo difieren protagonista, combate y tema, y por qué Game Science archivó el DLC de Wukong.
+
 ## Preguntas frecuentes
 
 **Q: ¿Cuándo sale Black Myth: Zhong Kui?**

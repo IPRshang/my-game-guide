@@ -30,6 +30,10 @@ The studio has given no year or quarter. The only hard signal is the development
 
 > Note: the above dates, platforms and specs are "unannounced / estimated." Any page that pins a hard date is guessing. Follow Game Science's official channels (heishenhua.com and official socials) for the real announcement.
 
+## Related
+
+- [Black Myth: Zhong Kui vs Wukong](/en/zhongkui/vs-wukong) — how the protagonist, combat and source material differ, and why Game Science shelved the Wukong DLC.
+
 ## FAQ
 
 **Q: When does Black Myth: Zhong Kui release?**

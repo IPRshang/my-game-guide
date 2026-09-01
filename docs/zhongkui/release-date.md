@@ -30,6 +30,10 @@ related: [/zhongkui/vs-wukong, /daily/wukong-anniversary-2026, /ananta/release-d
 
 > 提醒：以上发售日、平台、配置均为「未定 / 估算」。任何写死日期的页面都在臆测。请以游戏科学官方渠道（heishenhua.com 及官方社媒）的正式公告为准。
 
+## 延伸阅读
+
+- [黑神话：钟馗 vs 悟空：区别在哪](/zhongkui/vs-wukong) —— 主角、战斗、题材全不同；官方为何搁置悟空 DLC、资源转向钟馗，一文讲清。
+
 ## 常见问题
 
 **Q：黑神话：钟馗 什么时候发售？**
