@@ -64,6 +64,46 @@
 </div>
 </div>
 
+<div style="border:2px solid #eaecef;border-radius:12px;padding:20px;background:linear-gradient(135deg, #2e2a0a 0%, #3d3511 100%);color:#fff;">
+<h3 style="margin:0 0 4px;color:#ffe600;">🌃 Cyberpunk 2077</h3>
+<p style="color:#a0a0b0;font-size:13px;margin:0 0 16px;">Night City · 2.3 Complete Edition · Phantom Liberty</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+<a href="/en/cyberpunk/" style="display:inline-block;padding:6px 14px;background:#ffe60022;color:#ffe600;border:1px solid #ffe60044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📖 Guide Hub</a>
+<a href="/en/cyberpunk/cyberware" style="display:inline-block;padding:6px 14px;background:#00d4ff22;color:#00d4ff;border:1px solid #00d4ff44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">🦾 Cyberware</a>
+<a href="/en/cyberpunk/endings" style="display:inline-block;padding:6px 14px;background:#ff880022;color:#ff8800;border:1px solid #ff880044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">🎭 All Endings</a>
+</div>
+</div>
+
+<div style="border:2px solid #eaecef;border-radius:12px;padding:20px;background:linear-gradient(135deg, #2e240a 0%, #3d3111 100%);color:#fff;">
+<h3 style="margin:0 0 4px;color:#e8c07d;">⚔️ Elden Ring</h3>
+<p style="color:#a0a0b0;font-size:13px;margin:0 0 16px;">The Lands Between · Open-World Souls Peak</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+<a href="/en/elden-ring/" style="display:inline-block;padding:6px 14px;background:#e8c07d22;color:#e8c07d;border:1px solid #e8c07d44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📖 Guide Hub</a>
+<a href="/en/elden-ring/bosses" style="display:inline-block;padding:6px 14px;background:#00d4ff22;color:#00d4ff;border:1px solid #00d4ff44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">👑 All Bosses</a>
+<a href="/en/elden-ring/legendary-weapons" style="display:inline-block;padding:6px 14px;background:#ff880022;color:#ff8800;border:1px solid #ff880044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">🗡️ Legendary</a>
+</div>
+</div>
+
+<div style="border:2px solid #eaecef;border-radius:12px;padding:20px;background:linear-gradient(135deg, #2e120a 0%, #3d1a11 100%);color:#fff;">
+<h3 style="margin:0 0 4px;color:#ff6b35;">🐒 Black Myth: Wukong</h3>
+<p style="color:#a0a0b0;font-size:13px;margin:0 0 16px;">Game Science · Landmark Chinese AAA</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+<a href="/en/wukong/" style="display:inline-block;padding:6px 14px;background:#ff6b3522;color:#ff6b35;border:1px solid #ff6b3544;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📖 Guide Hub</a>
+<a href="/en/wukong/boss-guide" style="display:inline-block;padding:6px 14px;background:#00d4ff22;color:#00d4ff;border:1px solid #00d4ff44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">👹 Boss Guide</a>
+<a href="/en/wukong/spells" style="display:inline-block;padding:6px 14px;background:#ff880022;color:#ff8800;border:1px solid #ff880044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">✨ Spells</a>
+</div>
+</div>
+
+<div style="border:2px solid #eaecef;border-radius:12px;padding:20px;background:linear-gradient(135deg, #0a2e12 0%, #113d1c 100%);color:#fff;">
+<h3 style="margin:0 0 4px;color:#7fd858;">🗺️ Zelda: Tears of the Kingdom</h3>
+<p style="color:#a0a0b0;font-size:13px;margin:0 0 16px;">Hyrule · Sky Islands & the Depths</p>
+<div style="display:flex;flex-wrap:wrap;gap:8px;">
+<a href="/en/zelda/" style="display:inline-block;padding:6px 14px;background:#7fd85822;color:#7fd858;border:1px solid #7fd85844;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">📖 Guide Hub</a>
+<a href="/en/zelda/shrines" style="display:inline-block;padding:6px 14px;background:#00d4ff22;color:#00d4ff;border:1px solid #00d4ff44;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">🛕 Shrines</a>
+<a href="/en/zelda/korok-seeds" style="display:inline-block;padding:6px 14px;background:#ff880022;color:#ff8800;border:1px solid #ff880044;border-radius:20px;text-decoration:none;font-size:13px;font-weight:600;">🌰 Korok Seeds</a>
+</div>
+</div>
+
 </div>
 
 ---
@@ -72,8 +112,8 @@
 
 | Data | Count |
 |------|:--:|
-| 🎮 Games | **5** (GTA6 · Endfield · NTE · Ananta · Zhong Kui) |
-| 📄 Guide Pages | **30+** (CN + EN) |
+| 🎮 Games | **9** (GTA6 · Endfield · NTE · Ananta · Zhong Kui · Cyberpunk 2077 · Elden Ring · Wukong · Zelda) |
+| 📄 Guide Pages | **310+** (CN + EN + ES) |
 | 🛠️ Interactive Tools | **2** (Endfield base planner · NTE gacha simulator) |
 | 📊 Databases | **1** (GTA6: characters / weapons / vehicles) |
 | 🗣️ Comments | **Giscus** (all pages) |
@@ -90,6 +130,10 @@
 - 📖 [NTE Beginner Guide](/en/nte/beginner) — What to do on day one
 - 🌆 [Ananta Game Guide](/en/ananta/) — NetEase's urban open-world anime RPG (anime GTA) deep dive
 - 🔱 [Black Myth: Zhong Kui Guide Hub](/en/zhongkui/) — Game Science's new title: release date, platforms, and how it differs from Wukong
+- 🌃 [Cyberpunk 2077 Guide Hub](/en/cyberpunk/) — 2.3 complete edition: cyberware, all endings, romance routes, trophies
+- ⚔️ [Elden Ring All Bosses](/en/elden-ring/bosses) — Every boss strategy, legendary weapons, quests
+- 🐒 [Black Myth: Wukong Guide Hub](/en/wukong/) — Boss strategies, builds, spells, collectibles and secrets
+- 🗺️ [Zelda: Tears of the Kingdom Shrines](/en/zelda/shrines) — All shrine locations, Korok seeds, Depths guide
 
 ---
 

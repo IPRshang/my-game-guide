@@ -143,6 +143,49 @@ module.exports = {
             ]
           },
           {
+            text: '赛博朋克 2077',
+            items: [
+              { text: '专区首页', link: '/cyberpunk/' },
+              { text: '义体改造', link: '/cyberpunk/cyberware' },
+              { text: '全结局', link: '/cyberpunk/endings' },
+              { text: '往日之影', link: '/cyberpunk/phantom-liberty' },
+              { text: '浪漫关系', link: '/cyberpunk/romance' },
+              { text: '成就奖杯', link: '/cyberpunk/achievements' }
+            ]
+          },
+          {
+            text: '艾尔登法环',
+            items: [
+              { text: '专区首页', link: '/elden-ring/' },
+              { text: 'Boss 全解', link: '/elden-ring/bosses' },
+              { text: '传说武器', link: '/elden-ring/legendary-weapons' },
+              { text: '新手开局', link: '/elden-ring/beginner-guide' },
+              { text: '玛莲妮亚', link: '/elden-ring/malenia' },
+              { text: '黄金树幽影', link: '/elden-ring/dlc-guide' }
+            ]
+          },
+          {
+            text: '黑神话：悟空',
+            items: [
+              { text: '专区首页', link: '/wukong/' },
+              { text: 'Boss 攻略', link: '/wukong/boss-guide' },
+              { text: '流派构筑', link: '/wukong/builds' },
+              { text: '法术详解', link: '/wukong/spells' },
+              { text: '隐藏区域', link: '/wukong/secrets' },
+              { text: '两周年', link: '/wukong/anniversary-2026' }
+            ]
+          },
+          {
+            text: '塞尔达：王国之泪',
+            items: [
+              { text: '专区首页', link: '/zelda/' },
+              { text: '神庙全解', link: '/zelda/shrines' },
+              { text: '呀哈哈种子', link: '/zelda/korok-seeds' },
+              { text: '烹饪配方', link: '/zelda/cooking' },
+              { text: '地底探索', link: '/zelda/depths-guide' }
+            ]
+          },
+          {
             text: '🔥每日推荐',
             items: [
               { text: '今日推荐', link: '/daily/' },
@@ -214,6 +257,34 @@ module.exports = {
               title: '钟馗',
               collapsable: false,
               children: ['', 'release-date', 'vs-wukong']
+            }
+          ],
+          '/cyberpunk/': [
+            {
+              title: '赛博朋克 2077',
+              collapsable: false,
+              children: ['', 'cyberware', 'endings', 'builds', 'phantom-liberty', 'romance', 'achievements']
+            }
+          ],
+          '/elden-ring/': [
+            {
+              title: '艾尔登法环',
+              collapsable: false,
+              children: ['', 'beginner-guide', 'early-game', 'bosses', 'legendary-weapons', 'best-weapons', 'builds', 'malenia', 'quests', 'co-op', 'dlc-guide', 'summary']
+            }
+          ],
+          '/wukong/': [
+            {
+              title: '黑神话：悟空',
+              collapsable: false,
+              children: ['', 'boss-guide', 'builds', 'spells', 'combat-guide', 'collectibles', 'secrets', 'anniversary-2026']
+            }
+          ],
+          '/zelda/': [
+            {
+              title: '塞尔达：王国之泪',
+              collapsable: false,
+              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices', 'depths-guide']
             }
           ]
 
@@ -297,6 +368,50 @@ module.exports = {
               { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' }
             ]
           },
+          {
+            text: 'Cyberpunk 2077',
+            items: [
+              { text: 'Hub', link: '/en/cyberpunk/' },
+              { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
+              { text: 'All Endings', link: '/en/cyberpunk/endings' },
+              { text: 'Builds', link: '/en/cyberpunk/builds' },
+              { text: 'Romance', link: '/en/cyberpunk/romance' },
+              { text: 'Achievements', link: '/en/cyberpunk/achievements' }
+            ]
+          },
+          {
+            text: 'Elden Ring',
+            items: [
+              { text: 'Hub', link: '/en/elden-ring/' },
+              { text: 'All Bosses', link: '/en/elden-ring/bosses' },
+              { text: 'Legendary Weapons', link: '/en/elden-ring/legendary-weapons' },
+              { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
+              { text: 'Builds', link: '/en/elden-ring/builds' },
+              { text: 'Quests', link: '/en/elden-ring/quests' }
+            ]
+          },
+          {
+            text: 'Black Myth: Wukong',
+            items: [
+              { text: 'Hub', link: '/en/wukong/' },
+              { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
+              { text: 'Builds', link: '/en/wukong/builds' },
+              { text: 'Spells', link: '/en/wukong/spells' },
+              { text: 'Collectibles', link: '/en/wukong/collectibles' },
+              { text: 'Secrets', link: '/en/wukong/secrets' }
+            ]
+          },
+          {
+            text: 'Zelda: Tears of the Kingdom',
+            items: [
+              { text: 'Hub', link: '/en/zelda/' },
+              { text: 'Shrines', link: '/en/zelda/shrines' },
+              { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' },
+              { text: 'Cooking', link: '/en/zelda/cooking' },
+              { text: 'Weapons', link: '/en/zelda/weapons' },
+              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' }
+            ]
+          },
           { text: 'About', link: '/en/about/' },
           { text: 'Privacy', link: '/en/privacy/' }
         ],
@@ -354,6 +469,34 @@ module.exports = {
               title: 'Black Myth: Zhong Kui',
               collapsable: false,
               children: ['', 'release-date', 'vs-wukong']
+            }
+          ],
+          '/en/cyberpunk/': [
+            {
+              title: 'Cyberpunk 2077',
+              collapsable: false,
+              children: ['', 'cyberware', 'endings', 'builds', 'romance', 'achievements']
+            }
+          ],
+          '/en/elden-ring/': [
+            {
+              title: 'Elden Ring',
+              collapsable: false,
+              children: ['', 'beginner-guide', 'bosses', 'legendary-weapons', 'builds', 'quests']
+            }
+          ],
+          '/en/wukong/': [
+            {
+              title: 'Black Myth: Wukong',
+              collapsable: false,
+              children: ['', 'boss-guide', 'builds', 'spells', 'collectibles', 'secrets']
+            }
+          ],
+          '/en/zelda/': [
+            {
+              title: 'Zelda: Tears of the Kingdom',
+              collapsable: false,
+              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices']
             }
           ]
         },
@@ -417,6 +560,30 @@ module.exports = {
               { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' }
             ]
           },
+          {
+            text: 'Cyberpunk 2077',
+            items: [
+              { text: 'Inicio', link: '/es/cyberpunk/' }
+            ]
+          },
+          {
+            text: 'Elden Ring',
+            items: [
+              { text: 'Inicio', link: '/es/elden-ring/' }
+            ]
+          },
+          {
+            text: 'Black Myth: Wukong',
+            items: [
+              { text: 'Inicio', link: '/es/wukong/' }
+            ]
+          },
+          {
+            text: 'Zelda: Tears of the Kingdom',
+            items: [
+              { text: 'Inicio', link: '/es/zelda/' }
+            ]
+          },
           { text: 'Acerca de', link: '/es/about/' },
           { text: 'Privacidad', link: '/es/privacy/' }
         ],
@@ -454,6 +621,34 @@ module.exports = {
               title: 'Black Myth: Zhong Kui',
               collapsable: false,
               children: ['', 'release-date', 'vs-wukong']
+            }
+          ],
+          '/es/cyberpunk/': [
+            {
+              title: 'Cyberpunk 2077',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/elden-ring/': [
+            {
+              title: 'Elden Ring',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/wukong/': [
+            {
+              title: 'Black Myth: Wukong',
+              collapsable: false,
+              children: ['']
+            }
+          ],
+          '/es/zelda/': [
+            {
+              title: 'Zelda: Tears of the Kingdom',
+              collapsable: false,
+              children: ['']
             }
           ]
 
