@@ -151,6 +151,9 @@ module.exports = {
               { text: '致命躯壳 II', link: '/daily/mortal-shell-ii-guide' },
               { text: '塞尔达·全收集', link: '/daily/zelda-totk-collection' },
               { text: '赛博朋克·结局浪漫', link: '/daily/cyberpunk-endings-romance' },
+              { text: '钟馗·深度前瞻', link: '/daily/zhongkui-what-we-know' },
+              { text: '黑夜君临·新手指南', link: '/daily/elden-ring-nightreign-beginner' },
+              { text: '开放世界·类似 GTA6', link: '/daily/open-world-games-like-gta6' },
 // DAILY_FEATURE_INSERT
             ]
           },

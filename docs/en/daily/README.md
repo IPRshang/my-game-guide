@@ -12,6 +12,9 @@ New guides rotate in regularly. Below are the current picks; each is a standalon
 
 ## Latest Picks
 
+- [Black Myth: Zhong Kui — What We Know (2026)](/en/daily/zhongkui-what-we-know) — announced at Gamescom 2025, relation to Wukong, platform & release-window speculation, FAQ
+- [Elden Ring: Nightreign Beginner Survival Guide](/en/daily/elden-ring-nightreign-beginner) — 8 Nightfarers, Day1/Day2 expedition structure, 7 survival tips, relics system
+- [Best Open-World Games Like GTA 6 to Play While Waiting](/en/daily/open-world-games-like-gta6) — 8 picks from Ananta and NTE to RDR2 and Cyberpunk 2077
 - [Black Myth: Wukong 2nd Anniversary Deep Dive (2026)](/en/daily/wukong-anniversary-2026) — 30M+ sales recap, best builds, 81 bosses, DLC & Zhong Kui
 - [How to Beat Malenia in Elden Ring](/en/daily/elden-malenia-switch2) — Waterfowl Dance, bleed build, full boss table, Switch 2 Tarnished Edition
 - [Mortal Shell II Guide](/en/daily/mortal-shell-ii-guide) — no stamina bar, 8 shells, posture breaks, firearm builds
