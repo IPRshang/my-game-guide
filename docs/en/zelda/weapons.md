@@ -1,7 +1,7 @@
 ---
 description: "Zelda Tears of the Kingdom weapon guide: best Fuse combinations, strongest weapon recipes, durability repair tricks."
 tags: ["Zelda","Tears of the Kingdom","TotK","weapons","Fuse","crafting"]
-date: 2026-07-24
+date: 2026-09-06
 ---
 
 # Zelda: TotK — Best Weapons Guide
@@ -64,3 +64,20 @@ date: 2026-07-24
 | Durability Transfer | Transfer Spring Hammer durability to other weapons |
 | Rotate Regularly | Don't use one weapon until it breaks |
 | Lynx Cycle | Re-farm Lynel weapons after every Blood Moon |
+
+## 🔗 More Zelda: TotK Guides
+- [Zelda Cooking Recipes](/en/zelda/cooking) — best meals & elixirs for buffs
+- [Zelda Zonai Devices](/en/zelda/zonai-devices) — how to use all devices
+- [Zelda Shrines](/en/zelda/shrines) — shrine map & solutions
+
+## FAQ
+
+**Q: What is the best weapon in Tears of the Kingdom?** A: The Master Sword is the most reliable (rechargeable, doubles near Gloom). But the Fuse system lets you build the strongest weapons — fuse a Silver Lynel horn to any base weapon for huge ATK.
+
+**Q: How do you get the Master Sword in TotK?** A: You need 13 hearts (trade stamina at Goddess Statues if needed), then pull it from the Light Dragon's head as it flies around Hyrule.
+
+**Q: How does weapon durability work in TotK?** A: Weapons break after use; Fuse adds durability from the fused material. Once depleted, the Master Sword recharges after 10 minutes.
+
+**Q: What are the best Fuse materials?** A: Silver Lynel horn gives the highest ATK boost; Gibdo bone, Molduga jaw, and King Part (from King Gleeok) are also top-tier.
+
+**Q: How do you repair weapons in Tears of the Kingdom?** A: A Rock Octorok inhales your weapon and spits it out fully repaired (once per Octorok, resets on Blood Moon). Unique repairable weapons like the Lightscale Trident can be remade at their source.

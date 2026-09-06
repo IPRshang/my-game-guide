@@ -6,7 +6,7 @@ tags:
   - "Armaments"
   - "Collection Guide"
   - "Weapon Tier List"
-date: 2026-07-28
+date: 2026-09-06
 ---
 
 # ⚔️ Elden Ring — Legendary Weapons Complete Guide
@@ -157,17 +157,33 @@ Legendary Armaments are the highest rarity weapons in Elden Ring, each with uniq
 
 ---
 
-## 🏰 DLC Legendary Weapons (Shadow of the Erdtree)
+## 🏰 Notable Shadow of the Erdtree Weapons (DLC)
 
-### 10. 【Messmer's Fireball】
-- **Type**: Staff? / Special weapon
-- **Location**: DLC area
-- **Tier**: TBD
+The DLC doesn't add achievement-listed "Legendary Armaments", but these greatswords are among the strongest in the game and are must-haves for endgame builds:
 
-### 11. 【Dark Greatsword】
+### 【Fire Knight's Greatsword】
 - **Type**: Greatsword
-- **Location**: DLC final boss
-- **Tier**: TBD
+- **Scaling**: STR D / DEX D / FAI C
+- **Ash of War**: "Flames of the Redmanes" — fire thrust that staggers
+- **Location**: Drops from Fire Knights in the Shadow Keep (Specimen Storehouse)
+
+### 【Anvil Hammer】
+- **Type**: Great Hammer
+- **Scaling**: STR C / FAI D
+- **Ash of War**: "Anvil Hammer" — leap and slam creating a gravity shockwave
+- **Location**: Drops from Commander Gaius (Scadu Altus)
+
+### 【Putrescence Cleaver】
+- **Type**: Greatsword
+- **Scaling**: STR D / ARC D
+- **Ash of War**: "Putrescent Cleaver" — heavy rot-inflicting slash
+- **Location**: Drops from the Putrescent Knight (Stone Coffin Fissure)
+
+### 【Devonia's Hammer】
+- **Type**: Great Hammer
+- **Scaling**: STR C / DEX D
+- **Ash of War**: "Devonia's Hammer" — spinning holy slam
+- **Location**: Drops from the ancient dragon forge in the Rauh Ancient Ruins
 
 ---
 
@@ -244,7 +260,25 @@ Legendary Armaments are the highest rarity weapons in Elden Ring, each with uniq
 > - Collect all 9 to unlock the "Legendary Armaments" achievement
 > - Some weapons require completing very long questlines
 
+## 🔗 More Elden Ring Guides
+- [Elden Ring Bosses](/en/elden-ring/bosses) — how to beat Malenia, Radahn & Rykard
+- [Elden Ring Quests](/en/elden-ring/quests) — Ranni's questline full walkthrough
+- [Elden Ring Spells](/en/elden-ring/spells) — best sorceries & incantations
+
+## FAQ
+
+**Q: How many legendary weapons are in Elden Ring?** A: The base game has 9 Legendary Armaments. Shadow of the Erdtree adds several top-tier greatswords (Fire Knight's Greatsword, Anvil Hammer), but they aren't part of the "Legendary Armaments" achievement.
+
+**Q: What is the best legendary weapon in Elden Ring?** A: It depends on your build — Dark Moon Greatsword for pure mages, Blasphemous Blade for Faith builds, Hand of Malenia for Dex/Bleed. All three are S-tier.
+
+**Q: Can you upgrade legendary weapons?** A: Yes, to +10 using Somber Ancient Dragon Smithing Stones (very limited — one per weapon). You cannot change their built-in Ash of War.
+
+**Q: Do you need all 9 for the achievement?** A: Yes. Collecting all 9 Legendary Armaments unlocks the "Legendary Armaments" trophy/achievement.
+
+**Q: Are there legendary weapons in Shadow of the Erdtree?** A: The DLC doesn't add achievement-listed legendaries, but weapons like Fire Knight's Greatsword and Anvil Hammer are among the strongest in the entire game.
+
 ## 📰 Changelog
 | Date | Update |
 |------|--------|
+| 2026-09-06 | Refreshed for Shadow of the Erdtree (added real DLC weapons), added FAQ + internal links |
 | 2026-07-28 | Added legendary weapons complete guide |

@@ -158,17 +158,33 @@ Las **Armas Legendarias** son las armas de mayor rareza de Elden Ring, cada una 
 
 ---
 
-## 🏰 Armas legendarias del DLC (Shadow of the Erdtree)
+## 🏰 Armas destacadas del DLC (Shadow of the Erdtree)
 
-### 10. 【Orbe de fuego de Messmer】
-- **Tipo**: Arma especial
-- **Ubicación**: Zona del DLC
-- **Tier**: Por determinar
+El DLC no añade armas del logro "Armamento legendario", pero estas gran espadas son de las más fuertes del juego:
 
-### 11. 【Gran Espada Oscura】
+### 【Gran Espada del Caballero de Fuego】
 - **Tipo**: Gran espada
-- **Ubicación**: Jefe final del DLC
-- **Tier**: Por determinar
+- **Escalado**: FUE D / DES D / FÉ C
+- **Ceniza de guerra**: "Llamas del Caballero Rojo" — estocada de fuego que aturde
+- **Ubicación**: Caballeros de Fuego en la Fortaleza de Sombra (almacén de especímenes)
+
+### 【Martillo de Yunque】
+- **Tipo**: Gran martillo
+- **Escalado**: FUE C / FÉ D
+- **Ceniza de guerra**: "Martillo de Yunque" — salto y golpe que crea onda de gravedad
+- **Ubicación**: Comandante Gaius (tierras del Árbol de la Sombra)
+
+### 【Cleaver de Putrefacción】
+- **Tipo**: Gran espada
+- **Escalado**: FUE D / ARC D
+- **Ceniza de guerra**: "Cleaver de Putrefacción" — tajo pesado con acumulación de podredumbre
+- **Ubicación**: Caballero Putrefacto (fisura del sarcófago de piedra)
+
+### 【Martillo de Devonia】
+- **Tipo**: Gran martillo
+- **Escalado**: FUE C / DES D
+- **Ceniza de guerra**: "Martillo de Devonia" — giro sagrado
+- **Ubicación**: fragua de dragón antiguo en Ruinas Antiguas de Rauh
 
 ---
 
@@ -247,19 +263,24 @@ Las **Armas Legendarias** son las armas de mayor rareza de Elden Ring, cada una 
 
 ---
 
+## Más guías de Elden Ring
+- [Jefes de Elden Ring](/es/elden-ring/bosses) — cómo vencer a Malenia, Radahn y Rykard
+- [Misiones de Elden Ring](/es/elden-ring/quests) — guía de la misión de Ranni
+- [Hechizos de Elden Ring](/es/elden-ring/spells) — mejores brujerías e invocaciones
+
 ## Preguntas frecuentes
 
-**Q1: ¿Cuántas armas legendarias hay y qué dan al reunirlas?**
+**Q: ¿Cuántas armas legendarias hay y qué dan al reunirlas?**
 A: Son **9 en el juego base** (más las del DLC). Reunir las 9 desbloquea el logro "Armamento legendario". No dan ninguna recompensa de estadísticas, son principalmente coleccionables de prestigio.
 
-**Q2: ¿Puedo cambiar la ceniza de guerra de un arma legendaria?**
+**Q: ¿Puedo cambiar la ceniza de guerra de un arma legendaria?**
 A: No. Las armas legendarias tienen **cenizas de guerra fijas** y no se pueden modificar, a diferencia de las armas normales. Por eso conviene elegir bien en qué inviertes.
 
-**Q3: ¿Qué arma legendaria es mejor para un mago?**
+**Q: ¿Qué arma legendaria es mejor para un mago?**
 A: La **Gran Espada Luna Oscura**: escala con INT en S y su ataque pesado lanza ondas de luz lunar de largo alcance. Como alternativa nostálgica, la **Espada Lunar**.
 
-**Q4: ¿Cómo consigo la Mano de Malenia?**
+**Q: ¿Cómo consigo la Mano de Malenia?**
 A: Derrotando a **Malenia, Espada de Miquella** en Haligtree y entregando después su Recuerdo en la Mesa Redonda. Es uno de los jefes más difíciles del juego, así que prepárate bien.
 
-**Q5: ¿En qué arma gasto las Piedras de forja de dragón ancestral?**
+**Q: ¿En qué arma gasto las Piedras de forja de dragón ancestral?**
 A: Solo hay unas pocas por partida. Gástalas en **tu arma principal** y llévala a +10; las secundarias pueden quedarse en +5 sin problema.

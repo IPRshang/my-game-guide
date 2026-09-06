@@ -1,7 +1,7 @@
 ---
-description: "Cyberpunk 2077 all endings guide: 6 endings with trigger conditions, key choice breakdowns, hidden ending unlock method. Phantom Liberty included."
+description: "Cyberpunk 2077 all endings guide: 7 endings (5 base + secret + Phantom Liberty) with trigger conditions, key choice breakdowns, hidden ending unlock method."
 tags: ["Cyberpunk 2077","endings","story","choices","hidden"]
-date: 2026-07-24
+date: 2026-09-06
 ---
 
 # Cyberpunk 2077 — All Endings Guide
@@ -71,3 +71,19 @@ date: 2026-07-24
 **Outcome**: The chip is removed. V survives — but was in a coma for 2 years. Waking up, all friends have moved on. V is now "ordinary," permanently unable to use cyberware.
 
 **Verdict**: You survived. But you lost everything.
+
+## 🔗 More Cyberpunk 2077 Guides
+- [Cyberpunk 2077 Cyberware](/en/cyberpunk/cyberware) — best implants & cyberware capacity builds
+- [Cyberpunk 2077 Builds](/en/cyberpunk/builds) — top builds for every playstyle
+
+## FAQ
+
+**Q: How many endings does Cyberpunk 2077 have?** A: 5 base endings + 1 secret ending ("Don't Fear The Reaper") + 1 Phantom Liberty ending ("The Tower") = 7 total across all content.
+
+**Q: How do you get the secret/hidden ending?** A: Reach 70%+ relationship with Johnny, then on the rooftop pick the new dialogue option to call Takemura. This unlocks "Don't Fear The Reaper", a solo suicide-run through Arasaka Tower.
+
+**Q: Which Cyberpunk ending is the best or canon?** A: There is no canon ending. "The Star" (Panam) is the most hopeful; "The Tower" (Phantom Liberty) is the only one where V survives, but loses everything.
+
+**Q: Does Phantom Liberty add a new ending?** A: Yes — "The Tower". Side with Reed and accept the NUSA surgery to have the biochip removed; V lives but loses 2 years and all connections.
+
+**Q: Can you get all endings in one playthrough?** A: No. Endings branch on final and DLC choices, but you can reload saves or replay the choice via the "one more gig" epilogue.
