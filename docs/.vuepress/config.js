@@ -563,25 +563,29 @@ module.exports = {
           {
             text: 'Cyberpunk 2077',
             items: [
-              { text: 'Inicio', link: '/es/cyberpunk/' }
+              { text: 'Inicio', link: '/es/cyberpunk/' },
+              { text: 'Cyberware', link: '/es/cyberpunk/cyberware' }
             ]
           },
           {
             text: 'Elden Ring',
             items: [
-              { text: 'Inicio', link: '/es/elden-ring/' }
+              { text: 'Inicio', link: '/es/elden-ring/' },
+              { text: 'Armas legendarias', link: '/es/elden-ring/legendary-weapons' }
             ]
           },
           {
             text: 'Black Myth: Wukong',
             items: [
-              { text: 'Inicio', link: '/es/wukong/' }
+              { text: 'Inicio', link: '/es/wukong/' },
+              { text: 'Guía de jefes', link: '/es/wukong/boss-guide' }
             ]
           },
           {
             text: 'Zelda: Tears of the Kingdom',
             items: [
-              { text: 'Inicio', link: '/es/zelda/' }
+              { text: 'Inicio', link: '/es/zelda/' },
+              { text: 'Cocina', link: '/es/zelda/cooking' }
             ]
           },
           { text: 'Acerca de', link: '/es/about/' },
@@ -627,28 +631,28 @@ module.exports = {
             {
               title: 'Cyberpunk 2077',
               collapsable: false,
-              children: ['']
+              children: ['', 'cyberware']
             }
           ],
           '/es/elden-ring/': [
             {
               title: 'Elden Ring',
               collapsable: false,
-              children: ['']
+              children: ['', 'legendary-weapons']
             }
           ],
           '/es/wukong/': [
             {
               title: 'Black Myth: Wukong',
               collapsable: false,
-              children: ['']
+              children: ['', 'boss-guide']
             }
           ],
           '/es/zelda/': [
             {
               title: 'Zelda: Tears of the Kingdom',
               collapsable: false,
-              children: ['']
+              children: ['', 'cooking']
             }
           ]
 
