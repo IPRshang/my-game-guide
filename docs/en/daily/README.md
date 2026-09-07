@@ -12,6 +12,7 @@ New guides rotate in regularly. Below are the current picks; each is a standalon
 
 ## Latest Picks
 
+- [GTA 6 September Surge: DualSense, Sales, DF Breakdown](/en/daily/gta6-september-update) — Sept 1-5 roundup: limited DualSense pre-order, UK sales spike, Digital Foundry analysis, Rob Nelson on scale, FAQ
 - [Black Myth: Zhong Kui — What We Know (2026)](/en/daily/zhongkui-what-we-know) — announced at Gamescom 2025, relation to Wukong, platform & release-window speculation, FAQ
 - [Elden Ring: Nightreign Beginner Survival Guide](/en/daily/elden-ring-nightreign-beginner) — 8 Nightfarers, Day1/Day2 expedition structure, 7 survival tips, relics system
 - [Best Open-World Games Like GTA 6 to Play While Waiting](/en/daily/open-world-games-like-gta6) — 8 picks from Ananta and NTE to RDR2 and Cyberpunk 2077

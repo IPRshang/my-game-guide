@@ -12,6 +12,7 @@ Las guías nuevas rotan con regularidad. Abajo están las selecciones actuales; 
 
 ## Selecciones recientes
 
+- [GTA 6 en septiembre: DualSense, ventas y DF](/es/daily/gta6-september-update) — resumen 1-5 sept: DualSense limitada, subida de ventas en Reino Unido, análisis Digital Foundry, Rob Nelson, FAQ
 - [Black Myth: Zhong Kui — Todo lo que sabemos (2026)](/es/daily/zhongkui-what-we-know) — anunciado en Gamescom 2025, relación con Wukong, especulación de plataformas y fecha, FAQ
 - [Elden Ring: Nightreign — Guía de supervivencia para principiantes](/es/daily/elden-ring-nightreign-beginner) — 8 Nightfarers, expedición Día1/Día2, 7 consejos, sistema de relics
 - [Mejores juegos de mundo abierto como GTA 6 para jugar mientras esperas](/es/daily/open-world-games-like-gta6) — 8 opciones de Ananta y NTE a RDR2 y Cyberpunk 2077

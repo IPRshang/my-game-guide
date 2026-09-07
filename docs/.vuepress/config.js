@@ -197,6 +197,7 @@ module.exports = {
               { text: '钟馗·深度前瞻', link: '/daily/zhongkui-what-we-know' },
               { text: '黑夜君临·新手指南', link: '/daily/elden-ring-nightreign-beginner' },
               { text: '开放世界·类似 GTA6', link: '/daily/open-world-games-like-gta6' },
+              { text: 'GTA6·九月攻势', link: '/daily/gta6-september-update' },
 // DAILY_FEATURE_INSERT
             ]
           },
