@@ -631,7 +631,7 @@ module.exports = {
             {
               title: 'Cyberpunk 2077',
               collapsable: false,
-              children: ['', 'cyberware']
+              children: ['', 'cyberware', 'endings', 'achievements', 'builds', 'phantom-liberty', 'romance']
             }
           ],
           '/es/elden-ring/': [
