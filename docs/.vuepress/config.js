@@ -638,7 +638,7 @@ module.exports = {
             {
               title: 'Elden Ring',
               collapsable: false,
-              children: ['', 'legendary-weapons']
+              children: ['', 'beginner-guide', 'best-weapons', 'bosses', 'builds', 'co-op', 'dlc-guide', 'early-game', 'legendary-weapons', 'malenia', 'quests', 'summary']
             }
           ],
           '/es/wukong/': [
