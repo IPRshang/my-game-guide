@@ -35,6 +35,8 @@ description: "GTA6 售价：标准版 79.99 美元、终极版标准版 99.99 �
 - **Xbox Series X|S**：Microsoft Store。
 - **PC**：官方尚未公布 PC 版与日期；按 Rockstar 历史，主机版之后才会有 PC 移植，但目前任何"PC 发售日"都属猜测。
 
+> 预算有限又想尽快回血？见 [快速赚钱指南（前瞻）](./money-guide) 梳理攒钱思路。
+
 ## 常见问题
 
 **Q：GTA6 多少钱？**
