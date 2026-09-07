@@ -105,24 +105,24 @@ The new 1.5 areas and characters raise new demands on base output; plan ahead:
 
 🔮 **Speculated**: 1.5 may introduce new manufacturing recipes or intermediate products; we suggest keeping some redundant capacity.
 
-## ⑧ FAQ
+## FAQ
 
-**Q1: When does Endfield 1.5 launch?**
+**Q: When does Endfield 1.5 launch?**
 ✅ Confirmed: Launches 2026-09-02, split into two waves on 9/2 and 9/24.
 
-**Q2: Is Typhoeus worth pulling?**
+**Q: Is Typhoeus worth pulling?**
 ✅ Confirmed as a ranged Natural Striker with complete mechanics; 🔮 for exact strength we suggest checking the post-launch [tier list](/en/endfield/tier-list) before deciding. Players lacking Natural DPS are prioritized for recommendation.
 
-**Q3: How do I get Purrchena for free?**
+**Q: How do I get Purrchena for free?**
 ✅ Confirmed: Join the 9/24 Purrchena Tribute Event and complete 6 tasks to get her for free and reach max potential.
 
-**Q4: When is the Steam version coming out?**
+**Q: When is the Steam version coming out?**
 ✅ Confirmed to be coming to Steam with wishlist open; 🔮 specific date is not set — watch the store page.
 
-**Q5: How does Suiming's puzzle work?**
+**Q: How does Suiming's puzzle work?**
 ✅ Confirmed: The core is a 15-minute time loop, using tidal ebb and flow to reveal new streets, retaining collected parts, and repairing the Waking Bell to fend off the Blight Tide.
 
-**Q6: How does the gacha pity work?**
+**Q: How does the gacha pity work?**
 🔮 Pity rules are detailed in [gacha pity](/en/endfield/gacha-pity); whether the 1.5 banner continues to use the current rules is subject to official announcements.
 
 ---

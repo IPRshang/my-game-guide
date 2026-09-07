@@ -81,17 +81,17 @@ Vuelve al [centro de guías de Zelda](/es/zelda/) para ver el resto de secciones
 
 ## Preguntas frecuentes
 
-**Q1: ¿Cómo consigo que un efecto dure 30 minutos?**
+**Q: ¿Cómo consigo que un efecto dure 30 minutos?**
 A: Añadiendo un **fragmento de Cuerno de dragón** a la receta. Es la regla de oro de la cocina en TotK: cualquier efecto pasa a durar 30 minutos completos.
 
-**Q2: ¿Cuál es la mejor receta de ataque?**
+**Q: ¿Cuál es la mejor receta de ataque?**
 A: 4 **Plátanos Poderosos** + Cuerno de dragón: 30 minutos de Ataque Nv. 3. Es la preparación estándar antes de cualquier cacería de Lynels.
 
-**Q3: ¿Cómo gano rupias rápido?**
+**Q: ¿Cómo gano rupias rápido?**
 A: Caza rinocerontes y lobos en las **Montañas Hebra** y cocina 5 Carnes Gourmet: cada brocheta se vende por 490 rupias. Aún mejor, rompe Talos de Piedra y vende los diamantes a 500 rupias cada uno.
 
-**Q4: ¿Cuándo debo cocinar para tener éxito crítico?**
+**Q: ¿Cuándo debo cocinar para tener éxito crítico?**
 A: Durante la **Luna de sangre**, entre las **23:30 y las 00:15** del reloj del juego. En esa ventana el éxito crítico está garantizado en todas las recetas.
 
-**Q5: ¿Puedo cocinar hadas para conseguir efectos especiales?**
+**Q: ¿Puedo cocinar hadas para conseguir efectos especiales?**
 A: No. Las hadas **desaparecen** si intentas cocinarlas y no aportan ningún efecto. Guárdalas para revivirte al morir.

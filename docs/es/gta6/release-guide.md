@@ -163,7 +163,7 @@ Rockstar reveló los precios con la precompra el 25 de junio de 2026:
 
 ---
 
-## 7. Preguntas frecuentes
+## Preguntas frecuentes
 
 **P1: ¿Llegará GTA6 a PC?**
 R: Sí. Rockstar casi siempre lanza versiones de PC, normalmente 12–18 meses después de la consola.

@@ -50,7 +50,7 @@ A dedicated base is only as good as its "pipe out" step. Two recommended methods
 
 Keep the Sandleaf base "output only (except raw input)" and the main base will never be back-fed by its belts. To tidy the main industry further, revisit the [Endfield Factory (AIC) Guide](/en/endfield/factory-guide).
 
-## 6. FAQ
+## FAQ
 
 **Q: When does Sandleaf start choking the base?**
 A: It unlocks after Act 1, but the crunch hits in endgame — many high-value recipes demand it at once, pushing you to build 3 to 4 sets.

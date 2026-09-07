@@ -45,7 +45,7 @@ Simply: make bursts hit harder and denser in the same window, instead of smearin
 
 If you keep stalling on "can't bank skill points," check whether your team has someone built to make effective hits — the kind that reliably trigger skill-point accumulation. Putting that role in the loop cures the problem better than raw stat stacking. For who fits, cross-check the high-frequency damage slots in the [Endfield Tier List](/en/endfield/tier-list).
 
-## 6. FAQ
+## FAQ
 
 **Q: Why does my combat always take so long?**
 A: Probably slow skill-point banking — the auto loop banks points only on "specific hits"; miss the rhythm and you auto-attack waiting for points, stretching the fight.

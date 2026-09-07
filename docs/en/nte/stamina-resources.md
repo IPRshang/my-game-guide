@@ -60,7 +60,7 @@ NTE's "stamina" is not one bar but three independent resources:
 4. **City Tycoon is ~half the game** — spend City Stamina weekly for Fons & Tycoon level (can grant a awakened S-rank + signature Arc).
 5. **Annulith only for Solid Dice**; stack Synthetic Dice from the standard banner.
 
-## 4. FAQ
+## FAQ
 
 **Q: Pixels always short?**
 A: Use the full 240 daily refill + raise cap via furniture + cheap Diamond refills (first 3/day). Don't hoard.

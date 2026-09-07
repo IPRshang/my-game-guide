@@ -45,7 +45,7 @@ En resumen: haz que la ráfaga caiga densa en la misma ventana, en lugar de espa
 
 Si siempre te atoras en «no logro acumular puntos», comprueba si tu equipo tiene alguien encargado de generar aciertos válidos — esas habilidades que disparan con estabilidad la acumulación de puntos. Meter a ese tipo de personaje en el ciclo cura más de raíz que apilar cifras a la fuerza. Para ver quién encaja, consulta la [lista de niveles (tier list) de Endfield](/es/endfield/tier-list) en sus puestos de daño de alta frecuencia.
 
-## 六、Preguntas frecuentes
+## Preguntas frecuentes
 
 **Q: ¿Por qué mis batallas siempre duran tanto?**
 A: Probablemente acumulas puntos de habilidad demasiado lento: el ciclo de ataque automático los junta «acertando ciertas habilidades», y si no aciertas el ritmo sigues con normales esperando puntos, alargando la batalla.

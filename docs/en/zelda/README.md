@@ -81,22 +81,22 @@ Its biggest feature is a **physics-sandbox creator**: the prior "Sheikah Slate" 
 
 ## FAQ
 
-**Q1: Can I play TotK without playing Breath of the Wild?**
+**Q: Can I play TotK without playing Breath of the Wild?**
 A: Yes — the story is self-contained and newcomer-friendly; playing the prequel just adds resonance with the map and characters.
 
-**Q2: What's different in the Switch 2 version?**
+**Q: What's different in the Switch 2 version?**
 A: **Switch 2 Edition** (from June 2025) improves frame rate / resolution and supports **ZELDA NOTES** (official app: map markers, daily bonuses). Old Switch saves carry over.
 
-**Q3: Is there DLC?**
+**Q: Is there DLC?**
 A: TotK has **no paid DLC** (unlike BotW's DLC pass). Only free fix patches since (latest Ver. 1.4.3, Feb 2026).
 
-**Q4: Weapons keep breaking — what do I do?**
+**Q: Weapons keep breaking — what do I do?**
 A: It's a series trademark. More Koroks for capacity + use cheap materials as consumables via Fuse; save precious weapons for bosses.
 
-**Q5: Depths too dark?**
+**Q: Depths too dark?**
 A: "Brightbloom Seeds" scattered in the depths light up areas; carry "glowing / firefly" type materials for temporary light.
 
-**Q6: Need internet?**
+**Q: Need internet?**
 A: Fully offline single-player. ZELDA NOTES needs internet and a Nintendo account, but is optional.
 
 ---

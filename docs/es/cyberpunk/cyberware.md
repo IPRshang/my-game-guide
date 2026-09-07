@@ -222,17 +222,17 @@ Después de la versión 2.0, la armadura procede **exclusivamente** de los impla
 
 ## Preguntas frecuentes
 
-**Q1: ¿Cuánta capacidad de cyberware necesito y qué pasa si me paso?**
+**Q: ¿Cuánta capacidad de cyberware necesito y qué pasa si me paso?**
 A: La capacidad escala con tu nivel y con la habilidad Técnica. Si el peso total de los implantes supera el límite, sufrirás un **drenaje continuo de vida**, así que nunca te pases. Los Fragmentos de Capacidad de Cyberware la aumentan de forma permanente.
 
-**Q2: ¿De dónde saco armadura desde la versión 2.0?**
+**Q: ¿De dónde saco armadura desde la versión 2.0?**
 A: Únicamente de los implantes del **Sistema Integumentario**. La ropa ya no da armadura, así que la Armadura subdérmica es prácticamente obligatoria en cualquier build.
 
-**Q3: ¿Qué sistema operativo debería elegir?**
+**Q: ¿Qué sistema operativo debería elegir?**
 A: Depende de tu estilo: **Tetratronic Rippler** para Netrunner (propaga quickhacks a varios enemigos), **Militech "Apogee"** para samurái melé (ralentiza el tiempo un 85%) y **Militech Berserk** para pistolas (más armadura y regeneración).
 
-**Q4: ¿Merece la pena gastar capacidad en el Segundo corazón?**
+**Q: ¿Merece la pena gastar capacidad en el Segundo corazón?**
 A: Sí, es la mejor inversión del juego. Te devuelve la vida completa al morir con 120 segundos de enfriamiento, lo que equivale a una segunda vida en cada combate largo.
 
-**Q5: ¿Por dónde empiezo si voy justo de capacidad?**
+**Q: ¿Por dónde empiezo si voy justo de capacidad?**
 A: Prioriza **Kiroshi "Oracle"** (+10% de crítico), tu **sistema operativo** según build y la **Armadura subdérmica**. Deja los implantes de conveniencia para cuando subas la habilidad Técnica.

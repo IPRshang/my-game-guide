@@ -50,7 +50,7 @@ El valor de la base independiente depende de qué tan bien hagas el paso de «sa
 
 La clave es mantener la estructura unidireccional de «solo sale, no entra (salvo materia)» en la base de Sandleaf, para que la base principal nunca sea devorada por sus cintas. Para ordenar más la industria principal, revisa la [Guía de introducción al sistema de fábrica de Endfield](/es/endfield/factory-guide).
 
-## 六、Preguntas frecuentes
+## Preguntas frecuentes
 
 **Q: ¿Cuándo empieza Sandleaf a apretar?**
 A: Se abre al final del Act 1, pero el espacio de verdad se aprieta en el endgame — muchas recetas de alto valor lo exigen a la vez y te obligan a construir 3 o 4 líneas antes de estallar.

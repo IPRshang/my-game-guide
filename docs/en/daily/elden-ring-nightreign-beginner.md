@@ -77,22 +77,22 @@ date: 2026-09-02
 
 ## FAQ
 
-**Q1: Does Nightreign require buying Elden Ring base game?**
+**Q: Does Nightreign require buying Elden Ring base game?**
 A: No — it's a **standalone title**, purchased separately, no dependency on base-game saves.
 
-**Q2: Must it be three players?**
+**Q: Must it be three players?**
 A: Designed for 3-player co-op, but supports solo / duo / online matchmaking. Solo is playable yet notably harder; newcomers should group up.
 
-**Q3: Which character is safest for beginners?**
+**Q: Which character is safest for beginners?**
 A: **Wylder** has the highest tolerance and most intuitive kit — the newcomer default; pick Guardian to play support tank.
 
-**Q4: How long is one run?**
+**Q: How long is one run?**
 A: A single expedition is typically **20–40 minutes** (Day 1 / Day 2 + Nightlord); failure restarts fast, much quicker than the base game.
 
-**Q5: Compared to Elden Ring, is the skill floor high?**
+**Q: Compared to Elden Ring, is the skill floor high?**
 A: Combat feel is shared, but the roguelike timer + shrinking circle add pressure; once you know soul-style dodge / parry you pick it up fast — the real hurdle is **team rhythm**, not solo mechanics.
 
-**Q6: Do I lose relics on death?**
+**Q: Do I lose relics on death?**
 A: Relics earned in-run settle into your stash at expedition end and carry across runs; failure still keeps obtained relics — progress isn't fully wiped.
 
 ---

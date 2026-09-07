@@ -92,7 +92,7 @@ Taffy 是四名角色中辨识度最高的一位，原因就在于那个「锤�
 
 观看时间与完整预期清单见 [Ananta Gamescom 2026 开幕夜复盘](/ananta/gamescom-2026-recap)。
 
-## 八、常见问题（FAQ）
+## 常见问题
 
 **Q：Ananta 目前公布了几名角色？**
 A：本文整理的已知角色为四名：Captain、Taffy、Richie、Seymour。玩家自身扮演的是代号 Infinite Trigger 的 A.C.D. Esper 调查员。

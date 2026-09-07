@@ -86,7 +86,7 @@ Pero en cuanto a calendario, las tres están separadas: **NTE ya lanzado**, **GT
 
 Lo que de verdad exige compromiso es la **inversión de tiempo**: las obras operativas gratuitas requieren tiempo continuo, y sumergirse a fondo en las dos a la vez es una presión real.
 
-## 7. Preguntas frecuentes (FAQ)
+## Preguntas frecuentes
 
 **Q: ¿Cuál de los tres se puede jugar ya?**
 A: Solo NTE, lanzado en abril de 2026. GTA6 se fecha para el 19 de noviembre de 2026, y Ananta no tiene fecha oficial de lanzamiento.

@@ -94,7 +94,7 @@ Como contexto, cabe mencionar que unas dos semanas antes del anuncio de la ONL, 
 
 El horario de emisión y la lista completa de expectativas están en [Ananta Gamescom 2026: resumen de la noche inaugural](/es/ananta/gamescom-2026-recap).
 
-## 8. Preguntas frecuentes (FAQ)
+## Preguntas frecuentes
 
 **Q: ¿Cuántos personajes ha presentado Ananta hasta ahora?**
 A: Los personajes conocidos que recopila este artículo son cuatro: Captain, Taffy, Richie y Seymour. El propio jugador encarna al investigador Esper de A.C.D. con el nombre en clave Infinite Trigger.

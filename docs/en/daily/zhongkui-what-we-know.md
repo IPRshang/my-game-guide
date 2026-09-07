@@ -68,22 +68,22 @@ To follow progress, bookmark the [Zhong Kui hub](/en/zhongkui/); once a date is 
 
 ## FAQ
 
-**Q1: When does Black Myth: Zhong Kui release?**
+**Q: When does Black Myth: Zhong Kui release?**
 A: As of 2026-09, **no release date or platform has been announced**. Using Wukong's dev cycle as reference, the community widely expects 2027 or later — wait for official Game Science news.
 
-**Q2: Is Zhong Kui a sequel to Wukong?**
+**Q: Is Zhong Kui a sequel to Wukong?**
 A: Almost certainly **not a direct sequel**. "Black Myth" looks like a mythology-anthology brand; each title focuses on a different deity and legend. Zhong Kui and Wukong sit in different lineages with standalone stories.
 
-**Q3: Which platforms will it launch on?**
+**Q: Which platforms will it launch on?**
 A: Not announced. Referencing Wukong's PS5 / PC dual launch, Zhong Kui will likely keep console + PC; Xbox is TBD.
 
-**Q4: How is Zhong Kui connected to Wukong?**
+**Q: How is Zhong Kui connected to Wukong?**
 A: Same "Black Myth" brand, same studio Game Science, with a likely-shared tech and art lineage; but narratively it's currently judged a **standalone story**, not a direct continuation of Wukong's ending. See [Zhong Kui vs Wukong](/en/zhongkui/vs-wukong).
 
-**Q5: Is there gameplay footage or a demo yet?**
+**Q: Is there gameplay footage or a demo yet?**
 A: Currently **only a cinematic teaser** — no gameplay, no playable demo, no mechanic showcase. Any specs/system leaks are speculation.
 
-**Q6: Is it worth getting excited about now?**
+**Q: Is it worth getting excited about now?**
 A: If you liked Wukong's art and combat feel, Zhong Kui comes from the same studio and brand and is worth the hype — but manage expectations: it's very early and could be years from release.
 
 ---

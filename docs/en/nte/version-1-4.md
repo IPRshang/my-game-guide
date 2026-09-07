@@ -96,24 +96,24 @@ For players still in 1.3, the sensible rhythm is: **first evaluate whether Linko
 
 If you want to keep tracking future versions, bookmark [NTE Roadmap](/en/nte/roadmap) and [NTE Strategy Hub](/en/nte/README).
 
-## ⑦ FAQ
+## FAQ
 
-**Q1: When will NTE 1.4 launch?**
+**Q: When will NTE 1.4 launch?**
 A: Based on leaked estimates, 1.4 is expected to launch around **late September to early October 2026**, right after the 1.3 Linko banner (around 9/30) ends. Specific dates are not officially confirmed; please refer to official announcements.
 
-**Q2: Is Blackbird (Merula) strong? Worth pulling?**
+**Q: Is Blackbird (Merula) strong? Worth pulling?**
 A: Blackbird is leaked as a Psyche-attribute Summon / Teleport / Curse character, with a suspected role of support or Magic DPS. Before official gameplay and stats are finalized, **strength cannot be determined**; it's recommended to watch the [NTE Tier List](/en/nte/tier-list) first and not empty your Annulith prematurely.
 
-**Q3: Is Akane Rin worth saving Annulith for?**
+**Q: Is Akane Rin worth saving Annulith for?**
 A: Thanks to her idol theme and music mechanics (rhythm buff / sonic attack / support), Akane Rin is predicted by the community to be a **high-versatility Meta support**, making her the target more worth prioritizing your Annulith savings for in 1.4. But this remains leaked inference; final strength awaits official verification.
 
-**Q4: What should I pull now (end of 1.3)?**
+**Q: What should I pull now (end of 1.3)?**
 A: If you lack a general support, consider 1.3's Linko (9/9 - 9/30); otherwise, it's more advisable to skip and save your Annulith for 1.4's Akane Rin. See [NTE Gacha Guide](/en/nte/gacha) for specific planning.
 
-**Q5: Is the 1.4 character info official?**
+**Q: Is the 1.4 character info official?**
 A: **No.** All character, skill, and date information in this article comes from community leaks and datamining, not officially confirmed, and may be adjusted or reworked. Please treat official announcements as the only standard.
 
-**Q6: What is Alphard's role in 2.0?**
+**Q: What is Alphard's role in 2.0?**
 A: Leaks call Alphard the **milestone meta character** of 2.0, accompanied by a world expansion. Since it's far from the current timeline, it's only for long-term planning reference; see [NTE Roadmap](/en/nte/roadmap) for details.
 
 ---

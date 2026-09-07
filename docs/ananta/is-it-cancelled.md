@@ -102,7 +102,7 @@ Ananta 确认回归 **Gamescom Opening Night Live**，构成一次时隔三年�
 
 完整的观看时间、时区换算与预期清单见 [Ananta Gamescom 2026 开幕夜复盘](/ananta/gamescom-2026-recap)。
 
-## 七、常见问题（FAQ）
+## 常见问题
 
 **Q：Ananta 被取消了吗？**
 A：没有。没有任何官方取消公告，项目确认仍在开发，并将在 2026 年 8 月 25 日的 Gamescom Opening Night Live 亮相。

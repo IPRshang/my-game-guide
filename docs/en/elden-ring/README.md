@@ -81,22 +81,22 @@ You play a **Tarnished**, summoned back to the Lands Between to gather Great Run
 
 ## FAQ
 
-**Q1: The game is too hard — am I just not suited for it?**
+**Q: The game is too hard — am I just not suited for it?**
 A: The Soulslike threshold is "learning enemy moves," not raw mechanics. Vagabond + Spirit Ashes + summons let ordinary players finish. Stuck? Level up and go around.
 
-**Q2: How to enter the DLC? Need to buy it?**
+**Q: How to enter the DLC? Need to buy it?**
 A: **Shadow of the Erdtree** is paid DLC (June 21, 2024) — must purchase; enter from a specific grace after defeating a certain main-story boss.
 
-**Q3: Can Switch 2 play it? Any difference?**
+**Q: Can Switch 2 play it? Any difference?**
 A: Yes. **Tarnished Edition** (Aug 28, 2026) bundles base game + DLC + new classes / armor / Torrent cosmetics. Other-platform veterans can buy the Tarnished Pack standalone for the new content.
 
-**Q4: Does online cost money?**
+**Q: Does online cost money?**
 A: PS / Xbox need membership (PS Plus / Game Pass Core); PC co-op is free.
 
-**Q5: How long for 100% achievements?**
+**Q: How long for 100% achievements?**
 A: ~150–200h, including multiple endings and hidden bosses.
 
-**Q6: Main story first or explore first?**
+**Q: Main story first or explore first?**
 A: Explore Limgrave's outskirts to level up, get the horse and Spirit Ashes, then tackle the first major boss (Margit).
 
 ---

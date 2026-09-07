@@ -73,7 +73,7 @@ A team is **4 characters**, balanced by function:
 4. Keep role balance (Main + Sub + Buffer + Survival).
 5. Beyond the Rails late stages need **two teams** — raise a second reaction early.
 
-## 5. FAQ
+## FAQ
 
 **Q: No S-ranks?**
 A: A-rank swaps are usually same-element and reactions still fire (see budget alts). Esper Zero is a free story unit and a universal Cycle enabler.

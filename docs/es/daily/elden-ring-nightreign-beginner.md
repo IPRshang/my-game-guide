@@ -77,22 +77,22 @@ date: 2026-09-02
 
 ## Preguntas frecuentes
 
-**Q1: ¿Nightreign requiere comprar Elden Ring base?**
+**Q: ¿Nightreign requiere comprar Elden Ring base?**
 A: No — es un **título independiente**, comprado aparte, sin dependencia de partidas del juego base.
 
-**Q2: ¿Debe ser obligatoriamente de tres?**
+**Q: ¿Debe ser obligatoriamente de tres?**
 A: Diseñado para co-op de 3, pero soporta solo / dúo / matchmaking. Solo es jugable pero notablemente más duro; los nuevos deben agruparse.
 
-**Q3: ¿Qué personaje es más seguro para principiantes?**
+**Q: ¿Qué personaje es más seguro para principiantes?**
 A: **Wylder** tiene la mayor tolerancia y kit más intuitivo — defecto para nuevos; elige Guardian para apoyar tanque.
 
-**Q4: ¿Cuánto dura una run?**
+**Q: ¿Cuánto dura una run?**
 A: Una expedición suele ser **20–40 minutos** (Día 1 / Día 2 + Nightlord); el fallo reinicia rápido, mucho más ágil que el juego base.
 
-**Q5: ¿Comparado con Elden Ring, es alto el piso de habilidad?**
+**Q: ¿Comparado con Elden Ring, es alto el piso de habilidad?**
 A: La sensación de combate es compartida, pero el temporizador roguelike + círculo que se cierra añaden presión; en cuanto sabes esquivar / parry souls lo agarras rápido — el verdadero muro es el **ritmo de equipo**, no la mecánica solitaria.
 
-**Q6: ¿Se pierden los relics al morir?**
+**Q: ¿Se pierden los relics al morir?**
 A: Los relics ganados en run se asientan en tu baúl al final y cruzan runs; el fallo conserva los obtenidos — el progreso no se borra del todo.
 
 ---

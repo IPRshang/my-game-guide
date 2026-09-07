@@ -75,7 +75,7 @@ Outposts carry sub-PACs and supply orders — **auto-complete orders every minut
 4. **Deletion is free** — ugly layout? Tear down; no penalty. Efficiency comes from iteration.
 5. **Don't lose the main story to the factory** — new buildings/tech gate behind story; balance factory with operator levels.
 
-## 7. FAQ
+## FAQ
 
 **Q: When to start the factory?**
 A: Right after Chapter 1 boss unlocks the tech tree. Earlier = more passive income.

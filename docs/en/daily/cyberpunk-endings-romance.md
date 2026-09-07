@@ -126,22 +126,22 @@ There are **4 romanceable companions**; the gender gate is strict and **irrevers
 
 ## FAQ
 
-**Q1: Which is the "+1" in 5+1, and where does the hidden ending rank?**
+**Q: Which is the "+1" in 5+1, and where does the hidden ending rank?**
 A: 5 base endings (Devil/Sun/Star/Temperance/Suicide) + 1 DLC-exclusive "Tower" = 6 regular endings; plus 1 **hidden ending (solo raid)** that isn't counted in 5+1 but has its own achievement.
 
-**Q2: Does the hidden ending require multiple playthroughs?**
+**Q: Does the hidden ending require multiple playthroughs?**
 A: No. With Johnny affinity ≥70%, Johnny sidequests done, and ~5 minutes of waiting after "Think of another way" in Nocturne, it triggers in the same playthrough; manual-save before the mission to revert.
 
-**Q3: Does Judy's route lock after Pisces?**
+**Q: Does Judy's route lock after Pisces?**
 A: No. Pisces decides **whether it continues** — taking Maiko's money **permanently ends** the romance; the actual relationship is confirmed later at the Pyramid Song dock ("this is a good start").
 
-**Q4: Can I romance both Panam and River (both "female V")?**
+**Q: Can I romance both Panam and River (both "female V")?**
 A: V can only commit to **one** partner per playthrough, and romance is irreversible once triggered; Panam needs male V, River needs female V — mutually exclusive by gender gate, can't have both in one save.
 
-**Q5: After the Tower ending, can I still use cyberware and Relic skills?**
+**Q: After the Tower ending, can I still use cyberware and Relic skills?**
 A: No. In the Tower the chip is removed and V wakes after a 2-year coma as an ordinary person, **unable to use cyberware**; the Relic skill tree also stops working — the highest-cost "survival" ending.
 
-**Q6: How much does Phantom Liberty affect the base ending?**
+**Q: How much does Phantom Liberty affect the base ending?**
 A: Significantly — the Firestarter choice unlocks and decides the base-game "Tower" ending's direction. If you care about V's final fate, plan the DLC and base endings together.
 
 ---

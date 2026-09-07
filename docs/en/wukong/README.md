@@ -69,22 +69,22 @@ Black Myth blends "Soulslike + Journey to the West transformations" into an acti
 
 ## FAQ
 
-**Q1: The game is too hard — is there an easy mode?**
+**Q: The game is too hard — is there an easy mode?**
 A: No traditional difficulty option, but stacking HP + Immobilize flow + summon curios (e.g. Bronze Head/Iron Arm) can greatly lower the bar; or wait for later balance patches.
 
-**Q2: Is the DLC out?**
+**Q: Is the DLC out?**
 A: As of August 2026, the **major paid DLC is still in development**; the studio has repeatedly debunked rumored dates (e.g. June / September / a ¥98 price — all false), with a general expectation of **H1 2027**. The base game already received a free "Boss Rush" mode, chapter maps, and new armor.
 
-**Q3: Can Xbox play it?**
+**Q: Can Xbox play it?**
 A: Yes. The Xbox Series X|S version launched in 2025, content-identical to PS5 / PC.
 
-**Q4: How many endings? How to unlock the true ending?**
+**Q: How many endings? How to unlock the true ending?**
 A: The base game has multiple ending branches; the true ending requires specific collection / side-quest conditions — see [Hidden Secrets](./secrets) (mild spoiler hints included).
 
-**Q5: Does it need internet?**
+**Q: Does it need internet?**
 A: Fully playable offline single-player; no internet required. Cloud saves depend on platform.
 
-**Q6: What Build do you recommend for beginners?**
+**Q: What Build do you recommend for beginners?**
 A: A steady "Smash Stance + Immobilize + high HP" combo — see [Builds](./builds).
 
 ---

@@ -90,24 +90,24 @@ The leaked material that surfaced in August from CyberLeek has been confirmed to
 
 Following the paths above lets you "understand the full picture of GTA 6 in one stop."
 
-## ⑪ FAQ
+## FAQ
 
-**Q1: Do I need a Netflix membership to watch?**
+**Q: Do I need a Netflix membership to watch?**
 The premiere is on Netflix, but 6 hours later (2026-08-27 21:00 ET) it will be released for free on YouTube and the official site, and you can watch the full content without paying (officially confirmed).
 
-**Q2: Is this the third trailer?**
+**Q: Is this the third trailer?**
 By the current public cadence, "An Extended Look" is the first major new footage in roughly 15 months, and its nature leans toward an extended showcase rather than a traditional trailer (its existence is officially confirmed; the specific positioning follows Rockstar's wording).
 
-**Q3: Will there be a PC version?**
+**Q: Will there be a PC version?**
 Officially confirmed platforms are only PS5 / Xbox Series X|S, and **no PC version is confirmed**.
 
-**Q4: When is the release date?**
+**Q: When is the release date?**
 The officially confirmed release date is **2026-11-19** (officially confirmed).
 
-**Q5: Is the leaked content reliable?**
+**Q: Is the leaked content reliable?**
 The CyberLeek leak from August has been confirmed to exist via DMCA, but the content is **not officially confirmed** — it is for reference only and cannot be treated as fact.
 
-**Q6: Will the full map be shown?**
+**Q: Will the full map be shown?**
 The community expects Rockstar likely will not show the full Leonida map (unconfirmed), and is more likely to present curated regions.
 
 ---

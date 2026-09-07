@@ -50,7 +50,7 @@ Si aún quieres limpiar los cofres de una zona, baja el coste así:
 - Abre primero los cofres «de paso en misión»; el resto, complétalo cuando tengas un medio de movimiento más eficiente.
 - Toma los cofres-puzzle como huevos de pascua; no hagas rutas largas por unas cuantas secuencias de botones.
 
-## 六、Preguntas frecuentes
+## Preguntas frecuentes
 
 **Q: ¿Hay que limpiar todos los cofres?**
 A: No lo recomiendo como objetivo. Decenas de cofres apenas equivalen a una tirada; limpiarlos todos cuesta demasiado tiempo, basta con recogerlos al paso.

@@ -43,7 +43,7 @@ Wuthering Waves keeps a denser daily/event rhythm and stronger return motive.
 
 **Pick**: want "something to do every day" stickiness → Wuthering Waves is steadier. Can accept burst grinding with self-found fun during dry spells → Endfield's content quality still holds.
 
-## 6. One-line summary & FAQ
+## FAQ
 
 **Summary**: want feel and daily stickiness → Wuthering Waves. Want story, visuals, mobile optimization, and the one-of-a-kind factory loop, tolerating slow pace and no daily hook → Endfield. They aren't mutually exclusive; choose by the axis you care about most.
 

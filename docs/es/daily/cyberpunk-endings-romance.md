@@ -125,22 +125,22 @@ Hay **4 personajes** con romance; la barrera de género es estricta e **irrevers
 
 ## Preguntas frecuentes
 
-**Q1: ¿Cuál es el "+1" en 5+1 y dónde queda la final oculta?**
+**Q: ¿Cuál es el "+1" en 5+1 y dónde queda la final oculta?**
 A: 5 finales base + 1 "Torre" del DLC = 6 regulares; más 1 **final oculta (asalto en solitario)** con su propio logro.
 
-**Q2: ¿La final oculta exige varias partidas?**
+**Q: ¿La final oculta exige varias partidas?**
 A: No. Con sintonía ≥70%, misiones de Johnny hechas y ~5 min de espera tras "Pensar otra forma," se dispara en la misma partida; guarda antes.
 
-**Q3: ¿El romance de Judy se bloquea tras Pisces?**
+**Q: ¿El romance de Judy se bloquea tras Pisces?**
 A: No. Pisces decide **si continúa** — tomar el dinero de Maiko **termina** el romance; la relación se confirma en el muelle de Pyramid Song.
 
-**Q4: ¿Puedo conquistar a Panam y River (ambas "V femenino")?**
+**Q: ¿Puedo conquistar a Panam y River (ambas "V femenino")?**
 A: V solo se compromete con **una** pareja por partida; Panam necesita V masculino, River necesita V femenino — mutuamente excluyentes.
 
-**Q5: Tras la Torre, ¿puedo usar ciberware y Relic?**
+**Q: Tras la Torre, ¿puedo usar ciberware y Relic?**
 A: No. En la Torre el chip se quita y V despierta tras 2 años sin poder usar ciberware; el árbol Relic se detiene.
 
-**Q6: ¿Cuánto afecta Phantom Liberty a la final base?**
+**Q: ¿Cuánto afecta Phantom Liberty a la final base?**
 A: Mucho — Firestarter decide la dirección de "La Torre." Planifica DLC y base juntos.
 
 ---

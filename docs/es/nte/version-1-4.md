@@ -96,24 +96,24 @@ Para los jugadores que siguen en 1.3, el ritmo sensato es: **primero evalúa si 
 
 Si quieres seguir rastreando versiones futuras, guarda en favoritos la [Hoja de ruta de NTE](/es/nte/roadmap) y el [Centro de estrategia de NTE](/es/nte/README).
 
-## ⑦ Preguntas frecuentes (FAQ)
+## Preguntas frecuentes
 
-**Q1: ¿Cuándo se lanza NTE 1.4?**
+**Q: ¿Cuándo se lanza NTE 1.4?**
 A: Según estimaciones filtradas, se espera que 1.4 se lance en torno a **finales de septiembre a principios de octubre de 2026**, justo después de que termine el banner de Linko de 1.3 (en torno al 9/30). Las fechas específicas no están confirmadas oficialmente; consulta los anuncios oficiales.
 
-**Q2: ¿Es fuerte Blackbird (Merula)? ¿Vale la pena extraerla?**
+**Q: ¿Es fuerte Blackbird (Merula)? ¿Vale la pena extraerla?**
 A: Blackbird se filtra como un personaje de Psyche con orientación Invocación / Teletransporte / Maldición, con un rol sospechado de soporte o DPS Mágico. Antes de que el gameplay y las estadísticas oficiales se confirmen, **la fuerza no puede determinarse**; se recomienda observar primero la [Lista de niveles de NTE](/es/nte/tier-list) y no vaciar tu Annulith prematuramente.
 
-**Q3: ¿Vale la pena ahorrar Annulith para Akane Rin?**
+**Q: ¿Vale la pena ahorrar Annulith para Akane Rin?**
 A: Gracias a su tema de ídolo y mecánicas musicales (búfer de ritmo / ataque sónico / soporte), Akane Rin es predicha por la comunidad como un **soporte Meta de alta versatilidad**, lo que la convierte en el objetivo que más vale la pena priorizar en tus ahorros de Annulith para 1.4. Pero esto sigue siendo inferencia filtrada; la fuerza final espera la verificación oficial.
 
-**Q4: ¿Qué debo extraer ahora (final de 1.3)?**
+**Q: ¿Qué debo extraer ahora (final de 1.3)?**
 A: Si te falta un soporte general, considera a Linko de 1.3 (9/9 - 9/30); de lo contrario, es más recomendable saltarlo y guardar tu Annulith para Akane Rin de 1.4. Consulta la [Guía de gacha de NTE](/es/nte/gacha) para la planificación específica.
 
-**Q5: ¿Es oficial la información de personajes de 1.4?**
+**Q: ¿Es oficial la información de personajes de 1.4?**
 A: **No.** Toda la información de personajes, habilidades y fechas de este artículo proviene de filtraciones de la comunidad y datamining, no está confirmada oficialmente y podría ser ajustada o rehecha. Por favor, toma los anuncios oficiales como la única norma.
 
-**Q6: ¿Cuál es el rol de Alphard en 2.0?**
+**Q: ¿Cuál es el rol de Alphard en 2.0?**
 A: Las filtraciones llaman a Alphard el **personaje meta de hito** de 2.0, acompañado de una expansión del mundo. Como está lejos de la línea de tiempo actual, es solo para referencia de planificación a largo plazo; consulta la [Hoja de ruta de NTE](/es/nte/roadmap) para más detalles.
 
 ---

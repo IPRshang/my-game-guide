@@ -36,7 +36,7 @@ Interactuar con un Datalogger otorga **Índice AIC**, que se gasta en el **Plan 
 
 Para un juego construido en torno a fábrica forzada + red eléctrica + bucles comerciales, el Índice AIC es el combustible para la escalada de medio a final de juego. **Desbloquear pronto = acumular pronto = la fábrica crece en cascada más rápido.**
 
-## 4. Preguntas frecuentes
+## Preguntas frecuentes
 
 - **¿Necesitas un puzzle?** No — desbloqueo puramente por historia.
 - **¿Te perdiste el diálogo de Andre?** Se otorga automáticamente al progresar; vigila el aviso de personaje sobre su cabeza.

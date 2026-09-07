@@ -71,24 +71,24 @@ Efficiency advice for series players (based on GTA's consistent design, expected
 
 ---
 
-## V. FAQ
+## FAQ
 
-**Q1: When exactly does GTA VI release?**
+**Q: When exactly does GTA VI release?**
 A: Officially **November 19, 2026**. It was previously delayed from Fall 2025 to May 26, 2026, then again to Nov 19. Any further change will follow Rockstar's announcements.
 
-**Q2: Will it come to PC?**
+**Q: Will it come to PC?**
 A: **No PC version announced yet.** Rockstar has historically launched on consoles first, PC later (see GTA V, RDR2); industry expects a PC version possibly in 2027, but nothing is confirmed.
 
-**Q3: Can PS4 / Xbox One play it?**
+**Q: Can PS4 / Xbox One play it?**
 A: **No.** Officially confirmed launch on current-gen consoles only; no plans for old consoles.
 
-**Q4: How much will it cost?**
+**Q: How much will it cost?**
 A: As of August 2026, pricing is unannounced. There are rumors of tiered editions (Standard / Deluxe / Collector's), but **go by the official store page**.
 
-**Q5: Is it worth pre-ordering now?**
+**Q: Is it worth pre-ordering now?**
 A: If you just want to play safely, waiting for launch-window reviews is safer; if you fear a physical-edition shortage, order from official channels once pre-orders open and check the refund policy.
 
-**Q6: Does it relate to GTA Online?**
+**Q: Does it relate to GTA Online?**
 A: GTA VI single-player and online are usually a separate-but-linked ecosystem; online is expected to launch separately after the single-player game.
 
 ---

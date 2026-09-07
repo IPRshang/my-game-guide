@@ -36,7 +36,7 @@ Interacting with a Datalogger grants **AIC Index**, spent in the **AIC Plan** to
 
 For a game built around forced factory + power grid + trade loops, AIC Index is the fuel for mid-to-late game scaling. **Unlock early = accumulate early = factory snowballs faster.**
 
-## 4. FAQ
+## FAQ
 
 - **Need a puzzle?** No — pure story unlock.
 - **Missed Andre's dialogue?** It's granted automatically as you progress; watch for the character prompt above his head.

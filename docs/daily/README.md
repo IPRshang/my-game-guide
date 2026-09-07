@@ -117,7 +117,7 @@ description: "每天一款高质量游戏深度推荐 — GGExplore 编辑精选
 
 ---
 
-## 五、常见问题（FAQ）
+## 常见问题
 
 **Q：明天（8/27）一定能看到真实 gameplay 吗？**
 A：Rockstar 称其为「An Extended Look」，多家媒体预期含 gameplay；是否给发售日未知，值得全程跟播。

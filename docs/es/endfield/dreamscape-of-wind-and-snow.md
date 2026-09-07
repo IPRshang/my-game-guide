@@ -105,24 +105,24 @@ Las nuevas zonas y personajes de 1.5 exigen más a la producción de base; plani
 
 🔮 **Especulación**: 1.5 podría introducir nuevas recetas de fabricación o productos intermedios; recomendamos mantener cierta capacidad redundante.
 
-## ⑧ Preguntas frecuentes
+## Preguntas frecuentes
 
-**Q1: ¿Cuándo se lanza Endfield 1.5?**
+**Q: ¿Cuándo se lanza Endfield 1.5?**
 ✅ Confirmado: Se lanza el 2026-09-02, dividido en dos oleadas el 9/2 y el 9/24.
 
-**Q2: ¿Vale la pena tirar por Typhoeus?**
+**Q: ¿Vale la pena tirar por Typhoeus?**
 ✅ Confirmado como Striker Natural a distancia con mecánicas completas; 🔮 para la fuerza exacta recomendamos consultar la [lista de niveles](/es/endfield/tier-list) tras el lanzamiento antes de decidir. Jugadores sin DPS Natural tienen prioridad de recomendación.
 
-**Q3: ¿Cómo consigo a Purrchena gratis?**
+**Q: ¿Cómo consigo a Purrchena gratis?**
 ✅ Confirmado: Participa en el Purrchena Tribute Event del 9/24 y completa 6 tareas para obtenerla gratis y a máximo potencial.
 
-**Q4: ¿Cuándo sale la versión de Steam?**
+**Q: ¿Cuándo sale la versión de Steam?**
 ✅ Confirmado que llegará a Steam con la lista de deseos abierta; 🔮 la fecha concreta no está fijada — vigila la página de la tienda.
 
-**Q5: ¿Cómo se juega el puzzle de Suiming?**
+**Q: ¿Cómo se juega el puzzle de Suiming?**
 ✅ Confirmado: El núcleo es un bucle temporal de 15 minutos, usando el flujo y reflujo de la marea para revelar nuevas calles, conservando las piezas recogidas y reparando la Waking Bell para resistir la Blight Tide.
 
-**Q6: ¿Cómo funciona el pity del gacha?**
+**Q: ¿Cómo funciona el pity del gacha?**
 🔮 Las reglas de pity están detalladas en [pity de gacha](/es/endfield/gacha-pity); si el banner de 1.5 mantiene las reglas actuales depende de los anuncios oficiales.
 
 ---

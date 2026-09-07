@@ -65,22 +65,22 @@ El [hub de NTE](/es/nte/) está igual de completo: códigos, tier list, principi
 
 ## Preguntas frecuentes
 
-**Q1: ¿Cuál es el más parecido a GTA 6?**
+**Q: ¿Cuál es el más parecido a GTA 6?**
 A: Por sabor "sandbox urbano criminal", **[Ananta](/es/ananta/)** (anime GTA) y **Sleeping Dogs** son los más cercanos; por pedigrí, el **GTA anterior (GTA 5)** sigue siendo el referente del género.
 
-**Q2: ¿Se podrá jugar GTA 6 en mi región?**
+**Q: ¿Se podrá jugar GTA 6 en mi región?**
 A: GTA 6 confirma lanzamiento en consola (PS5 / Xbox Series) el 2026-11-19; PC y tiendas por región esperan palabra de Rockstar. Nuestra [página de fecha](/es/gta6/release-guide) sigue las novedades.
 
-**Q3: ¿Pre-registro para Ananta o NTE?**
+**Q: ¿Pre-registro para Ananta o NTE?**
 A: Ambos son mundos abierto urbanos anime con posicionamiento solapado. Elige **[Ananta](/es/ananta/)** por "acción de superpoderes + ciudad moderna", **[NTE](/es/nte/)** por "arte tierno + vida sim" — pre-registrar ambos no cuesta nada.
 
-**Q4: ¿Con cuál calentar primero al mejor precio?**
+**Q: ¿Con cuál calentar primero al mejor precio?**
 A: Ya lanzados y baratos pero profundos: **Cyberpunk 2077 (con Phantom Liberty)** y **RDR2** — con descuentos excelentes, contenido para días.
 
-**Q5: Mi PC no corre GTA 6, ¿qué hago?**
+**Q: Mi PC no corre GTA 6, ¿qué hago?**
 A: Los requisitos PC de GTA 6 aún no salen. Mientras, sacia el gusto con **Sleeping Dogs / Watch Dogs 2** de menor requisito, luego revisa [requisitos PC de GTA 6](/es/gta6/pc-version) al publicarse.
 
-**Q6: ¿Estos juegos tienen chino / inglés?**
+**Q: ¿Estos juegos tienen chino / inglés?**
 A: RDR2, Cyberpunk 2077, Yakuza, Sleeping Dogs, Watch Dogs 2 traen texto multilenguaje oficial; Ananta y NTE, como proyectos de China / globales, incluyen chino + inglés por defecto.
 
 ---

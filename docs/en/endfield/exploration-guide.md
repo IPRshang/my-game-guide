@@ -50,7 +50,7 @@ If you still want to clear a region's chests, lower the cost:
 - Open "on-task" chests first; save the rest for when better movement exists.
 - Treat puzzle chests as easter eggs; don't run far just for a button sequence.
 
-## 6. FAQ
+## FAQ
 
 **Q: Should I clear every chest?**
 A: Not as a goal. Dozens of chests roughly equal one pull; full clears cost too much time. Grab on the way.

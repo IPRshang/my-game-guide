@@ -142,22 +142,22 @@ Max 16 cells lets the Hover Bike **fly 10+ min non-stop**. **Autobuild** unlocks
 
 ## FAQ
 
-**Q1: Must I do all 152 shrines?**
+**Q: Must I do all 152 shrines?**
 A: Not forced. But 4 Lights = 1 vessel; full collection maxes stamina/hearts; Master Sword needs ~20 (2 stamina rings).
 
-**Q2: Can 900 Koroks fill all three pouches?**
+**Q: Can 900 Koroks fill all three pouches?**
 A: No. Full needs 964; only 900 exist. Priority Weapon (441) > Shield (291) > Bow (232).
 
-**Q3: Where to get the 27 Zonai devices?**
+**Q: Where to get the 27 Zonai devices?**
 A: Mainly Zonai device dispensers; densest on sky islands and depths; battery charges via depths mining.
 
-**Q4: Depths too dark and draining hearts?**
+**Q: Depths too dark and draining hearts?**
 A: use Brightbloom seeds (bind to arrow, shoot) for long light; gloom damage heals via Sundelion meals or Lightroot halo; normal food doesn't help.
 
-**Q5: Can't find sky shrine entrances?**
+**Q: Can't find sky shrine entrances?**
 A: light the regional tower first; map shows sky archipelagos; 32 need vehicles — do after stamina is enough.
 
-**Q6: Does TOTK have DLC?**
+**Q: Does TOTK have DLC?**
 A: No paid DLC (per public reports / third-party estimates; only free fix patches, latest Ver. 1.4.3, 2026-02).
 
 ---

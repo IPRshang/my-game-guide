@@ -78,17 +78,17 @@ Consulta también el [centro de guías de Black Myth: Wukong](/es/wukong/) para 
 
 ## Preguntas frecuentes
 
-**Q1: ¿Cuántos jefes tiene Black Myth: Wukong?**
+**Q: ¿Cuántos jefes tiene Black Myth: Wukong?**
 A: En total hay **81 jefes** contando los jefes de historia, los jefes Yaoguai opcionales, los jefes ocultos y los mini jefes repartidos por los seis capítulos.
 
-**Q2: ¿Cuál es el primer jefe obligatorio y qué me enseña?**
+**Q: ¿Cuál es el primer jefe obligatorio y qué me enseña?**
 A: El **Guardián Toro**, en el Monte del Viento Negro. Es un jefe de entrenamiento que te obliga a aprender la combinación de esquivar, ataque ligero e Inmovilizar, y al derrotarlo desbloqueas el hechizo Inmovilizar.
 
-**Q3: ¿Cómo activo los jefes ocultos como Ceja Amarilla?**
+**Q: ¿Cómo activo los jefes ocultos como Ceja Amarilla?**
 A: Hay que **explorar al 100% la zona** correspondiente antes de avanzar de capítulo. En el caso de Ceja Amarilla, el Paraíso Menor del Oeste. Si avanzas la historia sin completar la zona, pierdes el combate.
 
-**Q4: ¿Cómo sobrevivo a la fase 3 del jefe final?**
+**Q: ¿Cómo sobrevivo a la fase 3 del jefe final?**
 A: Guarda la **transformación y el Inmovilizar** para la última fase. Ahí sus ventanas de daño son muy cortas, así que céntrate en esquivar y solo ataca cuando tengas la transformación lista para rematar.
 
-**Q5: ¿Qué hago si me atasco con un jefe?**
+**Q: ¿Qué hago si me atasco con un jefe?**
 A: Sal a **mejorar el equipo y las píldoras**. Subir estadísticas y conseguir mejor armadura suele marcar más diferencia que perfeccionar la ejecución; el juego está diseñado para que puedas irte y volver más fuerte.

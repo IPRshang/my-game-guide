@@ -77,22 +77,22 @@ Based on the 1988 tabletop *Cyberpunk*, it's steeped in anti-utopian, cyberware,
 
 ## FAQ
 
-**Q1: Still worth buying now? Same game as at launch?**
+**Q: Still worth buying now? Same game as at launch?**
 A: Post-2.0 it's a **transformative** version — systems rebuilt, bugs sharply reduced, reputation reversed. New players should just buy the Ultimate Edition.
 
-**Q2: Need to buy Phantom Liberty separately?**
+**Q: Need to buy Phantom Liberty separately?**
 A: For the full experience **strongly recommended** (Ultimate Edition includes it). It's the final major expansion, top-tier story and systems.
 
-**Q3: Can it run on Switch 2 / Mac?**
+**Q: Can it run on Switch 2 / Mac?**
 A: Yes. In 2026 the **Ultimate Edition** launched on **Nintendo Switch 2** and **macOS (Apple Silicon)**, with cross-platform cloud saves.
 
-**Q4: PS5 Pro enhanced?**
+**Q: PS5 Pro enhanced?**
 A: Yes. A free April 2026 update added ray-traced Pro mode and PSSR upscaling, with three graphics modes.
 
-**Q5: What's the latest version? More content?**
+**Q: What's the latest version? More content?**
 A: As of 2026, latest is **2.3 + 2.31**. 2.3 added AutoDrive, 4 new vehicles, photo mode enhancements; CDPR calls 2.3 the last major content update, with follow-up focused on tech / platform support. Sequel **Cyberpunk 2** (UE5) is in pre-production, expected after 2028.
 
-**Q6: Motion sick from first-person?**
+**Q: Motion sick from first-person?**
 A: You can switch to third-person in cars / bikes; adjust FOV and motion blur in settings to ease it.
 
 ---

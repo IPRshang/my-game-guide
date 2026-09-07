@@ -138,7 +138,7 @@ R: Sí, pero el reembolso va al método de pago original y puede tardar más en 
 
 ---
 
-## 6. Preguntas frecuentes
+## Preguntas frecuentes
 
 **P1: ¿Dónde puedo precomprar GTA6 ahora?**
 R: Desde el 25 de junio de 2026, las precompras están abiertas en las tiendas digitales de PS5 y Xbox (la fecha de PC está por confirmar, se espera 2027+). Tanto la PlayStation Store (continental y HK) como Microsoft Store lo tienen.

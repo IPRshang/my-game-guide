@@ -182,28 +182,28 @@ Rockstar revealed pricing alongside pre-orders on June 25, 2026:
 
 ## 7. Frequently Asked Questions
 
-**Q1: Will GTA6 come to PC?**
+**Q: Will GTA6 come to PC?**
 A: Yes. Rockstar almost always releases PC versions, usually 12–18 months after console launch.
 
-**Q2: Will GTA6 be on PS4 / Xbox One?**
+**Q: Will GTA6 be on PS4 / Xbox One?**
 A: No. Rockstar has confirmed GTA6 is only for PS5, Xbox Series X|S, and later PC.
 
-**Q3: Can a laptop run GTA6?**
+**Q: Can a laptop run GTA6?**
 A: Only gaming laptops from 2023+ with RTX 4060 or better. Thin-and-light laptops with integrated graphics will not run it well.
 
-**Q4: Will PS5 Pro improve GTA6?**
+**Q: Will PS5 Pro improve GTA6?**
 A: Likely. Rockstar is expected to release a PS5 Pro enhancement patch for higher resolution or more stable frame rates.
 
-**Q5: Will GTA6 go on sale before launch?**
+**Q: Will GTA6 go on sale before launch?**
 A: Unlikely. GTA titles rarely discount at launch; pre-order bonuses are usually the best early deal.
 
-**Q6: Is the "$1 billion in one hour" claim true?**
+**Q: Is the "$1 billion in one hour" claim true?**
 A: This figure has circulated on social media and in industry analysis to describe pre-order heat. **Treat it as unconfirmed until Rockstar or Take-Two reports official financials.**
 
-**Q7: Will GTA6 have Chinese voice acting?**
+**Q: Will GTA6 have Chinese voice acting?**
 A: Unknown. GTA5 and RDR2 supported Chinese subtitles but not Chinese voice-over at launch.
 
-**Q8: Why pre-order now?**
+**Q: Why pre-order now?**
 A: Three reasons: stable launch pricing, possible pre-order bonuses, and avoiding download queues / sold-out physical copies.
 
 ---

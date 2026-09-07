@@ -117,7 +117,7 @@ After ONL, two key nodes for Ananta:
 2. Release-date news — **trust only official sources**; any phrasing like 1H 2027 should first be labeled "analyst speculation";
 3. Monetization follows the "confirmed vs rumor" on the [Ananta Monetization](/en/ananta/monetization) page; the no-gacha claim should **not be treated as settled** until officially confirmed.
 
-## 7. FAQ
+## FAQ
 
 **Q: Has Ananta's release date been set?**
 A: No. There is currently **no official release date**. NetEase's target was once written as 2026, but analysts such as JPMorgan speculate 1H 2027 — this is **analyst speculation, not an official date**. Everything is subject to official announcements.

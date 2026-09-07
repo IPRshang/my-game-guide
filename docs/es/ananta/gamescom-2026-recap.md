@@ -117,7 +117,7 @@ Tras el ONL, dos nodos clave para Ananta:
 2. Las noticias de fecha de lanzamiento —**solo fuentes oficiales**—; cualquier frase como 1H 2027 debe primero etiquetarse como «especulación de analistas»;
 3. La monetización sigue el «confirmado vs rumor» en la página [Monetización de Ananta](/es/ananta/monetization); la afirmación de sin gacha **no debe tomarse como concluida** hasta confirmarse oficialmente.
 
-## 7. Preguntas frecuentes
+## Preguntas frecuentes
 
 **Q: ¿Se ha fijado la fecha de lanzamiento de Ananta?**
 A: No. Actualmente **no existe una fecha de lanzamiento oficial**. El objetivo de NetEase se escribió en un momento como 2026, pero analistas como JPMorgan especulan 1H 2027 — esto es **especulación de analistas, no una fecha oficial**. Todo está sujeto a anuncios oficiales.

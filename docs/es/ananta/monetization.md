@@ -108,7 +108,7 @@ Los canales oficiales incluyen la web `anantagame.com`, las redes sociales ofici
 **3. ¿Se distingue entre fase de desarrollo y versión de lanzamiento?**
 El diseño de una versión de prueba no equivale al diseño de la versión final. Ananta realizó en enero de 2026 una prueba cerrada de PC en China, pero el diseño en fase de prueba no constituye un compromiso de lanzamiento.
 
-## 7. Preguntas frecuentes (FAQ)
+## Preguntas frecuentes
 
 **Q: ¿Está confirmado que Ananta no tiene gacha?**
 A: No está confirmado. «Sin gacha» es por ahora un rumor de los medios japoneses que NetEase nunca ha confirmado oficialmente. No lo trates como un hecho confirmado.

@@ -159,25 +159,25 @@ A: Yes, but refunds go back to the original payment method and may take longer f
 
 ## 6. Frequently Asked Questions
 
-**Q1: Where can I pre-order GTA6 now?**
+**Q: Where can I pre-order GTA6 now?**
 A: Since June 25, 2026, pre-orders are open on the PS5 and Xbox digital stores (PC date TBA, expected 2027 or later). Both the mainland and HK PlayStation Store and Microsoft Store carry it.
 
-**Q2: PS5 or Xbox — which is better value?**
+**Q: PS5 or Xbox — which is better value?**
 A: Both run at 60 FPS at launch. PS5 (CN) can log into HK accounts via backup/restore for a fuller store; Xbox Series X is more powerful and flexible on region pricing. Tight budget → Xbox Series S (visual compromise); visual priority → PS5 Pro. Edition choice (Standard vs Ultimate) is covered on the [GTA6 Editions page](./editions).
 
-**Q3: Should I use low-price regions or third-party top-ups?**
+**Q: Should I use low-price regions or third-party top-ups?**
 A: Strongly not recommended. Top-ups, "black cards," and cheap Taobao codes are usually stolen cards or refund scams and can get your account banned. Only buy from official stores or trusted physical retailers.
 
-**Q4: Can I get a refund on a GTA6 pre-order?**
+**Q: Can I get a refund on a GTA6 pre-order?**
 A: Pre-orders are usually fully refundable before launch. After launch, PlayStation and Microsoft stores generally allow refunds within 14 days if barely played; Steam and Epic allow 14 days with under 2 hours of play. Do not start the download or play before launch, or refunds get harder.
 
-**Q5: Digital or physical disc — which is better?**
+**Q: Digital or physical disc — which is better?**
 A: Digital for the fastest day-one access; physical if you collect or want to resell after finishing. Launch-day physical copies may be marked up, then drop later.
 
-**Q6: Is the "50 million pre-orders" number real?**
+**Q: Is the "50 million pre-orders" number real?**
 A: It has circulated on social media and in industry analysis, **but has not been officially confirmed**. It reflects market expectations, not final financial data.
 
-**Q7: What should PC players prepare now?**
+**Q: What should PC players prepare now?**
 A: Reserve 150GB+ NVMe SSD space per our [GTA6 PC Specs Guide](./release-guide), and wishlist on Steam / Epic for the PC launch notification.
 
 ---

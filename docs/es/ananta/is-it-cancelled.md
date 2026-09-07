@@ -104,7 +104,7 @@ Para requisitos de sistema, véase [Requisitos de sistema de Ananta](/es/ananta/
 
 La guía completa de horarios, conversión de zonas horarias y lista de expectativas está en [Ananta Gamescom 2026: resumen de la noche inaugural](/es/ananta/gamescom-2026-recap).
 
-## 7. Preguntas frecuentes (FAQ)
+## Preguntas frecuentes
 
 **Q: ¿Ha sido cancelado Ananta?**
 A: No. No hay ningún anuncio oficial de cancelación, el proyecto sigue confirmado en desarrollo y aparecerá en la Gamescom Opening Night Live del 25 de agosto de 2026.
