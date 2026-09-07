@@ -645,14 +645,14 @@ module.exports = {
             {
               title: 'Black Myth: Wukong',
               collapsable: false,
-              children: ['', 'boss-guide']
+              children: ['', 'boss-guide', 'anniversary-2026', 'builds', 'collectibles', 'combat-guide', 'secrets', 'spells']
             }
           ],
           '/es/zelda/': [
             {
               title: 'Zelda: Tears of the Kingdom',
               collapsable: false,
-              children: ['', 'cooking']
+              children: ['', 'cooking', 'depths-guide', 'korok-seeds', 'shrines', 'weapons', 'zonai-devices']
             }
           ]
 

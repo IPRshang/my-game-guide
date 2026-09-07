@@ -13,19 +13,19 @@ Consulta también el [centro de guías de Black Myth: Wukong](/es/wukong/) para 
 
 ## Capítulo 1: Monte del Viento Negro
 
-### Guardián Toro (牯护院)
+### Guardián Toro
 - **Dificultad**: ★☆☆☆☆
 - **Tipo**: Rey Yaoguai
-- **Notas**: es el **primer jefe obligatorio** del juego, un guardián que no puedes saltarte. A mitad del combate desbloqueas Inmovilizar (定身术).
+- **Notas**: es el **primer jefe obligatorio** del juego, un guardián que no puedes saltarte. A mitad del combate desbloqueas Inmovilizar.
 - **Estrategia**: practica la combinación básica de esquivar + ataque ligero + Inmovilizar. Es un jefe de entrenamiento.
 - **Recompensa**: desbloquea el hechizo Inmovilizar
 
-### Guangzhi (广智) ※ Primer Jefe Yaoguai opcional
+### Guangzhi ※ Primer Jefe Yaoguai opcional
 - **Dificultad**: ★★☆☆☆
 - **Ubicación**: Bosque de los Lobos / Afueras del bosque
 - **Notas**: el primer Jefe Yaoguai opcional. Al derrotarlo obtienes tu primera habilidad de Transformación.
 - **Estrategia**: sus ataques con espadas gemelas tienen mucho alcance. Observa sus patrones antes de acercarte.
-- **Recompensa**: hechizo de Transformación Mareas Rojas (赤潮)
+- **Recompensa**: hechizo de Transformación Mareas Rojas
 
 ## Capítulo 2: Cresta del Viento Amarillo
 
