@@ -95,17 +95,36 @@ A: GTA VI single-player and online are usually a separate-but-linked ecosystem; 
 
 ## Strategy Navigation (sub-pages are preview/leak-oriented, for reference only before release)
 
+### Release & Purchase
+- **[Release Date](./release-date)** — Nov 19, 2026 and per-platform launch timing
+- **[Pricing & Editions](./price)** — Standard / Deluxe / Collector's tiers and recommendations
+- **[Edition Contents](./editions)** — what each collector's edition includes
+- **[Pre-order Guide](./preorder-guide)** — official channels and refund policy
+- **[Pre-order Bonuses](./pre-order-bonus)** — retailer-exclusive content roundup
+- **[PC Version Outlook](./pc-version)** — unannounced; historical PC-lag patterns
+
 ### Getting Started
 - **[Quick Money Guide (preview)](./money-guide)** — cash-stacking ideas based on series mechanics
 - **[Main Story Walkthrough (preview)](./story-guide)** — to be filled after launch
+- **[Characters & Dual-Protagonist System](./character-guide)** — Lucia & Jason switching preview
+- **[Early-Game Speedrun Guide](./early-guide)** — new-player opening routes
 
 ### Gear & Vehicles
 - **[Best Vehicles (preview)](./best-vehicles)** — series vehicle tier reference
 - **[Weapons Database (preview)](./weapons)** — pending real in-game data
 
+### Map & Exploration
+- **[Map & Cities Guide](./map-guide)** — Vice City / Leonida overview preview
+- **[Hidden Locations & Easter Eggs (preview)](./hidden-locations)** — to be updated after launch
+- **[Extended Look Gameplay Breakdown](./extended-look-guide)** — full deep-dive on the 8/27 demo
+- **[Extended Look Recap](./extended-look-recap)** — quick recap of the 8/27 demo
+
 ### Deep Dive
 - **[Cheats Compilation (preview)](./cheats)** — classic cheat codes roundup
-- **[Hidden Locations & Easter Eggs (preview)](./hidden-locations)** — to be updated after launch
+- **[Database & Codex (preview)](./database)** — weapons / vehicles / items reference
+- **[Leaks & Credibility Ratings](./leaks)** — source-tier policy and what to trust
+- **[Achievements Guide](./achievements)** — full trophy / achievement walkthrough
+- **[Launch-Week Survival Guide](./release-guide)** — day-one patch and first-week priority list
 
 ---
 
@@ -118,6 +137,7 @@ A: GTA VI single-player and online are usually a separate-but-linked ecosystem; 
 
 | Date | Update |
 |------|----------|
+| 2026-09-07 | Navigation now covers all 21 sub-pages (Release & Purchase / Getting Started / Gear & Vehicles / Map & Exploration / Deep Dive); no internal orphans left; mirrored to zh/es siblings |
 | 2026-08-06 | Corrected release date to 2026-11-19 (second delay); restructured into full guide (background/mechanics/beginner/advanced/FAQ) |
 | 2026-07-24 | English version launched |
 | 2026-07-23 | Added story walkthrough, vehicle guide, weapons, cheats, hidden locations |
