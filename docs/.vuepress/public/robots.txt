@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# Block duplicate .html URLs (clean URLs are the canonical ones)
+Disallow: /*.html$
+
 Sitemap: https://ggexplore.com/sitemap.xml
