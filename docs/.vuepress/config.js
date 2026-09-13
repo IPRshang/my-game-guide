@@ -25,11 +25,6 @@ module.exports = {
       title: 'GTA6, Endfield, NTE and Ananta Guides | ggexplore.com',
       description: 'Game guides for GTA 6, Arknights: Endfield, Neverness to Everness (NTE), and Ananta: release dates, redeem codes, tier lists, gacha simulator, base planner, maps, leaks and daily picks.'
     },
-    '/es/': {
-      lang: 'es-ES',
-      title: 'Guías de GTA6, Endfield, NTE y Ananta | ggexplore.com',
-      description: 'Guías de GTA 6, Arknights: Endfield, Neverness to Everness (NTE) y Ananta: fechas de lanzamiento, códigos, tier lists, simulador, planner, mapas, filtraciones y recomendaciones diarias.'
-    }
   },
   head: [
     // 百度统计
