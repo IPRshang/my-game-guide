@@ -43,7 +43,6 @@ module.exports = {
       })();
     `],
     // SEO meta tags
-    ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { name: 'author', content: 'Game Strategy Hub' }],
     ['meta', { name: 'keywords', content: 'GTA6攻略,GTA6指南,Arknights Endfield攻略,终末地攻略,NTE攻略,Neverness to Everness攻略,Ananta攻略,兑换码,redeem codes,tier list,节奏榜,抽卡模拟器,基地规划器,gacha simulator,base planner,泄露,leaks,发售时间,release date,地图,map,每日推荐' }],
     // Open Graph / Facebook
@@ -61,6 +60,13 @@ module.exports = {
     // Baidu Site Verification
     ['meta', { name: 'baidu-site-verification', content: 'codeva-OQUtj5l4cW' }],
   ],
+  extendPageData(page) {
+    if (page.path && page.path.startsWith('/es/')) {
+      var meta = (page.frontmatter.meta || []).filter(function (m) { return !(m && m.name === 'robots'); });
+      meta.push({ name: 'robots', content: 'noindex' });
+      page.frontmatter.meta = meta;
+    }
+  },
   themeConfig: {
     smoothScroll: true,
     locales: {
@@ -264,28 +270,28 @@ module.exports = {
             {
               title: '赛博朋克 2077',
               collapsable: false,
-              children: ['', 'cyberware', 'endings', 'builds', 'phantom-liberty', 'romance', 'achievements']
+              children: ['', 'cyberware', 'endings', 'builds', 'phantom-liberty', 'romance', 'achievements', 'lifepaths', 'perks', 'quickhacks']
             }
           ],
           '/elden-ring/': [
             {
               title: '艾尔登法环',
               collapsable: false,
-              children: ['', 'beginner-guide', 'early-game', 'bosses', 'legendary-weapons', 'best-weapons', 'builds', 'malenia', 'quests', 'co-op', 'dlc-guide', 'summary']
+              children: ['', 'beginner-guide', 'early-game', 'bosses', 'legendary-weapons', 'best-weapons', 'builds', 'malenia', 'quests', 'co-op', 'dlc-guide', 'summary', 'talismans', 'spirit-ashes', 'map-fragments']
             }
           ],
           '/wukong/': [
             {
               title: '黑神话：悟空',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'spells', 'combat-guide', 'collectibles', 'secrets', 'anniversary-2026']
+              children: ['', 'boss-guide', 'builds', 'spells', 'combat-guide', 'collectibles', 'secrets', 'anniversary-2026', 'gourds', 'transformations', 'staff-stances']
             }
           ],
           '/zelda/': [
             {
               title: '塞尔达：王国之泪',
               collapsable: false,
-              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices', 'depths-guide']
+              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices', 'depths-guide', 'armor', 'fuse', 'depths']
             }
           ]
 
