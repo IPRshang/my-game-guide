@@ -476,28 +476,28 @@ module.exports = {
             {
               title: 'Cyberpunk 2077',
               collapsable: false,
-              children: ['', 'cyberware', 'endings', 'builds', 'romance', 'achievements']
+              children: ['', 'cyberware', 'endings', 'builds', 'romance', 'achievements', 'perks', 'quickhacks', 'lifepaths']
             }
           ],
           '/en/elden-ring/': [
             {
               title: 'Elden Ring',
               collapsable: false,
-              children: ['', 'beginner-guide', 'bosses', 'legendary-weapons', 'builds', 'quests']
+              children: ['', 'beginner-guide', 'bosses', 'legendary-weapons', 'builds', 'quests', 'talismans', 'spirit-ashes', 'map-fragments']
             }
           ],
           '/en/wukong/': [
             {
               title: 'Black Myth: Wukong',
               collapsable: false,
-              children: ['', 'boss-guide', 'builds', 'spells', 'collectibles', 'secrets']
+              children: ['', 'boss-guide', 'builds', 'spells', 'collectibles', 'secrets', 'gourds', 'transformations', 'staff-stances']
             }
           ],
           '/en/zelda/': [
             {
               title: 'Zelda: Tears of the Kingdom',
               collapsable: false,
-              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices']
+              children: ['', 'shrines', 'korok-seeds', 'cooking', 'weapons', 'zonai-devices', 'armor', 'fuse', 'depths']
             }
           ]
         },
