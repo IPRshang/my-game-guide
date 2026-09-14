@@ -1,12 +1,19 @@
 ---
-description: "Zelda Tears of the Kingdom weapon guide: best Fuse combinations, strongest weapon recipes, durability repair tricks."
+title: Zelda: TotK — Best Weapons Guide (Switch 2 / Ver.1.4.3)
+date: 2026-09-15
+description: "TotK weapon breakdown for the Switch 2 Edition / Ver.1.4.3 era: real ATK and durability tables, the Fuse materials that actually move the needle, and the durability myths that make players hoard the wrong gear."
 tags: ["Zelda","Tears of the Kingdom","TotK","weapons","Fuse","crafting"]
-date: 2026-09-06
 ---
 
 # Zelda: TotK — Best Weapons Guide
 
 > From tree branch to Master Sword — Hyrule's ultimate arsenal
+
+Weapon tier lists for TotK are mostly misleading, because raw ATK matters far less than **Fuse**. A rusty stick with a Silver Lynel Horn attached out-damages most "legendary" base weapons, and every base breaks anyway. This guide keeps our full ATK/durability tables verbatim below — but the real takeaway is in the Fuse column, not the weapon column. Pair this with our [Fuse deep-dive](/en/zelda/fuse/) and you'll out-damage any pre-built sword.
+
+> **Beginner trap we see constantly:** players hunt for the "best base weapon" and ignore materials. In TotK the base is a handle; the fused material is the damage. Stop searching for a perfect sword and start stockpiling horns.
+
+**Our call:** the Master Sword is the only weapon worth protecting — it recharges instead of breaking. Everything else is a fuse-platform you'll discard.
 
 ## One-Handed Swords
 
@@ -26,6 +33,8 @@ date: 2026-09-06
 | Savage Lynel Crusher | 58 | Silver Lynel drop |
 | Fierce Deity Sword | 50 | Coliseum Ruins |
 
+**Our call:** the Royal Guard's Claymore's 72 ATK is the highest base in this table, but its durability is intentionally terrible. Fuse a durable horn onto it and it becomes a glass-cannon boss-killer — great for [shrine Proving Grounds](/en/zelda/shrines/) where you don't care about longevity.
+
 ## Spears
 
 | Weapon | ATK | Trait |
@@ -42,6 +51,8 @@ date: 2026-09-06
 | Great Eagle Bow | 28×3 | Triple shot |
 | Savage Lynel Bow | 32×3 | 5-shot variant exists |
 | Twilight Bow | 30 | Infinite durability (amiibo) |
+
+**Our call:** the Twilight Bow's infinite durability (amiibo) makes it the only bow you never replace — perfect for farming Dragon Horns for [cooking buffs](/en/zelda/cooking/). The Savage Lynel Bow's 5-shot variant is the raw-damage king if you can land the headshots.
 
 ## Special Weapons
 
@@ -65,6 +76,8 @@ date: 2026-09-06
 | Rotate Regularly | Don't use one weapon until it breaks |
 | Lynx Cycle | Re-farm Lynel weapons after every Blood Moon |
 
+**Our call:** the Rock Octorok repair (in the FAQ below) is the only "legit" durability reset worth planning around. The menu glitch is a duplication exploit — fun, but not something we build a guide around.
+
 ## 🔗 More Zelda: TotK Guides
 - [Zelda Cooking Recipes](/en/zelda/cooking) — best meals & elixirs for buffs
 - [Zelda Zonai Devices](/en/zelda/zonai-devices) — how to use all devices
@@ -81,3 +94,16 @@ date: 2026-09-06
 **Q: What are the best Fuse materials?** A: Silver Lynel horn gives the highest ATK boost; Gibdo bone, Molduga jaw, and King Part (from King Gleeok) are also top-tier.
 
 **Q: How do you repair weapons in Tears of the Kingdom?** A: A Rock Octorok inhales your weapon and spits it out fully repaired (once per Octorok, resets on Blood Moon). Unique repairable weapons like the Lightscale Trident can be remade at their source.
+
+---
+
+## Common Weapon Mistakes (and the Fix)
+
+1. **Hoarding the Master Sword.** It recharges — use it, don't shelf it. Fix: swing it freely; the 10-minute recharge is a feature, not a cost.
+2. **Chasing base ATK over Fuse ATK.** A 30-ATK stick + Lynel horn beats a 72-ATK claymore unfused. Fix: judge a weapon by its fuse slot, not its number.
+3. **Ignoring the Rock Octorok repair.** Fix: find one in the Depths, feed it your best unique weapon each Blood Moon to keep it near-pristine.
+4. **Wasting the Lightscale Trident.** It's repairable at source — unlike every other weapon. Fix: actually use it; don't treat it as a trophy.
+
+---
+
+*Last updated for Tears of the Kingdom Ver.1.4.3 (Switch 2 Edition era). All ATK, durability, and source data above are reproduced from our master weapon table; added commentary reflects in-game Fuse and repair mechanics, not changed numbers.*
