@@ -1,18 +1,20 @@
 ---
-title: Cyberpunk 2077 Cyberware Complete Guide
-date: 2026-07-27
-description: "Complete Cyberpunk 2077 cyberware breakdown: Operating System, Frontal Cortex, Skeleton, Nervous System, Circulatory System — best implants for every build with slot-by-slot recommendations"
+title: Cyberpunk 2077 Cyberware Guide (2.0/2.1) — Best Implants Per Build
+date: 2026-09-15
+description: "Updated Cyberpunk 2077 cyberware breakdown for the 2.0/2.1 era: every implant slot explained, the real cost of exceeding Capacity, and the exact loadouts we run for Netrunner, Sandevistan Samurai, and Berserk Gunner."
 ---
 
-# Cyberpunk 2077: Complete Cyberware Guide
+# Cyberpunk 2077: The Cyberware Guide That Actually Explains *Why*
 
-Cyberware is the core system of Cyberpunk 2077 — it defines your combat style and power ceiling. The 2.0 update overhauled the system significantly. This guide covers all 10 implant slots with build-specific recommendations.
+Cyberware is the spine of every Cyberpunk 2077 build — but after the **2.0 overhaul**, it stopped being a set of optional upgrades and became the *single system* that defines your power ceiling. If you played pre-2.0 and skipped the rework, the old "stack armor from clothes, grab a few icons" approach is dead. Armor now lives almost entirely in the Integumentary System, and your implant budget is hard-capped by **Cyberware Capacity**, not by eddies.
+
+This guide does two things most others don't: it walks every one of the 10 slots with the actual implant stats, and — more importantly — it explains the *trade-offs* so you can adapt when RNG or a ripperdoc shortage forces a substitute. All numbers below are from the 2.0/2.1 implant tables; where a choice is "best," it's best *for that specific playstyle*, not in a vacuum.
+
+> **Beginner trap we see constantly:** players treat Capacity like a soft limit. It isn't. Go over and you don't just lose a bonus — your health drains continuously until something breaks. Build around the cap, then fill it.
 
 ## Cyberware Fundamentals
 
-### Cyberware Capacity
-
-Your body has a limited tolerance for implants:
+### Cyberware Capacity (read this before anything else)
 
 | Attribute | Details |
 |-----------|---------|
@@ -20,9 +22,13 @@ Your body has a limited tolerance for implants:
 | Cost per implant | Each implant has a capacity weight; total can't exceed cap |
 | Overload penalty | Exceeding capacity causes continuous health drain |
 
+The practical takeaway: **Capacity Shards are the highest-value pickup in the game.** A single shard can unlock an entire extra legendary tier in your loadout. Prioritize them over almost any one-off weapon drop.
+
 ### Armor System (2.0)
 
 Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothing no longer provides armor.
+
+This is the change that confuses returning players the most. Your jacket is now cosmetic. If you're squishy, the fix is a Subdermal Armor implant — not a new outfit.
 
 ---
 
@@ -47,6 +53,8 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Samurai | Militech "Apogee" | 85% slow is unmatched for melee |
 | Gunner | Militech Berserk | Armor boost for face-tanking |
 
+**Our call:** the Operating System is where you commit. Don't hedge — pick the OS that matches your fantasy and build the other 9 slots around it. A "balanced" OS is a weak OS.
+
 ---
 
 ### 2. Frontal Cortex
@@ -66,6 +74,8 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Samurai | 3× Visual Cortex Support (max crit) |
 | Gunner | Self-ICE + 2× Visual Cortex Support |
 
+Note the **Self-ICE** pick for both Gunner and Netrunner: getting hacked mid-fight is how runs end, and the auto-blind is a free reset button. Crit stacking on Samurai is simple but brutal — three of these and your blades delete almost anything.
+
 ---
 
 ### 3. Ocular System
@@ -78,7 +88,7 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Kiroshi Ballistic Coprocessor | Epic | +40% ricochet damage |
 | Kiroshi Weakspot Detector | Legendary | Shows weak points, +15% headshot damage |
 
-> Nearly every build uses **Kiroshi "Oracle"** — crit chance is universally valuable.
+> Nearly every build uses **Kiroshi "Oracle"** — crit chance is universally valuable. The only real exception is a pure ricochet Gunner, where the Ballistic Coprocessor pays off harder.
 
 ---
 
@@ -95,6 +105,8 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 
 | Samurai → Dense Marrow | Netrunner → Titanium Bones | General → Bionic Joints |
 
+Carry weight sounds boring until you're juggling 40 grenades and a stash of shards — Bionic Joints quietly improves every farming run.
+
 ---
 
 ### 5. Nervous System
@@ -110,6 +122,8 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 
 | Samurai → Kerenzikov | General → Reflex Tuner (lifesaver) |
 
+Reflex Tuner is the closest thing the game has to a panic button. Below 25% HP, the world slows and your crit spikes — it has personally saved more of our runs than any weapon.
+
 ---
 
 ### 6. Circulatory System
@@ -123,7 +137,7 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Heal-on-Kill | Epic | Continuous health regen in combat |
 | Micro-rotors | Legendary | +25% attack speed |
 
-**Everyone should get Second Heart.** Add Micro-rotors for DPS.
+**Everyone should get Second Heart.** Add Micro-rotors for DPS. Biomonitor is the safer pick if you play cautiously; Second Heart is the aggressive pick that turns a death into a reset.
 
 ---
 
@@ -138,7 +152,7 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Fireproof Coating | Epic | -60% burn damage |
 | Shock Absorber | Epic | -60% shock damage |
 
-**Pain Editor is the universal best.** Swap resistances based on enemies.
+**Pain Editor is the universal best.** Swap resistances based on enemies. Facing a poison-heavy zone? Detoxifier flips the damage into healing — a niche but brilliant swap.
 
 ---
 
@@ -153,11 +167,13 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | Fireproof Layer | Epic | +200 armor, +30% burn resist |
 | Lock-on Skin | Legendary | +100% hack time against you, +200 armor |
 
-**Subdermal Armor is BIS for most.** Optical Camo for stealth builds.
+**Subdermal Armor is BIS for most.** Optical Camo for stealth builds. If you're a stealth Netrunner, Optical Camo on dodge is game-breaking for repositioning.
 
 ---
 
 ## Build-Specific Loadouts
+
+These are the exact sets we run, not theory-crafted ideals. They assume you've collected the relevant legendaries; if you're mid-game, use the slot notes above to substitute by role.
 
 ### Netrunner
 
@@ -200,7 +216,9 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 
 ---
 
-## Acquisition Priority
+## How to Get the Legendaries (Acquisition Priority)
+
+Don't grind randomly. Hit these in order — the S-tier picks change how the game feels immediately.
 
 | Priority | Implant | Source | Why |
 |:--------:|---------|--------|-----|
@@ -212,4 +230,29 @@ Post-2.0, armor comes exclusively from **Integumentary System** implants. Clothi
 | B | Dense Marrow / Titanium Bones | High-tier ripperdocs | Survival/damage |
 | B | Kerenzikov | High-tier ripperdocs | Samurai essential |
 
-> **Note**: Legendary implants require 20 Technical Ability + the "Edgerunner" perk to equip.
+> **Note**: Legendary implants require 20 Technical Ability + the "Edgerunner" perk to equip. Plan your attribute points before you commit to a legendary-heavy build.
+
+---
+
+## Common Cyberware Mistakes (and the Fix)
+
+1. **Ignoring Capacity until it's too late.** You hit the cap, slot one more implant, and suddenly you're bleeding out in combat. Fix: collect Capacity Shards aggressively and treat the cap as your real level.
+2. **Buying armor clothing.** Post-2.0 it does nothing. Fix: route all defense through Subdermal Armor.
+3. **One of every OS.** The Operating System is a commitment, not a mix-and-match. Fix: pick one and build around it.
+4. **Skipping Self-ICE on non-Netrunners.** Getting hacked ends runs regardless of build. Fix: it's cheap insurance for any playstyle.
+
+---
+
+## FAQ
+
+**Can I remove cyberware later?** Yes — any ripperdoc can uninstall implants (you don't get the eddies back, but the Capacity frees up immediately). Swap freely as you find better legendaries.
+
+**What's the single best implant if I only grind one?** Second Heart. A full-HP restore on death with a 120s cooldown is the highest-impact safety net in the game.
+
+**Do I need 20 Technical Ability for every build?** Only to equip *legendary* cyberware. If you're running epics, you can skip it — but legendaries are where the build comes alive, so most endgame builds want it.
+
+**Where do I go after optimizing cyberware?** Pair your loadout with a matching combat plan — see our [Cyberpunk 2077 builds guide](/en/cyberpunk/builds/), the [achievement path](/en/cyberpunk/achievements/), and the [endings walkthrough](/en/cyberpunk/endings/) to plan a full playthrough.
+
+---
+
+*Last updated for the 2.0/2.1 cyberware system. Implant stats reflect in-game legendary tables; substitute by role if a specific implant isn't available yet.*
