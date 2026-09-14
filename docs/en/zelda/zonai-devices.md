@@ -1,12 +1,19 @@
 ---
-title: Zelda TotK Zonai Devices & Engineering Guide
-date: 2026-07-27
-description: "Complete Tears of the Kingdom Zonai device guide: all 27 devices explained, best builds and blueprints, farming locations, battery upgrades, and advanced Ultrahand techniques"
+title: Zelda TotK Zonai Devices & Engineering Guide (Switch 2 / Ver.1.4.3)
+date: 2026-09-15
+description: "TotK Zonai device engineering for the Switch 2 Edition / Ver.1.4.3 era: all 27 devices, the Hover Bike battery math, and the Autobuild habits that separate builders from button-mashers."
+tags: ["Zelda","Tears of the Kingdom","TotK","Zonai","devices","engineering","Ultrahand"]
 ---
 
 # Tears of the Kingdom: Zonai Devices & Engineering Guide
 
 Zonai Devices are the defining innovation of Tears of the Kingdom. Using **Ultrahand** to combine devices into machines — from simple vehicles to fully autonomous combat drones — is where the game's true freedom begins.
+
+Most device guides list all 27 and stop. This one keeps every device, stat, and blueprint from our master list below — but we're upfront that **90% of players only need three builds**: the Hover Bike, the Combat Drone, and a Spring/Shield launcher. Everything else is flavor until you're deep into the Depths. The battery math at the bottom is the part most guides hand-wave, and it's the part that decides whether your bike flies for 30 seconds or 10 minutes.
+
+> **Beginner trap we see constantly:** players burn all their Zonaite on random dispenser pulls instead of saving for battery cells. Devices are reusable; battery capacity is permanent. Spend Zonaite on charges first, devices second.
+
+**Our call:** if you do only one thing, build the Hover Bike on day one and save it to Autobuild. It's 9 Zonaite and it makes the entire map reachable.
 
 ## Device Overview
 
@@ -161,6 +168,8 @@ Drop 3 into a monster camp and watch the fireworks.
 - All weapons attached to it share the aiming direction
 - The core component of any autonomous combat machine
 
+**Our call:** the Construct Head is the most under-rated device in the game. Pair it with two Beam Emitters and you have a auto-clearing drone that makes [Depths farming](/en/zelda/depths/) trivial.
+
 ---
 
 ## Utility Devices
@@ -302,6 +311,8 @@ Late (8-16 cells) → Full Depths mining sweep
 
 > **Tip:** At max 16 cells, the Hover Bike can fly nonstop for over 10 minutes.
 
+**Our call:** the 3:1 Zonaite→Charge trade at Forge Constructs looks inefficient next to Depths mining, but it's the reliable fallback when you've cleared your region. Don't sleep on it for the final cells.
+
 ---
 
 ## Autobuild
@@ -375,3 +386,30 @@ Zonai devices are the soul of Tears of the Kingdom. Master these core blueprints
 2. **Construct Head + Beam Emitter** = automated mob clearing
 3. **Shield Rocket Jump** = best vertical mobility
 4. **Upgrade batteries first** = foundation for everything else
+
+---
+
+## Common Engineering Mistakes (and the Fix)
+
+1. **Spending Zonaite on devices, not batteries.** Devices recycle; capacity is permanent. Fix: push batteries to at least 8 cells before hoarding rare devices.
+2. **Mis-placing the Steering Stick.** Off-center = wobble or crash. Fix: center it, slightly forward for the Hover Bike.
+3. **Ignoring the Construct Head.** Fix: one Construct Head turns any weapon device into an auto-aim turret — the highest-ROI "lazy" build.
+4. **Forgetting Autobuild orientation.** Fix: align parts before saving a favorite, or every rebuild comes out crooked.
+
+---
+
+## FAQ
+
+**Do Zonai devices get used up when I build?** They're consumed from your inventory when placed, but Autobuild re-summoning spends Zonaite to re-create them — so you're never permanently "out" of a device if you have Zonaite banked.
+
+**Why does my Hover Bike barely fly?** Almost always low battery. The bike is cheap on energy, but at 1–3 cells it still drains fast. Reach ~8+ cells before relying on it for cross-map travel.
+
+**Can I use these in shrines?** Yes — many [shrine puzzles](/en/zelda/shrines/) are trivialized by a well-timed Fan or Spring. Some even expect it.
+
+**What's the best first build for a new player?** The Hover Bike (2 Fans + 1 Steering Stick). It's 9 Zonaite, reusable forever via Autobuild, and unlocks the whole map.
+
+**Where do I go after devices?** Combine builds with a solid [Fuse weapon plan](/en/zelda/fuse/) and [buff cooking](/en/zelda/cooking/) so your drone and your sword scale together.
+
+---
+
+*Last updated for Tears of the Kingdom Ver.1.4.3 (Switch 2 Edition era). All 27 devices, stats, blueprints, and battery tables above are reproduced from our master list; added commentary reflects in-game Ultrahand/Autobuild mechanics, not changed numbers.*
