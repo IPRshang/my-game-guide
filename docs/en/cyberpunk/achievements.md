@@ -1,17 +1,22 @@
 ---
-description: "Cyberpunk 2077 complete achievements guide: 53 base game + Phantom Liberty DLC achievements, including hidden, endings, and romance unlocks. Updated for 2.0."
+title: Cyberpunk 2077 Achievements & Trophies Guide (2.0/Phantom Liberty) — Full 1000G / Platinum Roadmap
+date: 2026-09-15
+description: "Cyberpunk 2077 trophy roadmap for the 2.0 / Phantom Liberty era: all 66 achievements mapped by category, the exact 6-phase platinum route, the 70%+ Johnny gate for the secret-ending trophy, and which collectibles actually waste your time."
 tags:
   - "Cyberpunk 2077"
   - "Achievements"
   - "Trophies"
   - "Phantom Liberty"
   - "Guide"
-date: 2026-07-28
 ---
 
 # 🏆 Cyberpunk 2077 — Complete Achievements & Trophies Guide
 
 > 53 Base Game + Phantom Liberty DLC | Hidden achievements included | Platinum / 1000G roadmap
+
+Most achievement lists dump a table and call it a day. The real problem with Cyberpunk 2077's platinum isn't *knowing* what to do — it's *sequencing* it so you don't replay 80 hours twice. The single biggest time-sink is ending cleanup: five of the six ending trophies require revisiting the final mission, and the secret one is locked behind a relationship meter you either built all game or don't have at all.
+
+> **Beginner trap:** players rush the main story for the 'Cyberpunk' auto-unlock, then realize the ending trophies need separate saves — and that the secret-ending trophy demands 70%+ Johnny affinity they never farmed. Do the affinity grind *during* your first playthrough, not after.
 
 ---
 
@@ -30,6 +35,8 @@ date: 2026-07-28
 | **Total** | **66** | **⭐⭐⭐** | **80-100 hrs** |
 
 > 💡 **Platinum Route**: Main story first → Clear all side content → Collectibles → Ending cleanup → DLC content
+
+**Our call:** read the Time column as a warning, not a suggestion. "Endings" and "DLC" look like small row-counts but dominate your clock because they need replays and a separate Phantom Liberty playthrough — front-load the [endings](/en/cyberpunk/endings/) planning so you're not rebuilding affinity later.
 
 ---
 
@@ -69,6 +76,8 @@ date: 2026-07-28
 > 3. In "Nocturne", choose "Think of something else"
 > 4. Wait 5 minutes without input — Johnny will propose solo run
 
+**Our call:** the secret-ending trophy is the only one gated by an *invisible* meter. If you want it, treat Johnny affinity as a per-playthrough objective from Act 1 — don't discover the gate at the rooftop.
+
 ---
 
 ## 💕 Romance Achievements (4)
@@ -81,6 +90,8 @@ date: 2026-07-28
 | **Kerry Eurodyne** | Complete Kerry's romance line | Male voice + Male body |
 
 > 💡 **Important**: Romance options are determined by **voice tone**, not body type. Female voice can romance Judy and River. Male voice can romance Panam and Kerry.
+
+**Our call:** the voice-tone rule trips up almost everyone. Body type is cosmetic for romance — only your *voice* pick at character creation locks Judy/River (female) vs Panam/Kerry (male). Plan it before you start; see [romance](/en/cyberpunk/romance/) for the full flag list.
 
 ---
 
@@ -242,3 +253,28 @@ date: 2026-07-28
 | Date | Update |
 |------|--------|
 | 2026-07-28 | Added complete achievements guide (incl. Phantom Liberty) |
+
+---
+
+## Common Achievement Mistakes (and the Fix)
+
+1. **Rushing the story, then discovering ending trophies need separate saves.** Fix: manual-save at Nocturne and use the "one more gig" epilogue to sweep all five ending trophies.
+2. **Forgetting the 70%+ Johnny affinity gate for the secret-ending trophy.** Fix: take Johnny's side gigs and pick the affinity-positive dialogue across the whole playthrough.
+3. **Assuming body type controls romance trophies.** Fix: it's voice tone — female voice for Judy/River, male voice for Panam/Kerry. Pick at creation.
+4. **Grinding collectibles blind.** Fix: tarot graffiti and vehicles are the longest rows — use an interactive map instead of free-roaming the whole city.
+
+---
+
+## FAQ
+
+**How long does the platinum / 1000G actually take?** The roadmap above lands at 80–100 hours. The two longest phases are ending cleanup (replays) and the Phantom Liberty DLC — budget for both, don't expect a single straight playthrough.
+
+**Can any achievement be permanently missed?** No hard locks. Everything is reachable via manual saves or replays; collectibles just require backtracking. The only "miss" is impatience — don't close a questline without checking its trophy.
+
+**Do I need Phantom Liberty for the full set?** Yes — 13 of the trophies are DLC-only, including the Dogtown content and the "The Tower" branch. See our [endings](/en/cyberpunk/endings/) guide for that route.
+
+**Which build makes the farming fastest?** A Netrunner or Sandevistan [build](/en/cyberpunk/builds/) clears cyberpsycho sightings and combat grinds far faster than a bare-guns approach — pair it with strong [cyberware](/en/cyberpunk/cyberware/) for the 100-kill combat trophies.
+
+---
+
+*Last updated for the 2.0/2.1 achievements & Phantom Liberty system. Trophy counts reflect the in-game list; sequencing follows the 6-phase platinum route above.*
