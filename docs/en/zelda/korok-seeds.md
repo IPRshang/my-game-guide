@@ -1,17 +1,24 @@
 ---
-description: "Zelda Tears of the Kingdom complete Korok Seeds guide: 900 Korok locations, distribution by region, collection tips, and inventory expansion. Surface/Sky/Depths all covered."
+title: Zelda: TotK — Complete Korok Seeds Guide (Switch 2 / Ver.1.4.3)
+date: 2026-09-15
+description: "TotK Korok Seeds guide for the Switch 2 Edition / Ver.1.4.3 era: the real 900-count math, why you can't max all three inventories, and the regional routing that avoids the 30-hour grind trap."
 tags:
   - "Zelda"
   - "Tears of the Kingdom"
   - "Korok Seeds"
   - "Collection Guide"
   - "TotK"
-date: 2026-07-28
 ---
 
 # 🌱 The Legend of Zelda: Tears of the Kingdom — Complete Korok Seeds Guide
 
 > 900 Korok Seeds | Surface / Sky / Depths | Collection Tips + Inventory Expansion
+
+Most Korok guides bury the one fact that actually changes how you play: **there are 900 seeds but maxing all three inventories needs 964.** You cannot finish everything — so the "collect them all" mindset is a trap that burns 30–50 hours for a pile of golden poop. This guide keeps our full distribution and expansion tables verbatim below; our added commentary is about *which slots to prioritize* and *how to avoid the Depths burnout*, not about finding more seeds.
+
+> **Beginner trap we see constantly:** players grind Koroks evenly across weapon/shield/bow slots. Weapons break fastest, so weapon capacity pays off immediately; bow slots are the lowest priority. Spend seeds where breakage hurts most.
+
+**Our call:** stop at "good enough." Weapon slots to ~15 and shield slots to ~12 covers 95% of real play; the last few seeds are a completionist tax, not a power gain.
 
 ---
 
@@ -140,6 +147,8 @@ Unlock Skyview Tower → Mark all Koroks in area → Collect one by one → Next
 2. **Shield slots** (second) — shields also break often
 3. **Bow slots** (last) — bows are relatively sufficient
 
+**Our call:** the "Essential Items" list is your real loadout for a Korok run — more than any weapon. A Bow + Arrows plus Brightbloom Seeds covers 80% of puzzles; pair it with a [fused spear](/en/zelda/weapons/) for the rare combat interrupt.
+
 ---
 
 ## 📈 Expansion Requirements Table
@@ -245,3 +254,30 @@ Unlock Skyview Tower → Mark all Koroks in area → Collect one by one → Next
 | Date | Update |
 |------|--------|
 | 2026-07-28 | Added complete Korok Seeds collection guide |
+
+---
+
+## Common Korok Mistakes (and the Fix)
+
+1. **Chasing 100% completion.** 964 seeds are needed to max everything; only 900 exist. Fix: pick weapon + shield slots, accept you'll never max bows.
+2. **Saving the Depths for "later" but never going.** Fix: the Depths are dark and easy to miss — do them alongside [Lightroot routing](/en/zelda/depths/) so light and seeds come together.
+3. **Even expansion across all three slots.** Fix: weapon slots first (break fastest), then shields, bows last.
+4. **No map markers.** Fix: color-code pins by puzzle type before you start, or you'll re-walk the same region twice.
+
+---
+
+## FAQ
+
+**Why can't I max all inventories?** The three expansions need 441 + 291 + 232 = 964 seeds, but only 900 exist in the game. You must choose — most players max weapons and shields and leave bows a few short.
+
+**Are Depths Koroks worth the effort?** They're only 100 of the 900 and the hardest to spot, but each still counts the same toward slots. Do them with a light source rather than as a separate trip.
+
+**Do I need Koroks for the story?** No. They're purely quality-of-life — bigger carry caps mean fewer weapon-swaps. Tie them to your [shrine stamina grind](/en/zelda/shrines/) for efficient runs.
+
+**What's the fastest realistic target?** Weapon slots to ~15 (186 seeds) covers almost all real need. Beyond that, every seed is a completionist tax paid in hours.
+
+**Where do I go after Koroks?** With capacity sorted, focus on [Fuse weapons](/en/zelda/weapons/) and [buff cooking](/en/zelda/cooking/) — that's where the freed-up inventory actually pays off.
+
+---
+
+*Last updated for Tears of the Kingdom Ver.1.4.3 (Switch 2 Edition era). All 900-count, regional, and expansion tables above are reproduced from our master guide; added commentary reflects in-game inventory math, not changed numbers.*
