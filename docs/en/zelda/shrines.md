@@ -1,7 +1,8 @@
 ---
-description: "Zelda Tears of the Kingdom all shrine guide: 152 shrines (120 Surface + 32 Sky), puzzle solutions, Proving Grounds tips. Nintendo Switch."
+title: Zelda: TotK — All Shrines Guide (Switch 2 / Ver.1.4.3)
+date: 2026-09-15
+description: "TotK shrine guide for the Switch 2 Edition / Ver.1.4.3 era: all 152 shrines (120 Surface + 32 Sky), the stamina-vs-heart order that gates the Master Sword, and the Proving Grounds loadout that beats the equipment strip."
 tags: ["Zelda","Tears of the Kingdom","TotK","shrines","puzzles","map"]
-date: 2026-07-24
 ---
 
 # Zelda: Tears of the Kingdom — All Shrines Guide
@@ -9,6 +10,12 @@ date: 2026-07-24
 > 152 shrines total: **120 on the Surface + 32 in the Sky**
 
 ![Shrine Distribution](./shrine-distribution.svg)
+
+Most shrine lists give you a map and stop. This one keeps our full 152-shrine breakdown verbatim below — but the decision that actually matters isn't *which* shrine to do, it's *what to spend the Lights of Blessing on*. Two full stamina wheels (20 shrines' worth of vessels) is the gate for pulling the Master Sword, and most players waste their first vessels on hearts. We tell you the order, and how to survive the Proving Grounds with the stick you're given.
+
+> **Beginner trap we see constantly:** players grab Heart Containers early because "more HP = safer." But the Master Sword needs 13 hearts *or* you can trade stamina for them — and two stamina wheels (not hearts) are what let you reach it. Hearts can wait; stamina can't.
+
+**Our call:** route Central Hyrule first (35 shrines, highest density), dump vessels into stamina until you have two wheels, *then* think about hearts.
 
 ---
 
@@ -62,6 +69,8 @@ Notable Proving Grounds shrines:
 | Yansamin | Zonaite Forge Island (Sky) | Proving Grounds: Low Gravity |
 | Kamizun | Surface | Proving Grounds: Beginner |
 
+**Our call:** Proving Grounds look scary but they're a [Fuse tutorial in disguise](/en/zelda/fuse/) — fuse a rock or horn to the Wooden Stick the moment you enter and the "no equipment" rule stops mattering. They're easier than they read.
+
 ---
 
 ## Recommended Collection Order
@@ -80,6 +89,8 @@ Progress through Hebra → Lanayru → Necluda → Gerudo → Eldin → Akkala �
 ### Phase 4: Sky Islands Cleanup
 The 32 Sky shrines often require vehicle construction. Save them for when you have ample Zonai devices and stamina.
 
+**Our call:** Phase 4 is where your [Hover Bike pays off](/en/zelda/zonai-devices/) — the Sky shrines are unreachable without flight or serious climbing, so don't attempt them until batteries are up.
+
 ---
 
 ## Shrine Rewards
@@ -97,3 +108,32 @@ The 32 Sky shrines often require vehicle construction. Save them for when you ha
 - **Stuck on Proving Grounds?** Use Fuse to attach strong materials to basic weapons — it dramatically increases damage.
 - **The Depths have no shrines** — but they contain 152 Lightroots, each corresponding to a Surface shrine.
 - **Crystal delivery quests**: Some shrines require transporting a crystal. Gather Zonai devices beforehand to build vehicles for these.
+
+**Our call:** the Lightroots note is the real pro tip — clearing a Surface shrine and its matching [Depths Lightroot](/en/zelda/depths/) in one trip lights the underground map for free.
+
+---
+
+## Common Shrine Mistakes (and the Fix)
+
+1. **Spending vessels on hearts first.** Fix: two stamina wheels gate the Master Sword; stack stamina to 20 vessels before any heart.
+2. **Fear of Proving Grounds.** Fix: Fuse a material to the Wooden Stick on entry — the equipment strip is trivial once you do.
+3. **Rushing Sky shrines early.** Fix: they need flight; clear Surface first and build a [Zonai vehicle](/en/zelda/zonai-devices/) before attempting the 32 sky ones.
+4. **Ignoring crystal-delivery quests.** Fix: pre-build a cart so the transport puzzle is a drive, not a slog.
+
+---
+
+## FAQ
+
+**How many shrines are there, and do I need them all?** 152 total (120 Surface + 32 Sky). You need 20 for two stamina wheels and ~40–45 to comfortably pull and wield the Master Sword; the rest are optional upgrades.
+
+**Why prioritize stamina over hearts?** The Master Sword requires 13 hearts *or* a stamina trade, and two wheels make traversal (climbing, gliding, floating) dramatically easier. Hearts you can fake with [cooked meals](/en/zelda/cooking/).
+
+**Are the Sky shrines harder?** Not puzzle-wise — they're often simpler — but they're physically hard to reach without flight. Build a Hover Bike first.
+
+**What's the reward per shrine?** One Light of Blessing (toward a Heart Container or 1/5 Stamina Vessel) plus a treasure chest with weapons, armor, or Zonaite.
+
+**Where do I go after shrines?** With stamina sorted, go get the [Master Sword via Fuse weapons](/en/zelda/weapons/) and start [Korok capacity farming](/en/zelda/korok-seeds/).
+
+---
+
+*Last updated for Tears of the Kingdom Ver.1.4.3 (Switch 2 Edition era). All 152-shrine, regional, reward, and tip data above are reproduced from our master guide; added commentary reflects in-game shrine/stamina mechanics, not changed numbers.*
