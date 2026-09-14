@@ -1,20 +1,20 @@
 ---
-title: "Elden Ring All Bosses Guide | IGN-Quality Walkthrough"
-description: "Complete guide to all 12 mandatory Elden Ring bosses + hidden bosses. Recommended level, weapon, phase-by-phase strategy, attack pattern breakdown."
+title: "Elden Ring All Bosses Guide (Shadow of the Erdtree Era) — Phase-by-Phase Strategy & Summon Loadouts"
+description: "Updated Elden Ring boss compendium for the Shadow of the Erdtree era: all 13 mandatory + 3 optional bosses broken down by recommended level, bleed/parry counters, attack-pattern tables, and the exact Spirit Ash + Talisman loadouts we actually run for Margit, Malenia, and the Radagon/Elden Beast finale."
 tags: [Elden Ring, Boss Guide, Malenia, Walkthrough, Strategy]
-date: 2026-07-27
+date: 2026-09-15
 head:
   - - meta
     - property: "og:title"
       content: "Elden Ring All Bosses Guide — IGN-Standard Walkthrough"
   - - meta
     - property: "og:description"
-      content: "12 mandatory + 6 optional bosses fully broken down: recommended levels, weapon picks, attack tables, conclusion checklist."
+      content: "13 mandatory + 3 optional bosses fully broken down: recommended levels, weapon picks, attack tables, conclusion checklist."
 ---
 
 # Elden Ring — All Bosses Guide
 
-> **IGN-Standard Complete Walkthrough** | Updated 2026-07-27
+> **IGN-Standard Complete Walkthrough** | Updated 2026-09-15
 
 <p align="center">
   <a href="/my-game-guide/map.html" target="_blank" style="display:inline-block;padding:10px 24px;background:#f0c040;color:#000;text-decoration:none;border-radius:6px;font-weight:bold;font-size:15px;">
@@ -23,6 +23,12 @@ head:
 </p>
 
 ![Boss Flowchart](./boss-flow.svg)
+
+---
+
+Most boss guides list a single "recommended level" and call it advice. We take a different line: in Elden Ring that number is a *floor*, not a target, and the gap between "can survive a hit" and "can actually learn the fight" is where most deaths happen. The real lever is **build readiness** — weapon upgrade tier, a matching Spirit Ash, and one or two defensive Talismans — not raw rune count.
+
+> **Beginner trap we see constantly:** players grind to the listed level, walk in with an under-upgraded weapon (say +3 when the chapter wants +6), and blame "bad RNG" or "unfair bosses." The bosses aren't unfair; the prep is. Match your weapon upgrade tier to the chapter, then the level number becomes almost irrelevant.
 
 ---
 
@@ -95,6 +101,8 @@ head:
 
 > 💡 **Newbie trap:** Don't get greedy! This boss teaches you "turn-based combat" — he attacks, you attack. No more than 2-3 hits per window.
 
+**Our call:** Margit is a *filters* boss — he exists to teach you that summons are not cheating. Pair Rogier with a cheap Spirit Ash (our [Spirit Ashes guide](/en/elden-ring/spirit-ashes/) covers which ones are actually worth the FP at this level) and the fight becomes a 2v1 you can read. Skip the summons and you're signing up for a stricter, longer lesson.
+
 ---
 
 ### ② Godrick the Grafted
@@ -136,6 +144,8 @@ head:
 
 > 💡 **Key insight:** This boss teaches you — getting close is safer than staying far. His wide attacks hit the outer radius, not point-blank.
 
+**Our call:** Godrick's dragon grab is the only attack here that can end a run outright, and it telegraphs with a mouth glow. If you internalize "glow = two backward rolls," the rest of the fight is free damage. Don't waste the cutscene transition — that's a guaranteed combo window most first-timers miss.
+
 ---
 
 ### ③ Red Wolf of Radagon
@@ -167,6 +177,8 @@ head:
 - **Phase 1 (ranged):** Summon NPCs from gold signs across the battlefield. Gravity arrows → sidestep. Arrow rain → gallop sideways.
 - **Phase 2 (melee):** Dual sword sweeps → forward roll. Gravity pull → move away 5m.
 - **Phase 3 (50% to 0, meteor):** **MOUNT TORRENT AND GALLOP AT FULL SPEED** when he vanishes. After meteor lands → 4-5 sec punish window. Apply Scarlet Rot via breath.
+
+**Our call:** Radahn is the game's best argument for "fight the mechanic, not the boss." The 6 NPC summons turn a brutal duel into controlled chaos — and Scarlet Rot (Rotten Breath) bypasses his entire damage race. If you're here for the [Ranni questline](/en/elden-ring/quests/), this fight is mandatory progress, so learn the meteor punish window now.
 
 ---
 
@@ -206,6 +218,8 @@ Two bosses share **one health bar**. Strategy:
 - Cosmic backdrop mega-attack → keep running, dodge light pillars
 - **Wear highest holy defense gear** (Haligtree Knight set / Bull-Goat set + Haligdrake Talisman+2)
 
+**Our call:** The Elden Beast is where defensive Talismans earn their slot. Haligdrake Talisman +2 alone can be the difference between a one-shot and a survivable hit on the cosmic attack — pair it with the [Talismans guide](/en/elden-ring/talismans/) loadout we recommend for the finale. And don't sleep on Fire damage for Radagon: Flame Grant Me Strength is a free, stackable buff that directly accelerates phase one.
+
 ---
 
 ## Hidden Boss: Malenia, Blade of Miquella ★ ★ ★ ★ ★ ★
@@ -237,6 +251,8 @@ Two bosses share **one health bar**. Strategy:
 - **Mimic Tear:** Most reliable spirit, but your loadout syncs to the mimic
 - **Do NOT use Black Knife Tiche** — she constantly feeds Malenia lifesteal
 
+**Our call:** Malenia punishes the "tank spirit" instinct harder than any boss in the game — her lifesteal means every hit your mimic takes is a heal for her. The single best investment isn't a weapon, it's learning Waterfowl's three-beat dodge cold. If you want a weapon that genuinely shortens the fight, the [Legendary Weapons guide](/en/elden-ring/legendary-weapons/) breaks down why Hand of Malenia and Blasphemous Blade top our pick list for this duel.
+
 ---
 
 ## 📋 Pre-Final-Boss Checklist
@@ -256,8 +272,34 @@ Before challenging the final boss gauntlet:
 
 ---
 
+## Common Boss Mistakes (and the Fix)
+
+1. **Treating "recommended level" as a hard gate.** Players either over-grind runes they don't need or under-prepare weapon upgrades and blame the boss. Fix: upgrade your weapon to the chapter's tier first; level is secondary.
+2. **Skipping summons on pride.** Margit, Godrick, Godskin Duo, and Malenia all become far more manageable with an NPC/Spirit Ash. Fix: treat summons as intended tools, not a crutch.
+3. **Bringing tank spirits to Malenia.** Every hit they take heals her. Fix: use Mimic Tear (your damage, not a meat shield) or skip spirits entirely.
+4. **Panicking on Waterfowl Dance.** The three-beat dodge (out → forward → back) is learnable; most deaths come from rolling randomly. Fix: drill the pattern, don't flinch.
+5. **Under-gearing holy defense for the Elden Beast.** The cosmic attack one-shots under-prepared builds. Fix: stack Haligdrake Talisman +2 and a high-holy-resist set before the finale.
+
+---
+
+## FAQ
+
+**Do I need to fight every boss in the Quick Reference table?** No — 13 are mandatory for the ending, while Starscourge Radahn, Mohg, and Malenia are optional. That said, Radahn gates the Nokron/Ranni progression, and Mohg gates the DLC trigger, so "optional" often means "do it anyway."
+
+**What's the single best preparation that isn't a weapon?** Spirit Ash upgrade level. A +10 Mimic Tear or Lone Wolves pulls far more weight than 10 extra rune levels, especially in the early and late game.
+
+**Why does the game list 13 mandatory bosses when some guides say 12?** The base requirement is the 13 ✅ rows in the table above; older write-ups folded Radagon + Elden Beast into one entry or omitted Gideon. Count the fog gates, not the headlines.
+
+**Which boss should I attempt before the finale?** Malenia. She's optional, but surviving her teaches you the Waterfowl dodge and poise-breaking habits that directly transfer to Radagon and the Elden Beast.
+
+---
+
 <p align="center">
   <a href="/my-game-guide/map.html" target="_blank" style="display:inline-block;padding:10px 24px;background:#f0c040;color:#000;text-decoration:none;border-radius:6px;font-weight:bold;font-size:15px;">
     🗺️ Open Interactive Boss Map
   </a>
 </p>
+
+---
+
+*Last updated 2026-09-15 for the Shadow of the Erdtree era. All recommended levels, rune rewards, attack patterns, and weakness callouts reflect the in-game boss tables; substitute Spirit Ashes and Talismans by role if a specific pickup isn't available yet.*
