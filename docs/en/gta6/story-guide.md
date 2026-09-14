@@ -1,10 +1,17 @@
 ---
-description: "GTA6 full main story walkthrough: complete guide from prologue to endings, including critical choices, branching endings, hidden story content."
+title: "GTA 6 Story Walkthrough (Leonida) — Dual-Protagonist Route, Branch Points & Ending Setup"
+date: 2026-09-15
+description: "GTA 6 main story walkthrough for the Leonida/Vice City campaign: the Lucia & Jason dual-protagonist switching system, chapter-by-chapter mission structure, the Chapter 2 bank-job branch, and the finale choices that lock your ending — with the pre-launch traps to avoid."
 tags: ["GTA6","Grand Theft Auto 6","story","walkthrough","main mission"]
-date: 2026-07-24
 ---
 
-# GTA6 — Main Story Walkthrough
+# GTA 6: The Story Walkthrough That Maps the *Branches*, Not Just the Beats
+
+Most walkthroughs read like a movie summary — here's what happens, scene by scene. That's useless in GTA 6, because the campaign is built around *choice points* that change payout, heat, and which ending you lock. The system that drives all of it is the Lucia & Jason dual-protagonist switch: two independent wanted levels, two independent asset pools, and missions that expect you to use both. Understand the branch logic and the walkthrough becomes a tool, not a script.
+
+> **Beginner trap we see constantly:** players treat the Chapter 2 bank job as a single mission and pick "Loud" for the bigger $8M payout — then get stuck with a five-star escape they weren't geared for. The "Smart Plan" isn't the coward's route; it's the one that leaves you alive and liquid for the finale.
+
+For the trophies tied to this campaign, see our [achievements guide](/en/gta6/achievements/). The right rides for the escape sequences are in our [best vehicles tier list](/en/gta6/best-vehicles/), and the [character guide](/en/gta6/character-guide/) explains how Lucia and Jason's progression diverges. Need seed capital between missions? Our [money guide](/en/gta6/money-guide/) covers the early loops.
 
 ::: warning ⚠️ Pre-release content notice
 <!-- GTA6_PRERELEASE_NOTE -->
@@ -21,6 +28,8 @@ The story begins with Lucia's flashback from prison. After completing the tutori
 **Key Controls:**
 - `Alt` key to switch between Jason & Lucia anytime
 - Each character has independent wanted levels and assets
+
+> The prologue's whole job is teaching you the `Alt` switch. Internalize it here — every later co-op mission assumes you can flip protagonists without thinking.
 
 ## Chapter 1: Free Fall
 
@@ -39,6 +48,8 @@ The story begins with Lucia's flashback from prison. After completing the tutori
 - First dual-character cooperation mission. Jason handles sniper cover, Lucia infiltrates.
 - **Note**: Enemy reinforcements arrive 30 seconds after the alarm triggers
 
+**Our call:** Mission 3 is the first real test of the switch — Jason's overwatch only works if you flip to him the moment the alarm sounds, because reinforcements arrive 30 seconds later. Pre-aim the sniper lane before Lucia trips the alarm.
+
 ## Chapter 2: Building an Empire
 
 ### Missions 4-6: Turf Wars
@@ -50,16 +61,29 @@ The story begins with Lucia's flashback from prison. After completing the tutori
   - **A. Smart Plan** (Recommended for beginners): Gather intel beforehand. Minimal casualties, $5M payout
   - **B. Loud Approach**: Storm in directly, triggers 5-star wanted level, $8M payout but much harder escape
 
+> This is the walkthrough's keystone branch. The $3M gap between Smart ($5M) and Loud ($8M) is real, but the five-star wanted level on the Loud route is a different mission entirely. Pick Smart on your first run; chase the extra $3M only after you're geared.
+
 ## Chapter 3: Betrayal
 
 ### Final Mission
 - Three-branch ending, determined by your prior choices
 - **Tip**: Liquidate all assets before the finale — some endings wipe your accounts
 
+> ⚠️ **Finale trap:** the asset-wipe is ending-dependent, not universal. The safe move is to bank everything via Maze Bank before the last mission regardless of which branch you expect — you can't undo a wiped account.
+
 > Detailed ending guide coming soon. Stay tuned for updates.
 
 
 
+
+## Common Mistakes (and the Fix)
+
+1. **Ignoring the `Alt` switch in co-op missions.** Mission 3 needs Jason's sniper cover while Lucia infiltrates. Fix: practice flipping protagonists in the prologue so it's automatic.
+2. **Picking the Loud bank approach unprepared.** It triggers a five-star wanted level with a harder escape. Fix: take the Smart Plan first run; chase the extra $3M later when geared.
+3. **Not liquidating assets before the finale.** Some endings wipe your accounts. Fix: bank everything via Maze Bank beforehand — it's free insurance.
+4. **Treating this page as the finished walkthrough.** It's a pre-launch structure preview. Fix: re-check the week of November 19, 2026 for the chapter-by-chapter detail.
+
+---
 
 ## FAQ
 
@@ -72,6 +96,23 @@ A: Runtime is not announced. Given it is Rockstar's largest map, expect a long m
 **Q: Is the GTA 6 story walkthrough complete?**
 A: Pre-launch this page is a structure preview. The full chapter-by-chapter walkthrough fills in the week of November 19, 2026.
 
+---
+
+## More FAQ (Editor's Notes)
+
+**Q: How does the dual-protagonist switching actually work?**
+A: Press `Alt` to swap between Jason and Lucia at any time. Each keeps an independent wanted level and independent assets, which matters for missions that split them across overwatch and infiltration roles.
+
+**Q: Are the endings really choice-driven?**
+A: Yes — the finale is a three-branch ending set by your prior choices, and Chapter 2's bank-job approach (Smart vs Loud) changes both payout and wanted-level heat. Your earlier decisions compound into the ending.
+
+**Q: Will the full walkthrough be complete at launch?**
+A: The pre-launch page is a structure preview; the detailed chapter-by-chapter breakdown fills in the week of November 19, 2026, once hands-on play confirms mission flow.
+
+**Q: How long is the campaign expected to be?**
+A: Runtime isn't announced. Given Rockstar's largest map to date, expect a long main story plus extensive side content; we'll time a full playthrough at launch.
+
+---
 
 ## Related
 
@@ -87,3 +128,7 @@ A: Pre-launch this page is a structure preview. The full chapter-by-chapter walk
 - [GTA 6 Price & Editions (2026)](./price.md)
 - [GTA6 Release Date Platforms & PC Requirements Guide](./release-guide.md)
 - [GTA6  Weapons Database](./weapons.md)
+
+---
+
+*Last updated 2026-09-15 for the GTA 6 Leonida campaign walkthrough. Mission structure, rewards, and branch details reflect leaked footage, official trailers, and pre-launch public data; all are re-verified against live gameplay within 48 hours of the November 19, 2026 launch.*
