@@ -1,4 +1,14 @@
+---
+title: "Black Myth: Wukong Strategy Hub — Bosses, Builds & Hidden Secrets (2026)"
+date: 2026-09-15
+description: "The Black Myth Wukong hub at ggexplore.com: an editor-curated index of boss strategies, build directions, collectibles and hidden secrets — written around the game's real combat mechanics rather than copied wiki entries."
+---
+
 # Black Myth: Wukong — Strategy Hub
+
+Most "Wukong" indexes online are just reorganized wiki dumps — same boss lists, same patch notes, no judgment. Our take is different: this hub exists to *route* you to the right deep-dive at the right moment, so you plan a full run instead of hopping between scattered forum threads. Start with a [build direction](/en/wukong/builds/) if you're new, or jump straight to the [chapter-by-chapter boss breakdown](/en/wukong/boss-guide/) once you're stuck mid-fight.
+
+> **Beginner pitfall we see constantly:** players treat Wukong like a pure action game and try to out-trade bosses. It isn't — the game rewards *reading* startup animations and punshing whiffs. The single highest-leverage skill is "See-Through" (perfect dodge/parry), not raw damage.
 
 > 🏔️ **China's First AAA** · Game Science · August 20, 2024 · PS5 / PC (Steam/Epic/WeGame) / Xbox Series X|S
 
@@ -41,6 +51,8 @@ Black Myth blends "Soulslike + Journey to the West transformations" into an acti
 - **Wine & Pills**: drinks give sustained healing / buffs; pills are instant consumables — configure before boss fights.
 - **Bestiary (Ying Shen Tu)**: defeating enemies drops "Spirit Essence" and fills the codex; completing it unlocks backstory and stat bonuses — both collection and progression.
 - **Shrine (land temple)**: doubles as save point, stat allocation, equipment reforge, and respec (costs "Nine-Turn Golden Pill").
+
+> **Our Take:** of the six systems above, only three decide 90% of fights — Staff Stances, the Spell system, and Shrine respecs. Transformations and the Bestiary are progression rewards, not opening tools. New players should master Immobilize + one stance before touching anything else; the [staff stances guide](/en/wukong/staff-stances/) breaks down which stance fits which boss.
 
 ---
 
@@ -132,3 +144,5 @@ A: A steady "Smash Stance + Immobilize + high HP" combo — see [Builds](./build
 | 2026-08-06 | Restructured into full guide (background/mechanics/beginner/advanced/FAQ); added 2026 info: DLC in dev, Xbox version, Boss Rush update |
 | 2026-07-24 | English version launched |
 | 2026-07-23 | Added boss guide, builds, hidden secrets |
+
+*Last updated 2026-09-15 by ggexplore editors — editorial intro, "Our Take" callout and internal cross-links added; all facts, tables and the Update Log above preserved unchanged.*
