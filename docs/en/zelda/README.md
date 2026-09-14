@@ -1,6 +1,18 @@
+---
+title: Zelda: Tears of the Kingdom — Strategy Hub (Switch 2 / Ver.1.4.3)
+date: 2026-09-15
+description: "TotK hub for the Switch 2 Edition / Ver.1.4.3 era: a mechanics-first map of sky, surface, and depths, the four left-hand abilities, and where to start — plus the beginner assumptions that waste your first 20 hours."
+---
+
 # Zelda: Tears of the Kingdom — Strategy Hub
 
 > 🗡️ **A New Chapter in Hyrule** · Nintendo · May 12, 2023 · Nintendo Switch / **Switch 2 Edition**
+
+Most "hub" pages are just a list of links. Ours is opinionated: we think TotK's learning curve is backwards for new players — the game hands you four reality-bending abilities on the Great Sky Island, then expects you to *invent* your own solutions, and most people under-use three of the four. This page is the spine; the deep dives on [cooking](/en/zelda/cooking/), [weapons](/en/zelda/weapons/), [shrines](/en/zelda/shrines/), [Zonai devices](/en/zelda/zonai-devices/), and [Korok seeds](/en/zelda/korok-seeds/) hang off it.
+
+> **Beginner trap we see constantly:** new players treat weapons like permanent gear and hoard them. TotK weapons are *consumables*. The real power is Fuse — glue a material to a stick and the stick becomes a weapon. If you're saving your "good" sword for later, you're playing the wrong game.
+
+**Our call:** spend your first five hours *building*, not fighting. A Hover Bike and a fused spear beat any legendary drop you haven't found yet.
 
 <div style="background: linear-gradient(135deg, #f0f7f0, #e0f0e0); color: #1a3d1a; padding: 1.5rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #c8e0c8;">
 
@@ -42,7 +54,9 @@ Its biggest feature is a **physics-sandbox creator**: the prior "Sheikah Slate" 
 - **Autobuild**: records structures you've built for one-click reconstruction — key to late-game efficiency.
 - **Three-layer map**: sky islands (start), surface (BotW Hyrule), depths (dark caves needing light resources).
 - **Shrines & Koroks**: shrines teach abilities / grant hearts; Koroks raise weapon / shield / bow capacity.
-- **Cooking & elixirs**: ingredient combos yield healing / attack / defense / temperature effects — see [Complete Recipes](./cooking).
+- **Cooking & elixirs**: ingredient combos yield healing / attack / defense / temperature effects — see [Complete Recipes](/en/zelda/cooking/).
+
+**Our call:** of the four abilities, Ascend and Recall are the ones veterans under-rate. They don't deal damage, so they feel passive — but they delete more "stuck" moments than any weapon. Practice them before you ever touch a lynel.
 
 ---
 
@@ -76,6 +90,8 @@ Its biggest feature is a **physics-sandbox creator**: the prior "Sheikah Slate" 
 - **Depth farming**: depths enemies drop high-tier materials — the main source for endgame gear.
 - **amiibo (supported from 2025)**: Sidon / Tulin / Yunobo / Riju amiibo grant exclusive gear; usable in Switch 2 Edition.
 - **Speedrun tricks**: a mastered "rocket shield jump" via Ultrahand ignores terrain to reach targets directly — a world-record-level technique.
+
+**Our call:** the single highest-leverage mid-game goal is a full battery stack for the Hover Bike. Everything else — depth farming, shrine sweeping, [Korok capacity](/en/zelda/korok-seeds/) — gets faster once you can fly anywhere.
 
 ---
 
@@ -151,3 +167,16 @@ A: Fully offline single-player. ZELDA NOTES needs internet and a Nintendo accoun
 | 2026-08-06 | Restructured into full guide (background/mechanics/beginner/advanced/FAQ); added Switch 2 Edition, ZELDA NOTES, Ver.1.4.3 (2026) |
 | 2026-07-24 | English version launched |
 | 2026-07-23 | Added shrine guide, weapons, cooking recipes |
+
+---
+
+## Common Mistakes New Players Make (and the Fix)
+
+1. **Saving weapons instead of using them.** They break by design; the material on the end is what matters. Fix: fuse cheap horns to sticks and spend them freely.
+2. **Skipping the depths early.** You miss Brightbloom Seeds and Zonai ore that make everything else easier. Fix: drop down as soon as you have a light source.
+3. **Building vehicles from scratch every time.** Fix: learn Autobuild and save the Hover Bike as a favorite on day one.
+4. **Grinding shrines for hearts over stamina.** Fix: prioritize two full stamina wheels early — pulling the Master Sword needs them, and [shrine routing](/en/zelda/shrines/) rewards it.
+
+---
+
+*Last updated for Tears of the Kingdom Ver.1.4.3 (Switch 2 Edition era). All facts, tables, and the update log above are reproduced from our master hub; added commentary reflects core game mechanics, not changed numbers.*
