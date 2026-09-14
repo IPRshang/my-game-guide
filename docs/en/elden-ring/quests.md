@@ -1,12 +1,18 @@
 ---
-title: Elden Ring NPC Questlines Complete Guide
-date: 2026-07-27
-description: "Complete Elden Ring NPC questline walkthrough: Ranni, Fia, Alexander, Millicent, Blaidd, Varre, Sellen — all triggers, critical steps, and fail conditions"
+title: "Elden Ring NPC Questlines Complete Guide (Shadow of the Erdtree Era) — Triggers, Fail Points & Safe Order"
+date: 2026-09-15
+description: "Updated Elden Ring NPC questline walkthrough for the Shadow of the Erdtree era: Ranni, Fia, Alexander, Millicent, Blaidd, Varre, and Sellen — every trigger, the exact fail conditions that hard-lock rewards, and the safe level-ordered path we actually follow to avoid missing the Age of Stars or Duskborn endings."
 ---
 
 # Elden Ring: Complete NPC Questlines Guide
 
 Elden Ring's NPC questlines are notoriously easy to miss — killing a boss out of order, exploring the wrong direction, or even skipping a single line of dialogue can permanently lock you out. This guide covers the 7 most important questlines with all fail conditions clearly marked.
+
+Most quest guides list steps in a vacuum. We organize differently: the danger in Elden Ring isn't *remembering* a step, it's *timing* it against boss progression. Half these quests share a bottleneck — Radahn's festival, Maliketh's gate, the burning of the Erdtree — and missing that window is what actually locks people out, not a forgotten dialogue line.
+
+> **Beginner trap we see constantly:** players rush the main path and "accidentally" burn the Erdtree or kill Maliketh before finishing Alexander or Fia. Once Leyndell turns to ash or Farum Azula locks, those NPCs are gone for the run. The fix is boring but real: after every major boss, walk back and exhaust every NPC's dialogue before moving on.
+
+---
 
 ## Questline Overview
 
@@ -89,6 +95,8 @@ Elden Ring's NPC questlines are notoriously easy to miss — killing a boss out 
 - Receive the **Dark Moon Greatsword**
 - At the endgame, choose the blue summon sign for the Age of Stars ending
 
+**Our call:** Ranni's line is the one quest worth planning your whole playthrough around — it's the only side quest that changes your ending *and* hands you a top-tier INT weapon. The Spirit Calling Bell she gives at Step 1 is also your first real [Spirit Ashes](/en/elden-ring/spirit-ashes/) unlock, and the Dark Moon Greatsword she awards is a centerpiece of our [Legendary Weapons guide](/en/elden-ring/legendary-weapons/). Do not skip Church of Elleh at night.
+
 ---
 
 ## 2. Fia's Questline
@@ -125,6 +133,8 @@ Elden Ring's NPC questlines are notoriously easy to miss — killing a boss out 
 - After the battle, Fia passes. Loot **Fia's Set** from her
 - Use the Mending Rune at endgame for the Duskborn ending
 
+**Our call:** Fia's quest is the easiest to soft-lock because it collides with D's brother and with the Erdtree-burning timer. The golden rule: finish Fia's Steps 1–4 *before* you ever light the Erdtree, and never hand D's armor to his brother until she has the Cursemark.
+
 ---
 
 ## 3. Alexander the Iron Fist
@@ -141,6 +151,8 @@ Elden Ring's NPC questlines are notoriously easy to miss — killing a boss out 
 | ⑥ | Farum Azula | **Final duel**. Defeat for **Shard of Alexander** |
 
 > ⚠️ **Fail point**: Only fail risk is missing him in Farum Azula before Maliketh.
+
+**Our call:** Alexander's only real fail point is the Farum Azula window — and it closes the instant you beat Maliketh. His reward, the Shard of Alexander, is one of the highest-value offensive [Talismans](/en/elden-ring/talismans/) in the game for charged-heavy builds, so he's worth a detour every single run.
 
 ---
 
@@ -191,7 +203,7 @@ Elden Ring's NPC questlines are notoriously easy to miss — killing a boss out 
 |:-:|----------|--------|
 | ① | Mistwood Ruins, Limgrave | Hear howling at night → learn Snap gesture from Merchant Kale at Elleh |
 | ② | Mistwood Ruins | Use Snap, Blaidd jumps down, talk |
-| ③ | Forlorn Hound Evergaol | Blaidd asks you to fight the Bloodhound Knight |
+| ③ | Forlorn Hound Evergael | Blaidd asks you to fight the Bloodhound Knight |
 
 After Ranni's questline completes:
 - Return to Ranni's Rise, find Blaidd gone mad outside
@@ -231,6 +243,8 @@ After Ranni's questline completes:
 **Step 7: Final Invasion**
 - Deep in Mohgwyn Palace, Varre invades you
 - Defeat him for **Varre's Bouquet** (unique weapon)
+
+**Our call:** Varre's line is the most efficient "power move" in the game — three quick invasions unlock Mohgwyn Palace and its rune farm long before you'd reach it naturally. Do this early (Level 1–40 window) and the rest of your build funds itself.
 
 ---
 
@@ -305,3 +319,29 @@ Pre-final boss → Verify all questlines
 ```
 
 > **Golden rule**: After every major boss, revisit all NPCs and exhaust their dialogue.
+
+---
+
+## Common Questline Mistakes (and the Fix)
+
+1. **Burning the Erdtree too early.** This single act ashes Leyndell and removes every capital NPC for the run. Fix: finish Fia, Corhyn, and any Roundtable-linked steps before you ever light the tree.
+2. **Beating Maliketh before Farum Azula NPCs.** Alexander and Corhyn vanish once the area locks. Fix: clear Alexander's duel *before* Maliketh.
+3. **Skipping Church of Elleh at night.** You miss the Spirit Calling Bell permanently (from Elleh). Fix: meet Ranni there before reaching Roundtable Hold.
+4. **Giving D's armor to his brother prematurely.** It triggers Fia's death. Fix: hold the armor until after Fia has the Cursemark.
+5. **Picking the red sign at Haligtree.** You lose Millicent and the Rotten Winged Sword Insignia for good. Fix: take the gold sign unless you specifically want the DEX prosthesis.
+
+---
+
+## FAQ
+
+**Which questline changes the ending?** Two: Ranni's (Age of Stars) and Fia's (Duskborn). The other five are reward-focused and don't alter which ending you can pick.
+
+**Can I do every questline in one playthrough?** Yes — but only if you respect the two hard locks: don't burn the Erdtree before Leyndell NPCs are done, and don't kill Maliketh before Farum Azula NPCs are done.
+
+**What's the best early-game power move?** Varre's three invasions to unlock Mohgwyn Palace. The rune farm there funds the rest of your build far ahead of schedule.
+
+**Do I need to fight Radahn for Ranni's quest?** Yes — defeating Starscourge Radahn at the Redmane festival is what drops the meteor and opens Nokron, which Ranni's Step 6 requires. See our [bosses guide](/en/elden-ring/bosses/) for the fight itself.
+
+---
+
+*Last updated 2026-09-15 for the Shadow of the Erdtree era. Quest triggers, fail points, and rewards reflect in-game NPC logic; dialogue-order steps assume a standard playthrough and may vary if you rush zones out of sequence.*
