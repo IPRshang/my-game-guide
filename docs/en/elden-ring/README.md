@@ -1,4 +1,14 @@
+---
+title: Elden Ring Strategy Hub — Beginner Roadmap, Bosses, Builds & DLC Guide
+date: 2026-09-15
+description: "Elden Ring Strategy Hub: an editor-curated roadmap for the Lands Between — class picks, core mechanics, boss and build paths, and Shadow of the Erdtree prep, written to get stuck Tarnished unstuck without spoilers."
+---
+
 # Elden Ring — Strategy Hub
+
+Elden Ring rewards *wandering*, but it punishes *flailing*. The single biggest reason new players quit isn't difficulty — it's the silence: no quest log, no arrow, no hand-holding. Our editorial stance for this hub is simple: treat exploration as the tutorial, treat level-gating as the crutch, and treat every boss as a *pattern to learn, not a wall to break*. If you only read one page here, make it the [Beginner Guide](/en/elden-ring/beginner-guide/) and the [Build Compendium](/en/elden-ring/builds/) — they turn "where do I go" into "I know exactly what to grind."
+
+> **Beginner misconception we see constantly:** players think they're "underleveled" and grind one spot forever. You're almost never underleveled — you're under-*explored*. The Lands Between is layered so you can always loop to an easier region, power up, and return. Go around, don't grind stuck.
 
 > 🔥 **An Epic Across the Lands Between** · FromSoftware × George R.R. Martin · February 25, 2022 · All Platforms
 
@@ -65,6 +75,10 @@ You play a **Tarnished**, summoned back to the Lands Between to gather Great Run
 | Prophet | ⭐⭐⭐ | Starts with healing incantation | Pure Faith |
 
 > 🛡️ **New player tip**: pick **Vagabond** or **Samurai** for survivability. Class only affects early game; everything is flexible later.
+
+### Our Take on the Early Game
+
+We'd push back gently on the "grind Vigor and nothing else" advice floating around forums. Vigor is king, yes — but Endurance (for equip load and stamina) and the *mind* to use Spirit Ashes/Torrent matter just as much for a first-timer's sanity. Our recommended first 20 levels: get Vigor to ~25, grab a couple Endurance points so you can medium-roll in starting armor, then follow your chosen [build's stat spread](/en/elden-ring/builds/). The goal isn't a perfect character at level 20 — it's one that stops dying to the first knight you meet. When you start hunting for the right weapon to commit to, cross-reference the [Legendary Weapons](/en/elden-ring/legendary-weapons/) list so you don't sink upgrades into a dead end.
 
 ---
 
@@ -143,3 +157,5 @@ A: Explore Limgrave's outskirts to level up, get the horse and Spirit Ashes, the
 | 2026-08-06 | Restructured into full guide (background/mechanics/beginner/advanced/FAQ); added Switch 2 Tarnished Edition & Tarnished Pack (Aug 28, 2026) |
 | 2026-07-24 | English version launched |
 | 2026-07-23 | Added beginner guide, boss strategies, builds |
+
+*Last updated 2026-09-15.*
