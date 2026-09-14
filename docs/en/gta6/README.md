@@ -1,9 +1,14 @@
 ---
 title: "GTA 6 (GTA VI) Strategy Hub — Release Date, Map & Cities, Vehicles, Cheat Codes & PC Specs"
-description: "GTA 6 (GTA VI) English strategy hub — release date, map & cities, vehicles, main story missions, cheat codes, character system and PC requirements, all in one place."
+description: "GTA 6 hub (English): your pre-launch command center for the Nov 19, 2026 release — dual-protagonist deep dives, Leonida map previews, vehicle and cheat roundups, and a curated sub-page index built for day-one readiness."
+date: 2026-09-15
 ---
 
 # Grand Theft Auto VI — Strategy Hub
+
+**Our angle on this hub:** GTA VI isn't just "GTA V in Miami" — it's Rockstar's first current-gen-only, dual-protagonist mainline entry, and the longest-teased game in the studio's history (two delays, a 13-year gap since GTA V). This hub is built as a *day-one readiness* index: every sub-page below is a preview we'll convert to hands-on data the week of launch. Start with the [release date](/en/gta6/release-date/) and the [character guide](/en/gta6/character-guide/) if you're choosing what to read first.
+
+> **Beginner pitfall we keep seeing:** players treat "pre-order now" and "platform unknown" as the same kind of uncertainty. They aren't. The release date and console exclusivity are *official*; the PC version, price tiers, and most gameplay systems are *not yet confirmed*. Mixing the two is how day-one disappointment happens — this hub labels each claim by confidence so you can tell them apart.
 
 > Vice City Returns · Rockstar Games · **Release: November 19, 2026 (delayed twice)** · PS5 / Xbox Series X|S (PC TBA)
 
@@ -71,13 +76,25 @@ Efficiency advice for series players (based on GTA's consistent design, expected
 
 ---
 
+## Our Take: What Actually Sets GTA VI Apart (Pre-Launch)
+
+We don't expect the *core loop* to shock series veterans — drive, shoot, earn, repeat is Rockstar's formula and it works. The three things we're watching, and where we'd point a new player:
+
+- **The dual-protagonist economy.** If the shared-bank / per-character-cash model from our [character guide](/en/gta6/character-guide/) holds at launch, *how* you split time between Lucia and Jason will matter more than in any past GTA. Treat them as one household, not two save files.
+- **Scale over spectacle.** "Largest map in series history" only helps if the systems fill it. We'll reserve judgment until the [map guide](/en/gta6/map-guide/) gets hands-on confirmation.
+- **Patience as a strategy.** Two delays suggest a studio guarding scope. Our honest advice: pre-load, but wait for the first patch before judging the experience.
+
+None of the above is a promise about mechanics — it's how we're framing the preview so the day-one hands-on write-ups land with context.
+
+---
+
 ## FAQ
 
 **Q: When exactly does GTA VI release?**
 A: Officially **November 19, 2026**. It was previously delayed from Fall 2025 to May 26, 2026, then again to Nov 19. Any further change will follow Rockstar's announcements.
 
 **Q: Will it come to PC?**
-A: **No PC version announced yet.** Rockstar has historically launched on consoles first, PC later (see GTA V, RDR2); industry expects a PC version possibly in 2027, but nothing is confirmed.
+A: **No PC version announced yet.** Rockstar has historically launched on consoles first, PC later (see GTA V, RDR2); industry expects a PC version possibly in 2027, but nothing is confirmed. See the [PC version outlook](/en/gta6/pc-version/) for historical patterns.
 
 **Q: Can PS4 / Xbox One play it?**
 A: **No.** Officially confirmed launch on current-gen consoles only; no plans for old consoles.
@@ -141,3 +158,7 @@ A: GTA VI single-player and online are usually a separate-but-linked ecosystem; 
 | 2026-08-06 | Corrected release date to 2026-11-19 (second delay); restructured into full guide (background/mechanics/beginner/advanced/FAQ) |
 | 2026-07-24 | English version launched |
 | 2026-07-23 | Added story walkthrough, vehicle guide, weapons, cheats, hidden locations |
+
+---
+
+*Last updated 2026-09-15. Pre-launch preview hub; sub-page data is trailer/leak-based and will be verified against real gameplay after the November 19, 2026 launch.*
