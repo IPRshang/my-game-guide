@@ -1,5 +1,5 @@
 ---
-title: Zelda: TotK — Best Weapons Guide (Switch 2 / Ver.1.4.3)
+title: "Zelda: TotK — Best Weapons Guide (Switch 2 / Ver.1.4.3)"
 date: 2026-09-15
 description: "TotK weapon breakdown for the Switch 2 Edition / Ver.1.4.3 era: real ATK and durability tables, the Fuse materials that actually move the needle, and the durability myths that make players hoard the wrong gear."
 tags: ["Zelda","Tears of the Kingdom","TotK","weapons","Fuse","crafting"]
