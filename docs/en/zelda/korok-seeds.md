@@ -1,5 +1,5 @@
 ---
-title: Zelda: TotK — Complete Korok Seeds Guide (Switch 2 / Ver.1.4.3)
+title: "Zelda: TotK — Complete Korok Seeds Guide (Switch 2 / Ver.1.4.3)"
 date: 2026-09-15
 description: "TotK Korok Seeds guide for the Switch 2 Edition / Ver.1.4.3 era: the real 900-count math, why you can't max all three inventories, and the regional routing that avoids the 30-hour grind trap."
 tags:
