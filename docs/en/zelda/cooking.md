@@ -1,5 +1,5 @@
 ---
-title: Zelda: TotK — Complete Cooking Guide (Switch 2 / Ver.1.4.3)
+title: "Zelda: TotK — Complete Cooking Guide (Switch 2 / Ver.1.4.3)"
 date: 2026-09-15
 description: "TotK cooking deep-dive for the Switch 2 Edition / Ver.1.4.3 era: which recipes actually matter for Lynel hunts and Gloom runs, the Dragon Horn 30-minute trick most guides under-explain, and the ingredient-wasting mistakes we see daily."
 tags: ["Zelda","Tears of the Kingdom","TotK","cooking","recipes","food"]
