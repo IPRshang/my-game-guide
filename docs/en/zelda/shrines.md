@@ -1,5 +1,5 @@
 ---
-title: Zelda: TotK — All Shrines Guide (Switch 2 / Ver.1.4.3)
+title: "Zelda: TotK — All Shrines Guide (Switch 2 / Ver.1.4.3)"
 date: 2026-09-15
 description: "TotK shrine guide for the Switch 2 Edition / Ver.1.4.3 era: all 152 shrines (120 Surface + 32 Sky), the stamina-vs-heart order that gates the Master Sword, and the Proving Grounds loadout that beats the equipment strip."
 tags: ["Zelda","Tears of the Kingdom","TotK","shrines","puzzles","map"]
