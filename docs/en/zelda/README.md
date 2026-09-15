@@ -1,5 +1,5 @@
 ---
-title: Zelda: Tears of the Kingdom — Strategy Hub (Switch 2 / Ver.1.4.3)
+title: "Zelda: Tears of the Kingdom — Strategy Hub (Switch 2 / Ver.1.4.3)"
 date: 2026-09-15
 description: "TotK hub for the Switch 2 Edition / Ver.1.4.3 era: a mechanics-first map of sky, surface, and depths, the four left-hand abilities, and where to start — plus the beginner assumptions that waste your first 20 hours."
 ---
