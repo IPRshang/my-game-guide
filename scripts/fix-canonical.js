@@ -3,10 +3,15 @@
  * Post-build: inject per-page canonical, og:url, og:locale into every HTML
  * file in docs/.vuepress/dist.
  *
- * Why: VuePress 1.9.10's extendPageData plugin does NOT reliably render
- * frontmatter.head entries into the final HTML. The previous "dynamic-canonical"
- * plugin in config.js silently failed — canonical/og:url vanished from all
- * pages. This script rewrites the built HTML directly, which is 100% reliable.
+ * Policy (decided 2026-10-14): /en/ is the CANONICAL tree. Chinese (root)
+ * pages and Spanish (/es/) pages are language alternates only:
+ *   - a Chinese or Spanish page maps to its /en/ counterpart as canonical
+ *     (when one exists);
+ *   - a page with no /en/ counterpart (e.g. a few zh-only articles) is its
+ *     own canonical.
+ * This tells Google to index only /en/ and stops splitting ranking signals
+ * across the three language trees (fixes "Duplicate without user-selected
+ * canonical"). hreflang alternates are injected by fix-hreflang.js.
  *
  * Run AFTER `vuepress build`, BEFORE deploy (chained in package.json docs:build).
  */
@@ -16,6 +21,11 @@ const path = require('path');
 
 const DIST = path.resolve(__dirname, '..', 'docs', '.vuepress', 'dist');
 const SITE = 'https://ggexplore.com';
+
+if (!fs.existsSync(DIST)) {
+  console.error('[canonical] dist not found:', DIST);
+  process.exit(1);
+}
 
 // --- helpers ---
 
@@ -28,16 +38,7 @@ function walk(dir, acc = []) {
   return acc;
 }
 
-/**
- * Map a dist-relative HTML path to the site URL path.
- * GitHub Pages serves both /foo/bar and /foo/bar.html as the same file, so we
- * use the extension-less form as canonical to avoid duplicate-content splits.
- *   index.html                  -> /
- *   gta6/index.html             -> /gta6/
- *   gta6/release-guide.html     -> /gta6/release-guide
- *   en/index.html               -> /en/
- *   en/gta6/release-guide.html  -> /en/gta6/release-guide
- */
+// dist HTML path -> site URL path (extension-less canonical form)
 function relToUrlPath(rel) {
   let p = rel.replace(/\\/g, '/');
   if (p === 'index.html') return '/';
@@ -52,16 +53,50 @@ function relToUrlPath(rel) {
   return '/' + p;
 }
 
+// site URL path -> { key, lang }
+//   /                      -> { key: '',       lang: 'zh' }
+//   /gta6/price            -> { key: 'gta6/price', lang: 'zh' }
+//   /en/                   -> { key: '',       lang: 'en' }
+//   /en/gta6/price         -> { key: 'gta6/price', lang: 'en' }
+//   /es/gta6/price         -> { key: 'gta6/price', lang: 'es' }
+function parseUrl(urlPath) {
+  let p = urlPath.replace(/^\/+/, '');
+  let lang = 'zh';
+  if (p.startsWith('en/')) { lang = 'en'; p = p.slice(3); }
+  else if (p.startsWith('es/')) { lang = 'es'; p = p.slice(3); }
+  p = p.replace(/\/+$/, '');
+  return { key: p, lang };
+}
+
+// --- pre-scan: contentKey -> { zh, en, es } url paths ---
+const files = walk(DIST);
+const byKey = new Map();
+for (const fp of files) {
+  const rel = path.relative(DIST, fp).replace(/\\/g, '/');
+  if (rel === '404.html') continue;
+  const urlPath = relToUrlPath(rel);
+  const { key, lang } = parseUrl(urlPath);
+  if (!byKey.has(key)) byKey.set(key, {});
+  byKey.get(key)[lang] = urlPath;
+}
+
 function processFile(htmlPath) {
   const html = fs.readFileSync(htmlPath, 'utf8');
   const rel = path.relative(DIST, htmlPath).replace(/\\/g, '/');
-
-  // Skip 404 — no canonical needed
   if (rel === '404.html') return;
 
   const urlPath = relToUrlPath(rel);
-  const canonical = SITE + urlPath;
-  const ogLocale = rel.startsWith('en/') ? 'en_US' : 'zh_CN';
+  const { key, lang } = parseUrl(urlPath);
+  const variants = byKey.get(key) || {};
+
+  // Canonical target: the /en/ version if it exists, otherwise self.
+  const canonicalPath = variants.en || urlPath;
+  const canonical = SITE + canonicalPath;
+
+  // og:locale follows the canonical page's language.
+  const canonicalLang = variants.en ? 'en' : lang;
+  const ogLocale =
+    canonicalLang === 'en' ? 'en_US' : canonicalLang === 'es' ? 'es_ES' : 'zh_CN';
 
   let modified = html;
   const toInject = [];
@@ -102,17 +137,10 @@ function processFile(htmlPath) {
   if (modified !== html) {
     fs.writeFileSync(htmlPath, modified);
     const mode = toInject.length > 0 ? `injected ${toInject.length}` : 'replaced';
-    console.log(`[canonical] ${rel} -> ${canonical} (${ogLocale}) [${mode}]`);
+    console.log(`[canonical] ${rel} -> ${canonical} (og:${ogLocale}) [${mode}]`);
   }
 }
 
 // --- main ---
-
-if (!fs.existsSync(DIST)) {
-  console.error('[canonical] dist not found:', DIST);
-  process.exit(1);
-}
-
-const files = walk(DIST);
 files.forEach(processFile);
 console.log(`[canonical] Done. ${files.length} html files processed.`);
