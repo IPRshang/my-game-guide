@@ -1,5 +1,6 @@
 ---
 title: About
+description: 'About Game Strategy Hub — a player-built original game guide site covering GTA6, Arknights: Endfield, Neverness to Everness and more, with bilingual CN/EN guides, sources and contact.'
 ---
 
 # About

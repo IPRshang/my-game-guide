@@ -1,3 +1,8 @@
+---
+title: '黑神话：悟空 攻略中心 | 棍法、Boss、流派配装与隐藏结局'
+description: '黑神话悟空攻略合集：棍法四势、定身术与法术、Boss 全攻略、劈棍/立棍/法术流派配装、隐藏结局与全收集。'
+---
+
 # 🐵 黑神话：悟空 — 攻略中心
 
 > 🏔️ **中国首款 3A 大作** · 游戏科学 (Game Science) · 2024 年 8 月 20 日 · PS5 / PC (Steam/Epic/WeGame) / Xbox Series X|S

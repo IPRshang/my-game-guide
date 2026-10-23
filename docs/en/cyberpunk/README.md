@@ -1,3 +1,8 @@
+---
+title: 'Cyberpunk 2077 Strategy Hub | Builds, Endings, Romance & Phantom Liberty'
+description: 'Cyberpunk 2077 2.3 guide: cyberware, Netrunner/Solo/Shinobi builds, all endings, romance routes, Phantom Liberty expansion, beginner tips and FAQ.'
+---
+
 # Cyberpunk 2077 — Strategy Hub
 
 > 🌃 **Legend of Night City** · CD Projekt RED · December 10, 2020 · PC / PS5 / Xbox / **Switch 2 / Mac (2026)**

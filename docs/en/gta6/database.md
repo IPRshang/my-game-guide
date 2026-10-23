@@ -1,3 +1,8 @@
+---
+title: 'GTA 6 Database | Characters, Weapons & Vehicles Stats (Pre-launch)'
+description: 'GTA 6 database with characters, weapons and vehicles stats, money-making efficiency and collectibles — Fandom-style reference, preview data from trailers, updated after launch.'
+---
+
 # GTA6 Database
 
 ::: warning ⚠️ Pre-release content notice

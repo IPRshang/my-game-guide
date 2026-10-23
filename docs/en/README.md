@@ -1,3 +1,8 @@
+---
+title: 'Game Strategy Hub | GTA6, Elden Ring, Black Myth Wukong Guides'
+description: 'Player-built original game guides for GTA6, Arknights: Endfield, Neverness to Everness, Cyberpunk 2077, Elden Ring, Black Myth Wukong and more — beginner tips, boss strategies, builds and databases. CN/EN/ES.'
+---
+
 <div align="center" style="padding:20px 0 10px;">
 
 # 🎮 Game Strategy Hub

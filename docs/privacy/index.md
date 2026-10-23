@@ -1,5 +1,6 @@
 ---
 title: 隐私政策
+description: 'ggexplore.com 隐私政策：我们收集的信息（百度统计、Giscus 评论）、Google AdSense Cookie、淘宝/京东联盟链接、儿童隐私与您的选择权。'
 ---
 
 # 隐私政策

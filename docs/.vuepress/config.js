@@ -59,14 +59,26 @@ module.exports = {
     ['script', { src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8163601143398403', async: true, crossorigin: 'anonymous' }],
     // Baidu Site Verification
     ['meta', { name: 'baidu-site-verification', content: 'codeva-OQUtj5l4cW' }],
+    // Google Analytics 4 — 待用户填入衡量 ID 后启用：把下方 G-XXXXXXXXX 两处都替换为你的 GA4 ID，
+    // 再取消下面三行注释（含本说明行）即可生效。启用后可量化 CTR / 广告点击 / 各语言转化。
+    // ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXX', async: true }],
+    // ['script', {}, `
+    //   window.dataLayer = window.dataLayer || [];
+    //   function gtag(){dataLayer.push(arguments);}
+    //   gtag('js', new Date());
+    //   gtag('config', 'G-XXXXXXXXX');
+    // `],
   ],
-  extendPageData(page) {
-    if (page.path && page.path.startsWith('/es/')) {
-      var meta = (page.frontmatter.meta || []).filter(function (m) { return !(m && m.name === 'robots'); });
-      meta.push({ name: 'robots', content: 'noindex' });
-      page.frontmatter.meta = meta;
-    }
-  },
+  // 2026-10-23: 西语区改为开放收录（与 sitemap 的 hreflang 保持一致；西语市场 RPM 不低，原 noindex 会封死该流量）
+  // 如日后西语内容确认为机翻薄内容、需放弃该渠道，再在此恢复 noindex 或将西语移出 sitemap。
+  // extendPageData(page) {
+  //   if (page.path && page.path.startsWith('/es/')) {
+  //     var meta = (page.frontmatter.meta || []).filter(function (m) { return !(m && m.name === 'robots'); });
+  //     meta.push({ name: 'robots', content: 'noindex' });
+  //     page.frontmatter.meta = meta;
+  //   }
+  // },
+
   themeConfig: {
     smoothScroll: true,
     locales: {
@@ -141,74 +153,86 @@ module.exports = {
             ]
           },
           {
-            text: '钟馗',
+            text: '更多',
             items: [
-              { text: '专区首页', link: '/zhongkui/' },
-              { text: '发售日期', link: '/zhongkui/release-date' },
-              { text: 'vs 悟空', link: '/zhongkui/vs-wukong' }
+            {
+              text: '钟馗',
+              type: 'links',
+              items: [
+                { text: '专区首页', link: '/zhongkui/' },
+                { text: '发售日期', link: '/zhongkui/release-date' },
+                { text: 'vs 悟空', link: '/zhongkui/vs-wukong' }
+              ]
+            },
+            {
+              text: '赛博朋克 2077',
+              type: 'links',
+              items: [
+                { text: '专区首页', link: '/cyberpunk/' },
+                { text: '义体改造', link: '/cyberpunk/cyberware' },
+                { text: '全结局', link: '/cyberpunk/endings' },
+                { text: '往日之影', link: '/cyberpunk/phantom-liberty' },
+                { text: '浪漫关系', link: '/cyberpunk/romance' },
+                { text: '成就奖杯', link: '/cyberpunk/achievements' }
+              ]
+            },
+            {
+              text: '艾尔登法环',
+              type: 'links',
+              items: [
+                { text: '专区首页', link: '/elden-ring/' },
+                { text: 'Boss 全解', link: '/elden-ring/bosses' },
+                { text: '传说武器', link: '/elden-ring/legendary-weapons' },
+                { text: '新手开局', link: '/elden-ring/beginner-guide' },
+                { text: '玛莲妮亚', link: '/elden-ring/malenia' },
+                { text: '黄金树幽影', link: '/elden-ring/dlc-guide' }
+              ]
+            },
+            {
+              text: '黑神话：悟空',
+              type: 'links',
+              items: [
+                { text: '专区首页', link: '/wukong/' },
+                { text: 'Boss 攻略', link: '/wukong/boss-guide' },
+                { text: '流派构筑', link: '/wukong/builds' },
+                { text: '法术详解', link: '/wukong/spells' },
+                { text: '隐藏区域', link: '/wukong/secrets' },
+                { text: '两周年', link: '/wukong/anniversary-2026' }
+              ]
+            },
+            {
+              text: '塞尔达：王国之泪',
+              type: 'links',
+              items: [
+                { text: '专区首页', link: '/zelda/' },
+                { text: '神庙全解', link: '/zelda/shrines' },
+                { text: '呀哈哈种子', link: '/zelda/korok-seeds' },
+                { text: '烹饪配方', link: '/zelda/cooking' },
+                { text: '地底探索', link: '/zelda/depths-guide' }
+              ]
+            },
+            {
+              text: '🔥每日推荐',
+              type: 'links',
+              items: [
+                { text: '今日推荐', link: '/daily/' },
+                              { text: '悟空·两周年', link: '/daily/wukong-anniversary-2026' },
+                { text: '艾尔登·玛莲妮亚', link: '/daily/elden-malenia-switch2' },
+                { text: '致命躯壳 II', link: '/daily/mortal-shell-ii-guide' },
+                { text: '塞尔达·全收集', link: '/daily/zelda-totk-collection' },
+                { text: '赛博朋克·结局浪漫', link: '/daily/cyberpunk-endings-romance' },
+                { text: '钟馗·深度前瞻', link: '/daily/zhongkui-what-we-know' },
+                { text: '黑夜君临·新手指南', link: '/daily/elden-ring-nightreign-beginner' },
+                { text: '开放世界·类似 GTA6', link: '/daily/open-world-games-like-gta6' },
+                { text: 'GTA6·九月攻势', link: '/daily/gta6-september-update' },
+  // DAILY_FEATURE_INSERT
+              ]
+            },
+            { text: '关于', link: '/about/' },
+            { text: '隐私政策', link: '/privacy/' }
+        
             ]
-          },
-          {
-            text: '赛博朋克 2077',
-            items: [
-              { text: '专区首页', link: '/cyberpunk/' },
-              { text: '义体改造', link: '/cyberpunk/cyberware' },
-              { text: '全结局', link: '/cyberpunk/endings' },
-              { text: '往日之影', link: '/cyberpunk/phantom-liberty' },
-              { text: '浪漫关系', link: '/cyberpunk/romance' },
-              { text: '成就奖杯', link: '/cyberpunk/achievements' }
-            ]
-          },
-          {
-            text: '艾尔登法环',
-            items: [
-              { text: '专区首页', link: '/elden-ring/' },
-              { text: 'Boss 全解', link: '/elden-ring/bosses' },
-              { text: '传说武器', link: '/elden-ring/legendary-weapons' },
-              { text: '新手开局', link: '/elden-ring/beginner-guide' },
-              { text: '玛莲妮亚', link: '/elden-ring/malenia' },
-              { text: '黄金树幽影', link: '/elden-ring/dlc-guide' }
-            ]
-          },
-          {
-            text: '黑神话：悟空',
-            items: [
-              { text: '专区首页', link: '/wukong/' },
-              { text: 'Boss 攻略', link: '/wukong/boss-guide' },
-              { text: '流派构筑', link: '/wukong/builds' },
-              { text: '法术详解', link: '/wukong/spells' },
-              { text: '隐藏区域', link: '/wukong/secrets' },
-              { text: '两周年', link: '/wukong/anniversary-2026' }
-            ]
-          },
-          {
-            text: '塞尔达：王国之泪',
-            items: [
-              { text: '专区首页', link: '/zelda/' },
-              { text: '神庙全解', link: '/zelda/shrines' },
-              { text: '呀哈哈种子', link: '/zelda/korok-seeds' },
-              { text: '烹饪配方', link: '/zelda/cooking' },
-              { text: '地底探索', link: '/zelda/depths-guide' }
-            ]
-          },
-          {
-            text: '🔥每日推荐',
-            items: [
-              { text: '今日推荐', link: '/daily/' },
-                            { text: '悟空·两周年', link: '/daily/wukong-anniversary-2026' },
-              { text: '艾尔登·玛莲妮亚', link: '/daily/elden-malenia-switch2' },
-              { text: '致命躯壳 II', link: '/daily/mortal-shell-ii-guide' },
-              { text: '塞尔达·全收集', link: '/daily/zelda-totk-collection' },
-              { text: '赛博朋克·结局浪漫', link: '/daily/cyberpunk-endings-romance' },
-              { text: '钟馗·深度前瞻', link: '/daily/zhongkui-what-we-know' },
-              { text: '黑夜君临·新手指南', link: '/daily/elden-ring-nightreign-beginner' },
-              { text: '开放世界·类似 GTA6', link: '/daily/open-world-games-like-gta6' },
-              { text: 'GTA6·九月攻势', link: '/daily/gta6-september-update' },
-// DAILY_FEATURE_INSERT
-            ]
-          },
-          { text: '关于', link: '/about/' },
-          { text: '隐私政策', link: '/privacy/' }
+          }
         ],
         sidebar: {
           '/gta6/': [
@@ -368,71 +392,82 @@ module.exports = {
             ]
           },
           {
-            text: 'Black Myth: Zhong Kui',
+            text: 'More',
             items: [
-              { text: 'Hub', link: '/en/zhongkui/' },
-              { text: 'Release Date', link: '/en/zhongkui/release-date' },
-              { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' }
+            {
+              text: 'Black Myth: Zhong Kui',
+              type: 'links',
+              items: [
+                { text: 'Hub', link: '/en/zhongkui/' },
+                { text: 'Release Date', link: '/en/zhongkui/release-date' },
+                { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' }
+              ]
+            },
+            {
+              text: 'Cyberpunk 2077',
+              type: 'links',
+              items: [
+                { text: 'Hub', link: '/en/cyberpunk/' },
+                { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
+                { text: 'All Endings', link: '/en/cyberpunk/endings' },
+                { text: 'Builds', link: '/en/cyberpunk/builds' },
+                { text: 'Romance', link: '/en/cyberpunk/romance' },
+                { text: 'Achievements', link: '/en/cyberpunk/achievements' },
+                { text: 'Lifepaths', link: '/en/cyberpunk/lifepaths' },
+                { text: 'Perks', link: '/en/cyberpunk/perks' },
+                { text: 'Quickhacks', link: '/en/cyberpunk/quickhacks' },
+              ]
+            },
+            {
+              text: 'Elden Ring',
+              type: 'links',
+              items: [
+                { text: 'Hub', link: '/en/elden-ring/' },
+                { text: 'All Bosses', link: '/en/elden-ring/bosses' },
+                { text: 'Legendary Weapons', link: '/en/elden-ring/legendary-weapons' },
+                { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
+                { text: 'Builds', link: '/en/elden-ring/builds' },
+                { text: 'Quests', link: '/en/elden-ring/quests' },
+                { text: 'Talismans', link: '/en/elden-ring/talismans' },
+                { text: 'Spirit Ashes', link: '/en/elden-ring/spirit-ashes' },
+                { text: 'Map Fragments', link: '/en/elden-ring/map-fragments' },
+              ]
+            },
+            {
+              text: 'Black Myth: Wukong',
+              type: 'links',
+              items: [
+                { text: 'Hub', link: '/en/wukong/' },
+                { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
+                { text: 'Builds', link: '/en/wukong/builds' },
+                { text: 'Spells', link: '/en/wukong/spells' },
+                { text: 'Collectibles', link: '/en/wukong/collectibles' },
+                { text: 'Secrets', link: '/en/wukong/secrets' },
+                { text: 'Gourds', link: '/en/wukong/gourds' },
+                { text: 'Transformations', link: '/en/wukong/transformations' },
+                { text: 'Staff Stances', link: '/en/wukong/staff-stances' },
+              ]
+            },
+            {
+              text: 'Zelda: Tears of the Kingdom',
+              type: 'links',
+              items: [
+                { text: 'Hub', link: '/en/zelda/' },
+                { text: 'Shrines', link: '/en/zelda/shrines' },
+                { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' },
+                { text: 'Cooking', link: '/en/zelda/cooking' },
+                { text: 'Weapons', link: '/en/zelda/weapons' },
+                { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
+                { text: 'Armor', link: '/en/zelda/armor' },
+                { text: 'Fuse', link: '/en/zelda/fuse' },
+                { text: 'Depths', link: '/en/zelda/depths' },
+              ]
+            },
+            { text: 'About', link: '/en/about/' },
+            { text: 'Privacy', link: '/en/privacy/' }
+        
             ]
-          },
-          {
-            text: 'Cyberpunk 2077',
-            items: [
-              { text: 'Hub', link: '/en/cyberpunk/' },
-              { text: 'Cyberware', link: '/en/cyberpunk/cyberware' },
-              { text: 'All Endings', link: '/en/cyberpunk/endings' },
-              { text: 'Builds', link: '/en/cyberpunk/builds' },
-              { text: 'Romance', link: '/en/cyberpunk/romance' },
-              { text: 'Achievements', link: '/en/cyberpunk/achievements' },
-              { text: 'Lifepaths', link: '/en/cyberpunk/lifepaths' },
-              { text: 'Perks', link: '/en/cyberpunk/perks' },
-              { text: 'Quickhacks', link: '/en/cyberpunk/quickhacks' },
-            ]
-          },
-          {
-            text: 'Elden Ring',
-            items: [
-              { text: 'Hub', link: '/en/elden-ring/' },
-              { text: 'All Bosses', link: '/en/elden-ring/bosses' },
-              { text: 'Legendary Weapons', link: '/en/elden-ring/legendary-weapons' },
-              { text: 'Beginner Guide', link: '/en/elden-ring/beginner-guide' },
-              { text: 'Builds', link: '/en/elden-ring/builds' },
-              { text: 'Quests', link: '/en/elden-ring/quests' },
-              { text: 'Talismans', link: '/en/elden-ring/talismans' },
-              { text: 'Spirit Ashes', link: '/en/elden-ring/spirit-ashes' },
-              { text: 'Map Fragments', link: '/en/elden-ring/map-fragments' },
-            ]
-          },
-          {
-            text: 'Black Myth: Wukong',
-            items: [
-              { text: 'Hub', link: '/en/wukong/' },
-              { text: 'Boss Guide', link: '/en/wukong/boss-guide' },
-              { text: 'Builds', link: '/en/wukong/builds' },
-              { text: 'Spells', link: '/en/wukong/spells' },
-              { text: 'Collectibles', link: '/en/wukong/collectibles' },
-              { text: 'Secrets', link: '/en/wukong/secrets' },
-              { text: 'Gourds', link: '/en/wukong/gourds' },
-              { text: 'Transformations', link: '/en/wukong/transformations' },
-              { text: 'Staff Stances', link: '/en/wukong/staff-stances' },
-            ]
-          },
-          {
-            text: 'Zelda: Tears of the Kingdom',
-            items: [
-              { text: 'Hub', link: '/en/zelda/' },
-              { text: 'Shrines', link: '/en/zelda/shrines' },
-              { text: 'Korok Seeds', link: '/en/zelda/korok-seeds' },
-              { text: 'Cooking', link: '/en/zelda/cooking' },
-              { text: 'Weapons', link: '/en/zelda/weapons' },
-              { text: 'Zonai Devices', link: '/en/zelda/zonai-devices' },
-              { text: 'Armor', link: '/en/zelda/armor' },
-              { text: 'Fuse', link: '/en/zelda/fuse' },
-              { text: 'Depths', link: '/en/zelda/depths' },
-            ]
-          },
-          { text: 'About', link: '/en/about/' },
-          { text: 'Privacy', link: '/en/privacy/' }
+          }
         ],
         sidebar: {
           '/en/gta6/': [
@@ -572,43 +607,54 @@ module.exports = {
             ]
           },
           {
-            text: 'Black Myth: Zhong Kui',
+            text: 'Más',
             items: [
-              { text: 'Inicio', link: '/es/zhongkui/' },
-              { text: 'Fecha de lanzamiento', link: '/es/zhongkui/release-date' },
-              { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' }
+            {
+              text: 'Black Myth: Zhong Kui',
+              type: 'links',
+              items: [
+                { text: 'Inicio', link: '/es/zhongkui/' },
+                { text: 'Fecha de lanzamiento', link: '/es/zhongkui/release-date' },
+                { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' }
+              ]
+            },
+            {
+              text: 'Cyberpunk 2077',
+              type: 'links',
+              items: [
+                { text: 'Inicio', link: '/es/cyberpunk/' },
+                { text: 'Cyberware', link: '/es/cyberpunk/cyberware' }
+              ]
+            },
+            {
+              text: 'Elden Ring',
+              type: 'links',
+              items: [
+                { text: 'Inicio', link: '/es/elden-ring/' },
+                { text: 'Armas legendarias', link: '/es/elden-ring/legendary-weapons' }
+              ]
+            },
+            {
+              text: 'Black Myth: Wukong',
+              type: 'links',
+              items: [
+                { text: 'Inicio', link: '/es/wukong/' },
+                { text: 'Guía de jefes', link: '/es/wukong/boss-guide' }
+              ]
+            },
+            {
+              text: 'Zelda: Tears of the Kingdom',
+              type: 'links',
+              items: [
+                { text: 'Inicio', link: '/es/zelda/' },
+                { text: 'Cocina', link: '/es/zelda/cooking' }
+              ]
+            },
+            { text: 'Acerca de', link: '/es/about/' },
+            { text: 'Privacidad', link: '/es/privacy/' }
+        
             ]
-          },
-          {
-            text: 'Cyberpunk 2077',
-            items: [
-              { text: 'Inicio', link: '/es/cyberpunk/' },
-              { text: 'Cyberware', link: '/es/cyberpunk/cyberware' }
-            ]
-          },
-          {
-            text: 'Elden Ring',
-            items: [
-              { text: 'Inicio', link: '/es/elden-ring/' },
-              { text: 'Armas legendarias', link: '/es/elden-ring/legendary-weapons' }
-            ]
-          },
-          {
-            text: 'Black Myth: Wukong',
-            items: [
-              { text: 'Inicio', link: '/es/wukong/' },
-              { text: 'Guía de jefes', link: '/es/wukong/boss-guide' }
-            ]
-          },
-          {
-            text: 'Zelda: Tears of the Kingdom',
-            items: [
-              { text: 'Inicio', link: '/es/zelda/' },
-              { text: 'Cocina', link: '/es/zelda/cooking' }
-            ]
-          },
-          { text: 'Acerca de', link: '/es/about/' },
-          { text: 'Privacidad', link: '/es/privacy/' }
+          }
         ],
         sidebar: {
           '/es/gta6/': [
