@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: 'Privacy Policy for Game Strategy Hub: data we collect (Baidu Analytics, Giscus comments), Google AdSense cookies, JD.com affiliate links, children's privacy and your choices.'
+description: "Privacy Policy for Game Strategy Hub: data we collect (Baidu Analytics, Giscus comments), Google AdSense cookies, JD.com affiliate links, children's privacy and your choices."
 ---
 
 # Privacy Policy

@@ -1,5 +1,6 @@
 <template>
-  <Layout>
+  <HomeLanding v-if="$frontmatter.landing" />
+  <Layout v-else>
     <template #page-bottom>
       <RelatedArticles />
       <div class="giscus-wrapper">
@@ -11,11 +12,12 @@
 
 <script>
 import Layout from '@theme/layouts/Layout.vue'
+import HomeLanding from './HomeLanding.vue'
 import RelatedArticles from './RelatedArticles.vue'
 import GiscusComments from './GiscusComments.vue'
 
 export default {
-  components: { Layout, RelatedArticles, GiscusComments }
+  components: { Layout, HomeLanding, RelatedArticles, GiscusComments }
 }
 </script>
 
