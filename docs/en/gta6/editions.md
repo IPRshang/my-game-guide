@@ -6,6 +6,12 @@ tags: [GTA6, editions, Standard Edition, Ultimate Edition, pre-order]
 
 # GTA 6 Standard vs Ultimate Edition
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 **GTA 6 Standard Edition is $79.99 and includes the base game only; the Ultimate Edition is $99.99 and adds exclusive vehicles, weapons, outfits, and a customized location on top of the Standard Edition.**
 
 ## Edition Comparison

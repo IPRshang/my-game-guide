@@ -7,6 +7,12 @@ related: [/en/gta6/editions, /en/gta6/pre-order-bonus, /en/gta6/early-guide, /en
 
 # GTA 6 Release Date
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 **GTA 6 (GTA VI) launches November 19, 2026 on PlayStation 5 and Xbox Series X|S. The PC version is not yet announced (by Rockstar's history, expect a 2027 window).** This is the final date after two delays, with no official signal of another push.
 
 ## Release Date & Platforms at a Glance

@@ -161,7 +161,12 @@ module.exports = {
               items: [
                 { text: '专区首页', link: '/zhongkui/' },
                 { text: '发售日期', link: '/zhongkui/release-date' },
-                { text: 'vs 悟空', link: '/zhongkui/vs-wukong' }
+                { text: 'vs 悟空', link: '/zhongkui/vs-wukong' },
+                { text: '战斗系统', link: '/zhongkui/combat' },
+                { text: 'PC 配置', link: '/zhongkui/system-requirements' },
+                { text: '平台与购买', link: '/zhongkui/platforms' },
+                { text: '钟馗是谁', link: '/zhongkui/who-is-zhongkui' },
+                { text: '最新动态', link: '/zhongkui/news' }
               ]
             },
             {
@@ -287,7 +292,7 @@ module.exports = {
             {
               title: '钟馗',
               collapsable: false,
-              children: ['', 'release-date', 'vs-wukong']
+              children: ['', 'release-date', 'vs-wukong', 'combat', 'system-requirements', 'platforms', 'who-is-zhongkui', 'news']
             }
           ],
           '/cyberpunk/': [
@@ -400,7 +405,12 @@ module.exports = {
               items: [
                 { text: 'Hub', link: '/en/zhongkui/' },
                 { text: 'Release Date', link: '/en/zhongkui/release-date' },
-                { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' }
+                { text: 'vs Wukong', link: '/en/zhongkui/vs-wukong' },
+                { text: 'Combat', link: '/en/zhongkui/combat' },
+                { text: 'PC Specs', link: '/en/zhongkui/system-requirements' },
+                { text: 'Platforms', link: '/en/zhongkui/platforms' },
+                { text: 'Who Is Zhong Kui', link: '/en/zhongkui/who-is-zhongkui' },
+                { text: 'News', link: '/en/zhongkui/news' }
               ]
             },
             {
@@ -522,7 +532,7 @@ module.exports = {
             {
               title: 'Black Myth: Zhong Kui',
               collapsable: false,
-              children: ['', 'release-date', 'vs-wukong']
+              children: ['', 'release-date', 'vs-wukong', 'combat', 'system-requirements', 'platforms', 'who-is-zhongkui', 'news']
             }
           ],
           '/en/cyberpunk/': [
@@ -615,7 +625,12 @@ module.exports = {
               items: [
                 { text: 'Inicio', link: '/es/zhongkui/' },
                 { text: 'Fecha de lanzamiento', link: '/es/zhongkui/release-date' },
-                { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' }
+                { text: 'vs Wukong', link: '/es/zhongkui/vs-wukong' },
+                { text: 'Combate', link: '/es/zhongkui/combat' },
+                { text: 'Requisitos PC', link: '/es/zhongkui/system-requirements' },
+                { text: 'Plataformas', link: '/es/zhongkui/platforms' },
+                { text: '¿Quién es?', link: '/es/zhongkui/who-is-zhongkui' },
+                { text: 'Noticias', link: '/es/zhongkui/news' }
               ]
             },
             {
@@ -689,7 +704,7 @@ module.exports = {
             {
               title: 'Black Myth: Zhong Kui',
               collapsable: false,
-              children: ['', 'release-date', 'vs-wukong']
+              children: ['', 'release-date', 'vs-wukong', 'combat', 'system-requirements', 'platforms', 'who-is-zhongkui', 'news']
             }
           ],
           '/es/cyberpunk/': [

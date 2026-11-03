@@ -1,7 +1,7 @@
 ---
 title: "黑神话：钟馗 攻略中心"
 description: "黑神话：钟馗（Black Myth: Zhong Kui）攻略中心：游戏科学新作，2025 科隆首曝、2026/8/20 放 15 分钟实机；独立新作非悟空 DLC，发售 2027+。发售日期、平台、与悟空的区别一文汇总。"
-related: [/zhongkui/release-date, /zhongkui/vs-wukong, /daily/wukong-anniversary-2026]
+related: [/zhongkui/release-date, /zhongkui/vs-wukong, /zhongkui/combat, /zhongkui/system-requirements, /zhongkui/platforms, /zhongkui/who-is-zhongkui, /zhongkui/news, /daily/wukong-anniversary-2026]
 ---
 
 # 黑神话：钟馗 攻略中心

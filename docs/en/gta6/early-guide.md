@@ -6,6 +6,12 @@ tags: [GTA6, beginner, guide, dual protagonists, tips]
 
 # GTA 6 Beginner's Start & Survival Guide
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 > Vice City returns · Open-world dual protagonists · **Zero-spoiler, practical focus**
 
 This guide covers only "how to not get filtered at the start and how to survive" — no story, character, or location names spoiled. Mechanics below are based on Rockstar's official trailers / showcases and major media reports; **exact numbers and full systems follow the in-game experience and official wiki (post-launch).**

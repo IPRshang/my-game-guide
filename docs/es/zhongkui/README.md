@@ -1,7 +1,7 @@
 ---
 title: "Black Myth: Zhong Kui — Guía"
 description: "Black Myth: Zhong Kui (nuevo juego de Game Science): revelado en Gamescom 2025, demo de 15 min el 20 ago 2026. Título independiente, no es DLC de Wukong. Fecha de lanzamiento (2027+), plataformas y diferencias con Wukong."
-related: [/es/zhongkui/release-date, /es/zhongkui/vs-wukong, /es/daily/wukong-anniversary-2026]
+related: [/es/zhongkui/release-date, /es/zhongkui/vs-wukong, /es/zhongkui/combat, /es/zhongkui/system-requirements, /es/zhongkui/platforms, /es/zhongkui/who-is-zhongkui, /es/zhongkui/news, /es/daily/wukong-anniversary-2026]
 ---
 
 # Black Myth: Zhong Kui — Guía

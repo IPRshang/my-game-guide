@@ -6,6 +6,12 @@ tags: [GTA6, pre-order, bonus, Vintage Vice City, GTA+]
 
 # What Is the GTA 6 Pre-order Bonus? How to Pre-order?
 
+::: warning ⚠️ Pre-release content notice
+<!-- GTA6_PRERELEASE_NOTE -->
+This guide is based on leaked footage, official trailers, and pre-launch public data. **GTA 6 launches November 19, 2026** — exact payouts, mechanics, and locations above are subject to change and will be verified against real gameplay within 48 hours of release.
+:::
+
+
 **GTA 6 pre-orders opened worldwide on June 25, 2026. Anyone who pre-orders or buys before November 20 receives the "Vintage Vice City" pack, and the digital edition adds 1 free month of GTA+.**
 
 Where to pre-order: PlayStation Store, Microsoft Store, major retail channels, and rockstargames.com/VI.
